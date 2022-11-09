@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="white"                                    #
-# Last updated: 2022-11-09 03:00:01 +07                        #
+# Last updated: 2022-11-10 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -4738,7 +4738,6 @@
 0-213.us.api.binance.com
 0-215-3.api.btcc.com
 0-215-3.btcc.com
-021545bf23a9e9b26b34c98484c137ea.co.cc
 0-215-5.api.btcc.com
 0-215-5.btcc.com
 0-2156.api.btcc.com
@@ -6663,6 +6662,7 @@
 076ad33062f9cb5dc26c359eb87b4056d.bitcoin.com
 0-7-6.api.binance.com
 0-76.api.binance.com
+076b911c478a0371fb2f3a1249f7dff8.co.cc
 0-7-6.binance.com
 0-76.binance.com
 076cd33062f9cb5dc26c359eb87b4056d.bitcoin.com
@@ -8622,7 +8622,6 @@
 0aeternity.abseits.ski
 0aeternity.easyhash.de
 0af4e1880d0269-68a0u2xn-eu-west-2c.s3.eu-west-2.vpce.cryptohosting.eu
-0af668cd36c81c98725c0b84dd8e97a4.co.cc
 0afana.cluster.bitfex.trade
 0afb.us.api.binance.com
 0aff7f01bc.bitcoin.com
@@ -9679,6 +9678,7 @@
 0b974480cfbdc32826097ff86fcd103a.co.cc
 0b99b-automation-alb-1765307069.eu-west-1.elb.cryptohosting.eu
 0b9.bitcoin.com
+0b9f695be1bd783244675a4448d9fce3.co.cc
 0ba177.ethosdistro.com
 0b.a1.us.bitcoin.com
 0ba202ab37e98abf82faa4bd726f225d.co.cc
@@ -12773,6 +12773,7 @@
 0e5e8bef.bitcoin.com
 0e5.nanopool.org
 0e62.bitcoin.com
+0e70b29831ff13135b7858e196f0b7ef.co.cc
 0e76d33062f9cb5dc26c359eb87b4056d.bitcoin.com
 0e7b2172e6a7.bitcoin.com
 0e7zsu70p18cctzb7z1mrl.altcoincash.xyz
@@ -13714,7 +13715,6 @@
 0f615.bitcoin.com
 0f662abdd.bitcoin.com
 0f6879.bitcoin.com
-0f77504b39d4ebfc50dc9d9c7eb55cea.co.cc
 0f7838a3a57f8b86b6847f5956e56bcf.co.cc
 0f803e.ethosdistro.com
 0f815049a.bitcoin.com
@@ -20175,6 +20175,7 @@
 11359b415119ec8be199fa2783aeddb7.co.cc
 1148fd9460313feeee2126cf123415f5.co.cc
 116cd0e09f75725f66e3ebbf04756551.co.cc
+119b0b428a605072e67888182212f8a8.co.cc
 11bacd2a943ea98dc986ee44ed9a50ae.co.cc
 11ce6a21f7c7fa55e68a403a8bd2eb60.co.cc
 11e8c2d75ba45afa5133627d46aebd06.co.cc
@@ -20244,8 +20245,6 @@
 17be75f4910e575e4485f6aaf987d7a9.co.cc
 17c0ad9e98070750c280dbf1f9e27038.co.cc
 17e91cbd4cfa8f4c67b95486a96bf5e1.co.cc
-17f25f0acbff1ba6cda80279449a53b3.co.cc
-185f29fc3b0e6e355672fae4fba43ba0.co.cc
 18743c01555cc81573b5b164d479c628.co.cc
 187c02cd55f168747f8f4e5fed4a8396.co.cc
 187de1ce4efa19f623a974003e14f000.co.cc
@@ -20263,6 +20262,7 @@
 193f935e83febefcb8f95815d4a2fc1f.co.cc
 1962d5b8ce2605211f6671d5d73c66c7.co.cc
 19636ff9e5b6e76181fbfa9355d43194.co.cc
+19649b9df2a17d262077c868563e83b7.co.cc
 1979c90e4713385030f94146abfebec5.co.cc
 199713c2ad94a456d362eb386da13880.co.cc
 199a13e4278a36e231d5ecc737d6fe91.co.cc
@@ -20323,7 +20323,6 @@
 1e303973d028b7f687742c9bdcd7a0e4.co.cc
 1e3cafc7e5fb48fe530c04051232e400.co.cc
 1e3daf6c6c0879fea97531e134a8a880.co.cc
-1e5087ec601113a994aaa337a1ebfe43.co.cc
 1e6d4eeb0858029e1848608fef2aa1c8.co.cc
 1e77451ad1362e5842c441826bc52eab.co.cc
 1e85378d-0316-4aa4-8115-fe67f1dc60fa-6a932ae6.swuser.com.orgid.com
@@ -20405,9 +20404,9 @@
 256229bc00ec247dddb464626fefc86b.co.cc
 25733735557ee20e4938c5a06c9d55d1.co.cc
 25864e5c0e5b141f01c26432729075c7.co.cc
-25b9361aa70d0528d3f9689c95465db3.co.cc
 25c3fbfcc2cea87f40b33efb7528bd94.co.cc
 25d401b747b2526497598cedd03d6ca2.co.cc
+25d9530e18966a4cce2c4f5487e5d6b3.co.cc
 25e13347d0081ff46491cd1f0c38d9ec.co.cc
 25e19f6ee3a64781de0cc018652d2126.co.cc
 25ec6cce51fae12cf71aaf82b314493b.co.cc
@@ -20415,7 +20414,6 @@
 261e24e0a72f391b30f5cef4ed708d40.co.cc
 265b80425b4b62a3668b79633836f08c.co.cc
 266wrd.com
-269cf011b2abb1fe4641186170250b73.co.cc
 26b7ced91012909af9a9ed69d77af95a.co.cc
 270781deaae105e8a97a1743456e371b.co.cc
 270c5e27d82e4fbc40f984fda5189fb5.co.cc
@@ -20423,9 +20421,7 @@
 2754bebddfd4cf7ef7d98fccd21099e0.co.cc
 278281a0d3f6d51fffb1ac5832f2d6b0.co.cc
 2791e8be08c719a26e8c40f2ddab105f.co.cc
-279c18516a4f5d62f5458c6d92b1b8ac.co.cc
 27c2f7c4ec2d2c067c510f9ce7e8dec8.co.cc
-27e0dc8392c2361e3d874a9b8fc861d8.co.cc
 27e11eea8d56877720619fbada06d179.co.cc
 27f1d2489ed6f7c146dada5f82bf163f.co.cc
 281a493503cccfb3872935c06b6f6acb.co.cc
@@ -20495,6 +20491,7 @@
 2fbc2a7b62ccafe53d8c9c6eadf3193e.co.cc
 2fcd9532d113198886891bb00495c7de.co.cc
 2fd98feb4034d36f2a85c1e89d98bb51.co.cc
+2fe05e901e4c64d1c0bc0b0d0931e14c.co.cc
 2fe6720a02d240bd35bfe0b5e91050c8.co.cc
 2ff1ab143f4a7bd908495852ee1aacb1.co.cc
 2fffdf3b5c0008bec743d584463d6a76.co.cc
@@ -20524,7 +20521,6 @@
 30-jour-gratuit-netflix-offert.kanntur.com
 310b1387a935d7b7e510fde44bdb4097.co.cc
 311c9d106d6517936112f288c270f1ce.co.cc
-311ccd8a1bab8b16fc471617f854912e.co.cc
 3138c6a6faf1512af6a82b77c5231beb.co.cc
 31487a524623a180bf2d989410425e45.co.cc
 3167e2e766184fc2b49075bd955127df.co.cc
@@ -20532,7 +20528,6 @@
 319bb2391105096487dab42b2b185837.co.cc
 31a1691620b334f475f5e09cf87b87c7.co.cc
 31a76e92973a17ffb185a31a46e5c000.co.cc
-31bef8c178acb12151a2fab9643ff2f7.co.cc
 31c07b94b01c3bb8c0fef5921ad6783a.co.cc
 31cb142b44fb75b37411425e79e64282.co.cc
 31ed6e934b8ef2aa12cf7f52b224f015.co.cc
@@ -20551,6 +20546,7 @@
 33905c6873c06840dfdee4a29374c580.co.cc
 339739f8365eeed3b72adeb3843beeeb.co.cc
 33e687b8c1bf3f0aff24aeee3f9b2efc.co.cc
+33ed30560cc03517ac93f1b0a2f8fe2c.co.cc
 33ff9e55d551dae08f0d2f1622a75278.co.cc
 33securelogin.servebeer.com
 344dfc10272e58f03f4aa1b44abaf4b3.co.cc
@@ -20576,11 +20572,11 @@
 3635dc2c8232927338ea95da93850d3d.co.cc
 365-online-login.co
 3665e2658b64f15e8d18308c7350c639.co.cc
-368b0001abf2eec6d1905465139317b4.co.cc
 36d259ac9fa9f091dac5d9f25b48bc2f.co.cc
 36ecab50f3e95471629fb2afe44f3d83.co.cc
 371ed9a77e9ae0a4c3e309f8802be441.co.cc
 37b03dcdfc88ac922d6e8a140917261f.co.cc
+37c5da2fe0277ee28e9e55917c5be27d.co.cc
 3800a4ba5172b84adb466c587b2dcf0e.co.cc
 382f49aaa7f39c969d8e02880f60e214.co.cc
 384e8a3906b7172dc7af66013270cca3.co.cc
@@ -20596,6 +20592,7 @@
 396fbbffe5261ca3996ae8afefa7a5e1.co.cc
 3985ea7be104cb11b5a260a78d1da489.co.cc
 3991179a254836cb3372170f56382d3e.co.cc
+39apple.ru
 39cf14aa36c149806d113be6420559cf.co.cc
 39f56323974146d66504c4e70057b2b4.co.cc
 3a251409c217cfd2a1f4f0a820b903e3.co.cc
@@ -20612,7 +20609,6 @@
 3b72021e03f7e197bd7b45aaafe11d6a.co.cc
 3b9af0eb1ad8e1d01ff89996363052e9.co.cc
 3bb07a144791ef298669398e261fcb73.co.cc
-3bbc62b507889800da78e355908e9f92.co.cc
 3bd48aac8482345d4a2e37eb3494dfd1.co.cc
 3bf7909da8316658d266ee5060371a7e.co.cc
 3c499663a3e80e79d47e1cdf0044e7bf.co.cc
@@ -20712,6 +20708,7 @@
 453wow.com
 454305ecd8d81f12957d286af87ada9c.co.cc
 457c9cad580dc2176e8a6f26465f5725.co.cc
+45826671647d9ef03db9827cb0647bae.co.cc
 458a4c61133648e0f1bd9d6bd7bc6ae0.co.cc
 45c5fbec89a9190b4088c6a2acc51a61.co.cc
 45df66355a24b267d8c5168cf82f098c.co.cc
@@ -20729,7 +20726,6 @@
 4758b8004ce461dcc780d173822fd31e.co.cc
 475933ca3c00d845cd4bb401d4d8144d.co.cc
 4765445b-32c6-4-83e6-1d93765276.co
-477e966ab3524061c504dcc8947d5ed3.co.cc
 47b7ac09f65c92d448a739af723d4d94.co.cc
 47bece4b3088d7be3998da409efe5a08.co.cc
 47de3f09dd476891813652c6be7f23e0.co.cc
@@ -20745,7 +20741,6 @@
 48a3051190965bd4330d7c4e35a3fa46.co.cc
 48d28fed969a5eb1a9e1936443c98dbe.co.cc
 48f9370b562c31ef6cdd440e0eeec992.co.cc
-4936500148cca8d8240eb3358859db5c.co.cc
 494f9458155bb05ccd1a05ae745e96fb.co.cc
 4980c4e74a9c16d6133e93ceaed67f76.co.cc
 49de2e0109d25906db1fe2853b9d57c7.co.cc
@@ -20851,7 +20846,6 @@
 53ae58b4f8768f07f614d0ed624797ae.co.cc
 53d7bef9c5b26c0aea5740a5e208850a.co.cc
 53login.dynamic-dns.net
-53login.zyns.com
 53rdlogin.dns1.us
 5403191d8e8fb279b7dbbe52a52f2152.co.cc
 5407b2143f434c965706378d33547ff1.co.cc
@@ -20899,7 +20893,6 @@
 5856681773b62124.azureedge.net
 587ea20dd28b4caf6b7974327f27d382.co.cc
 5896b1a88fc107598c517b4888ef125f.co.cc
-58b42c0c13238795d985fd8a66efa6a4.co.cc
 58e09527fa29893ded43a41baf1d54fc.co.cc
 59184256fa5fcbcda3e61f5a1ce52ed7.co.cc
 59322ca99eb0eff5c53267a6269c06cb.co.cc
@@ -20907,7 +20900,6 @@
 59552c57a92e923b945dad0c0a7305cb.co.cc
 5957011b73dbc9934a4f990e6fa87b16.co.cc
 595de7b1fc227144b96be0b2dc59b132.co.cc
-597941b03a71f5b9c6257db9640279f7.co.cc
 59806a6a80c81e2bc90051ce8cde973b.co.cc
 598501f894ffa2bf711861fec933a811.co.cc
 59aa6ce4ad6e593d5939d36426eb86da.co.cc
@@ -20962,6 +20954,7 @@
 5f8274e7a0ee85d41f8c615f7b070b78.co.cc
 5f99b530ea6c484aa6f705aa77f96aa1.co.cc
 5fd0069ded551d478b1b458a440148a9.co.cc
+5fed828d4e7ea5c5583ef22a1801da65.co.cc
 5ff036e3640043bfa2861e98f20bdbad.co.cc
 5ff2c5b599f9da229034c0a4bc0747df.co.cc
 5gw4d.xyz
@@ -21008,6 +21001,7 @@
 6364235e5137fa66ad00eb25ced91f9b.co.cc
 6364bcbc525deebeb692786053f3253d.co.cc
 638741c3cec85143c5a7115e0d86b432.co.cc
+63d29e0d11b2befe33d06767d3c34d26.co.cc
 63f17618e707c6ac1f2f85c9e06830ec.co.cc
 63f6c216d44f39b8bd3e339f8bbae113.co.cc
 64048a7248c188836f50135460c43ebc.co.cc
@@ -21051,7 +21045,6 @@
 687170f8ecb575fc3399a2400169c6e2.co.cc
 688daa779fc2d28fef47694db011f375.co.cc
 689696ca9d153bf92f1ca80fdf0e65fa.co.cc
-689ab60ee6cd37391700d2ec38583360.co.cc
 68a250f883c9c9328153c734527866a8.co.cc
 68ae410aed06c348176d0505ad4ff01a.co.cc
 68e3fcfadecc278204e33c15f7ba68e3.co.cc
@@ -21211,6 +21204,7 @@
 7a37c88cb1ddf702d5e02b8e59db8f41.co.cc
 7a8007277153c41e000e82b0270ea556.co.cc
 7a8c54c8be7fb8d35b4d37b25d78a674.co.cc
+7aa316d8ef8c64629446501f1746aa88.co.cc
 7ab4dccdc24b26339a87f597a6e1cd5d.co.cc
 7abc4f90e9a5521498f01a8eba2a787c.co.cc
 7b3296d9c3bbd9910e0065fd200139ce.co.cc
@@ -21259,6 +21253,7 @@
 7f17b921b4fb5300de26c2c5a09120b1.co.cc
 7f3e61be7bb7363d.live
 7f42ceb4fb203753f9f43f91817eb71a.co.cc
+7f4d1388bf333388ed10cf1fb079dd90.co.cc
 7f585f79ab232af94b487998bfced57f.co.cc
 7f7153a569595a74d8d180cf2d967a56.co.cc
 7f7b5f6b279cc1cd0491e596fa6fc9aa.co.cc
@@ -21335,7 +21330,6 @@
 875c483def4b06850ddb4b6a80ba9ed7.co.cc
 875e3fd48d8b8fc455c22e1ca6dcd2ae.co.cc
 876d34c3b55f8ebf95c397e474550155.co.cc
-877aede9e77f36eed2f9171af29eb824.co.cc
 878ebef5ff49b4e8212b42e6e2177b86.co.cc
 8797b1e738db5a512d0683efb57e3d7b.co.cc
 879d71f774993b240b98d11a0b4b0086.co.cc
@@ -21349,7 +21343,6 @@
 8889ec99d55e0f936f3ef7b205329b1c.co.cc
 888security.ru
 88futur.xyz
-894ef13ad9b905f5926496cebf5565ee.co.cc
 895daacd9a1d74dd2f37261d4e38eef5.co.cc
 8985eb30d5ae3dabd37dcf12115185ce.co.cc
 89889eee5748c8d09d6cc112fbf7d289.co.cc
@@ -21365,7 +21358,6 @@
 8a2010b36da32f4614f7738da03b5ede.co.cc
 8a248c7ec3b58a08a650638de210f5d2.co.cc
 8a42eb85c75ab51bfb458f0994c7852c.co.cc
-8a56879dec75b8625f890212c294f2e1.co.cc
 8a64301828cc9025c769822fd7513f3f.co.cc
 8a6988d6f1123a2e1586d99d2740488e.co.cc
 8a74b4d303d23cca4815fbb32b7dd5c7.co.cc
@@ -21400,7 +21392,6 @@
 8e4fd6c26cdf56f890c51d8c9a9358b4.co.cc
 8e58ee7062dffba981d7af821370dbd0.co.cc
 8e9dbd60b1dcc03cd168e7ba97046176.co.cc
-8e9e0b5b14eab467a4d2e86192eaaf8d.co.cc
 8ebe1953c1090e7243b5563dbfd956ee.co.cc
 8eebc0e5a513750f7903671f5393e831.co.cc
 8ef7e1436d3626b83a97b12d0bc40f9b.co.cc
@@ -21461,7 +21452,6 @@
 945ad3c1956fb1dd03daf3128da012ab.co.cc
 9493ec63c0986a08a7869258facfc866.co.cc
 94e709271704d0adac463bd9a97ac33a.co.cc
-9522f938f3663a30acf5d86b5870aa37.co.cc
 95328f094f71a91c4db42646713317d5.co.cc
 954835a3fca404ab6e9c3a6d99844917.co.cc
 955def29d8c774177d38a0249c4cad8d.co.cc
@@ -21520,7 +21510,6 @@
 9c9816f9f1eb390fb27aa57c1434adea.co.cc
 9cafd9b9e44770e7ffc118053f9c59ff.co.cc
 9cd69aff468f51bc8c94207c9710e015.co.cc
-9ce3cac5cdeb0d7b56a9bc7a53a56ac9.co.cc
 9cfc8f968873b1c046e46f08a5fda378.co.cc
 9d3750a07ddda7d8bb7212c918f70c34.co.cc
 9d4db48ad7554a5f75f1a09c1341e293.co.cc
@@ -21541,7 +21530,6 @@
 9ee17d6a45fbbfaf02e0bd9961fe4880.co.cc
 9ee1ccaa1ad0f82c05b6316841dde180.co.cc
 9eee774f6c902fcf66db484c241b5676.co.cc
-9f0bca0c7f111ed584cdf07357b260a8.co.cc
 9f23a83449694dc84816ceedbd78d8f8.co.cc
 9f3a6cb1f700079399fa4150b5c6438b.co.cc
 9f4f1ee41c46d11b345bd2c17930688e.co.cc
@@ -21607,6 +21595,7 @@ a2ec6e-google.link
 a2eef2527defec0677a735d31a1efa47.co.cc
 a2f29baebc444bd4b66aca047c43bc32.co.cc
 a2fe7fade3cf012106aa8dd74e3f9b86.co.cc
+a3236018e3a566485b081133c450ce22.co.cc
 a3334b88abfd37b9084ee018ab37eeaf.co.cc
 a36729ef93f463b3dd4726a233aad4ba.co.cc
 a3730691b91d9ec2c618e2cc91824165.co.cc
@@ -21640,7 +21629,6 @@ a5e530946fe03e480e296f3c92c327f1.co.cc
 a62f785d91a237bbb4832e7b3581e18a.co.cc
 a6b5a0bf365a03f045c0045a46fe02dc.co.cc
 a6b6a5b205873b2fedf73321c52d0ae3.co.cc
-a6d07904a35cb90b696a6095cd6ef748.co.cc
 a6ddb9b139a2a67ea177ef4faa4d4638.co.cc
 a6e0c-google.link
 a6e2c-yahoo.space
@@ -21650,6 +21638,7 @@ a711d316ca172302d07f86a7a91995e7.co.cc
 a7213f2d5863014fd5e311196d8380eb.co.cc
 a72724ce9cee8a3fd46a9043913db546.co.cc
 a73597d180efcacf2e4349feca3b3da1.co.cc
+a74fb8b86847176859c5ae5e51b92888.co.cc
 a75d56e1c1496a4fa1d88c2404aa90a4.co.cc
 a772fd163e58dfa16f61c71c9a1584c3.co.cc
 a78b4ae69c742119adabab4dd1cde027.co.cc
@@ -21892,9 +21881,6 @@ ade59221e4205f1063095ea0a81f69fb.co.cc
 ade94a452d1dc479036266c8a5b0b11d.co.cc
 adfgasfasfasf123.com
 adfs.kyivstar.online
-adfs.login.mcafee.codersland.net
-adfs.microsoft-online.corporacionvsk.com
-adfs.microsoftonline-msg.corporacionvsk.com
 adfsmicrosoft.repl.co
 adfs.share.logln-microsoftonline.com
 adfs.suntory.logln-microsoftonline.com
@@ -21948,6 +21934,7 @@ aee85c3504b874f757d224f2d0b24112.co.cc
 aemazon.co.jplogindfs3dg5hcx9.nbspy.cn
 aenxoc.ws
 aeqpxqnrpvmudmbxtmjo.info
+aergentaby.cf
 aerobicsfit.com
 aesiafrique.com
 aeternam.me
@@ -22115,9 +22102,9 @@ amaznn-veriffybillingaccnt.4nmn.com
 amazn-verifybillingaccnt.4nmn.com
 amazon01.ddns.net
 amazon-13.store
-amazon1.tokyo
 amazon-2-0.pages.dev
 amazon2aws.com
+amazon3.serveuser.com
 amazon63.com
 amazon.69xz.xyz
 amazon73.top
@@ -22208,7 +22195,6 @@ amazon.co.jp.ldiurur821jdunjdg.vorualrhw.com
 amazoncojp.life
 amazon.co.jp.lsshg5opha.com
 amazon.co.jp.m4687np9m2.com
-amazon.co.jp.mixshell.com
 amazon.co.jp.obse1.cn
 amazon.co.jp.pdog93osdgk4hsng.cndigusk.com
 amazon.co.jp.pi4jv.cn
@@ -22271,9 +22257,7 @@ amazon.efig.cn
 amazonejp.top
 amazon.en0s.cn
 amazonenviosacolombia.fuy.xdw.mybluehost.me
-amazoneprotecttjyss1dddxob8dngrresxjpfz6yqhdmvu.climatech.cl
 amazoneprotecttjyss1xob8dngrresxjpfz6yqhdm.paradanoticiosa.cl
-amazoneprotecttjyss1xob8dngrresxjpfz6yqhdmvu.crba.edu.pt
 amazoneprotecttjyss1xob8dngrresxjpfz6yqhdmvu.hollyfullerlaw.com
 amazoneprotecttjyss1xob8dngrresxjpfz6yqhdmvu.islamfm.net
 amazoner.fr
@@ -22314,7 +22298,6 @@ amazonia-casa-comun.org
 amazoniaexpress.shop
 amazonia-paris.fr
 amazoniasalesiana.org
-amazon-id.me
 amazoni.gq
 amazon-info-account.com
 amazon-infoassistance.com
@@ -22338,7 +22321,6 @@ amazonjp9527.xyz
 amazon-jpcs.top
 amazon.jp-important.awsjp.life
 amazon.jp-info.jpseve.life
-amazon-jp.me
 amazonjpn.top
 amazonjps.shop
 amazonjps.top
@@ -22404,7 +22386,6 @@ amazonpayments-updates.com
 amazon-paymentt.publicvm.com
 amazonpaymentt.publicvm.com
 amazonpayment-update.ga
-amazon-paymntsecures.com
 amazonpay.pro
 amazonpcc.top
 amazon-pc.cyou
@@ -22523,6 +22504,7 @@ amazon-webapp.com
 amazonweb.top
 amazonwhy.autocode.gg
 amazon-x.cn
+amazonxile.top
 amazonyogaproject-org.xrw.lwj.mybluehost.me
 amazon.yuyuhopamazon.com
 amazonz.cc
@@ -22751,13 +22733,11 @@ applecloudnz.com
 apple.cn-fkr.cloud
 apple.cn-kr.cloud
 apple.co-info.us
-apple-co-jp.shop
 applecom.at
 apple.com-claim.services
 apple-com.email
 apple.com-hys.cloud
 apple.com.icloud.outdoorsporting.com
-apple.com.icloud.s2mchannel.com
 apple.com.in.location-maps.net
 apple.com-ios.fit
 apple.com-ip.cloud
@@ -22868,7 +22848,6 @@ applelane.ml
 applelanguages.se
 appleld-apple.live
 appleld.com-my-app1.us
-appleld.com-my-login.us
 apple.ld-find.us
 appleld.located-l.com
 appleld.mobi
@@ -22910,7 +22889,6 @@ apple-payc.shop
 apple.payee-support.info
 apple-pay.ezua.com
 apple-payhelp.com
-apple.pay-id0142.com
 apple-pay-id24.com
 apple-pay-id27.com
 apple-pay-info.com
@@ -22942,7 +22920,6 @@ applephone.zzux.com
 applepicker-xyz.syb.fgl.mybluehost.me
 applepikolinos.com
 appleplaza.autocode.gg
-apple-portal-dep-support-online.com
 apple-portal-price-online-support.com
 apple-portal-store-support-online.com
 applepprojected.dynamic-dns.net
@@ -23294,7 +23271,6 @@ autodiscover.steamcommunllity.ru
 autodiscover.steamcomnnmunty.com
 autodiscover.steamrcommunity.com
 autodiscover.support-applecare-net.com
-autodiscover.tapsteam.ru
 autodiscover.twitter-buterin.com
 autodiscover.us-robinhoodlogin.org
 autodiscover.viewpaymentpayo.com
@@ -23360,6 +23336,7 @@ b0747be7701801ba2ac1814bec1de303.co.cc
 b094fef9b82743328798e60f39d562de.co.cc
 b0f63150c1026a44d139e081f94ff841.co.cc
 b11a68af2ba522d93c18cd945307bcd6.co.cc
+b12a19aabf29de5026c9aceb6742e814.co.cc
 b1405b8b12702db56359775d0c5ce4de.co.cc
 b1518ea29df6c49c24642df35e5c410b.co.cc
 b192e6aeb2f5f283a19cb1edada715c3.co.cc
@@ -23402,7 +23379,6 @@ b5a21b930cc1e2a8da4f84cc298c8264.co.cc
 b5b0ff20aeb95d220cd74bef2b8ecf91.co.cc
 b5c04bfa5a10bb5215a3c49d97d40f43.co.cc
 b5d6c10b4ff34c1ca441c6157a5218dc.co.cc
-b637891affbdb50bdc260baf7298d4f6.co.cc
 b637959fd35bf1aa41aff077ee79644e.co.cc
 b67ad8627604bf45962118c8e24fdc54.co.cc
 b6b89c378b31f7521f26928179df2773.co.cc
@@ -23418,6 +23394,7 @@ b713f463ded8faaf6a99744bfdf6aa0e.co.cc
 b74fc7b4356316582d187df4bd6b3bca.co.cc
 b75147ddc0c86c34e44c5b3fc79ad9b7.co.cc
 b76507d2427c80e31e1866daba97edc2.co.cc
+b77d3c93f4ad48929889fc86d712a153.co.cc
 b7a18453b8d3ab49f4a41ce389f8fd80.co.cc
 b7c4f7088ba5a0ab.azureedge.net
 b7dc9ef167f96cc01c6a34994aa5c2af.co.cc
@@ -23478,7 +23455,6 @@ bancobpmmavfhxcc.barwonbluff.com.au
 bancociudad-com-ar-login.ml
 bancopopular-com-cibp-web-actions-login-lang-ega.pages.dev
 bandwidth-okta.com
-baneses.com.br.netbankingloginconfirmacao.tacobrasil.com.br
 bangaroobabes.com.au
 banhamm.com
 banking-sparda-at-banking-login.serrasultelecom.com.br
@@ -23523,7 +23499,6 @@ bb9beb1ae9ab55795633c04a86e0450f.co.cc
 bbblogin-online.de
 bbce171f4f24f9352e6bcc8138ef7fdd.co.cc
 bbd6583757d6ce7334ab8c25360486ed.co.cc
-bbdobrasil.com.br.netbankingloginconfirmacao.dfsites.com.br
 bbe0287aedbc6b797c9337ec2a2ffdef.co.cc
 bb.hash3688.com
 bbii.dbjamazonbe.top
@@ -23547,7 +23522,6 @@ bc54bdf191564bef1d2060e2caacc0d4.co.cc
 bc55014a537e33b8aa0b0e34ca23c78b.co.cc
 bc842afdc6a92ffe3eed398f2c558e78.co.cc
 bc8ea9150f0c1cdc892bae198f5cf031.co.cc
-bc965295f7bfee5b6021e5508e6e387e.co.cc
 bcazbaerua.info
 bcb58051a399dcdd921e8c6ac428f342.co.cc
 bced9167eb578626df3085b2f2e52a8e.co.cc
@@ -23619,8 +23593,8 @@ beta-apple.com
 betprognoz.pro
 beybit.com
 bf0322777da372f95df6b12dc8976d91.co.cc
+bf07117e4c22bcc32335a02cf4893b14.co.cc
 bf17432bd2b93d6c87a252bec4da8f35.co.cc
-bf464a0fb541f773643ffbd151606bac.co.cc
 bf8b49d4a36e7b80e19811f394f72882.co.cc
 bfbb84ddbc357d8735b19d42c8650484.co.cc
 bfd6f1c3249f4e4d635ab898652df44d.co.cc
@@ -23639,7 +23613,6 @@ bhlqnpezxugusmowedibrzttg.com
 bhmf7.cc
 bhnjbzis.ws
 bhs404.site
-biance-accntlogin.com
 bicakimo.com
 bidevazomu.com
 biesenbeek.nl
@@ -23782,9 +23755,7 @@ blog.centerking.top
 blog.gruzotaxi.dn.ua
 blogin60seconds.com
 blogincomereport.com
-bloginga.ru.com
 blogingenuity.aqq.gyl.mybluehost.me
-bloging.ru.com
 bloginst.bme.sfx.mybluehost.me
 bloginterossia.ru
 blog.steamecomunnity.ru
@@ -23793,6 +23764,8 @@ blogsyte.com
 blog.twitter-events22.com
 bloombyz.store
 blttrex-login.asset-au.com
+blttrex-login.webs-ac.com
+bluamus.pics
 blueredkwaqers.com
 bmo.1login-access.com
 bmo.1login-app.com
@@ -23947,6 +23920,7 @@ c01ab7881f96a6c82421dffb2881f94c.co.cc
 c05a5bbf5598b3e10e2d70f68332ea4e.co.cc
 c077ba0c3567b469358fea5ed1a87b7d.co.cc
 c080b31eb015a5795d5374d888c166fa.co.cc
+c0a682042b03583c65ab0b0332d850d5.co.cc
 c0f9d0e32a9ed47271f884495d482647.co.cc
 c0.wf
 c10a345604a86d79de67da7bbafaedb9.co.cc
@@ -24006,7 +23980,6 @@ c52a3633287ee30aaf6e837e9991db71.co.cc
 c53e0802ae5891c8ac9efd00edef11bc.co.cc
 c54c19273f9601c5524d0820189bd966.co.cc
 c57bea830c4335b040b04dd2b12434b9.co.cc
-c597874a6cb24835015ed50cdf321b30.co.cc
 c5ad5cd9db00be10c8f5e5fd9b113e21.co.cc
 c5cc33aa10c4879a7a542ab6724d6840.co.cc
 c5d0ecd7995245a878183f6f5e4f4fef.co.cc
@@ -24038,16 +24011,15 @@ c9bed66b772881057d80342f562118b4.co.cc
 c9d26cb8f5b813d691f4b82f2a4f4662.co.cc
 c9e02c72b942226dcb2fd7ec58b1b963.co.cc
 c9e6a84e610447d9538435acbe29e818.co.cc
+c9efa0b7ebd186a86b868ae07efae3cb.co.cc
 c9f44961.ngrok.io
 c9sv1jgpk7jahtu9gqk0.login.uniisvvap.net
 ca02b80pk7j9ekspeba0.login.biiswap.net
 ca02c28pk7j9ekspeqvg.login.uniisvvap.net
 ca06b38fbb32dd58cc517e2f9a9c6ada.co.cc
 ca1066e218ee559ab329833b27b59321.co.cc
-ca358c3b59cfc7791d69ee66bd57fa07.co.cc
 ca4acfdbfce744d63047be6ce50360dd.co.cc
 ca585941b0b039b2e9bbee6f5f98e582.co.cc
-ca5cd251869ce60dd777c2b29e95e6ec.co.cc
 ca7bf2ced6037546f40f3743a6a2188a.co.cc
 caa2a50372d4d27790b611be584f635d.co.cc
 ca.auths-netflix.com
@@ -24109,6 +24081,7 @@ caserecorveryidamazon.com
 case.riucustomeramazon.com
 casesid.tiruidcstmeramazon.com
 cases.viucustomeramazon.com
+caseweb.biarinamazon.com
 cashappunitedstatecountryloginandenterdd.duckdns.org
 cashbackfb.com
 cashcores.org
@@ -24129,7 +24102,6 @@ caxoxc.com
 cazegxo.ws
 cb02f9726d561b4d552d7a1f8f850011.co.cc
 cb0f286b66c7b864d3b94a38ad4eed70.co.cc
-cb1997e677efc90404de0afd52a169bf.co.cc
 cb27f22c28d7ba5011065adf3e633837.co.cc
 cb497feb75b03de2a609f5ddafc55b64.co.cc
 cb516e37d6229ac96cf3a6c573d6e027.co.cc
@@ -24153,7 +24125,6 @@ cc0726c4b6de06d99e44d85f0d3e089c.co.cc
 cc43238534edb60b1afd09ba10d48ab9.co.cc
 cc779a8849c99a72692a270b2e0e5f95.co.cc
 cc8f938dac9035def5ded7a2d38a922a.co.cc
-cc98ce792eec9d70879960e379d1bd01.co.cc
 cc9d0596e6738609cb4ad29ea438f67d.co.cc
 cca.us.to
 ccc68ea10df31750064708259444952a.co.cc
@@ -24196,6 +24167,7 @@ cdrqxxnjnjvfp.biz
 cdt2021.zapto.org
 cd.textfiles.com
 cdtpitbull.hopto.org
+cdzjc.asuscomm.com
 ce11c1eb4055a47425e733ae4d8762da.co.cc
 ce1cda14f0056dbd9f30a32f076ca993.co.cc
 ce258645618dbedcd8b4b1ccc3383da2.co.cc
@@ -24298,6 +24270,16 @@ chatwhatsappbokepterbaru2022.duckdns.org
 chatwhatsappcomg2jb4mnmtjy8lqqnxyojad.denis2.my.id
 chat-whatsapp-giveaway.ganteng2.my.id
 chat-whatsapphott2022.viplinky.my.id
+chat-whatsappsatxgrom.linknew.my.id
+chat-whatsappsd5edhzu.linknew.my.id
+chat-whatsappsgri4ypf.linknew.my.id
+chat-whatsappshxpvruk.linknew.my.id
+chat-whatsappsi2iiwx5.linknew.my.id
+chat-whatsappsldygyaw.linknew.my.id
+chat-whatsappsna3zylb.linknew.my.id
+chat-whatsappsnrvqfwk.linknew.my.id
+chat-whatsappsqzr9oos.linknew.my.id
+chat-whatsappss7iri5y.linknew.my.id
 chat-whatsapp-videoviraltiktok.duckdns.org
 chatwhatsappxxx18viral.terbaru83928.my.id
 cheap9xxxx.beget.tech
@@ -24343,12 +24325,7 @@ cinycekecid.eu
 circle-ci.com
 circle-cl.com
 ciscofreak.com
-cisco-help.cf
-cisco-helpdesk.cf
 cisco-update.com
-ciscovpn1.com
-ciscovpn2.com
-ciscovpn3.com
 cispayments-co-uk.genexinfosys.com
 cisxxbdereuhuyupfjvf.info
 citi-login.edns.biz
@@ -24616,7 +24593,6 @@ configuration.votresupportamazoncontact5.com
 confirm-acc-auth-applepay-wallet.com
 confirm-apple.online
 confirmapplepay-wallet01.com
-confirmationpaymentyourorderanplsjngncancel.crabdance.com
 confirmation-process.at
 confirmlogin-secure.com
 confirm-payment-secure.com
@@ -24862,11 +24838,11 @@ cznmrzymmaqfyrpmvkyvsyo.org
 czrbhyoh.ws
 czxpkktlfeznbtmpn.info
 d01c7734d07358876a0e037ec72b686b.co.cc
+d0269d0d0bec5a106909a1efc22eed82.co.cc
 d03721d7c03cafc4a7e1b8840f86fef9.co.cc
 d048695fb73477c398a5f3dbfe3c44d1.co.cc
 d055c55a16c22c62ecc5ef2ea71188d3.co.cc
 d064ef4b26482a13e1ec7b5db74f9206.co.cc
-d06c24a6c63faf042702754eaaa4455e.co.cc
 d0709185fd2d9f81b258cf01ab027105.co.cc
 d07235e947cc14fccedddc4da86d8a84.co.cc
 d09c2c3cac3db86352ac60f81f07803a.co.cc
@@ -24879,6 +24855,7 @@ d0lphin1337.xyz
 d1042cce308a315caaf924f9774f56e6.co.cc
 d110c73b521313b63de4e9c3b8e35cfe.co.cc
 d13f79f20a2654ec74b7b3d5affed6ec.co.cc
+d13uuni3ez26ye.cloudfront.net
 d13yik3xjy1bte.cloudfront.net
 d179b7986676a06438b8469446ca5cca.co.cc
 d17bb0e635e17dd1af3823502c6775f1.co.cc
@@ -24914,13 +24891,11 @@ d34e8f7b58ce86202512939c9bb77a19.co.cc
 d3508a4390caa77e770e2c5504bf031d.co.cc
 d35c8d86ea71c7cb476e5440e18da0f1.co.cc
 d36235668401bee9fc3730b981bbbb93.co.cc
-d36fecd0d9da30585897be9745c9ca8d.co.cc
 d39cp68dh0b83l.cloudfront.net
 d39w0kom5uu14t.cloudfront.net
 d39xdpuquwylbr.cloudfront.net
 d3c00.duckdns.org
 d3c0hjeoqmryl5.cloudfront.net
-d3c4e05900ccc865689d3200be856876.co.cc
 d3e28csuytb9vc.cloudfront.net
 d3efc90b52e5607560de307557e16cce.co.cc
 d3ezzymhuci7ps.cloudfront.net
@@ -24942,6 +24917,7 @@ d45faa1608b2b50dd5b04d19bd99bd8b.co.cc
 d4789de0637d227cd06fa138f0461fc6.co.cc
 d490f88290acca92ad9cf1004474cfb7.co.cc
 d49f2789fae8bc70b999739564d287c6.co.cc
+d4b33e92ce61643d3e0e4426b3331e2f.co.cc
 d4fb2139190dd343de24e5cab3b0b86f.co.cc
 d4j.club
 d4q9uu68sapym.cloudfront.net
@@ -24998,7 +24974,6 @@ da2740e89337bce1d227809f05b274a7.co.cc
 da2eb974ce367081afd661f398baa17e.co.cc
 da38bdcae732e3a97bce241fff68fca5.co.cc
 da5063064fefa5f20ccfb2c7d2a0c0b4.co.cc
-da7d31a3bdc6c9b4221d0b126e559ebb.co.cc
 da895810783a880e36c7541960425ff8.co.cc
 da8ee1f747f4da2d6348693f1c1fa9fe.co.cc
 daa-hu.com
@@ -25016,6 +24991,7 @@ dailymail.cfd
 dailymail.top
 daimnler.xyz
 da-industrial.com
+dajigafowi.com
 dalall.beget.tech
 damnater.com
 damvdolgdayn.com
@@ -25184,8 +25160,6 @@ deuoffice.org
 deutschlandamazon.18-189-22-194.plesk.page
 deutwell.net
 dev3.twitter.ru.net
-devcisco.com
-devciscoprograms.com
 deviceful-errors.000webhostapp.com
 devilhimself.bounceme.net
 dev.login.mt.gov.br
@@ -25236,7 +25210,6 @@ dibvklrzi00i024i.info
 didgwf4758vpk.cloudfront.net
 didxbooks.com
 dietappli.shop
-digitalcertvalidation.fun
 digital-online-login-web.com
 digitalpass.duckdns.org
 digitalpaymentguru.comwww.bahisgroup.com
@@ -25262,6 +25235,7 @@ dismaycars.com
 disneypluscomloginbegin.com
 disturbedmidiagroup.click
 disweb.sk
+div5eayph51r6.cloudfront.net
 divorcedandready.com
 divorcedcupidclub.com
 divorcedlover.com
@@ -25361,11 +25335,13 @@ down.6lugq4fy.com
 down9.zol.com.cn
 download.chatl688.com
 downloaded-files.space
+downloadfastfile.top
 download.hilifimyanmar.com
 download-instagram.ru
 download.longmusic.com
 download.microsoftoffice.us.com
 download.nortonupdate.com
+downloadtyoufile.buzz
 down-o0-usercontent-live.online
 downpaymentheroes.lff.lbk.mybluehost.me
 down.zmnds.com
@@ -25503,6 +25479,7 @@ e35210e7b8df8fb0e0c321028d255008.co.cc
 e3533d94fb585887318e0697f60b82b1.co.cc
 e35d49bf2df752590d8897f8a44c80b1.co.cc
 e378c240bde97e912d9bbb5cbe949193.co.cc
+e3a28f8b28a151100ba3ad0093272576.co.cc
 e3technology.in
 e40a0501dc71ee7a8237365847854921.co.cc
 e45e40acd8c9441fb10b926036f04559.co.cc
@@ -25561,6 +25538,7 @@ e8f237ac3359f67abe594e5a07642215.co.cc
 e90677op.beget.tech
 e91cbc42981aea7a203c142cf63e56f7.co.cc
 e926e59a0d91c31d67ec5ab55269df0a.co.cc
+e953dc063d869f64.azureedge.net
 e9579707fbac73be249bd4956fc5e858.co.cc
 e987a4e544880581d7cb2965269f64b6.co.cc
 e99205fa0192697af924ad465d4e55fb.co.cc
@@ -25610,10 +25588,8 @@ ebzziatfrz.ws
 ec083aa56dc0449a.com
 ec23c6a94ac5fc3f9a5c6f0976017c1a.co.cc
 ec2fecd3245e12696d099319ae3e5a8f.co.cc
-ec5464a0eb1a96190c0ae657b75365a8.co.cc
 ec6a55aece0903c5f232aaccb6bf27a7.co.cc
 ec6b2cb466c3cf4e1338a5d5bc930c06.co.cc
-ec9d85db1581ba4c584c7a53643caafa.co.cc
 eca1ae1f52b9a61a4c07f4664d17ff0d.co.cc
 ecbeea284a562ea5fe4bdec55a27e6bf.co.cc
 eccbc8.com
@@ -25655,7 +25631,6 @@ ee56e01e8922af8eb6d62d3a98dc1f02.co.cc
 ee5d7fe3deb1e6b9.azureedge.net
 ee718344bc5c04e681cfaa469616b300.co.cc
 ee845479f32bbe278ef5a59f72aa7410.co.cc
-ee905f60274e23ee13cdfcee767512b7.co.cc
 ee9c83680043fcd46b3c13287c94c7ca.co.cc
 eebec91324a7c7f7380812d1cb474365.co.cc
 ee-billing-update.com
@@ -26036,11 +26011,11 @@ f0915581c7c95a828e5a256a6e3ba6fe.co.cc
 f0cc9808db3e9d157f534c2bf0343646.co.cc
 f0f8f54ca4aeef914ff9529d2a861d99.co.cc
 f0.tel
-f10ca17bebe4ae9b1dc5fbf5513115dc.co.cc
 f1343f610ddd4dd9b26fd4071466bed7.co.cc
 f13d60988621a9eeb42d0fe78cfb518a.co.cc
 f13ef4b04064aade583f8d7625ea287b.co.cc
 f14aaf4d6d7f6a641785a72cfe73d5df.co.cc
+f15a5ae0f68fb12b7e7da70355d47784.co.cc
 f1707646797870d8c1a77f8dc3d1db3e.co.cc
 f1a6a836ef23bb97fd8d67a246b38430.co.cc
 f1ab22926c1d46ad29041570d7abf923.co.cc
@@ -26103,7 +26078,6 @@ f6a5c68079e12178f03248251811eed5.co.cc
 f6c491444b21aa0427e9ef5765b7e4c5.co.cc
 f6d52b9bfba70785ff07ac6be551acfa.co.cc
 f6ffa721666b046754939e55ecd26150.co.cc
-f71be97ac4bb9e831a5a3a7321c8ad6c.co.cc
 f73376160b21d5f187d0a1f9522383c6.co.cc
 f73c01f4e646e01371df27d4ce41e950.co.cc
 f789900a787b570e85d84241b3335589.co.cc
@@ -26130,7 +26104,7 @@ f993a22f324308edd85e0ad1e3d21bf4.co.cc
 f9c6f5722cb12a6282f700336bee5e1f.co.cc
 f9d5c4c55c155414eefca6a6d8890350.co.cc
 f9e4a39a20f34b7dc650499b43e7bd2d.co.cc
-f9f0efc1f9b48a0eeceafb6881093f73.co.cc
+f9eb105ef623cf5f98e3cae8a8a58c43.co.cc
 fa016d779a13e70855faf85d6454cedc.co.cc
 fa2a85c2c28692c4148df087334da3c9.co.cc
 fa394c8778128bea60cf29142c89c850.co.cc
@@ -26165,6 +26139,7 @@ facebook.com.secure.viewdocumentonline.com
 facebook.com.tick-veirification-badge.hostershub.com
 facebook.com.whyareiraqis.com
 facebookconnection.socialmediasettings.com
+facebook.copyriightform.cf
 facebookcupones.com
 facebookdaiviet.micro.blog
 facebook.ddns.ms
@@ -26198,7 +26173,6 @@ facebook.kazimedia.in
 facebookk.click
 facebook.laboroflovecommunityhouse.org
 facebook.linkit.sk
-facebooklived.com-regist.tk
 facebookliveviews.micro.blog
 facebooklogin.co
 facebookloginpage.emmylearn.com
@@ -26211,7 +26185,6 @@ facebookmail.fbtcxxreview.com
 facebookmailmessenger.dynamic-dns.net
 facebook.marketplace.9360251847.xyz
 facebook-marketplace-item-12301201.kunuumiparaguay.com
-facebook-marketplace.ml
 facebook-marketplaces-item123481241.bhavyasabesan.com
 facebook-marketplaces.lgelectronics.za.net
 facebookmarketshop.com
@@ -26252,7 +26225,6 @@ facebook.tvboxosc.workers.dev
 facebook.unitive.workers.dev
 facebook.update-security.site
 facebook.up-smm24.xyz
-facebook-url-9167126518912.dreamweaversdt.ca
 facebook.usasoftware.xyz
 facebook.valdamultimarcas.com
 facebook.valenlog.com.br
@@ -26280,6 +26252,7 @@ farzanatradings.com
 fast-mail.site
 fastnetbrowsing.com
 fast-onedrive.yuanhaha.workers.dev
+fastyoudownload.top
 fateweaver.tech
 fatgalleries.com
 fathecomel.lol
@@ -26333,7 +26306,6 @@ fdbvcdffd.ug
 fddbsapple11.gq
 fddbsapple12.cf
 fddbsapple12.tk
-fdea082bb33f227085d23b15a694303e.co.cc
 fdg44.zzz.com.ua
 fdronisatis.com
 fdymwocojutqlc.org
@@ -26445,6 +26417,7 @@ files-trade-tw.live
 files-web.online
 files-yahoo.link
 fileupload.shop
+file-youupload.buzz
 filmsteam.top
 financeaka.cc
 financesteam.top
@@ -26509,6 +26482,7 @@ fludocio.mcdir.ru
 flumedya.com
 flxsv.ws
 fly100.dellgod.net
+flyaira.tk
 flyingpackagetrack.com
 flykdicbj.ws
 flyscoin.com
@@ -26542,7 +26516,6 @@ forestsample.com
 formacion.expertoinstagram.com
 form-loginbrimo.com
 formulationdrugstore.com
-fortuneo-login.com
 forwardchinks.com
 forwardstorage.biz
 fotaqizymig.eu
@@ -26587,6 +26560,7 @@ freesteam.top
 free-tibet.co
 freetibet.in
 fregiyu.com
+frendliuer.pics
 freshuper.com
 freycinetvista.com.au
 frhbujxkiqcdsujjtfo.com
@@ -26621,6 +26595,7 @@ ftp.boonty.got-game.org
 ftp.citilogin.zzux.com
 ftp.eimaragon.org
 ftp.hinet.dns-dns.com
+ftp.instagramshopum.com
 ftp.kingdom.myddns.com
 ftp.lily.onmypc.net
 ftp.loginmobilenexipay.serveusers.com
@@ -26689,6 +26664,7 @@ gadedozymiz.eu
 gagaxx.cat
 gahoqohofib.eu
 gala-games-login-gc.com
+gala-games-login-gc-s.com
 gala-games-login-wx.com
 galaxycoin.vip
 galileuconcursos.com.br
@@ -26750,7 +26726,6 @@ ghphbmvrswddtbyihetqtkt.com
 ghzy1.com
 ghzypb.ws
 giantos.xyz
-gianyarkab.go.id
 gigeram.com
 gigiman.xyz
 gigimas.xyz
@@ -27157,7 +27132,6 @@ helpsinstagram.ga
 help.steamproxy.net
 helpsteamss.wonstasite.com
 helpsteam.top
-helpzonecisco.com
 hemoyele.com
 hendersonk1.hopto.org
 henogetew.com
@@ -27341,12 +27315,17 @@ id8053.com
 id-apple.co.com
 idapple.com.kz
 id.apples-services.cf
+idapple-support.us
+idcase.bitucstumeramazon.com
+idcase.cebmekamazon.com
+idcase.piutidamazon.com
 id-connexion-netflix.com
 ideasdays.com
 i-development.one
 id-info-login.fr
 idinfosystems.com
 idjqaehjbmloughsuajvnycig.net
+id-login-brimo.apk-online.com
 idlogin.secure.access.tvlicensing.co.uk.qualitycovers.com.au
 idmfullcrack.info
 idmsa-apple.location-maps.net
@@ -27361,6 +27340,7 @@ ig.instagram-picture.com
 ignatsuhac.temp.swtest.ru
 ignovikovo.temp.swtest.ru
 igprkfqoahrwuwwenga.biz
+ihasy63yqcgpx3o7.info
 iheartbreaker.com
 ihgatms.cfd
 ihotel-deals.com
@@ -27443,7 +27423,6 @@ infologinarea2022.com
 info-login-dns.com
 infologinterkini.com
 info-mail-amazonsecurity.4nmn.com
-info.myloginn.shop
 infonetflix.net
 infonetflix.org
 info-netflix-securite.com
@@ -27484,7 +27463,6 @@ instagrama.cf
 instagramadadgecontestvoting.pages.dev
 instagram.agenciadetreinamentos.com.br
 instagram.al-webstudio.com
-instagram.ampay.online
 instagram.amplodev.com
 instagram.anavicoilandgas.com
 instagramandmeta.com
@@ -27549,6 +27527,7 @@ instagram-helpteam.cf
 instagram-helpuser.ml
 instagram.hgold.uz
 instagram.icrp.xyz
+instagram.jungle7.com
 instagram-kanoon.ir
 instagram.kinume.space
 instagramleag.micro.blog
@@ -27662,7 +27641,6 @@ intweb.mobwork.net
 invgov.org
 invite.msteamsonline.com
 invoice-microsoft.servehttp.com
-iodc.idp.elogin.e-access.com.co
 ionthatco.cfd
 ionvictoriesin.cfd
 iorwty.ws
@@ -27726,6 +27704,7 @@ it-facebook.co.akut24.fi
 it-facebook-com.akut24.fi
 it.facebook.com.akut24.fi
 it-facebook.me.akut24.fi
+itfirhialonat.com
 it-ha.ru
 itishindia.cfd
 it-it-facebook-secure.akut24.fi
@@ -27874,7 +27853,16 @@ joingrupwhatsappokep7.xnew.my.id
 joingrupwhatsappviral6.vipnews.my.id
 joingrupwhatsappviral6.xnew.my.id
 join-whatsapp18.ga
+join-whatsapp2wuvouv.linknew.my.id
+join-whatsapp6taefqk.linkviip.my.id
+join-whatsappc7mardb.linkviip.my.id
+join-whatsappdbnteo5.linknew.my.id
+join-whatsappdoxu9bf.linknew.my.id
 join-whatsappgroupdns82726.dynamic-dns.net
+join-whatsappipytyrj.linkviip.my.id
+join-whatsappjcq0bso.linknew.my.id
+join-whatsappsbsc0pu.linknew.my.id
+join-whatsappxspfysy.linkviip.my.id
 joiwoi.ws
 joker9999y.temp.swtest.ru
 jokimutinke.net
@@ -27994,7 +27982,6 @@ kavachdownload.in
 kavachguide.com
 kavachmail-govin.rf.gd
 kavachsupport.com
-kazaboldu.net
 kbcwhatsapplottery.micro.blog
 kbmzfpdldmu.com
 kbosdcngilxherzcjracf.info
@@ -28060,6 +28047,7 @@ khnga.com
 khshuxmjvksrtdioayfccf.biz
 kiajihlava.cz
 kicknocisd.com
+kicksoftnuclpark.com
 kidup.xyz
 kievstar.online
 kihgah.xyz
@@ -28093,7 +28081,6 @@ kkjvgtg.ws
 kkkaiwxhdgbaiwlykty.org
 kkkk.whg7.cc
 kklink.duckdns.org
-kkzezlpiwjwefr0d.com
 klareqvino.com
 klaviyo-sso.com
 klcffeqxscmusnih.org
@@ -28328,11 +28315,9 @@ localmilfselfies.com
 localuyd.beget.tech
 locketransports.com
 loftds.com
-log-amazon.com
 logged.inside-apple.info
 logiakk1i.000webhostapp.com
 login03b-citizens.com
-login.0584938094dev949.vaugirard.org
 login-0nedrive.com
 login.0xcc.lol
 login1110.chickenkiller.com
@@ -28382,7 +28367,6 @@ loginacct1.ath.cx
 loginactivity.website
 login.adfs.kyivstar.online
 login.adsmobmedia.com
-login.aep.systems
 login-afcu.ml
 login-air-internet-cz.online
 loginaja.qr-tq.xyz
@@ -28409,6 +28393,7 @@ login.anz.com.unlockid.link
 login.anz.com.userprofile.in
 login-anz.ddns.net
 login-anz.myvnc.com
+login.aol.storage.googleapis.com.slmbc.lk
 login.aonlinedocumentationandsupportpleasereferto.tk
 login-aplus.nanaplus.top
 login-app-gateio.ml
@@ -28521,13 +28506,13 @@ login.cerdofrito.site
 logincgrab.top
 loginchas.com
 login-chase.com
-logincheck.in
 login.chk-uber.ca
 login-citiz3.dyndns.info
 login-citiz3.mine.nu
 logincitizenbank.misecure.com
 login-citizens1.ath.cx
 logincitizens8.ath.cx
+logincitizensacct.mine.nu
 login-citizens-bank.servebbs.net
 login-citizens.cf
 logincitizens.changeip.co
@@ -28573,7 +28558,6 @@ login.co.jp.omnaicp.cn
 login.co.jp.yahoo.viueorw.cn
 login.co.jp.zcmlgc.cn
 login.colinxu.cn
-login.comerosprlpago.eu
 login.comprahabana.online
 login.comtechmobileit.com
 login.com.universidademonnicahirsch.com.br
@@ -28699,7 +28683,6 @@ login.ikopin.ac.id
 login.imovelpag.com.br
 login-ind.top
 login-inevents.gq
-logininfo09-usps.dns04.com
 logininfocliente.dynamic-dns.net
 login-info-id.elarabyofficeeg.com
 login-info-key-mobile.buyshouses.net
@@ -28772,8 +28755,6 @@ login-login-nexi.onmypc.net
 login.login.vardian.com
 login.loukswg.sbs
 login.lpp-uber.ca
-login.lukasandamanda.com
-login.luspi.de
 login.mailingtracking.com
 login.majesticbank.sc
 login.malanga.digital
@@ -28869,7 +28850,6 @@ login.movementumrealty.com
 login.mrcozxcft.co
 login.msaadauth.net
 login-msft.serveftp.com
-login.msmsonlinemicrosoft.sinarmerdeka.id
 login.ms-officeonline.com
 loginmsonline2faowaccess.tssports.cv
 login.msonline.lcloud.ai
@@ -28882,7 +28862,6 @@ login.my-acc-id.net
 login-myaccount-cloud-mail.ru
 login-my-acounts-mail.ru
 login.mycleth.com.mx
-login-mycomm-dashboard.info
 login.myfitnessspall.com
 loginmygovau.org
 login.my-id-au.net
@@ -28956,7 +28935,6 @@ login.office-online-service-srt-00-013-document-view.ml
 login.office.rnlcrosoftsonline.com
 login.office.royal-ccl.com
 login.officeservice.ml
-login.office.sharedfiles-preview.ml
 login.officetie.online
 login.officeupdates.us.com
 login.office.verisign365.live
@@ -29006,7 +28984,6 @@ login.paypalsu.com
 loginpencetaja.com
 login.pepino.digital
 login.petrainstitute.co.za
-login.photoqt.org
 login.piliancy.com
 login.pintacara.online
 login-piolygan.technology
@@ -29079,7 +29056,6 @@ login.sbonlinedocumentationandsupportpleasereferto.ga
 login.sbonlinedocumentationandsupportpleasereferto.gq
 login.sbonlinedocumentationandsupportpleasereferto.tk
 loginscheck-983.ml
-login-scotialine.com
 loginscotiaonline-auth.com
 loginscotia-online.com
 login.secnre-09accnt.club
@@ -29107,6 +29083,7 @@ login.securityportal.cloud
 login.segurazona.com
 login.seguridad-acceso-clientes.es
 login.seguridad-edenor.com
+loginseguro.solicitudefectivo.com
 loginselfserivceb2b.biz
 login.sepmmicrosoft-azurenpoint.avantajbulvari.com
 login.service1ventures.com
@@ -29129,8 +29106,8 @@ login.sizlersthinkorg.tk
 login.slonbook.com
 loginsmeta.com
 login.s-mmicrosoft-azurenpoint.avantajbulvari.com
-login-societegeneralsecure.fr
 login.solicitaprestamoefectivoibk.com
+login.solicitatuprestaefectivo.com
 login.sollfllare.com
 login.sollfllare.net
 login.sosafegmbh.microsoftonline.turme.link
@@ -29147,6 +29124,7 @@ login.sso-microsoft.cloud
 login.sso-microsoft.online
 login.ssosignin.com
 loginst0-id.greenlink.my.id
+login.staff.ing.deals
 login.staging.boseaviation-apac.aero
 loginstaging.francechannel.tv
 login.sts.xn--80aao5c.com
@@ -29165,6 +29143,7 @@ login.testjpl.com.ar
 login.testjpl.store
 login-test.serenity-home.io
 login.testyourevilginx.mefound.com
+login.thecozycroissant.co
 login.thesecureorg.com
 login.theupdategi.monster
 login.tiendarara.xyz
@@ -29217,7 +29196,6 @@ loginvest.com.ru
 login.vevo.dmcaprocess.net
 loginvgrab.top
 loginviasteam.com
-login-visasa.lougin.top
 loginvocalorrannn.tender-wu.147-189-161-23.plesk.page
 login.walk-me.com
 login.web-acc.net
@@ -29341,7 +29319,6 @@ lzekgeqr.biz
 m0.wf
 m0.yt
 m11necraft.000webhostapp.com
-m2login.co.vu
 m365d.securitycenter.microsoft.com.admin-mcas-df.ms
 m3tblogindex.online
 m4x.bbcinternationalnews.com
@@ -29567,6 +29544,7 @@ matrix.bcvziy.com
 maulidyacstmrpayment-account248659.cloudns.nz
 mauraxinus.com
 maurizio.ac.ug
+maxkey.online
 maxtranslogistic.com
 may00.zapto.org
 mayatherm.com
@@ -29679,6 +29657,7 @@ mgtmepsh.biz
 mhbgnhmirheajbpxcrye.org
 mian638.eu.org
 michaeldiamantis.ug
+micortoef.ga
 microcloud.live
 microcloud.online
 microempaquescali.com
@@ -30063,9 +30042,6 @@ mybnance2022loginearn-com.ml
 mybogeyman.com
 my-browse-netflix.com
 my-chaseonline-login.net
-mycisco.cf
-mycisco.gq
-mycisco-helpdesk.ml
 my-cloud-accounts-mail.ru
 mycloud-amcham.live
 mycloud-fidh.link
@@ -30159,6 +30135,7 @@ mygov-login-au.com
 my-gov.online
 mygov-refund.me
 mygovrefund-tax.me
+mygov-sec-login-au.com
 mygov-secure-login-au.com
 mygov-secure-login.com
 mygov-securelogin.com
@@ -30205,6 +30182,7 @@ my-mofa.space
 my-msdrive.online
 my-ms.live
 mynab-account-login.mobi
+my-nasa-center.com
 mynetflix.co
 mynetflix.pidausted.com
 myo2-verify-billing.com
@@ -30427,6 +30405,7 @@ netflix-abonnement.ml
 netflix-abonnements.com
 netflixabonnements.com
 netflixabonnementsfrance.com
+netflix-abonnement-web.fr
 netflixaccappnet-39.x3poweredby-netfl1x.info
 netflix-acces-help.com
 netflix-acces.info
@@ -30461,6 +30440,7 @@ netflixanime.micro.blog
 netflix.apget.store
 netflix-app-srv.ml
 netflix-assistanceusers.com
+netflix-assistant.com
 netflixassist.com
 netflix-assist.info
 netflix-authenticate-secure.com
@@ -30709,6 +30689,7 @@ netflix-secure-infos.com
 netflixsecurelog.com
 netflix-secure-paiement.fr
 netflix-securepayment.duckdns.org
+netflixsecurise.com
 netflix-secvre.fartit.com
 netflixsercured04.duckdns.org
 netflix-service-abonnement.fr
@@ -31137,6 +31118,7 @@ oibqlgsn.ws
 oidc.e-access.idp-elogin.com
 oidc.idp.e-access.elogin-att.com
 oidc.idp.elogin.e-access.att-hraccess.com
+oidc.idp.elogin.e-access.hraccessone.com
 oidc.idp.elogin.e-access.hronestopaccess.com
 oidc.idp.elogin.e-access.me
 oidc.idp.elogin.e-access.one
@@ -31185,7 +31167,6 @@ onedrive.cnpds.workers.dev
 onedrive.com.file.ftmporn.xxx
 onedrive.crcc.workers.dev
 onedrive.dearkai.workers.dev
-onedrive.duan-dky.workers.dev
 onedrivefile.yanzhihao.workers.dev
 onedrive.frostnova.workers.dev
 onedrive.ghipss.net
@@ -31208,12 +31189,10 @@ onedrivesecured09.x24hr.com
 onedrive-secure.pages.dev
 onedriveserver63.su
 onedrive.stanl.workers.dev
-onedrive-storage-server.artechnique.net
 onedrive.tang-cno118.workers.dev
 onedrive.unioreo.workers.dev
 onedrive.wyattapp.tk
 onedrive.x.1314.cool
-onedrive.xu985795385.workers.dev
 onedrive.younger.gq
 onedrive.yxyz.workers.dev
 onedrive-z7ydn.ondigitalocean.app
@@ -31302,7 +31281,6 @@ orbiz.me
 ordeir-amazon.com
 order-amazon.top
 ordier-amazon.com
-ordrer-amazon.com
 ordsexecutiv.cfd
 orhung.space
 originalapple.store
@@ -31379,7 +31357,6 @@ panyruld.cfd
 paparat.ru
 pape.auth.en-lang-amazon-ap-signin.com
 paratuseventos.cl
-paribtraccount-login.com
 parsmemoryesfahan.ir
 partaususd.ru
 participate-ps5-official-login.4nmn.com
@@ -31403,7 +31380,6 @@ pay4payments.finance.blog
 pay-amazon.otzo.com
 pay.bn-technologin.com
 payce-google.com
-payejp-amazon.x24hr.com
 pay.loginaktivitasbrimo.com
 pay.loginaktivitasibbri.com
 pay.login-secure-ref5646anz.com
@@ -31571,6 +31547,7 @@ paypal-signin.4nmn.com
 paypalsinfoalert.com
 paypal-sing-in.4nmn.com
 paypals-secures.securecryptoapps.com
+paypal-support-01.duckdns.org
 paypal.support.aum.co.il
 paypal.support-fr.co
 paypalsupportinformationservicesjandulee.4nmn.com
@@ -31594,12 +31571,8 @@ paypal-verify-billing-id312312.4nmn.com
 paypalverify.dbspa.com
 paypal-verify.obucybertest.xyz
 paypal.verivication.limited-account.service.1.vilzfefac1.gq
-paypal.vvsic.com
-paypal.vvsif.com
-paypal.vvsiv.com
 paypalwebapsperucres.shock-connect.com
 paypal-web-secured.com
-paypal.weidezaun.net
 paypal.ygb.vlp.mybluehost.me
 paypasecureservice.com
 pay-payment.net
@@ -31920,7 +31893,6 @@ poste-it-secure-login.ewalletchanger.com
 poste.securelogin.bamcraftycreations.com
 poste-securelogin-it.paws.tv
 postingan-instagram-produk.com
-postingan-photo-instagram.duckdns.org
 post-thailamd.nimboo.com.mx
 powdghbmebmtou.org
 powerrembo.ru
@@ -31988,10 +31960,8 @@ priceguide.club
 pricernodern.com
 pri-drive.online
 prime-amazon.help-manage-information.org
-primecisco.com
 primelogin-secure.duckdns.org
 primemdbilling.com
-primemeber-servicerenewpayments.duckdns.org
 primevideoamazon.brazilsouth.cloudapp.azure.com
 primevideoamazon.westus3.cloudapp.azure.com
 principiaskin.com
@@ -32072,7 +32042,6 @@ pvxg5bkqj4vblbab.info
 pwmmersatubangsawhatsapp.baruu22.my.id
 pwn.letmaker.top
 pwn.oracleservice.top
-pwresetcisco.com
 pwrqxldt.biz
 pwyptbouropchk.org
 pxi.bandifer.us
@@ -32082,7 +32051,6 @@ pxoirita.com
 pxtalcijztbzkdhl.com
 pydaoipupoe.ws
 pyivcvbrcitebglwsj.net
-pyrsteam.myftp.info
 pysik.club
 pysvfg.ws
 python-release.com
@@ -32335,6 +32303,7 @@ reloginrequest-001-site4.itempurl.com
 reloginrequest-001-site5.itempurl.com
 remboursement-paypal.fr
 rememberu3.zzz.com.ua
+remindermynetflixsub.com
 remittancepdf.microsoftexchange329e71ec88ae461.workers.dev
 remote70y.ml
 remot-vs-bot.ml
@@ -32347,10 +32316,10 @@ renouvellement-abonetflix.com
 renouvellementnetflix.com
 renouvellement-netflix.info
 renouvellement-netflix.online
+renouvellements-netflix.com
 renouvellementsnetflix.com
 renouvellement-webnetflix.com
 renouv-netflix.info
-rent-board-ca-login-form-update.rb.rentsync.dev
 rentfare.com
 reoseio.com
 repaymentday.de
@@ -32363,13 +32332,14 @@ repubblica.life
 request-payment-access.com
 request-payment-access-help.com
 request-payment-denied.com
-reregisterapplepay-device.com
+reset-netflix.cf
 reset-netflixx.duckdns.org
 resetpasswordattemptlogin.xyz
 resonherse.cfd
 restartnetflix.duckdns.org
 restartpayment.com
 restaurationcompte-netflix.info
+restore-appleid-dashboard.com
 restore-appleid-online.com
 retaillink-login-wal-mart.com
 reurl-live.online
@@ -32479,7 +32449,6 @@ routrloginn.com
 rowfus.com
 rox44login.ru
 royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion
-royaldeliveryhmrc.com
 rpcmpipe.com
 rpdmlfrpwmjwlwgnbnykrzp.org
 rpfkesskzdjjx.net
@@ -32617,7 +32586,6 @@ sanjss.com
 santabruna.cl
 santalogin.wonstasite.com
 santande.new-loginalert.com
-santander-login.konzu.net
 santander-netflix.empresascl.cf
 saratov.stores-apple.com
 sasdmvica883fen.xyz
@@ -32686,6 +32654,7 @@ secret-hookup.net
 secrethoroscope1.xyz
 secrlogin-microsoft.3utilities.com
 seculogin001.duckdns.org
+secur06-chase-login.dns05.com
 secur3d-b0fa-login1.4nmn.com
 secur3d-b0fa-login.4nmn.com
 secure01a-login-web-auth-logon.winzig.cz
@@ -33145,7 +33114,6 @@ shoesapple.xyz
 shopadvs.com
 shopamzn.org
 shopee.co.id-login.yakkaytech.com
-shopify-login.net
 shop.mallsamazon.com
 shopsteam.top
 shop.thyssenkrupp-marinesystems.org
@@ -33169,6 +33137,7 @@ signaturebusinesspark.com
 sign-fidh.online
 signin-amazon-account-id.4nmn.com
 signin-amazon-id73663.4nmn.com
+sign-in.applei.com.mx
 signin.auths-amazon.ca
 signin.auths-netflix.ca
 sign-in-aws-amazon.com
@@ -33182,7 +33151,6 @@ signin.profiles-amazon.ca
 signin.secureauth-netflix.ca
 signin.signinauth-netflix.ca
 signin.userauth-netflix.ca
-signon-applefcu09.cloudns.ph
 sign-paypls.billingconfirmation-update-id-2mt0g.top
 sign-pypl.billingconfirmation-update-id-gfk2d.top
 sign-pypl.billingconfirmation-update-id-ii9er.top
@@ -33223,9 +33191,11 @@ sjdsquamapl0lgkr.info
 sjnnzyad.net
 skambio-porte.com
 skcbmpkzljdzkbyuxrtwpb.org
+skematrf-login.apk-ind.com
 skgroup.vip
 skilldrivinget.com
 sklge.com
+sk-login.de
 skpkkwvttytbctxetkzvh.com
 skqv.eu
 sksrhjulp.biz
@@ -33339,6 +33309,7 @@ softupdatelive.com
 softuperlive.com
 softuplive.com
 softwaresdaily.com
+sogouupdate.com
 sokjs.xyz
 solankstksivobea3.com
 soljerkys.com
@@ -33536,7 +33507,6 @@ steamcommunityev.top
 steamcommunityf.com
 steamcommunityhr.top
 steamcommunityimp.top
-steamcommunity-it.ru
 steamcommunityjp.top
 steamcommunitylix.top
 steamcommunityliz.top
@@ -33602,8 +33572,6 @@ steamcommunityxiq.asia
 steamcommunityxiv.asia
 steamcommunityxn.top
 steamcommunityxoin.top
-steamcommunityxovn.top
-steamcommunityxown.top
 steamcommunityxvnr.top
 steamcommunityxwev.top
 steamcommunityzex.top
@@ -33698,7 +33666,6 @@ steamcomunijty.ru
 steamcomuninty.store
 steamcomunitily.ru
 steamcomunitu.com.ru
-steamcomunity.site
 steamcomunity.space
 steamcomunlty.space
 steamcomunnitiy.ru
@@ -33748,7 +33715,6 @@ steamexpert.in
 steam-fiction.de
 steamfullinventory.com
 steamfullmarket.com
-steamfullprice.com
 steamgamespc.com
 steamgenerateur.com
 steamgiftcard.micro.blog
@@ -33777,6 +33743,7 @@ steam.mpseminar.xyz
 steamncommnity.com
 steamncommumity.store
 steamncommunty.store
+steamncomnunitty.ru
 steamncomunlty.com
 steam.nkhq.de
 steamonline.ir
@@ -33927,7 +33894,6 @@ support-instagram.tech
 support-kyc-netflix.fr
 support-login-security-department-user-dpt-invalid.com
 support-login-security-team.com
-support-myapplefcu.cloudns.ph
 support.myidapple.org
 supportnetflix03dwaaynows.4nmn.com
 support-netflix-complication.fr
@@ -33939,7 +33905,6 @@ supportnexilogin.dynamic-dns.net
 supportpaypalaccountinformationdruamahujerus.line.pm
 support-paypal-fr.com
 support-paypal-fr.netflix-account-fr.com
-supportr1-login-bankofamerica.com
 supports-amazon.3utilities.com
 supports-amazon.webhop.me
 support.soporte-argentina-apple.xyz
@@ -34058,7 +34023,6 @@ tcp443.winstore.us
 tcpdboqhjbfftjstbkforwv.org
 tcqwuuayhp.com
 tdauth-login-ca.com
-td-ca-login-web.com
 tdconsumer-login.com
 td-customer-login.com
 tdkutspydb.ws
@@ -34597,6 +34561,7 @@ update-netflix.live
 updatenetflixsubscription.com
 updatenow-amazon.otzo.com
 update-payment-netflix.4nmn.com
+update.qian-xin.com
 updatesagent.com
 updatesoftlive.com
 update-srv-amazon.info
@@ -34621,7 +34586,6 @@ urkogzkhcql.ws
 urrfgttfkt.info
 ursrkm.info
 urzomvebcg.com
-us09s-uspslogin.dns04.com
 us2.smtp.mailhostbox.com
 usalogin-coinbase.3utilities.com
 usamazon.us-hs.top
@@ -34634,14 +34598,12 @@ usda.teledynegroup.com
 user2332.royal-hosting.ru
 user-amazonm.top
 usercontent-mydrive.download
-userdecline-loginboi.co
 userfiles-fidh.space
 user-jp-amazon.top
 userlogins.hopto.org
 usersurport-amazonhelpline.ml
 usfacebook-smartphone-fllw01716128215.sterilab.ph
 us-help-amazonservices113.duckdns.org
-usinusps02c-login.x24hr.com
 uslimsofbr.cfd
 usps-billing-info.4nmn.com
 usps-complete-billing.duckdns.org
@@ -34872,7 +34834,6 @@ vvzilngjmxsmp.com
 vware.duckdns.org
 vwtryf.xyz
 vwuzda4x76mhtutxkjnhzquuq4wgtgwjbv6wrs2m627uhg744ieaskqd.onion
-vww-logins.com
 vxmtkgj.ws
 vyjfigxe.ws
 vysledky.com
@@ -35048,6 +35009,7 @@ whatsapp.autocode.gg
 whatsapp.awardsofts.com
 whatsapp.baru11.xyz
 whatsappchats.site
+whatsapp.cloudssh.app
 whatsapp.com.admin-mcas-df.ms
 whatsapp.covid19.et
 whatsappdasohbet.space
@@ -35074,6 +35036,7 @@ whatsapp.vn.cloudns.nz
 whatsapp.webanaya.com
 whatsappweb.co.in
 whatsapp.wsplhosting.com
+whatsapp.zinzir.com
 whatwill.be
 whereihjeu3.xyz
 whg7.cc
@@ -35190,6 +35153,7 @@ wvcmyryzkd.ws
 wvffkihr.ws
 wvfhzehorjavobcqpfepf.org
 wvw.baam-melli-lr-login.airoke.com
+wvw.kvk-blank-login.mediainsightsgroup.com
 wvw.zions-bank-login.imgbohemia.com
 wvzpthvdut.ws
 ww16.amazon.dogkr15djgis8khgskyj.doairphdor.com
@@ -35431,6 +35395,7 @@ www.info.isasecret.com
 www.instagram.coinexa.pro
 www.intelsearchtech.com
 www.irusmedia.info
+www.ishabi.info
 www.iuxinnian.com
 www.jacenter.org
 www.jeuxjetx.fr
@@ -35697,7 +35662,6 @@ xn----7sbak5bugi.xn--p1ai
 xn--amazon-scu-i7a.fr
 xn--avigatorkey-56b.com
 xn--facebook-0s4gisxg.net
-xn--fr-netflix-scurit-mtbf.com
 xn--gmp-jhd.org
 xn--keynvigatorkey-yp8g.com
 xn--keyvigatrs-key-7oc4531jsva.com
@@ -35723,7 +35687,6 @@ xoom-login.denvercopyrightattorney.com
 xoom-login.space
 xoom-paypal.space
 xopdaroad.beauty
-xoxnnmgxhl03.com
 xozkqvmwnigpqiuktkptczky.org
 xpertbot.no-ip.biz
 xpert.ignitepaymentsfdc.com
@@ -36036,7 +35999,6 @@ zuvoyemi.com
 zuykkenbgcpz.org
 zvip.zone
 zvnqh.ws
-zvstcxmciwmk5s.com
 zvupswjpudcmha.info
 zvwsvtzw.ws
 zwajtsgzt.ws
