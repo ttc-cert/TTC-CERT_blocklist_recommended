@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="white"                                    #
-# Last updated: 2022-11-07 10:13:01 +07                        #
+# Last updated: 2022-11-16 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -68,3 +68,6 @@ rd-go-th.xyz
 rrd-go-th.cc
 rrd-go-th.com
 rrd-go-th.xyz
+kdsd6.com
+rd-go-th.life
+rd-go-th.info
