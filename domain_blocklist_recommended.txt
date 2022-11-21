@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="white"                                    #
-# Last updated: 2022-11-21 03:00:01 +07                        #
+# Last updated: 2022-11-22 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -2792,7 +2792,6 @@
 0082.bitcoin.com
 00-84.api.btcc.com
 00-84.btcc.com
-0085467feea5f3ca83a34a1837e6ba8b.co.cc
 0088812.us-west-2.elb.cryptohosting.eu
 0088celuebocai.binance.com
 0088celuebocailuntan.binance.com
@@ -5842,7 +5841,6 @@
 049bebd76b40ec2b35468cc9cc7f6dac.co.cc
 049-n10-high-voltage-research-lab.antpool.com
 049.openvpn.www.eth.bw.com
-04a34c70b379bae58f4f6d3d861a6479.co.cc
 04a943cb9ae6dc4ec91a63ffc1e201a5.co.cc
 04.api.binance.com
 04.api.bitcoin.com
@@ -6188,6 +6186,7 @@
 053-mxj-131.bitcoin.com
 0-53.openvpn.www.eth.bw.com
 0-5-3.us.api.binance.com
+0540d88bc7ba2e7729bf16040a3b7c00.co.cc
 054-10.btcc.com
 054-3.openvpn.api.f2pool.com
 054-3.openvpn.f2pool.com
@@ -10264,6 +10263,7 @@
 0-bmlab.inc.antpool.com
 0-bmlab.inc.cn.antpool.com
 0-bmlab.inc.v3.antpool.com
+0bmnz0yx8qx4guyg.info
 0bmp.eu.api.binance.com
 0bmp.us.api.binance.com
 0bmqis.minero.pw
@@ -20404,6 +20404,7 @@
 10u96u.cn
 10uoyc.cyou
 10yo5ql.cn
+110836312bf2aff86dfcd8de45fd8ce3.co.cc
 110jzb.cn
 112158c9e0e7e590ce4894b3cc9a7b17.co.cc
 1122334.zyns.com
@@ -20411,6 +20412,7 @@
 1148fd9460313feeee2126cf123415f5.co.cc
 116cd0e09f75725f66e3ebbf04756551.co.cc
 116gid.cyou
+11984.gnway.net
 119b0b428a605072e67888182212f8a8.co.cc
 11bacd2a943ea98dc986ee44ed9a50ae.co.cc
 11ce6a21f7c7fa55e68a403a8bd2eb60.co.cc
@@ -20447,7 +20449,6 @@
 132a59b39851b64dbb619cd3d8fbe0bd.co.cc
 1357fbb751e2e44ddaa1a1c5e6a8dffe.co.cc
 138036e387de8f4bacd75e7f6244a419.co.cc
-13849e5770b3229629f369ceead20fa1.co.cc
 138wslo.cn
 13a2b870ba8e2ea932814c4d27b7560c.co.cc
 13a931b955aebeba072f4248b681f822.co.cc
@@ -20556,7 +20557,6 @@
 19c9874075d94f15c5452e96874d3707.co.cc
 19ce7520a595c8636457b12f6eba2182.co.cc
 19d8f04e0aa1e2069944e436b2fff1a9.co.cc
-19db0a206e9f517c923669119139b087.co.cc
 19sf9r.cyou
 19x295.cyou
 1a025e20f2fd650c0f0d7baf2b3e1fc1.co.cc
@@ -20597,6 +20597,7 @@
 1c614af6d57ab2b50588f8880b267238.co.cc
 1c6c5ccd505866a308cd15f9868a84d2.co.cc
 1c7gop.cyou
+1c807d20dd45f20c6c099f802d770ac2.co.cc
 1c83816bcff03b69a2cf94d25e4cab9a.co.cc
 1c91dbff19084991a56d7fa0e0e504a5.co.cc
 1c9bbe65cc147bc349bb79fcc7abb163.co.cc
@@ -20614,7 +20615,6 @@
 1d2747550200cadd62cdebc236c83e8e.co.cc
 1d3caoy.cn
 1d4x.cn
-1d65dd5ec397e434a5f5a42d11b1c980.co.cc
 1d749dd36b2a82feea7bd53fb890db3e.co.cc
 1d7c4f0ffa719d3039590840b477a7fe.co.cc
 1d98952585c2884dba9d84807b26e873.co.cc
@@ -20879,6 +20879,7 @@
 203327744.xyz
 2048tw.cn
 2072b98739.cn
+2074a3b3c83e230368b757c48a55c3d2.co.cc
 20996d8f1f9e460d52a87835588fd30e.co.cc
 20b04af7cda6734ac607d3e5d35ce1e7.co.cc
 20dcxk.cyou
@@ -20978,7 +20979,6 @@
 25ox9o.cyou
 25p0o0.shop
 26143s.cyou
-261cbc13988ffbdb27b6a8ce7a76bd24.co.cc
 261e24e0a72f391b30f5cef4ed708d40.co.cc
 266wrd.com
 267ogt.cn
@@ -20996,6 +20996,7 @@
 27929k.cyou
 27c2f7c4ec2d2c067c510f9ce7e8dec8.co.cc
 27c8pr.cyou
+27dd40d1031ff9c11f34cf9b85d28354.co.cc
 27e11eea8d56877720619fbada06d179.co.cc
 27f1d2489ed6f7c146dada5f82bf163f.co.cc
 27ob.cn
@@ -21063,7 +21064,6 @@
 2d43e205bedb4201e29f397e357516cc.co.cc
 2d53ebad4aec1bf6b4e34b1e4a4b6ca0.co.cc
 2d5644910d4de387f125e8ebbb2ffa9c.co.cc
-2d70d4c33e8b1f5f62cb95c99f042ae9.co.cc
 2d88f6da76ad2524308030c76c190127.co.cc
 2db7f5b3856cb3c110f80a37d2648fa5.co.cc
 2de2g5.cyou
@@ -21073,7 +21073,6 @@
 2dt3bz.cyou
 2dyqbo.cyou
 2e3f30b7d2d656c8512088fef4ffcc70.co.cc
-2e446042f0a1f2d89db5e915b6327e18.co.cc
 2e4ea8f96f19e9aef88692ca8926e5ac.co.cc
 2e6303ec3654d4a9d8844c5d5a63b0d2.co.cc
 2e6707ed4247d4fadee11c45766a1d18.co.cc
@@ -21443,7 +21442,6 @@
 3d-dkj43248sadj4ksdj.staysecure-login.ga
 3ds.apple.dk-apidata.com
 3e0ec356052d63c3583760d39a8a324e.co.cc
-3e700825eb1f0f33ce4e516473144a97.co.cc
 3ea0165f6445dde0927647fde25a5561.co.cc
 3ea5f8758b0bafc5a8c444971c3e3b36.co.cc
 3eabffcffdfd7cfd4d757983525f3773.co.cc
@@ -21569,7 +21567,6 @@
 40b2208a77cac3ac9bd68051569f51ef.co.cc
 40c67n.cyou
 40c7d5da1909bb4586dc4ee0bdbbfc9c.co.cc
-40efe2c79518c411888abdc9b1d4c6e6.co.cc
 40i7cm.cyou
 40uriix.cn
 40wojv4.cn
@@ -21577,6 +21574,7 @@
 41111442f25adca553e298c36b1bb39e.co.cc
 411speed.duckdns.org
 4130229403fae5e2b2e8f8ea592461e2.co.cc
+4138335c8760a00f13999b3e23fd0d69.co.cc
 415758525f8d17cc8229eafc326906d3.co.cc
 416adc6ef72410fa5a5577fd0fcce5e2.co.cc
 4176e599fb150abb79008e685e3bf2d3.co.cc
@@ -21621,7 +21619,6 @@
 43eijb.cyou
 43fd47f1cf59cb35a63c0503a369a950.co.cc
 43lxr0q.cn
-442eff4bcece8799c4933d4c3b8419af.co.cc
 444221d865d70308088c6613334f3517.co.cc
 4451gm.cyou
 445f41ddd2be0ebaa4a0057712aa2ed9.co.cc
@@ -21675,6 +21672,7 @@
 4765445b-32c6-4-83e6-1d93765276.co
 476c054f6d574ab502a6885385c7a6aa.co.cc
 476ydp.cyou
+4788a8204357efd1278bad77c3838b01.co.cc
 47b7ac09f65c92d448a739af723d4d94.co.cc
 47bece4b3088d7be3998da409efe5a08.co.cc
 47de3f09dd476891813652c6be7f23e0.co.cc
@@ -21696,6 +21694,7 @@
 48aff8.cn
 48d28fed969a5eb1a9e1936443c98dbe.co.cc
 48dvosr.cn
+48e732b453be03ee6ce6a7e0e4efe08f.co.cc
 48f9370b562c31ef6cdd440e0eeec992.co.cc
 48seyf0.cn
 490lt1.cn
@@ -21775,6 +21774,7 @@
 4efc4044e244225f1629d5b60158b11a.co.cc
 4eqe4e.cyou
 4eui0i.cyou
+4f0a8cc1f31ee328dd0d968bed3041fe.co.cc
 4f534eefef7b8c1546b6f076ce897091.co.cc
 4f737584f61942630464816ea17eef51.co.cc
 4f7eb25335f64bae2907c6f25a986866.co.cc
@@ -21912,6 +21912,7 @@
 5278ds.cn
 527b060d10623a07a1b5b35556023b65.co.cc
 52819bdc1a97cc1c6c6db4a6b1aa28a1.co.cc
+52869881.de.strato-hosting.eu
 52970f30dba605ac4f5e21c6bf2f23ee.co.cc
 52fc7k.cn
 52libra.cn
@@ -21945,10 +21946,10 @@
 548d683fac651d8fd64de1283e7b9dde.co.cc
 548fbf273f17667ec254f9ae269dce99.co.cc
 54a506bccfc857f807d741807174108b.co.cc
-54aedef26f6c4e4953c8f680ce481500.co.cc
 54be7e942b2bd25a598a8b278711b864.co.cc
 54bkuod.cn
 54bsee.cyou
+54jjza.am.files.1drv.com
 54tbiy.cn
 5502b2813f0f28571a99444891e4861c.co.cc
 553699312.space
@@ -21999,7 +22000,6 @@
 585kp.cn
 587ea20dd28b4caf6b7974327f27d382.co.cc
 5896b1a88fc107598c517b4888ef125f.co.cc
-58e09527fa29893ded43a41baf1d54fc.co.cc
 58k3jw.cyou
 58rong.cn
 58y2x12.cn
@@ -22029,7 +22029,6 @@
 5b322e16d745b10800c7cfc1f2fee01f.co.cc
 5b5si92.cn
 5b97be67926be7440e57573b83fc80d7.co.cc
-5ba06683fdd82ec9ce61f6424954d0fe.co.cc
 5bbia.cn
 5bdb6a2ff02ee504fbad3ef68393b431.co.cc
 5bdd0f9bf49462c926902264e4fbf282.co.cc
@@ -22513,6 +22512,7 @@
 712ymf.cyou
 716e8c75d6d88fefe6193ae81f9542aa.co.cc
 71709c689ad408777404166f297db248.co.cc
+7182ded83b66a9ea66527b62e1dcd4ed.co.cc
 71a0c1bef328d57cfaec50ad3d1d8972.co.cc
 71a9571fa3798cea8ae4083bad5741ab.co.cc
 720npc5.cn
@@ -22570,6 +22570,7 @@
 760ud.cn
 76157fb5e7936defc75480e731b70e83.co.cc
 76214e64852624f08209dbdb84d59e55.co.cc
+764bf8ac1d024a9ba196fab24d7ce6b3.co.cc
 764de412a6e9b928d14ff30484a82024.co.cc
 76502c5d1de39e09a451ff730d315e71.co.cc
 7650.hopto.org
@@ -22694,7 +22695,6 @@
 7dv3.cn
 7d.wf
 7e37ea0ba8fd6adeffe14da7ad9e2432.co.cc
-7e46cffbf3c0bba01a2de0d283196c80.co.cc
 7e68d610dd666fee19486ea438efcec8.co.cc
 7e850d268bdb0c68cfd3e88e628f92ba.co.cc
 7e9396fb34dfa91e64071c40ac390ba6.co.cc
@@ -22763,6 +22763,7 @@
 7nuqr3.cyou
 7on8sr.cn
 7onjbm.cyou
+7owbpjafakxho4yc.info
 7oyw1c.cyou
 7p4zh37.cn
 7p584e.cn
@@ -22809,7 +22810,6 @@
 7z4px7c.cn
 7zjki4r-07v.cn
 7zz7.xyz
-8002c758471508a6b2a8ea9ed01cfc93.co.cc
 800f506.cn
 802e3902b9fe5383c26f469e603b8074.co.cc
 8049ec489637e389c7b8e65ce3f1994f.co.cc
@@ -22833,6 +22833,7 @@
 81b2826a39d6c61a9f00ebb21328494d.co.cc
 81itg5.cyou
 823b62984bbf42f68fccc3b6feb976dd.co.cc
+824469e4eb592f6974df48a2dceaacd3.co.cc
 827e22f2e1433d0a.azureedge.net
 827p2.cn
 8281d159e61be30ae0f96bdac1b0f345.co.cc
@@ -22907,6 +22908,7 @@
 86588ba7a5a8afb62d7f07a7a3cb0876.co.cc
 8674fhq.cn
 869676fa5349661b90ab3525f44f46b9.co.cc
+8698e15293a1f86147e4d84062221d9f.co.cc
 86a511ee69f051bbb339618df9b8a9f3.co.cc
 86b9wp.cyou
 86de529cf02f5a4b5f21e51b79b7d765.co.cc
@@ -23136,6 +23138,7 @@
 90185077e448d94da1e0d4e5d1595430.co.cc
 901a4daed04c8b754f638ee5f25a4260.co.cc
 901z7d.cn
+9028544d9858f92f618a28477eecbc37.co.cc
 906664f500e56d2b18e0867cb9fa838f.co.cc
 906faa9e4e7f2ff08140ea03da53d32b.co.cc
 90712126c3505f2085e23fcae4fe2efa.co.cc
@@ -23272,7 +23275,6 @@
 99w97k.cn
 99xzk1.cyou
 9a3054590a3a66987323c98c0148a20f.co.cc
-9a38186829cab1e53c9850c1d6314501.co.cc
 9a9yzjsv.cn
 9aad8ebd87396010b403c759b48878ce.co.cc
 9afbc9982a9bccb0796b3a5b5a17d450.co.cc
@@ -23342,7 +23344,6 @@
 9f23a83449694dc84816ceedbd78d8f8.co.cc
 9f4f1ee41c46d11b345bd2c17930688e.co.cc
 9f5e1c3e432ddc9a78eab0befebdd7ff.co.cc
-9f5fea41ea42ee74e0e98e0ad6ef79ee.co.cc
 9f6x1w.cyou
 9f72faf5545ac0c69e435a84c97e0b1c.co.cc
 9fae2dba48737fb21f7b724de6d44f0d.co.cc
@@ -23460,7 +23461,6 @@ a0386457.xsph.ru
 a0392617.xsph.ru
 a0394307.xsph.ru
 a0395941.xsph.ru
-a03ffca3351aa7c930126bd693d7cc01.co.cc
 a0402552.xsph.ru
 a0403929.xsph.ru
 a0407571.xsph.ru
@@ -23504,6 +23504,7 @@ a0bx8.top
 a0bz4.top
 a0bz5.top
 a0bz6.top
+a0c9f9f243b1314badd91c48ed3e87d0.co.cc
 a0ca2.top
 a0cb4.top
 a0cb6.top
@@ -23587,7 +23588,6 @@ a62f785d91a237bbb4832e7b3581e18a.co.cc
 a682p5.cn
 a6-amazon.top
 a6-amazon.work
-a6b5a0bf365a03f045c0045a46fe02dc.co.cc
 a6b6a5b205873b2fedf73321c52d0ae3.co.cc
 a6ddb9b139a2a67ea177ef4faa4d4638.co.cc
 a6ece9f97e62298a6058643545c4fff0.co.cc
@@ -23722,6 +23722,7 @@ abonnement-amazon.com
 abonnement-client-netflix.com
 abonnement-netflix.info
 abonnement-netflix.ml
+abonnement-renouvellement-netflix.com
 abortdefer.top
 abortdiscern.top
 abortreputable.cn
@@ -23986,7 +23987,6 @@ account-oauth-gmail.com
 accountpartisan.online
 accountprotection-microsoft.4pu.com
 account.protonvpn.store
-account.restorelogin.com
 accounts.amazones.care
 accounts-amazon.ygto.com
 accountsc-microsoft.ns01.info
@@ -24419,7 +24419,6 @@ administratorr.website
 admin.login.tanadeileoni.it
 admin.m-applepay.com
 admin.netflix.apwpro.store
-admin-update-amazon.co.jp.11671.cn
 admirableconvoy.top
 admirablenotorious.top
 admirablesalon.top
@@ -24453,6 +24452,7 @@ admittedlyssion.top
 adm.twitter-events22.com
 adnceaccin.top
 adnoc.biz
+adobe-acrobat-download.space
 adobefile.ru
 adobetmcdn.net
 adogeevent.com
@@ -24815,6 +24815,7 @@ agwrngkp.net
 agxcvxc.ru
 agybom.cn
 ah9q0u.cn
+ahah.3322.org
 ahamna.cn
 ahdvzcnhwyhbzsckfuvjba.biz
 aheadenvoy.top
@@ -24930,6 +24931,7 @@ akoneem.cn
 akphmfmvunmfrtlbvqehxxcpe.biz
 akqf6.com
 akqg5tkmhldqtcug.info
+aksaholdings.com
 aksconsulting.us
 akses-layananlogin.indobri-id.asia
 akseslayananlogin.namaaja.site
@@ -25012,6 +25014,7 @@ alivealmighty.top
 alivedeadlock.top
 alivod.med126.com
 aliyunvr.cn
+aljassimaluminium.com
 alkaliodplus.com
 allaboutinstagram.micro.blog
 allabsorb.top
@@ -25190,6 +25193,7 @@ altertrivial.top
 althoughcertify.top
 althoughcrude.top
 althoughswap.top
+alt.hrgsm.com
 altitudearea.top
 altitudedweller.top
 altitudejudicial.top
@@ -25218,6 +25222,7 @@ aly2um.com
 alyaskafond.su
 alzawvcghupuhkgknrdifr.biz
 amaenz.store
+amairadearmasmena.ddns.net
 amaladin.com
 amannexation.top
 amanzon.co.jplogin2g3hdf5j.florajet.cn
@@ -25286,7 +25291,6 @@ amazonad.top
 amazon.afe.wiki
 amazon-affiliate-co-kr.sru.vos.mybluehost.me
 amazon-affiliates.4nmn.com
-amazonagency.xyz
 amazon.agodubai.com
 amazonair22.micro.blog
 amazonair.micro.blog
@@ -25416,7 +25420,6 @@ amazoner.fr
 amazon.ertyrtw.ga
 amazones.help
 amazon-facturation.com
-amazon-facturations.com
 amazon-facture.online
 amazonfbamastery-club.eme.rpq.mybluehost.me
 amazon-fba-scrapper1.zich.space
@@ -25437,7 +25440,6 @@ amazong.top
 amazon.hcjbj.net
 amazonhealthreview.micro.blog
 amazonhelpcenter.com
-amazonhomee1.homepageoverview1.cloudns.ph
 amazonhomes-us.ccb.aeh.mybluehost.me
 amazonhome-us.ccb.aeh.mybluehost.me
 amazonhotsale.top
@@ -25616,7 +25618,6 @@ amazon-serviice.work.gd
 amazonserviice.work.gd
 amazonserv-jp.tk
 amazon-shoopping-look.buzz
-amazon-shopping999.com
 amazon-shop.xiawe.xyz
 amazonsince2022siginverifyautomaticdebit.duckdns.org
 amazon-six.top
@@ -25690,6 +25691,7 @@ amazon-wallets.com
 amazon-webapp.com
 amazonweb.top
 amazonxile.top
+amazonyd12.com
 amazonyogaproject-org.xrw.lwj.mybluehost.me
 amazon.yuyuhopamazon.com
 amazon-zc.buzz
@@ -26083,6 +26085,7 @@ anybodyhurricne.top
 anybodypractitioner.top
 anybodyunveil.top
 anydesk.ml
+anydeskos.com
 anydwell.top
 anyfojhs.top
 anyhowdestined.top
@@ -26135,7 +26138,6 @@ apbffhs.cn
 apearbitrate.top
 apeshaft.top
 apexelectronics-au.com
-apexklu.com
 ap-health.cn
 api.caseidlapaamazon.com
 api.casekasusidamazon.com
@@ -26288,13 +26290,13 @@ apple-acp-support-online.com
 apple-ac.top
 appleaidrepair.bvt.sei.mybluehost.me
 apple-airtag.us
+apple.alert-found.live
 apple-alert-i.live
 apple.alert-info.co
 apple.alert-support.co
 apple-aol.com
 apple-appauthend.4nmn.com
 apple.appletwfolder.com
-apple.appletwicloudlock.com
 apple-args.us
 appleau.info
 apple-auth.connect-maps.net
@@ -26465,10 +26467,8 @@ appleone.mycpanel.rs
 appleone-rs.appleone.mycpanel.rs
 apple-online-events-support.com
 apple-online-store-support.com
-apple.onlinesupport-au.com
 apple-online-support-seed.com
 apple-online-suspended.com
-applepay-approve-wallet.com
 applepay.au-suspension.one
 applepay-confirm-activate-acc-auth.com
 apple-pay-conifirm-acc.com
@@ -26484,7 +26484,6 @@ apple-pay-login.com
 apple-pay.myvnc.com
 applepay-online.com
 applepay.pending-via.com
-applepay-re-activation.com
 applepayreactivation-uk.com
 applepayreactivationuk.com
 applepay-renewdashboard.com
@@ -26513,6 +26512,7 @@ apple-prn-support-online.com
 apple-products-4-less.com
 appleproducts.co.uk
 appleprov1.ipifony.com
+apple-ptz.ru
 applepubg.my.id
 apple.randoco.com
 applered.edu.vn
@@ -26533,6 +26533,7 @@ appleserver-customer.cloud
 appleservice1.com
 appleservice.at
 appleservicecancel.ddns.net
+apple-service.cf
 appleservices.com-ids.in
 appleshadow.ru
 apple.sjbcdc.org
@@ -26577,7 +26578,6 @@ appleturkiyeservis.com
 apple-twac.com
 apple-ubication.bigboss-mx.com
 apple-uk.top
-apple.ultracombos.net
 apple.unic.ooo
 appleunveils.com
 apple.us-findmy.info
@@ -27409,8 +27409,8 @@ ausnz.net
 austrade.au
 australiadish.bar
 australianmorningnews.com
+auth3-login.serveusers.com
 authchecks.com
-authclient-netflix.com
 auth-cyberlogin.com
 authenticate-login.com
 authentication-facebook.bestwayforyou.click
@@ -27575,6 +27575,7 @@ availeye.top
 availliner.top
 avbouanj.info
 avbury.tw
+avcierhu.cf
 avengebloc.cn
 avengefling.site
 avengetraumatic.work
@@ -27752,7 +27753,6 @@ b0l69o.cyou
 b0qk2g.cyou
 b0s2d2.cyou
 b10-amazon.top
-b11a68af2ba522d93c18cd945307bcd6.co.cc
 b12a19aabf29de5026c9aceb6742e814.co.cc
 b1405b8b12702db56359775d0c5ce4de.co.cc
 b14-amazon.top
@@ -28126,7 +28126,6 @@ barbloc.top
 barcaptive.top
 barched8.beget.tech
 barcla.ug
-barclaylogin.duckdns.org
 barcoindo.com
 bardistil.top
 bareaspiration.top
@@ -28817,7 +28816,9 @@ billing.secureapi.net.au
 billing.seosubmit.com
 billing.silvassabottling.com
 billingsinjurylawyer.8ad521f84b2741479.temporary.link
+billingsmakerspace.com
 billing.sollfllare.com
+billingspaintservice.micro.blog
 billing.sushl-swap.net
 billing.suslhlswap.com
 billing.suslhlswap.net
@@ -29412,6 +29413,7 @@ bq6lw0.cyou
 bqbrjqz.cn
 bqebmuz.cyou
 bqjbbogjeaa.info
+bqkqug.db.files.1drv.com
 bqkssn.top
 bqllwj.cn
 bqlw7s.cyou
@@ -29935,7 +29937,6 @@ bwefow.top
 bwemfjhjk.friend-match.com
 bwfc0e.cn
 bwgais6.cn
-bwigamazon.com
 bwjfjmova.info
 bwjyy.ws
 bwmaca.net
@@ -30121,7 +30122,6 @@ c7bff73e0b526797da887a9a9b055c7e.co.cc
 c7d1bd78686cd7a292f3f60348fd3f5c.co.cc
 c7.lc
 c7wxib.cyou
-c827a3ef1fd2271d3fcbe6fe45b044b4.co.cc
 c82c9s.cyou
 c84d58c26358859d6844ea6bb29925ad.co.cc
 c8535e4d35035e20fba9a4192192ced5.co.cc
@@ -30183,6 +30183,7 @@ cablemelody.top
 cablesuperintdent.top
 cabletentative.top
 cabstatic.top
+cacerts.digicert.com
 cactusfuel.top
 cad39b0d6042b802cfa4fa49c5531769.co.cc
 cadht2h.cn
@@ -30450,6 +30451,7 @@ carecorrelation.top
 careerallude.top
 careerassorted.work
 careergasp.top
+career.huawei.com
 careertimid.top
 care-finance-desklogin.dns-dns.com
 carelessfragrance.top
@@ -31127,10 +31129,10 @@ chatgrupwhatsapp-admin8.webdns.eu.org
 chatgrupwhatsappadmin.offcial.cf
 chatgrupwhatsappbjhdsfbchsdj.dnsme.eu.org
 chat-grup-whatsapp-kayes20juta-hot.terbaru83928.my.id
+chatgrupwhatsappsdnbfgwef.dnsme.eu.org
 chatlens.top
 chatonmywhatsapp123.jhedamblizt.fun
 chatrupwhatsappdbcjsfejgfefhjs.dnsme.eu.org
-chats.amazonagency.xyz
 chatt-whatsapp.my.id
 chatwhatsapp-bokep-7189022.rgmediatech.my.id
 chatwhatsappbokepterbaru2022.duckdns.org
@@ -31639,6 +31641,7 @@ cleverevoke.top
 cleverlayer.top
 clfchnnukllp.com
 clfpchnlp.com
+clhulg.ph.files.1drv.com
 clickbank.space
 clickbuddhist.top
 clickcase.top
@@ -31748,8 +31751,10 @@ cloud-myaccount-mail.ru
 cloud-my-accounts-mail.ru
 cloudpremise.top
 cloudrecipe.top
+cloudsintheslack.com
 cloudsphere.com.mx
 clouds.rf.gd
+cloudsslack.com
 cloudstapler.top
 cloudsubordinate.top
 cloudupdatesss.com
@@ -31807,6 +31812,7 @@ cnableak.top
 cnam.myvnc.com
 cncernafguard.top
 cncmtd.cyou
+cncooksware.com
 cndenationlgevity.top
 cnfglgreat.netsociality.com
 cngfqoemxjiy.org
@@ -31997,6 +32003,7 @@ collectionpersecution.biz
 collectivemediation.top
 collectmilitancy.top
 collectrig.top
+collectyoursordersnow.com
 collegetrillion.top
 collidesoothe.top
 collisionbuffer.top
@@ -32445,7 +32452,6 @@ compsiteawk.top
 compteamazon.fr
 compte-amazon.info
 compte-netflix.fr
-comptenetflix.net
 compte-netflix.services
 compulsorycommend.top
 computaonexempt.top
@@ -32611,7 +32617,7 @@ confinelivestock.top
 confineshipyard.top
 confirm-acc-auth-applepay-wallet.com
 confirm-apple.online
-confirmapplepay-wallet01.com
+confirm-apple-pay-re-activate.com
 confirmationproximity.top
 confirmencyclopedia.work
 confirmfebruary.top
@@ -33156,6 +33162,7 @@ convoyrobust.top
 convoystammer.top
 coo9qs.cyou
 cooc2-vip.xyz
+cooempresas10.ddns.net
 cookerhemisphere.top
 cookiearticulate.top
 cookiebenevolence.top
@@ -34115,6 +34122,7 @@ cxzozzx.cyou
 cy62976.tmweb.ru
 cy729fc.cn
 cy8t9k.cyou
+cyanteread.com
 cybercup-loginpage.pro
 cybercup-login.pro
 cyber-login.com
@@ -34170,6 +34178,7 @@ d06u57m.cn
 d0709185fd2d9f81b258cf01ab027105.co.cc
 d07235e947cc14fccedddc4da86d8a84.co.cc
 d079mz.cyou
+d089368c34f67cd0bfcdb7e69208dbeb.co.cc
 d09c2c3cac3db86352ac60f81f07803a.co.cc
 d09dafc226eb1cc708319799d3d16b45.co.cc
 d0a0c675e2a3e26da6c02ffe9110c6b8.co.cc
@@ -34399,6 +34408,7 @@ d95c34a15ebecc6e612e5ad5a49db0eb.co.cc
 d95cf631a6dc08443b2ab5988c0b8cf2.co.cc
 d974d5aca905c229205b3197f138da3e.co.cc
 d98b01185e093f6de732c50a474dc6ba.co.cc
+d9a1d380df1c216986131a3dc9b2dfc4.co.cc
 d9-amazon.top
 d9-amazon.work
 d9hs83f.cn
@@ -35529,6 +35539,7 @@ df6f6cafe9fdbdfd8636a931854b820f.co.cc
 df87b89a201c19de7667e10d4526e617.co.cc
 df9fiwp.cn
 dfa8a8cf4873aeccf80ac7d53ec28da3.co.cc
+dfc47c0d543667d67c2198535330d2cb.co.cc
 dfcworldcompany.com
 dfdb0de4830fe0061d8b5bbb00771c3d.co.cc
 dfdf55.buzz
@@ -35807,7 +35818,6 @@ dinnerauobiographic.top
 dinnercloak.top
 dinnerturtle.top
 dinosaurjudiciary.top
-dio06oitosyhcu4b.info
 dipbxk.work
 dipcatastrophe.top
 dipdreadful.top
@@ -36952,6 +36962,7 @@ e0iuoxb.cn
 e0t5fdr.cn
 e0vrv3.shop
 e13aeeb4c94ac2e52e1f5374534e4e12.co.cc
+e147d4dca4158edb51f3fe2df08b7c85.co.cc
 e14pj.cn
 e151y4.cyou
 e15bcf746808f2774b608b8cb4d2e9a2.co.cc
@@ -37061,6 +37072,7 @@ e8lywh.cyou
 e8mmej.cyou
 e8o6uu.cn
 e90677op.beget.tech
+e90dde61e50cacce942046cd0294ec67.co.cc
 e91cbc42981aea7a203c142cf63e56f7.co.cc
 e926e59a0d91c31d67ec5ab55269df0a.co.cc
 e92d8y.cyou
@@ -37074,7 +37086,6 @@ e9a9a248f789fe1449a36c2ef389ebdd.co.cc
 e9c479d98761607012324f74678ac895.co.cc
 e9c5cfa15951b2b6ec290b679ff610d6.co.cc
 e9f4sf.cyou
-e9f9df95836a355b9f6efb7eba583253.co.cc
 e9s783.cyou
 e9w0x9.cn
 e9.wf
@@ -37681,6 +37692,7 @@ eliteoverhaul.top
 elitepropaganda.top
 eliteturismo.com
 ellaic.top
+elmextrans.cba.pl
 elmmfel.cn
 eloginhilfe.micro.blog
 elogin.onefloridasavings.com
@@ -38351,7 +38363,6 @@ erectinertia.top
 erectinversion.top
 erectionbeckon.top
 erectlwsuit.top
-erenkarahan.com
 ergerenactmen.top
 ergyfrommo.cfd
 er.hatrpot.com
@@ -38453,6 +38464,7 @@ essenceflank.top
 essencegenuine.top
 essentialrecipe.tech
 essentialridge.top
+esserv.com
 establishmentmilitancy.top
 estatethrift.top
 estatewarrant.top
@@ -39305,9 +39317,11 @@ f29a19f5e91226f36fdb049db4739e5d.co.cc
 f2bc11eef675fd4f1d213b68e1580dc7.co.cc
 f2bee6babdbec8a429331c1a18c77fcc.co.cc
 f2d806b303ab0bfa88fc98cdcb133d71.co.cc
+f2dafb31deb111cb24b2f754630d4691.co.cc
 f2dfa5a063f3dbf8bce68c78d94320cb.co.cc
 f2ec8ce53f7bd20cb8d31a942ddf7699.co.cc
 f2ecef6bfc760313127f4aa3c7be283d.co.cc
+f2ef5a14f9529d453b99ba3c62389e23.co.cc
 f2f03e657e5c1ea1681e81f7433e77f9.co.cc
 f2f59e1773558a4a06da23367923e038.co.cc
 f2f605649e39722fcf1571e4b1f38993.co.cc
@@ -39351,6 +39365,7 @@ f5f6260ae1af0bba473ca2f17519d30b.co.cc
 f5xqzw5l.cn
 f606a0c4a95d782236bd2c0d1d69e0f3.co.cc
 f606e241821a8a136fdad7a90ecde8fa.co.cc
+f60b7941b85e35ef7df9603ded765fd8.co.cc
 f646d95f51e11b3cc403f260ec210955.co.cc
 f659170d2a73521ff8afe907e1417e05.co.cc
 f65b65304ae49ed4bfaa22ca70c73d59.co.cc
@@ -39384,7 +39399,6 @@ f8hveqp.shop
 f8n0tz.cn
 f904fa63c9d9b87f9dd7e980796dcd43.co.cc
 f9190ed5db80df6b05881f16692e565c.co.cc
-f974afd2712985875c11f49cd18b3bea.co.cc
 f977425ee25e52d7963d2de030c2c69d.co.cc
 f97a394f8d034d331948ab60525bf2f5.co.cc
 f993a22f324308edd85e0ad1e3d21bf4.co.cc
@@ -39442,6 +39456,7 @@ facebizarre.top
 facebook1.kaloyanmanev.com
 facebook2023.website
 facebook5.kaloyanmanev.com
+facebookandpremiums.life-benefits.info
 facebook-app.akut24.fi
 facebook.appmybiz.app
 facebookauth.eastus2.cloudapp.azure.com
@@ -39722,6 +39737,7 @@ fanlibaoer.cn
 fanrefute.top
 fanrough.top
 fanspectrum.top
+fantadentalperu.com
 fantasticcushion.xyz
 fantasticdrawback.top
 fantasticintermittent.top
@@ -39902,7 +39918,6 @@ fc21440951b99b87410155826d81de7f.co.cc
 fc2fb1fa5b1eda62e361c844baef42e3.co.cc
 fc4g7k.cyou
 fcaeb989e815d6bd042cddddd2d69538.co.cc
-fcbf560fa6168b63f5e9219295b60535.co.cc
 fcc1e548156ea28f81d5cf96fc0da4b2.co.cc
 fcd53f7a0470b765dd6513e31034609e.co.cc
 fcdinamo.ga
@@ -39946,6 +39961,7 @@ fdjsmw.top
 fdklmn.top
 fdmkglfdmlkgmf45.top
 fdngmn.top
+fd.onedrive666.workers.dev
 fdpj96.cyou
 fdqwmw.top
 fdradd.cn
@@ -40187,7 +40203,6 @@ fieriakm.cn
 fifteenamplify.top
 fifteenhysterical.top
 fifteenrigid.top
-fifth33payment.my-vigor.de
 fifthaggravation.top
 fifthexpirtion.top
 fifthliner.top
@@ -40281,7 +40296,6 @@ findmy-apple-gps.info
 findmy-appleid.us
 findmy.apple-inc.info
 findmy-apple.mx
-findmy-apple.ws
 findmyid-apple.com
 find-mylost-apple.com
 findmyphone-logins.cloud
@@ -40351,6 +40365,7 @@ firsttimeluv.com
 fiscalflush.top
 fiscalpilgrimage.top
 fiscalwithhold.top
+fish2008.3322.org
 fishabnormal.top
 fishdiminish.top
 fishenddog.xyz
@@ -40556,6 +40571,7 @@ flowerbenevolence.top
 flowerdenunciation.top
 flowerjurisdiction.top
 floweroff.top
+flowersinparadise.co.uk
 flowersoul.cyou
 flowerstewardess.top
 flowglamour.top
@@ -41021,7 +41037,6 @@ francearefrogs.xyz
 franceconnect-login.ddns.net
 franchiseaffixation.top
 francite.net
-francloginonline.com
 frankclasp.top
 frankdegradation.asia
 frankdeplete.top
@@ -41753,6 +41768,7 @@ geneticallystewardess.top
 geneticperch.top
 geneticquery.website
 geneticrey.top
+genius3016.pimp.fc2.com
 geniusastray.top
 geniusinsulation.work
 geniusmolecule.top
@@ -41866,6 +41882,7 @@ gfqov.cn
 gfr6gy.cyou
 gfucking.com
 gfvnkg.top
+gfxtra.us
 gg1593.c1.biz
 ggbox2.xyz
 ggement.top
@@ -41995,6 +42012,7 @@ git.billing.coinexa.pro
 git.billing.majesticbank.ru
 git.cal.twitter-events22.com
 git.crm.twitter-events22.com
+giteamazoniadijon.fr
 git.facebook.kazimedia.in
 git.foto.twitter-events22.com
 git.fs.twitter-events22.com
@@ -42381,7 +42399,6 @@ gokuoq.tw
 goldenallergy.top
 goldenapplekalpa.fzs.whn.mybluehost.me
 goldenapplekidz.com
-goldenapple.live
 goldenincorporate.cn
 goldenmonotonous.top
 goldenpremium.top
@@ -42402,6 +42419,7 @@ golfjeopardize.cn
 golfsteam.top
 goluckydraw.site
 gomaternal.top
+gondalarmes.com
 gonebt.tw
 gonjmm.tw
 gonmo.ws
@@ -42825,7 +42843,6 @@ grub18whatsappmy.duckdns.org
 grubwhatsappgairah.duckdns.org
 grubwhatsapp-okep-viral-2022.eren2.my.id
 gruposolel.com
-grupppwhatsappp2.duckdns.org
 grupwhatsapp18faixx09.zxd.my.id
 grup-whatsapp-98273.v2-com.site
 grup-whatsapp-bokep-viral-terbaru-2022.duckdns.org
@@ -43656,12 +43673,12 @@ helmetmarble.top
 helmetprecede.top
 helmetpreceding.top
 helmettemporal.top
+help3dpay-amazon.zzux.com
 help-accountlockedamazon.duckdns.org
 helpaccounts-amazon.zzux.com
 helpagencia.online
 help.amazontryprime.com
 help-applefcu-user2.mrbonus.com
-help-apple-pay.com
 helpappraisal.top
 helpcannon.xyz
 helpcordiality.top
@@ -43683,7 +43700,6 @@ helplesslyrash.top
 helplessratification.top
 helpmeinstagram.com
 help.newspraise.com
-helppayment.net
 help-paypal-account-id.4nmn.com
 help-paypal.link
 helppoise.top
@@ -44273,6 +44289,7 @@ housingpropel.space
 housingprosper.top
 houu0kp.cn
 hoverejection.top
+howardsgroveboosters.com
 howepivi.com
 howeverbrink.top
 howeverclasp.tech
@@ -44310,6 +44327,7 @@ hpud6lo.cn
 hpwq8d.cn
 hpz2bh1.cn
 hpzqar.tw
+hq92lmdlcdnandwuq.com
 hqbxeup.cyou
 hqcfhffufazlcxshfgndbtle.org
 hqenyn.tw
@@ -44362,7 +44380,6 @@ htitiwhz.org
 htjobznedbvsyrxhrnxsuuc.com
 htllpid.cn
 htmzrw2.cn
-htntcwttrsoo.com
 h-to-h.mixh.jp
 h.top4top.io
 http321.cn
@@ -44457,7 +44474,6 @@ humourspeciality.top
 humourstipulate.top
 hundreddismantle.top
 hundredrecurrence.top
-hungarfacebookconfirm4587788.phonesites.com
 hungecht.top
 hungerdwarf.top
 hungerenlist.top
@@ -45068,6 +45084,7 @@ imitativeultilateral.top
 imjgyc2.cn
 imkucyf.cn
 imlubu.myjino.ru
+imm1bkk.com
 immediateflush.work
 immediatespeciality.top
 immeiateaity.top
@@ -45460,6 +45477,7 @@ inexhaustibletornado.top
 inexhaustibletotal.top
 inexhaustibleunaware.top
 inexhaustiblevalid.xyz
+infacom.co.uk
 infantburglary.top
 infantcentury.top
 infantexpedition.top
@@ -45790,7 +45808,6 @@ inspirestereotype.top
 insta9ram-llogin.newlinkshre.xyz
 instagram.8q0.net
 instagram-account-support.com
-instagrama.cf
 instagramadadgecontestvoting.pages.dev
 instagram.agenciadetreinamentos.com.br
 instagram.al-webstudio.com
@@ -45813,7 +45830,6 @@ instagram.blancdigital.com.br
 instagram.box.tn
 instagramceklilimyap.tk
 instagram-clone-84d.pages.dev
-instagram-clone.live
 instagram-clone-sangwon.com
 instagram.cloudbunny.net
 instagram.cogentx.com
@@ -45870,7 +45886,7 @@ instagram-louise-brown.tk
 instagramlucrativo.com
 instagram.magento.obbstartersandalternators.com
 instagram.maikey.com
-instagram.maritaadams.com
+instagramma.online
 instagrammastery.naxatrameuva.com
 instagram-media-downloader.ouv.gpi.mybluehost.me
 instagram.medyasezonu.com
@@ -45885,7 +45901,6 @@ instagram.nidabilisim.com
 instagramn.top
 instagram.odestravardigital.com.br
 instagram-online.live
-instagram-password.burncode.az
 instagram-photos.com
 instagramphotos-secret.ml
 instagram-picture.gq
@@ -45902,6 +45917,7 @@ instagram-redirect.fr
 instagram.reelssocialmedia.website
 instagram.richasdy.my.id
 instagram-schrift.micro.blog
+instagram-secureserver.rf.gd
 instagram-securite.com
 instagram-security-8g2.pages.dev
 instagramsecuritylogin.tk
@@ -45916,14 +45932,12 @@ instagram-stranica.ru
 instagramstrategy.micro.blog
 instagramsupport.now.sh
 instagram-support-service.terrbarux2022.my.id
-instagram.tdawiplus.com
 instagramteam.rf.gd
 instagram.telifbildirimi.com
 instagram.thesoccerdoc.com
 instagramtoday.com
 instagramtour.sites.motocms.com
 instagramtracker.micro.blog
-instagram-tracking.pages.dev
 instagram-verification.com
 instagramverification.info
 instagram-verif-login.vibeads.wiki
@@ -46445,12 +46459,12 @@ iruta.ru
 iruvqgm.cn
 irving.msftvpn.ras.microsoft.com
 isadidas.xyz
+isagarlo.ddns.net
 isbx0qo.cn
 iscasbase.cyou
 iscm.edu.ar
 iscurnkxwmeioluxjbeqzi.org
 isczyob.cyou
-isecure.maulinamazon.com
 iserghini.com
 isfwqq.top
 ishorthand.top
@@ -46512,7 +46526,6 @@ iteratureconsol.top
 it-facebook.co.akut24.fi
 it-facebook-com.akut24.fi
 it.facebook.com.akut24.fi
-it-facebook.me.akut24.fi
 itfirhialonat.com
 it-ha.ru
 ithdoaz.cn
@@ -48818,6 +48831,7 @@ lingenxin.cn
 lingerexpiration.top
 lingering-sun-d17b.onedrivea.workers.dev
 lingersubmerge.top
+lingfand.3322.org
 linguiebris.top
 linguisticaristocracy.top
 linguisticoutfit.tech
@@ -49264,6 +49278,7 @@ login.aol.storage.googleapis.com.slmbc.lk
 login-apps-psk.mi-seguridad.com
 login.apretadores.com
 login.arbitrage.cryptostrategy.com.ua
+login-assistance.com
 login.asthainvestment.com
 login.atrasao.site
 login-attica-gr.com
@@ -49293,14 +49308,15 @@ login.authsecure.link
 login.auths-netflix.ca
 loginauth.xyz
 login.avfc.co.uk
-login.azure-org.est36.edu.mx
 login.b4t.kemenperin.go.id
 login.baby-ghosts.net
 loginbacordoba.com
 login.bahisgroup.com
 login.banana.secure-proxy.services
 loginbancurl.com
+login-bank.com
 login.bankid.no.sikkerhet-20.top
+loginbankigverify2022.click
 loginbankshoopy.com
 login.bbnphishing.tk
 login.benriyataka.com
@@ -49379,7 +49395,6 @@ logincitizensacct.mine.nu
 login-citizens-bank.servebbs.net
 login-citizens.cf
 login-citiz.webhop.info
-login.client-id.host.j1l.us
 login-cloud-account-mail.ru
 login-cloud-myaccount-mail.ru
 login.clrcles.life
@@ -49463,7 +49478,6 @@ loginerror.dynamic-dns.net
 login-erstbanka-hu.bond
 login.esykcorparation.tk
 login.eventosdourados.com
-login.everything2blog.com
 login.evilginx2.infinipoint.dev
 login.evilginx2.x90.io
 loginexcel.excellogindocument.workers.dev
@@ -49548,12 +49562,14 @@ login.info.poste.decizia.ro
 logininformasiterkini.com
 login-ing.info
 login-instagram-com.pages.dev
+login-instagram.neocoin.link
 login-instagram.pages.dev
 login-instagram.zerolinky.my.id
 login.intesasanpaolc.com
 login-in.us-post.in
 login.inveniolsi.cloud
 login.invite.msteamsonline.com
+login.iprofitwize.com
 login.iss-snub.ml
 login.itg-uber.ca
 loginit.org
@@ -49665,7 +49681,6 @@ login.microsoftononline.cf
 login.microsoft.queenslandnetworks.online
 login.microsoft.securewindowsupdate.com
 login.microsoft.servicemicrosoft.ga
-login.microsoft-services-09878.ml
 login.microsoftsshdfjazuresharepi.avantajbulvari.com
 login.microsoft.ssosignin.com
 login.microsoft.trumpspresidency.com
@@ -49757,9 +49772,7 @@ login.nto.relay-japans.life
 login.nto.relay-japans.top
 login.nts.eu
 login.o365.authcoupangapp.com
-login.o365.aviofficelogin.com
 login.o365.loginformwebsite.ml
-login.o365.ouroffice.online
 login.o365.securityportal.cloud
 login.o365.userid.ink
 login.o565log-in.ml
@@ -49787,7 +49800,6 @@ login.okta-eu.mait.fr
 login.okta.mait.fr
 login.okta.mayborrne.com
 login.okta.revacomm.org
-login.okta-salesforce.com
 login.okta-salesforce.net
 login.okta.zendesk-app.com
 login.ondriv.eu
@@ -49809,7 +49821,6 @@ login-openseo.top
 login.opr.gozendigital.com
 loginos.gr
 login.outluukweb.site
-login.owa-srf-client.auth.com-authentication.id
 login.owa-srf-client.authentication.id.xdelivery.us
 loginpagecup.com
 loginpagesummer.com
@@ -49899,13 +49910,10 @@ login.secured.login-infooffice.com
 login.secure.jdjrie.us
 loginsecure.one
 login.secure.ouroffice.skin
-login.securesuppprtcloud.com
-login.secureweb-microsoft.co
 login.securibuytherniroscodfyoutbook.mefound.com
 login.securibuytherniroscosftoutbook.mefound.com
 login.securibuytherniroscosfyoutbook.mefound.com
 login.securityportal.cloud
-login.seguridad-acceso-clientes.es
 login.seguridad-edenor.com
 loginseguro.solicitudefectivo.com
 loginselfserivceb2b.biz
@@ -50045,12 +50053,10 @@ login.wsu.edu.alikati.com
 login.wsu.edu.zetilapia.com.br
 loginxarth.tv
 loginx-caixa.com
-loginxcaixa.reativeapelidousuario.email
 loginx-cx-connect.com
 login.xflnity.online
 login.xn--80aao5c.com
 login.xperfect.club
-loginx.reativeapelidousuario.email
 loginxx.ddns.net
 login.yahoo.kjqhkaw.cn
 login.yahoo.vguocvr.cn
@@ -52133,6 +52139,7 @@ mirrorformidable.top
 mirrorthorn.top
 mirw.wf
 mise-a-jour-abonnement-netflix.com
+mise-a-jour-netflix.com
 miserableloot.top
 miserableplight.top
 miserablepropel.top
@@ -52303,7 +52310,6 @@ moalitretrieval.top
 moanfamily.top
 mobildenspotcclogin.ml
 mobildevgirisbirlogin.ml
-mobile-amazon.fr
 mobilecontrol.top
 mobile-design-for-login.pr.dsc.party
 mobilehip.top
@@ -52791,7 +52797,6 @@ mta-sts.steamsecurity.org
 mtb-demi-applet.tazo.live
 mtb-login07.serveftp.com
 mtb-login.com
-mtbonline01.redapple.com.bd
 mtbsecurelogin.ddns.net
 mtcrmadmin.agentcrmlogin.com.agentcrmlogin.com
 mth4p3.cyou
@@ -53012,7 +53017,6 @@ my-community-permission.ru
 my-community-place.ru
 my-community.ru
 my-community-smartlink.ru
-mycomm-unusual-activity-login.com
 mycomn.ws
 myconnexion-netflix.ddns.net
 mycrackfree.com
@@ -53047,10 +53051,8 @@ myguie.cn
 myhost.camdvr.org
 myhwoot.cn
 myicon.top
-myinbox-loginservices.com
 my.inside-apple.info
 myipadpro.us
-my.jclb-co.jp.login.jfxbx.top
 mylogin-authenticator.com
 mylogin-scotiaonline.com
 myloginshaw.com
@@ -53235,6 +53237,7 @@ nablogin.38894-au.online
 nablogin.device-web-au.com
 nabscoc.cn
 nac38dm.cn
+nach1900.homepage.t-online.de
 nadfhjkivehypothetical.top
 nadqt.cn
 naehfsulqmbygdtysyjmwpt.com
@@ -53666,7 +53669,6 @@ netflix.9q6r2.info
 netflix.abhirupnandy.click
 netflix-abonnement.ml
 netflix-abonnements.com
-netflixabonnementsfrance.com
 netflix-abonnement-web.fr
 netflixaccappnet-39.x3poweredby-netfl1x.info
 netflix-acces-help.com
@@ -53696,6 +53698,7 @@ netflix.agustinazua.com
 netflixandtag.com
 netflix.apget.store
 netflix-app-srv.ml
+netflixassistance-facturation.com
 netflix-assistanceusers.com
 netflix-assistant.com
 netflixassist.com
@@ -53730,7 +53733,6 @@ netflix-clone.chaseburr.com
 netflix-clone.constantine.dev
 netflixclone.deruwe.me
 netflix-clone-e69.pages.dev
-netflix-clone.github.io
 netflixclone.live
 netflix-clone-react-6if.pages.dev
 netflixclone.shareasecret.online
@@ -53752,7 +53754,6 @@ netflixconnexionweb.fr
 netflix.constantine.dev
 netflix-contact.fr
 netflix-custom.net
-netflixdc.ddns.us
 netflix.dcn-ie.com
 netflix-demo.samples.piral.cloud
 netflixdevapp.kyleboudewyn.com
@@ -53776,6 +53777,7 @@ netflixfatura.webhop.me
 netflixfeast.ddns.us
 netflixfinance.ddns.us
 netflix-flixi9.ns01.info
+netflix.foaly.xyz
 netflix-formulaire.info
 netflix-formule.info
 netflixfr-account-support.ml
@@ -53800,7 +53802,6 @@ netflixhelp.ca
 netflix-help-no.com
 netflix.help.oakvilleblades.com
 netflix-help-support.com
-netflix-holding.epizy.com
 netflixhold.top
 netflixhome.ga
 netflixhome.hopto.org
@@ -53808,7 +53809,6 @@ netflix-id.3263.info
 netflix.id3621.com
 netflix-id.5368.info
 netflix-id.64536.info
-netflix-id.6596.info
 netflix-id.98656.info
 netflix-id.com
 netflix-idecure.duckdns.org
@@ -53870,7 +53870,6 @@ netflixonline.shop
 netflixonlysupportcarenow.4nmn.com
 netflix-on.node4230.com
 netflix.onrender.com
-netflixo.top
 netflixp2p-server.ddns.us
 netflixpagamento.3utilities.com
 netflixpagamento.gotdns.ch
@@ -53946,7 +53945,6 @@ netflix-support-fr.info
 netflix-support.info
 netflix-support-recovery-team.com.grupopalmed.com.br
 netflix.supportsauths.com
-netflixsupports.cf
 netflixsupports-home.com
 netflix-support.su
 netflixsupportusa.biz
@@ -53967,7 +53965,6 @@ netflixupdate03.duckdns.org
 netflix-update.cf
 netflix-updated.9751.info
 netflix-updated-id.9752.info
-netflix.updated-id9865.info
 netflix-updated-id.99869.info
 netflixupdate.istylestore.cl
 netflix-update.myddns.me
@@ -53981,6 +53978,7 @@ netflix-verifications.com
 netflixverifications.com
 netflixverified.duckdns.org.aogmin.com
 netflix-verifi.fr
+netflixverifyaccount.insurveyindia.co.in
 netflixverify.yesvidya.com
 netflix.videowith.jp
 netflixvip.changeip.co
@@ -53991,7 +53989,6 @@ netflix.williamsmortgages.com
 netflix-working-now03wayysecureddnow-netflix.4nmn.com
 netflixx10.verifyservice.info
 netflixx29-23.verifyservice.info
-netflixx2.ddns.us
 netflix.xarvo.net
 netflixxseptemberverify73.verifyservice.info
 netflixxser.tk
@@ -54158,6 +54155,7 @@ ngadlqq.cn
 ngdrex.cn
 ngfnsjd.top
 ngi2yn.cyou
+nginx.web-framework-kesh.1398747042169696.cn-shanghai.fc.devsapp.net
 ngkeejr.cyou
 nglwvsihfrtbvyqmmvychjn.info
 ngndzt.cyou
@@ -55416,6 +55414,7 @@ oncomplimentary.top
 ondcyc.cn
 onderortodx.top
 oneappendix.top
+onedann.com
 onedentalbilling.micro.blog
 onedrive0001.workers.dev
 onedrive.12075354539642.workers.dev
@@ -55434,8 +55433,10 @@ onedrivefile.yanzhihao.workers.dev
 onedrive.ghipss.net
 onedrive.harveyhuang.workers.dev
 onedrive.hhhjjjkk.workers.dev
+onedrive.killgfat.workers.dev
 onedrive-kq7rt.ondigitalocean.app
 onedrive.l9js.workers.dev
+onedrive.live.com
 onedrive.mirmarkt.workers.dev
 onedrive.odch.workers.dev
 onedrive-proxy.daofengql.workers.dev
@@ -55448,7 +55449,6 @@ onedriveserver63.su
 onedrive.stanl.workers.dev
 onedrive.tang-cno118.workers.dev
 onedrive-tech.ml
-onedrive.unioreo.workers.dev
 onedrive.wyattapp.tk
 onedrive.x.1314.cool
 onedrive.younger.gq
@@ -56192,6 +56192,8 @@ oyelet.cyou
 oynvoym.cyou
 oyqggw.top
 oystermiracle.top
+oyvg6a.ph.files.1drv.com
+oywkla.ph.files.1drv.com
 oywpkip.cn
 oyzvmsr.cyou
 oz2if1.cyou
@@ -56470,6 +56472,7 @@ partnerdelusion.top
 partnerrattle.top
 partnershipfusion.top
 partnerspassion.com
+partners.twitter-events22.com
 partyalign.top
 partyconfirm.top
 pas6k2lv.cn
@@ -56683,7 +56686,6 @@ paypalallerts.com
 paypal-anti-fraud.com
 paypalasistances.com
 paypal-au.one
-paypal-auth-services.com
 paypal-au.top
 paypal.badtrip.elementfx.com
 paypal.cafecordoba.com.co
@@ -56694,9 +56696,7 @@ paypal.com-j3.xyz
 paypal.com-j4.xyz
 paypal.com-j5.xyz
 paypalcom.myhotmali.com
-paypal.com.ppintlscure.duckdns.org
 paypalcom.repl.co
-paypal-com-verify.radio.teslavision.tv
 paypal.confirmation.18-130-153-14.plesk.page
 paypal-confirmation.37-221-67-172.plesk.page
 paypal.connect-data.me
@@ -56791,14 +56791,12 @@ paypal-user-services.com
 paypal.ver1fyaccnt.secur22reban2king.cf
 paypalverif.213-232-235-149.plesk.page
 paypalverifaccount.com
-paypal.verification.guerramkt.com.br
 paypal.verification.secur22reban2king.cf
 paypalverifyacct.ddns.net
 paypalverify.dbspa.com
 paypal-verify.obucybertest.xyz
 paypal.verivication.limited-account.service.1.vilzfefac1.gq
 paypalwebapsperucres.shock-connect.com
-paypal-web-secured.com
 paypal.ygb.vlp.mybluehost.me
 paypasecureservice.com
 pay.paypalme.us
@@ -57414,10 +57412,8 @@ pinchslitary.top
 pindj.cn
 pinduoyu.com
 pineapplehomes.es
-pineapple.oe.cloudns.nz
 pineappleparadisesgi.qcj.idm.mybluehost.me
 pineapple-sale.com
-pineapple-test.oe.cloudns.nz
 pineappletrading-001-site1.itempurl.com
 pinedetached.work
 pinedisposition.top
@@ -57688,6 +57684,7 @@ playgroundhomogeneous.cn
 playgroundimmersion.top
 playnitrogen.top
 playrefutation.top
+playstoreamazon.games
 playtimes.top
 playword.top
 playzipgames.co
@@ -57836,6 +57833,7 @@ pockethypothetical.top
 pocketmultilateral.top
 pocketsymmetry.top
 pocketuranium.top
+pocoyo.ddns.net
 pocudamo.com
 podarchi-apple-vk.ru
 podcastcompany.top
@@ -59833,7 +59831,6 @@ radioactivityaide.top
 radioactivityslack.top
 radiocaca-login.info
 radioranch.top
-rafdxghrllentcvle.com
 ragbleach.top
 ragedlyide.top
 rageimmersion.top
@@ -60304,6 +60301,7 @@ redapplefinance.us
 rediffpapers.com
 redirection-amazon.com
 redirectme.net
+redirect.twitter-events22.com
 redirect.wister.biz
 rediriger.hextracshloginredirect.com
 redpremature.top
@@ -60954,6 +60952,7 @@ rest1.bbcinternationalnews.com
 rest2.bbcinternationalnews.com
 restartnetflix.duckdns.org
 restartpayment.com
+restauracemalahrastice.cz
 restauranthierarchical.top
 restaurantradiator.top
 restaurantreconcile.top
@@ -61074,7 +61073,6 @@ reversiblecurrence.top
 reversiblefuse.top
 reversibleprop.top
 revgefulprop.top
-review-anz-login.com
 review-applewallet-au.com
 review-applewallet-sec-au.com
 review-applewallet-security-au.com
@@ -61990,6 +61988,7 @@ santande.new-loginalert.com
 santander-netflix.empresascl.cf
 santuohuagongzd.cn
 sanyaz.cn
+saomao.cc
 sarcasmclearance.top
 sarcasmovert.cn
 sarcasticalmighty.cn
@@ -62397,12 +62396,12 @@ secure06b.appleaccount45634178.my.to
 secure07-paypal.ddns.net
 secure09l-login.servegame.com
 secure09login.com
-secure0a-logine.ddns.ms
 secure123netflix.redirectme.net
 secure2-netflix.duckdns.org
 secure2-netflixlogin.duckdns.org
 secure2store.appleid.liveblog365.com
 secure3dpay-amazon.ikwb.com
+secure3dpay-amazon.instanthq.com
 secure3dpay-amazon.itemdb.com
 secure3dpay-amazon.serveuser.com
 secure3dpay-amazon.x24hr.com
@@ -62417,6 +62416,7 @@ secureaccount-amazonupdatebillingjtetrer.4nmn.com
 secure-account-amazon.zzux.com
 secure.accountrecovery-amazon.ca
 secureafcu-login.ml
+secureamazon0host.duckdns.org
 secureamazon-informationbillinservicesgjosman.line.pm
 secure-anz-login-ib.com
 secure-auth-appleau.com
@@ -62452,7 +62452,6 @@ securedbillingpage.net
 securedjp-amazon.x24hr.com
 secured-netflix-infou03pdates-onlines.4nmn.com
 secured-netflix-supportsnow.4nmn.com
-securednetflix.zzux.com
 secured-srvrr-americanfirst-cu-login.4nmn.com
 secured-update-myrbfcu-org-login.4nmn.com
 secured-update-mywells-fargo-login0.4nmn.com
@@ -62464,7 +62463,6 @@ securefacebook.3utilities.com
 securefacebook.ddns.net
 secure.footballreviews.net
 secure.graviom.fr
-secure.hisasuamazon.com
 secureinstagram.duckdns.org
 secureinstagram.ingeniousbam.in
 securejp-amazon.25u.com
@@ -62572,7 +62570,6 @@ secure-ymail-dashboard-login-verify.dvrlists.com
 securisation-paypal.com
 securite-authnetflix.info
 securite.support-connect-netflix.fr
-security.appleid.app-l.me
 security.biawakcaseidamazon.com
 security.caseidlambungamazon.com
 securitycheckpointsamazon.pointdns.click
@@ -62592,8 +62589,8 @@ security-my-account.ru
 security-myaccount.ru
 security-myaccounts.ru
 security.mynetav.org
+securitynetflix.fr
 securitypaypal.redirectme.net
-security.restorelogin.com
 securitysneak.top
 securitysteam.top
 securitysymmetrical.top
@@ -63175,7 +63172,6 @@ shipmentdetach.top
 shipmentretaliate.top
 shipmenttopple.top
 shippingeye.top
-shippingpaymentorder.wonstasite.com
 shippingwardrobe.top
 shippingwretched.top
 shiptrickle.top
@@ -63795,8 +63791,11 @@ sl540z.cn
 sl8toi.cyou
 slabburden.top
 slackdinosaur.top
+slack-download.net
+slackicorp.com
 slack-mailchimp.com
 slacksaddle.top
+slackuk.com
 slam21concert.top
 slambleak.top
 slamcomplement.top
@@ -63881,6 +63880,7 @@ slipradiator.top
 sllcorrelate.top
 sllymultiteral.top
 slmnxh.cn
+slobstyle.com
 sloganamplify.top
 sloganbarrel.top
 sloganbruise.top
@@ -64380,6 +64380,7 @@ sophisticationbook.top
 sophisticationrash.top
 sophisticationsynthetic.fit
 soportedeapple.tech
+soporteshp.ddns.net
 sorehumiliation.top
 sorencai.cn
 sorerein.top
@@ -64674,6 +64675,7 @@ speedingspiral.top
 speedlimp.top
 speedlipstick.top
 speedmartyrdom.top
+speedtest.twitter-events22.com
 speedyhand.top
 speedyskeptical.top
 speedyterminate.top
@@ -64910,6 +64912,7 @@ springshove.top
 sprinkleruthless.top
 sprinthunter.com
 sprint-idg.net
+sprintmedia.xyz
 spsectacular.xyz
 spshdnwsxkuymy.org
 spt-dash.com
@@ -65286,6 +65289,7 @@ steam00371.asia
 steam360.edu.vn
 steamacommumity.com
 steamacommunily.com
+steam-api.kenrich.io
 steam-backlog.com
 steamboarder.micro.blog
 steamboatspringscommunityalliance-org.gbr.zwq.mybluehost.me
@@ -65308,6 +65312,7 @@ steamcommcuntiy.ru
 steamcommeneity.com
 steamcommenety.ru
 steamcommenuty.ru
+steamcommiinity.com
 steamcomminiy.ru
 steamcomminty.com
 steamcomminuty.cfd
@@ -65326,10 +65331,12 @@ steamcommnunilty.ru
 steamcommnunuty.ru
 steamcommuhlty.ru
 steamcommuiny.com
+steamcommumity.co
 steamcommumity.su
 steamcommumlty.ga
 steamcommumnty.store
 steamcommuncity.top
+steamcommuneiity.ru
 steamcommuneity.top
 steamcommunetiy.ru
 steamcommuneuty.com
@@ -65443,6 +65450,7 @@ steamcommunityzxcw.top
 steamcommuniyy.ru
 steamcommunllity.ru
 steamcommunlly.net.ru
+steamcommunlly.org.ru
 steamcommunlty.it
 steamcommunltym.ru
 steamcommunltyy.ga
@@ -65460,6 +65468,7 @@ steamcommunutiy.ru
 steamcommunuty.co
 steamcommuonity.com
 steamcommurnnity.com
+steamcommutly.com
 steamcommuuity.ru
 steamcommuulty.ru
 steamcommuumity.com
@@ -65497,6 +65506,7 @@ steamcomnunuity.ru
 steamcomnyunity.com
 steamcomrnunlty.com
 steamcomrnunnity.ru
+steamcomrunity.com
 steamcomrunnity.com
 steamcomumity.site
 steamcomumnnity.ru
@@ -65519,7 +65529,6 @@ steamconmnunlty.com
 steamconmulity.com
 steamconmunity-com.ru
 steamconmunityn.com
-steamconmunty.ru
 steamconmunyty.ru
 steamconnmnunity.com
 steamconnmunitty.com
@@ -65563,7 +65572,6 @@ steamfullmarket.com
 steamgamespc.com
 steamgiftcard.micro.blog
 steam.guesskings.com
-steam.headcruncher.net
 steam.hebeirongying.xyz
 steamid.cz
 steaming.shop
@@ -65903,6 +65911,7 @@ strangevtilaion.top
 straparmor.top
 strapshepherd.top
 strarwars.zzz.com.ua
+strassenburgpharma.biz
 strategyelaborate.top
 strategyimperative.top
 strategylater.top
@@ -66014,7 +66023,6 @@ studentendorse.top
 studenthome.top
 studentimage.top
 studentlinguistics.top
-studentlogin.colombohotelschool.com
 studentstandby.top
 studentwicked.top
 studioconcept-stand.com
@@ -66380,6 +66388,7 @@ sundaydetachment.top
 sundayoverturn.top
 sundaysignify.top
 sunfeat.top
+sunflower-investment.su
 sunlightconfederate.top
 sunlightdf.xyz
 sunlightescalate.top
@@ -66516,6 +66525,7 @@ supporterpetrochemical.top
 supporterruthless.top
 supportexpiration.top
 support-francenetflix.fr
+support-help-netflix.com
 support-infrmtionlockedacc01amazon.duckdns.org
 supporting-fund.xyz
 support-instagram.tech
@@ -66821,6 +66831,7 @@ sweetbdfdfurglary.top
 sweetbout.top
 sweetburglary.top
 sweeterosive.top
+sweetmata.com
 sweetminority.top
 sweetmonarch.top
 sweetpresumption.top
@@ -67512,6 +67523,7 @@ tenderyearn.top
 tendiary.top
 tendmeadow.cn
 tendmurmur.cn
+tenlightingsl.com
 tenniscomplacent.top
 tennisfinite.top
 tennisspot.top
@@ -67580,7 +67592,6 @@ tertiaryponder.cn
 tes2f.tw
 tesco-onlinelogin.com
 teslatradingbot.com
-test1.amazonpublishingcentral.com
 test1.ln22.cf
 test4h.cyou
 test9812.site
@@ -68983,6 +68994,7 @@ tuitioncompassion.top
 tujinglvyou.cn
 tukiled.com
 tukkawj.cyou
+tuk-vi.collectyoursordersnow.com
 tumblejob.top
 tumblelipstick.top
 tumblesovereign.top
@@ -69694,6 +69706,7 @@ update-amazon-payments-turu.4nmn.com
 updateapiweb.com
 updatebillingprime-membershipservices-paymentaccount.dynssl.com
 updatebronze.top
+updateea1.com
 update.falsh.cf
 update.hilifimyanmar.com
 updatehurl.cn
@@ -70007,6 +70020,7 @@ uyerkz.cn
 uyhrj.cn
 uyiojpy6uui980p.onedrive0001.workers.dev
 uynlro.top
+uyoman.duckdns.org
 uystravel.cn
 uytricmpreprom.com
 uyy30q.cn
@@ -70022,6 +70036,7 @@ uzffprlsk.ws
 uzn3kg.cyou
 uzoclouds.eu
 uztahypqkhn8yzn.bar
+uzuxulfbssfje6w.nft.twitter-events22.com
 uzzbcfa.cn
 v07p4s.cn
 v0.cx
@@ -71573,7 +71588,6 @@ webdesk.email
 web-df.hb-jdh.sxz.coinbaseelogins.com
 webdisk.bdm-sa.fr
 webdisk.login.mailingtracking.com
-webdisk.proremontapple.40mobi.ru
 webdisk.twitter-events22.com
 webdraw.club
 webelasticity.top
@@ -71742,6 +71756,7 @@ west1-appamazonservice-us148921.zxkesuiegcjwzz.xyz
 westamiable.top
 westbald.top
 westbeast.monster
+west-cool.starshealters.com
 westcorpse.top
 western-billing.cloud
 westerndressing.top
@@ -71892,7 +71907,6 @@ whatsapp.os.techspawn.net
 whatsappos.xyz
 whatsappp.co
 whatsapppk.com
-whatsappplusapk.micro.blog
 whatsappp.me
 whatsapp.pontalsaude.com.br
 whatsappqw.work
@@ -72036,6 +72050,7 @@ whosewrestle.top
 whr2wor2.top
 whss66.cn
 whtwtz.cn
+whucprotections.com
 whwoghq.cn
 whybutt.top
 whydart.top
@@ -72045,6 +72060,7 @@ whyzealous.top
 wi0qnk.cyou
 wi6vla0.cn
 wiandukachelly.com
+wiatraki1panele.com
 wibftr.cyou
 wid1uf.cyou
 widcards.abousts.fabioabreu.net
@@ -72097,6 +72113,7 @@ willceramic.top
 willconceive.top
 willcork.top
 willgreedy.top
+williamsburgsoccertrainer.com
 willieinstagramvoting.pages.dev
 willingcontagious.top
 willingfoster.top
@@ -72186,6 +72203,7 @@ wirelessmr.top
 wirelessplausible.top
 wirereservoir.top
 wireuphold.top
+wirtualny1zamosc.com
 wisdomabort.top
 wisdomdefense.top
 wisdomoxide.top
@@ -72208,7 +72226,6 @@ wisemeticulous.top
 wisemirror.xyz
 wisemixture.top
 wisemorale.top
-wisepayment.me
 wisepotent.top
 wisesteward.top
 wisethey.top
@@ -72577,7 +72594,6 @@ wvzpthvdut.ws
 ww16.amazon.dogkr15djgis8khgskyj.doairphdor.com
 ww4-mtpayment.online
 ww6.000webhostapp.com
-ww6-paypal.serveusers.com
 ww6x3n1.cn
 wwcltlzensweblogin.serveusers.com
 wwdc.czechapple.cz
@@ -72589,6 +72605,7 @@ wwqquhclytd.ws
 wwrkg.cn
 wwrlbs.work
 www.0xff.digital
+www.163.com
 www1.arnazon.co.jploginfng7f3g4s.stormmovie.cn
 www1-digital-login.com
 www2883.cn
@@ -72623,13 +72640,11 @@ www2.amezon.co.jplogindf534gf5.topyami.cn
 www2.amzonn.co.jologindgf4fgf4hj6.hackerice.cn
 www2.arnazon.co.jp.login.bailingshop.cn
 www2.arnerican-express.login.com.28966.cn
-www2.arnerican-express.login.com.hlghldb.cn
 www2.arnzaon.co.jplogindf8bid3hk9.promotionstar.cn
 www2.arnzaon.co.jploginhfg8d9.cnwanglili.cn
 www2.epos-card.co.jploging3fh5sf4.forqy.cn
 www2.epos-card.co.jploging3fh5sf.cicsz.cn
 www2.jcom.co.jplogin3df4uy8hg.czgenyuan.cn
-www2.jreast.co.jplogin.cvhinamacro.cn
 www2.mercari.co.jp.login.29866.cn
 www2.mercari.jploginer3sd2gd4.25266.cn
 www2.myjcb.co.jologin.aihetea.cn
@@ -72666,8 +72681,10 @@ www.aerobicsfit.com
 www.affice366.com
 www.agencybuilderforum.com
 www.agenlexispkr.xyz
+www.aibrey.com
 www.ajparts.co.uk
 www.akatsaestateinterior.co.ke
+www.aktion-fernsehturmspitze.de
 www.alfrednelson.com
 www.aljubab.com
 www.almoeqatar.com
@@ -72699,6 +72716,7 @@ www.beachloungespa.com
 www.bengalcement.com.bd
 www.bestcom.dns2.us
 www.bidsd.justdied.com
+www.bing.com
 www.bing.ikwb.com
 www.birebiregitim.net
 www.biz.pcanywhere.net
@@ -72712,6 +72730,7 @@ www.cacconsults.com
 www.careofu.com
 www.cbn-cargo.co.id
 www.cdbweb.vip
+www.cendla.xyz
 www.cenomp.com.br
 www.centers.allowed.org
 www.charmingsoftech.com
@@ -72724,10 +72743,12 @@ www.co-gpco.com
 www.coinbasedefi-pro.com
 www.coinbasedefi-pro.xyz
 www.colegionewtonsatipo.com
+www.comfortableleaves.top
 www.communityinsuranceut.com
 www.conceptagency.net
 www.confurn.net
 www.coolwick.com
+www.cooperlawnservice.dev
 www.ct666666.com
 www.cworks.site
 www.daxberger.at
@@ -72742,6 +72763,7 @@ www.destinny.com
 www.dobreprogramy.pl
 www.dockudos.info
 www.donfes.xyz
+www.dorakawycz.de
 www.dotalogy.com
 www.drevom.online
 www.drivemytrains.xyz
@@ -72792,6 +72814,7 @@ www.get.adobe.com.aspx.io
 www.getadobe.dns-dns.com
 www.ggdddhm.tk
 www.git.git.facebook.kazimedia.in
+www.glamone.eu
 www.gogojackmin.com
 www.goinuffies.com
 www.googledrivercould.serveuser.com
@@ -72834,6 +72857,7 @@ www.jacenter.org
 www.jeuxjetx.fr
 www.jjj.ns02.us
 www.jmegolfmedia.com
+www.jsneibuquangf.com
 www.junaidsubhani.tech
 www.kaccount.moneyhome.biz
 www.kahtamarkalar.com
@@ -72852,6 +72876,7 @@ www.kmember.wikaba.com
 www.ktwods.lflink.com
 www.ktwords.lflink.com
 www.kyivstar.online
+www.l37insights.com
 www.lanyuelou.com
 www.lastsummercog.com
 www.lavameapp.com.ar
@@ -72892,6 +72917,7 @@ www.mooreandsonsak.net
 www.movementspecialistslv.com
 www.mpsdtupdsda.ezua.com
 www.mptudp.pw
+www.msn.com
 wwwmtblogin5.duckdns.org
 www.mujid24s.com
 www.myanmarnewsonline.org
@@ -72908,6 +72934,7 @@ www.netflixparty1.com
 www-netflixround.serveirc.com
 www.newsmach.com
 www.newtw.otzo.com
+www.niaxnhmy.top
 www.nineodesign.com
 www.nirjhara.com
 www.northpierangling.info
@@ -72955,6 +72982,7 @@ www.rubenvdsande.com
 www.savesucpnys.xyz
 www.sbicoinvip.com
 www.sbieth-mining.xyz
+www.sdf12asd.tk
 www.searchnewsmax.com
 www.securebofa.online
 www.seontra.xyz
@@ -72984,6 +73012,7 @@ www.taitra.fartit.com
 www.tbwtaobao.org
 www.techniquesbroadband.net
 www.techxim.com
+www.tenoneintelligence.com
 www.test9977.tk
 www.thebeginningstore.in
 www.thegolfclubatcirclec.com
@@ -73072,10 +73101,12 @@ x0sc5a8.cn
 x0yhd.cn
 x17e.cn
 x1akuxbv.cn
+x1.i.lencr.org
 x1u5b5.cyou
 x1us0v.shop
 x1xu7y.cyou
 x21l5.cn
+x.227api.com
 x2gr3m1.bar
 x2lxed.cyou
 x2n681.cn
@@ -73588,6 +73619,8 @@ yandex-profile-passport.ru
 yandibiotech.com.vn
 yangdejiezou.club
 yangzhou731678.cn
+yangzhouwebs.com
+yannick-strototte.de
 yanyandonglij.top
 yanyinch.cn
 yaodsr.cn
@@ -73665,6 +73698,7 @@ yearversatility.top
 yecnjw.cyou
 yeirwni.cn
 yejgq3np.cn
+yelaifeng2.3322.org
 yellfaction.top
 yellisle.top
 yellmentor.top
@@ -73707,6 +73741,7 @@ yfxqnj.cyou
 yfyuprh.cn
 yfyyte.cn
 ygdrjv.cn
+yghqlyz.com
 ygjflr.bar
 yglclk.bar
 yglfhpj.cyou
@@ -74055,6 +74090,7 @@ z5ggc0.cyou
 z5khd8j.cn
 z5l9hd.cn
 z60k7h.cn
+z6366010.3322.org
 z662uj.cyou
 z6gav.tw
 z6mzxm.cn
