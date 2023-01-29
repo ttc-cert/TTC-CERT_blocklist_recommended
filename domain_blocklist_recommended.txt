@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-01-29 03:00:01 +07                        #
+# Last updated: 2023-01-30 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -19,6 +19,7 @@
 04e10a6dd881b791534bcf2b33a9419f.co.cc
 053297a5fd0743ba54ccfb5ea950a4f6.co.cc
 05cefdf580641b02f503ec58a66d90a3.co.cc
+07ab6bb82eefde068784eee1a1322dc6.co.cc
 08aa5282d1ebebe8620d92390009fb1e.co.cc
 08e3fcec0edcd487c8d8a75d74f0e6a0.co.cc
 0a28ce44e208aae29c30eb1e498103f0.co.cc
@@ -96,6 +97,7 @@
 34bc9a3bcfd7aad28ac9ecc6338d5295.co.cc
 34ms.live
 3619667015e3233fdeff388d13941b68.co.cc
+371d5df8859c2d1e9b08142e77e7263d.co.cc
 383886ea856f7d11b75b26905cf69e97.co.cc
 387a2cf9befc0123cf888dfb1c48de61.co.cc
 3886002c97bf71c01ea2982e162384ff.co.cc
@@ -121,6 +123,7 @@
 437c5ed3952a49d9ed84ac8054aff960.co.cc
 44526d4652dfd6f759a183a51a457e87.co.cc
 44fc7cd8601f4c8da28ca2818eac821a.co.cc
+453f1f6d44f8b6ce784c9419aeb6241a.co.cc
 495353d285f2f14eec08fbc1411a23bc.co.cc
 49e1137bd7c17f244fb65c26fedf5e69.co.cc
 49ms.xyz
@@ -224,6 +227,7 @@
 916dfd3be2880e451865381365912405.co.cc
 91afc95427527acdb259e887ad424f95.co.cc
 9333a2239391833bc420b3c69c7e1195.co.cc
+94632664553f246869a1a7dca3759128.co.cc
 94efb512-1b7e-42dd-8799-bee584ec6305.msi-afteburner.com
 94f149c0e34247b8153ee6107f72a089.co.cc
 96bb29f764f3f35b53affd90e0edf98f.co.cc
@@ -248,6 +252,8 @@ a303cdb12428cfa93b9c84113ec0662b.co.cc
 a35c19aed6f917f68a79b7d2246c4b5c.co.cc
 a38a02e302bc5a76adb2d50354061601.co.cc
 a40aa4347adc88645748216e3e39c09f.co.cc
+a4b23d6a1a33fdac74df15ffd579ecbc.co.cc
+a4f654f5e773078dca7424da76c5cd9f.co.cc
 a63cf611-acbd-4806-82f5-8d5b3160d1a9.robimhod.com
 a699351bb90fc9c4b902f6c52609fb30.co.cc
 a69aea023c789954c7e2888caff430b4.co.cc
@@ -433,6 +439,7 @@ b2b.msl-afteburner.link
 b2b.msl-aftebuurner.xyz
 b2b.msslafteburner.link
 b2b.robimhod.com
+b412f4f5490c3f6b9edfae07d8d0fe2b.co.cc
 b671b89289f98f6fbbeef62753f204a3.co.cc
 b68e78dd1ba7508454d3c5f8bee94af8.co.cc
 b6d78790f551748e60ed8c31ba3adc55.co.cc
@@ -444,6 +451,7 @@ ba209d2a8a1a379235ce0134fb2f0676.co.cc
 bangkok-thailand.online
 banqueislamik.ddrive.online
 bb404b97b350f9f6c4ede426e034f175.co.cc
+bc14db12038fca1fab3db1b20d086fc0.co.cc
 bcalogin2195295.liv3-media.my.id
 bctapwury390p2.com
 bd21534db16f69599738c2c556363c82.co.cc
@@ -578,6 +586,7 @@ bytcox01.top
 c0c471b8127d0c0e8434d44f4367d782.co.cc
 c0san0stra.zapto.org
 c15cb344daf2d467c279450a65117b83.co.cc
+c1d5e2bf6367f8b1932fb8d031396297.co.cc
 c365c864310a817c896c56f13aab31c2.co.cc
 c3bb6db09c91aea8e086f6af80be8a72.co.cc
 c4fb733a94580c6f5c53ece2f958a268.co.cc
@@ -774,6 +783,7 @@ df-play.top
 dfvbuilders.com
 dho5mzesn29z0.cloudfront.net
 dhyriplamhfikp.com
+didudidubiubiubiu.top
 dikshaappforpc.com
 dikymezosaj.eu
 dimabup.com
@@ -1649,6 +1659,7 @@ itduh2irtgjfx5gvmdxfkcetmgvmgyaqzayhruau4v57747funxuhoqd.onion.pet
 itforhost.xyz
 itsmicr.online
 itunes.apple.com.nxxz.sgkangy.space
+j1emaxm70kzjj2br.info
 jackfirecu.com
 jauslinstebler.click
 jecekorosuk.eu
@@ -2058,7 +2069,23 @@ notopod-plos-plus.com
 novanosa5org.org
 novubymyvip.eu
 nrtv.co.uk
+ns1.backdates0.org
+ns1.backdates10.com
+ns1.backdates12.com
+ns1.backdates14.com
+ns1.backdates18.com
+ns1.backdates20.com
+ns1.backdates2.org
+ns1.backdates3.org
+ns1.backdates4.org
+ns1.backdates5.org
+ns1.backdates6.org
+ns1.backdates7.org
+ns1.backdates8.org
+ns1.backdates9.org
 ns1.opendns.ca
+ns1.timechk23.com
+ns1.timechk24.com
 ntc-gov.com
 nuljjjnuli.org
 numbro.live
@@ -2238,6 +2265,7 @@ project-obs.com
 project-obs.net
 project-obs.org
 propectedwb.com
+proxysg.symprod.ca
 psihimapto.com
 pumivus.com
 pupoliqotul.eu
