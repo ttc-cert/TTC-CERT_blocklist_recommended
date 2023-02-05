@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-02-05 03:00:01 +07                        #
+# Last updated: 2023-02-06 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -81,6 +81,7 @@
 0a73f48266736bd0d8c3e935a88fb030
 0aa8f4808725574630df98b61b8507eb
 0b161471bff75e394d774e5c5412a5d2
+0baa1d0cc20d80fa47eeb764292b9e98
 0bd25729e5ca3e40d404caf1b770afb4
 0c36a9c96cec7203da4cecde1354b593
 0c5862717f00f28473c39b9cba2953f4
@@ -915,6 +916,7 @@
 81e890a239ff1ffc5b0c219db31efd7f
 82040e02a2c16b12957659e1356a5e19
 820a46e39a7abf7e4b50e2a78e34fbe9
+82184562f5fbeb2a377db39f7989abe7
 82607b68e061abb1d94f33a2e06b0d20
 82e11cd1e07d536fce60f6b21b69ec9e
 82feb699fa9022fa29ad7a7ce2e3dfc7
@@ -963,6 +965,7 @@
 8a9299aabbadfa040d86f997859ae17a
 8ad421184652c2b252963f7f3c290d36
 8adce79ad1ea29c00184dee2d71d5d04
+8af6f5e22806766c530dcc8420e60f29
 8b19797280e59af40394305c5d722b12
 8b220453ce856f3709cd80beeae503b2
 8b3b9ae2522e18918b48df302ebdb05f
@@ -1005,6 +1008,7 @@
 9154b14237f68227abd65934c8d6e7ea
 91d2fc66c1ac5cf3793fbf1443522301
 91de1659530e9963d25886e561d64383
+91f2b3c8111b9df93e5cf8841ec9123b
 9206ebf4fa5434405d34ae083005994f
 9220abc8a4ead7e58bc51c54d1c8343b
 922bfc3a7870ce058b6af42a751734b5
@@ -1687,6 +1691,7 @@ f0ae8356f698fad26aa983309d4f1ac6
 f0cbef6560286abd3608e75777f48b3b
 f0db8f287603d6e07524005ace6118f1
 f0f6d923c6dc84408d7e8ac643b56244
+f0fd67c94f25de71c2fcdff4af0d2889
 f12de9a9858b332eb530c1f5cdc069aa
 f17714b5dec7c0363e79baf5568b1327
 f18a1dfa07aae66a84157a65f238ee39
@@ -1786,3 +1791,4 @@ fee7c379f3a555c5c821e872ec384a91
 ff06e0ddf65aafa2eb9a12fe38efbeb5
 ff091158eec27558905a598dee86c043
 ff47f4ca43ba693c1d81b2752bde36a9
+ffa2e6f6a7a8001f56c352df43af3fe5
