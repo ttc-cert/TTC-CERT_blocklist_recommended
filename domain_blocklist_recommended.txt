@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-02-08 03:00:01 +07                        #
+# Last updated: 2023-02-09 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -57,7 +57,9 @@
 18ee81074cde60438060e8fd77d2bf85.co.cc
 1981db50a06ff37ecabf0a976def1fb3.co.cc
 1b7ba9433401c55c4b3b5f57af6c0e43.co.cc
+1be4c670415fb48bd585a7c3053daee7.co.cc
 1c3c719eeffbee2c5344bfb808909ec9.co.cc
+1c40557acb7971a622c574a7fac095a4.co.cc
 1cd865e347ad36e8.azureedge.net
 1d4bf94e985ac1a1abcd732bafac8816.co.cc
 1drvmicrosoft.com
@@ -91,6 +93,7 @@
 26503d4567e36d3cc4be4c051d456de5.co.cc
 26ef3dc321ef460f63ba82a7980da7ba.co.cc
 275cf9b3f4012901f571edcdcab12cb3.co.cc
+27b8c009cc2de4c1a90ef2e581f3e05f.co.cc
 27bc70fd5a72472b5865437d9153d439.co.cc
 2803.live
 29742ee9f235c78be7be821b2986e6e0.co.cc
@@ -103,6 +106,7 @@
 2xdepp.com
 309c7f9710eb2eb0434c8a6a38f25307.co.cc
 30ms.live
+311ce34167dffe2d997b67770a3b0fe4.co.cc
 313aeef4d4cd70161f4ba4ca51de897f.co.cc
 31731bd816962f73aea6943e4db5377e.co.cc
 32464a917f2bf147217426988203ec61.co.cc
@@ -196,6 +200,7 @@
 65ms.live
 66a94532f8dc194cb3be17e36b3f6733.co.cc
 6732f77e8449ff4572d697fb22ecd894.co.cc
+684c73153cafe52d24d67399c31c3e89.co.cc
 693d218a9009152d719329ad8d379c1d.co.cc
 69d1fe63e44b556def23951cacff5e99.co.cc
 6af2ba13e87d071d9ad4c942df1cfa68.co.cc
@@ -208,6 +213,7 @@
 6eb9868f0d15653f94ef1b420a5db6ae.co.cc
 6fc89ce28945c1cbae916a38d3fb4b24.co.cc
 6.tcp.eu.ngrok.io
+6v4q5w7di74grj2vtmikzgx2tnq5eagyg2cubpcnqrvvee2ijpmprzqd.onion
 71eb80d64708319bed92fb8bd254fc0a.co.cc
 72db13d58f711932e20d4b18cfd9d48d.co.cc
 738267872.azurefd.net
@@ -219,6 +225,7 @@
 76d483f65b7532156cb7aaa6577ace3f.co.cc
 778672df279ce414c92d42a63d276014.co.cc
 77867e53e19e1bfe82ca656b9f15351e.co.cc
+77c492b52b1f8fca4196dd332e573d8c.co.cc
 77ec81a254a58ba5dfa1fa6cde04af44.co.cc
 7800ede0ee772e2ff46a5946f22d4812.co.cc
 79161e492f6e.firslhorlzom.com
@@ -269,6 +276,7 @@
 90ms.live
 90ms.online
 91-229-23-200.hosted-by-worldstream.net
+915fec38779b3f1c8991ba6206936812.co.cc
 916dfd3be2880e451865381365912405.co.cc
 91afc95427527acdb259e887ad424f95.co.cc
 9333a2239391833bc420b3c69c7e1195.co.cc
@@ -313,8 +321,17 @@ a7caf65c0d0f52aa4635e0b3efa63cce.co.cc
 a7da95710957fcd8da660012d320ee69.co.cc
 a9017745cf79415a2bf0b3929541a8e1.co.cc
 a945ed9d3b411249c830f59b0cd05bbe.co.cc
+aaa46feb47e453651c9f79f4b3fd8393.co.cc
 aaafaxelectronic.store
 aaafaxing.store
+aackj2.cc
+aackj3.cc
+aackj4.cc
+aackj5.cc
+aackj6.cc
+aackj7.cc
+aackj8.cc
+aackj9.cc
 aaddb70e4dc6628aea759d4b55cee257.co.cc
 aadwx1.cc
 aadwx2.cc
@@ -357,6 +374,7 @@ advisenotesuitehub.sbs
 advisenotesuite.sbs
 advth9.com
 ae001a8e66b83904b0cb5f0251d012c0.co.cc
+ae756005f597600f5ac3b39388a5f920.co.cc
 ae8afbd8824ad814e6496031b531a48e.co.cc
 aekh3.cc
 af8191b763e9af4c5819d66d737d15e0.co.cc
@@ -466,6 +484,7 @@ appvers-billings-detailscheck.dedyn.io
 appweb8474.servebeer.com
 app.wired.co.uk
 aqwkly.com
+archieve.zip
 archiver-7zip.software
 areforthesoleuseof.com
 arivrent.com
@@ -527,6 +546,7 @@ b2b.msl-aftebuurner.xyz
 b2b.msslafteburner.link
 b2b.robimhod.com
 b412f4f5490c3f6b9edfae07d8d0fe2b.co.cc
+b468701db3dc3affe03a8de13aef5237.co.cc
 b4bfabe33a56908af1d551046c3e4c8c.co.cc
 b671b89289f98f6fbbeef62753f204a3.co.cc
 b68e78dd1ba7508454d3c5f8bee94af8.co.cc
@@ -739,6 +759,7 @@ ccts-jinkkingdatasets.gq
 ccv.lol
 cd8h4oikbfgntfve6p40.msl-afteburner.link
 cd9es62kbfgq26rbe220.msl-afteburner.link
+cdfbj4.cc
 cdfunldnl.cfd
 cdn.ubutun.xyz
 cdn.violetlovelines.com
@@ -784,8 +805,10 @@ cloud.mufg.uk
 cloud.tptf.ltd
 cloudupdatesss.com
 cloud.wpic.ink
+clsmd1.cc
 clzqwhc.com
 cmme.it
+cmnb9.cc
 cofs.uk
 coinbasepro.win
 colavria.click
@@ -810,6 +833,7 @@ corpyfoxiy.xyz
 correctnc.com
 covid19.gov.gd
 cpcalendars.login-brimo.bi-bri.com
+cqwwe8.cc
 crackask.com
 crackcow.com
 crackedfilez.com
@@ -901,6 +925,7 @@ d6db4f6221eab9fe583e77f7f46848fd.co.cc
 d75f15b79622bd46e02acf4df3b9d99b.co.cc
 d7jr1cj6.sejaitaliano.net
 d823b63c24c7eb2c9b929e6d7f4d2905.co.cc
+d8807c2374c3ffda594cf3412e4362bd.co.cc
 d91193d30c98391d6a542691d4a52fb5.co.cc
 d9dd6e9a942a5d1048dbd5bb97d5b72e.co.cc
 d9e5ba14761ea7360c3399d737a88dc2.co.cc
@@ -1037,6 +1062,7 @@ e2269bd7b385ed493f67721197d389ba.co.cc
 e304b6288f552b177c013969dbc0420a.co.cc
 e31560ba730abc7c90af6c33e2507f2b.co.cc
 e39139b2183f0625a1d23959e22ac27c.co.cc
+e4542829543acef33eee18497cd7df27.co.cc
 e46d85699f8281e9f3a7bce1f1a49d20.co.cc
 e4b9df171ba3d2db84e0ae3db9338936.co.cc
 e5376d84100930e609330e6f8c8b2b48.co.cc
@@ -1129,6 +1155,7 @@ f4a78c93711fe22bd270f177854d352d.co.cc
 f57bdab6154f15a1e050500aef9e9cee.co.cc
 f5c938f67d7e70127b2dedeaf995e16a.co.cc
 f873566b1e8385daff8251dc01715491.co.cc
+f8839e3ea7d8b859f9c3ff30522cdc0f.co.cc
 f89e43641d83e53bcd97f22137cafb99.co.cc
 f911b32aa8355405dc6587b6e2359474.co.cc
 fa54de53b01d828d72efaa7e004a2509.co.cc
@@ -1770,6 +1797,7 @@ gotrights.de
 gouletconsultants.xyz
 goupdatemic.online
 g-pt3.club
+gqj3vutcbicri9r6.info
 gr2.cc
 gracedynu.gleeze.com
 graddonequity.xyz
@@ -2016,7 +2044,9 @@ kumaeririrchick.online
 kunzagch.click
 k.uvqyo.com
 kwdd.cehsg.com
+l333333.com
 l-39d.top
+l777888.com
 labs.codegreen.ae
 ladyphapty.com
 lakeside-fishandchips.com
@@ -2059,6 +2089,8 @@ linuxwebapp8474.redirectme.net
 linuxwebapp8874.serveirc.com
 linuxwebapp88.serveirc.com
 linuxwebapp.linuxappwebapp.xyz
+lioncirthai.com
+lioneirthai.com
 list-servsp.pro
 litelyft.com
 liveermicrovps.online
@@ -2539,6 +2571,7 @@ pccracking.click
 pccrackspro.com
 pcgamesguru.com
 pcsoftkit.com
+penny.glove38.gayado.ru
 pepatoniyac.click
 performancesurvey.online
 perpus.poltekkes-tanjungpinang.ac.id
@@ -2614,6 +2647,7 @@ profoundremit.com
 project-obs.com
 project-obs.net
 project-obs.org
+promisethailand.com
 propectedwb.com
 proxysg.symprod.ca
 psihimapto.com
@@ -2761,6 +2795,7 @@ samouraivvallel.xyz
 sandboxie-plus.top
 sandboxieplus.top
 sani990.duckdns.org
+santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion
 saturdaylivecheckthisout.duckdns.org
 saylanan-com.ru
 saylor2xbtc.com
@@ -2791,6 +2826,7 @@ servercentralsection.com
 servermlrn.com
 service-381kylfn-1306620309.bj.apigw.tencentcs.com
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com
+service-cetz3fn1-1308943111.sh.apigw.tencentcs.com
 service-gogtk08f-1310215561.bj.apigw.tencentcs.com
 serviceime.site
 service-o4vr732h-1315517919.sh.apigw.tencentcs.com
@@ -2999,6 +3035,7 @@ tecinnovation.website
 tecinovations.pw
 tekken3forpc.com
 teknologinyheter.com
+telecomds.online
 template.interestmoments.com
 temp.sh
 tennnerqyco.info
@@ -3895,6 +3932,8 @@ www-irsforms-us.top
 www-irs-form.top
 www-irs.top
 www.kajainterior.com
+www.l333333.com
+www.l777888.com
 www-lbreofflce.top
 www-libreofflce.top
 www.lime.msl-aftebuurner.xyz
