@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-02-12 03:00:01 +07                        #
+# Last updated: 2023-02-13 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -13,6 +13,7 @@
 000qwhse1sh.top
 00aa8b953d76040d.azureedge.net
 00ab380299f67a85d2b3b1d4efb81bc2.co.cc
+011678.com
 015-plus.com
 017e7fb10ce1141001801283db30d176.co.cc
 020.57thandnormal.com
@@ -23,6 +24,7 @@
 053297a5fd0743ba54ccfb5ea950a4f6.co.cc
 05cefdf580641b02f503ec58a66d90a3.co.cc
 05d387b4bd07f95bfcdd24fd91b156d9.co.cc
+076f3b7048e3a66513b970ef68cb3c0a.co.cc
 07ab6bb82eefde068784eee1a1322dc6.co.cc
 08aa5282d1ebebe8620d92390009fb1e.co.cc
 08e3fcec0edcd487c8d8a75d74f0e6a0.co.cc
@@ -42,14 +44,17 @@
 11223364554552442332332443434434430.com
 1123am.org
 11d40c68b7e9c1a4afe899f58ab767e8.co.cc
+139180215100.b-cdn.net
 1395f8504e7234780156788f7ae53958.co.cc
 13d2ace7a29f0b4a2f4e5b94f8b5db31.co.cc
+1424080362cf2a692e20.b-cdn.net
 144a5cee58fda29321e97d1fddaebb1f.co.cc
 14956711210dab161fc4a04e8f733bfc.co.cc
 14a4018074a8dc85b65ff2fb63b517fc.co.cc
 151b9437d059f871ee0960e9c582dab7.co.cc
 15622f259b21aecc1abf543cc8b8310e.co.cc
 1565c5327f0c43e5d5e3550c249a16f0.co.cc
+15bfd60aaa0965a2a710.b-cdn.net
 171a05ddcf56e19633c4ca4c8d605353.co.cc
 172-105-5-70.ip.linodeusercontent.com
 172-86-123-86.static.hvvc.us
@@ -59,6 +64,7 @@
 18ee18f48da9de8bdae4bff36969c9cb.co.cc
 18ee81074cde60438060e8fd77d2bf85.co.cc
 1981db50a06ff37ecabf0a976def1fb3.co.cc
+19d8b02c1a4cbe695e00.b-cdn.net
 1b7ba9433401c55c4b3b5f57af6c0e43.co.cc
 1be4c670415fb48bd585a7c3053daee7.co.cc
 1c3c719eeffbee2c5344bfb808909ec9.co.cc
@@ -161,6 +167,7 @@
 44b52a05e65c359543c1825c62f26247.co.cc
 44fc7cd8601f4c8da28ca2818eac821a.co.cc
 453f1f6d44f8b6ce784c9419aeb6241a.co.cc
+458cffb5586aa7e589572c40fc74b8ad.co.cc
 46534d169524a561ceb0f2c4575df414.co.cc
 495353d285f2f14eec08fbc1411a23bc.co.cc
 496f54d9ddcc0b62df7052e108bea4ee.co.cc
@@ -217,6 +224,7 @@
 69d1fe63e44b556def23951cacff5e99.co.cc
 6af2ba13e87d071d9ad4c942df1cfa68.co.cc
 6b2e9dc5970768d81b7cc534dfcc8caa.co.cc
+6b986b1e77d4234f06eb98353ccb30ab.co.cc
 6bc7bce7b01bf303d07575d9e9a4debe.co.cc
 6c2f3bbf06811365b7e5064c16e0764a.co.cc
 6d3b21492209d27c15a348271b785301.co.cc
@@ -227,8 +235,10 @@
 6fc89ce28945c1cbae916a38d3fb4b24.co.cc
 6.tcp.eu.ngrok.io
 6v4q5w7di74grj2vtmikzgx2tnq5eagyg2cubpcnqrvvee2ijpmprzqd.onion
+701fdb19a2ad164bc98f685499b4af99.co.cc
 71b2ac14cadd6ac97ff185ecbace72bd.co.cc
 71eb80d64708319bed92fb8bd254fc0a.co.cc
+7285c7aff9535add6c6d39d8a4bbced6.co.cc
 72db13d58f711932e20d4b18cfd9d48d.co.cc
 738267872.azurefd.net
 74087dd7b1ef2e8adc4f7e0e5cfb8dc6.co.cc
@@ -276,6 +286,7 @@
 87dd208efee8ac695f56776788e5e514.co.cc
 88945b63907ed550fc1d5ae8bb986211.co.cc
 88a4fa023b592ecfc12fb6ba3b6b8f2d.co.cc
+8937fdb13fe209667dab9dd178fc584a.co.cc
 8940a925e35bacc5086a5e5c10f04741.co.cc
 89bc17545145890e7ae4453fb5fa2f1a.co.cc
 89c8c344f54cba1fb6bad2351b07e679.co.cc
@@ -399,6 +410,7 @@ aeea2642b5c19a5e653058c26be003dc.co.cc
 aekh3.cc
 af8191b763e9af4c5819d66d737d15e0.co.cc
 afforlogon.top
+afrodizajoy.com
 afteerbumers.lol
 afteerbumers.shop
 afteerbumers.xyz
@@ -576,11 +588,13 @@ b412f4f5490c3f6b9edfae07d8d0fe2b.co.cc
 b468701db3dc3affe03a8de13aef5237.co.cc
 b4bfabe33a56908af1d551046c3e4c8c.co.cc
 b4y08hrp3jdb.com
+b63ee9e7b8d5a4befe54b5d1ef5c597d.co.cc
 b671b89289f98f6fbbeef62753f204a3.co.cc
 b68e78dd1ba7508454d3c5f8bee94af8.co.cc
 b6d78790f551748e60ed8c31ba3adc55.co.cc
 b6da95300c773c7ae80c209d21dd9617.co.cc
 b704212b0c968e579f6c53bf89ed538e.co.cc
+b7884a0b8395ec6b5d05989d999bfe91.co.cc
 b7a00f1db9429c03a5923382f8f241f9.co.cc
 b7dec3180fd727dc7803de9dd29d6691.co.cc
 b7ea5221bcf29a9364f444727fd67ae6.co.cc
@@ -753,6 +767,7 @@ bwdt9.cc
 bweri6.cc
 bx7jwhkpb4.execute-api.us-east-1.amazonaws.com
 bytcox01.top
+c0b6199aabe29f77a5ba38e3ee1b3643.co.cc
 c0c471b8127d0c0e8434d44f4367d782.co.cc
 c0san0stra.zapto.org
 c15cb344daf2d467c279450a65117b83.co.cc
@@ -767,6 +782,7 @@ c55dff8c120346b42bf0d9804b3fad67.co.cc
 c5d805e447931cc205bc22e93cd186ba.co.cc
 c66834620cce0ad10bbf8c125f144115.co.cc
 c690bbf93ec18719749f60f2bdcc6e3d.co.cc
+c6b9f7569e8e66fdbed92f3fd7284c8e.co.cc
 ca9118cdbecaf1f0ea7bce80cb177207.co.cc
 cailberportal.info
 cailberportals.top
@@ -933,6 +949,7 @@ cslzmm.com
 csn.lol
 csolutionslimited.click
 cs.pdtrojans.xyz
+cs.qatarpgreenroperties.com
 ct-cvsp.pro
 ctmouzecla.click
 cudtejn.com
@@ -1058,6 +1075,8 @@ dmgt.homes
 dnuocc.com
 dnx.capital
 docforms.top
+dockeerw.site
+dockeruscom.top
 doc-logs.sbs
 docmshub.sbs
 docmshub.top
@@ -1086,6 +1105,7 @@ down.tw1988.link
 doylescap.com
 dp0kuiftynn0b.cloudfront.net
 dpgurumaesagevms.online
+dpunktesting.ddns.net
 drc6ebhco4cva.cloudfront.net
 drcordoba.com
 drgb74ojbgxg7.cloudfront.net
@@ -1197,6 +1217,7 @@ f0fda63efcf17b5098f7b55a5d8a9299.co.cc
 f23351c5694b1352baf87e0f5ea55ca9.co.cc
 f39a3ad4f1fa362835377bd46eff177f.co.cc
 f42978e1a417d733f2629331ead5c525.co.cc
+f443ffe79db06814b43b11a041342b12.co.cc
 f495b6ab9dcf8d3b.info
 f49cb1551d3251c793bc67253cae388d.co.cc
 f49dc35d9b52ba34ffeb894e87739c0e.co.cc
@@ -2122,6 +2143,7 @@ latestproductkey.com
 lawnportal.space
 lebinaphy.com
 ledger-cloud.com
+leinabetz.com
 lelele.barycallebaut.co
 leveledsures.fun
 lexdoms.top
@@ -2205,6 +2227,7 @@ logmeinofferblackfriday.com
 logvg-hdhufdhxyz.live
 logvig-offgwumdipofxyz.live
 long.interestmoments.com
+lordgitcash.com
 lostbussiness.com
 lostinmusic.online
 loudoeerchik.online
@@ -2911,7 +2934,10 @@ servercentralsection.com
 servermlrn.com
 service-381kylfn-1306620309.bj.apigw.tencentcs.com
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com
+service-8gyxqgnf-1304181841.bj.apigw.tencentcs.com
+service-center.club
 service-cetz3fn1-1308943111.sh.apigw.tencentcs.com
+service-cmgfmgrw-1301382485.nj.apigw.tencentcs.com
 service-gogtk08f-1310215561.bj.apigw.tencentcs.com
 serviceime.site
 service-mltm6xvs-1304585582.gz.apigw.tencentcs.com
@@ -3150,6 +3176,7 @@ thebtcrevolution.com
 thecloudnet.org
 thecrackfiles.com
 thecracksoftware.com
+thefirstupd.com
 thejetnano.net
 thepccrack.com
 therealclave-47992.portmap.host
@@ -4145,12 +4172,14 @@ wwww-teamvlewer.top
 x9zoxr8azb2boou4.info
 xcygy.com
 xdotool8474.blueinc.cloud
+xe3x1.ath.cx
 xigov.com
 xman2.duckdns.org
 xmr.2miners.com
 xniewonhjshxbnfi4.com
 xn--screnshot-iib.net
 xn--screnshot-jib.net
+xonxen.dnsalias.com
 xo-xohost.xyz
 xpiloginauthx.top
 xpopup.com
@@ -4181,6 +4210,7 @@ za.advertearn.xyz
 zabitto.ru
 zcssedu.com
 zedorocop.com
+zh-cn.imags.microsoft.com.w.kunlunca.com
 zig35m48zur14nel40.myftp.org
 ziyafat.ru
 zksyncio.xyz
