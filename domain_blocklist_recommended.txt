@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-02-13 03:00:01 +07                        #
+# Last updated: 2023-02-14 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -37,6 +37,7 @@
 0ca9947db6576ad85e95d2c85d595271.co.cc
 0d6b93a67772fcfaedb08bdcf6eddb72.co.cc
 0f08c1ddcec2e97730c943c94fa3b717.co.cc
+0f8c57d7e099eee9a4307c85cf6e198d.co.cc
 0xx3.kaspenskyupdates.com
 105105105015.com
 107m.live
@@ -178,6 +179,7 @@
 4b6272a31ef2996b22674c209cb2750d.co.cc
 4bcd099a267e83e3c3971d0d9da93d16.co.cc
 4c16018f8d050235b497918784d753a6.co.cc
+4ce12943935d6604167cb5cffbc615c1.co.cc
 4d132cf8db46bd00e873110a6b58ab30.co.cc
 4d3dcc4a52e6df6ac3d5dd4936417bed.co.cc
 4d6e5afb1209df5dd3961603bf746f41.co.cc
@@ -255,6 +257,8 @@
 79161e492f6e.firslhorlzom.com
 7922447ed625b8fd9ff04645c6f07297.co.cc
 793e28d73d79265d9e1dd9906236eb66.co.cc
+79b3046f60f85cfc80564abfbac99e2e.co.cc
+79c649f0abc150280e1c903ce7b80bcd.co.cc
 79cd3d10263d47dd90973fc082445f71.co.cc
 79e50f6727dd1b6939de083ac881cb51.co.cc
 7abd87ce270434f4a78d57fac459d43c.co.cc
@@ -300,6 +304,7 @@
 8fc32a320744ed622f3db05be25c18eb.co.cc
 8.ondqp.com
 900595f1326c2a05974ad9ce49d4a83e.co.cc
+90736ef3038154e7e2d6ee95914621f1.co.cc
 90ec4c5ea5b0120bc97a19b723ceee16.co.cc
 90ms.live
 90ms.online
@@ -327,6 +332,7 @@
 9aafa4ff6c77a54be2ad2efe296ed418.co.cc
 9baa80d461eed4c7b0bcc29ebbfef110.co.cc
 9bf48b84b4b57f3848ae7885b2c70fec.co.cc
+9c4b7aff12280112b5a40294349908bc.co.cc
 9c9cd7ced62e8d7f633192d9f96644e5.co.cc
 9ccf34e2ddfe4bd5a37375c3d6b80148.co.cc
 9dfda54555186ac4734e5fc6c0c8218a.co.cc
@@ -862,6 +868,7 @@ cloudgooglesdk.publicvm.com
 cloud.jbic.us
 cloud.mufg.uk
 cloud.tptf.ltd
+cloudupdatesoft.online
 cloudupdatesss.com
 cloud.wpic.ink
 clsmd1.cc
@@ -982,6 +989,7 @@ d3w0arvvki19jt.cloudfront.net
 d5600c531758ea41acf39e5726dea120.co.cc
 d5986e109273390b3d79b4d00f620132.co.cc
 d5d46d773a149f2ad49dc14017741c51.co.cc
+d5e929b50c9d561737b84b192067b77b.co.cc
 d681e65f29c8b7c4e2851083b8bc5cea.co.cc
 d685eaaaddf5a6cec09e19c109a806ac.co.cc
 d6db4f6221eab9fe583e77f7f46848fd.co.cc
@@ -1149,6 +1157,7 @@ e7e2536c00225baed351ffbd54b42303.co.cc
 e83a7a95bedaa3349b9be11f8bfc577d.co.cc
 e9444e142515ff44e93a5513362d47f7.co.cc
 ea19e0ccbf47ba85ec3530aaf7900ec6.co.cc
+ea7d0e53a44cc792007c7263e690a057.co.cc
 eab66f6db26a6610c99f20108128eaff.co.cc
 easedocuments.com
 eastemia.online
@@ -1214,6 +1223,7 @@ extremebot.software
 ezstat.ru
 f032fa1b372939801dfd2e256d3c5226.co.cc
 f0fda63efcf17b5098f7b55a5d8a9299.co.cc
+f13ddb896dcfd466add9d351243297ee.co.cc
 f23351c5694b1352baf87e0f5ea55ca9.co.cc
 f39a3ad4f1fa362835377bd46eff177f.co.cc
 f42978e1a417d733f2629331ead5c525.co.cc
@@ -2462,6 +2472,7 @@ needzolapa.com
 neitlu.com
 neonhost.click
 neriir0f76gr.com
+nerulgymkhana.com
 netflix-1.4532.life
 netflix-20.2577.info
 netflix-21.2577.info
@@ -2932,12 +2943,14 @@ servehb.com
 servepp.com
 servercentralsection.com
 servermlrn.com
+service-11ghje19-1301390598.sh.apigw.tencentcs.com
 service-381kylfn-1306620309.bj.apigw.tencentcs.com
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com
 service-8gyxqgnf-1304181841.bj.apigw.tencentcs.com
 service-center.club
 service-cetz3fn1-1308943111.sh.apigw.tencentcs.com
 service-cmgfmgrw-1301382485.nj.apigw.tencentcs.com
+service-el84p2u9-1304765474.sh.apigw.tencentcs.com
 service-gogtk08f-1310215561.bj.apigw.tencentcs.com
 serviceime.site
 service-mltm6xvs-1304585582.gz.apigw.tencentcs.com
@@ -2979,6 +2992,7 @@ shop.msl-afteburner.com
 shop.msl-afteburner.link
 shop.msslafteburner.link
 shopper.bulutlogistic.com
+shop.souhus.top
 short.interestmoments.com
 siantdarik.lol
 sid4time.xyz
@@ -3039,6 +3053,7 @@ solotionult.site
 solotionult.store
 solude.sbs
 somatoka51hub.net
+somosacce.org
 sorfvillehomes.cfd
 soryytlic4.net
 southfirstarea.com
@@ -3055,6 +3070,7 @@ sso-authrock.live
 sso-freedommgt.online
 ssopay-amazon.x24hr.com
 sso.sermifleksiks.com
+sso.trialstreak.com
 ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion
 st7.fun
 st7.skin
@@ -3062,6 +3078,7 @@ stablehouses.info
 stakingmask.com
 standcardscalls.com
 stantonprm.xyz
+starcomputadoras.com
 start1password.com
 startevopadra.com
 static.132.18.202.116.clients.your-server.de
@@ -3243,6 +3260,7 @@ traldlngvlew.xyz
 transexuhd.com
 trbiriumpa.com
 tredenel.com
+trialstreak.com
 trinazhkoma.club
 tristacarsfor.com
 trktrk222.com
@@ -4133,6 +4151,7 @@ www.test.robimhod.com
 www-thunderblrd.top
 www.togsfortoads.com
 www-torproject.top
+www.trialstreak.com
 www.tthunderbir.space
 www.u-pin-it.com
 www-vmware.top
