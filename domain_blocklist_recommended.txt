@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-02-19 03:00:01 +07                        #
+# Last updated: 2023-02-20 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -28,6 +28,7 @@
 05cefdf580641b02f503ec58a66d90a3.co.cc
 05d387b4bd07f95bfcdd24fd91b156d9.co.cc
 076f3b7048e3a66513b970ef68cb3c0a.co.cc
+077cc9dcb13fa1bd01a78091d15a5e7d.co.cc
 07ab6bb82eefde068784eee1a1322dc6.co.cc
 08aa5282d1ebebe8620d92390009fb1e.co.cc
 08e3fcec0edcd487c8d8a75d74f0e6a0.co.cc
@@ -95,6 +96,7 @@
 20220627.duckdns.org
 2022-12-01znegeulfluxsisilafamille.blog.msi-afteburner.com
 2022-12-02znegeulfluxsisilafamille.wp.msl-afteburner.com
+206a5faef774f49b68192b191da5ad37.co.cc
 20ms.live
 20paper.live
 20speed.co
@@ -270,6 +272,7 @@
 70495f1832e5ed5bf82e0772bc14bd6f.co.cc
 71b2ac14cadd6ac97ff185ecbace72bd.co.cc
 71eb80d64708319bed92fb8bd254fc0a.co.cc
+724ad2ff4c404d444679da073caca5a8.co.cc
 7285c7aff9535add6c6d39d8a4bbced6.co.cc
 72db13d58f711932e20d4b18cfd9d48d.co.cc
 738267872.azurefd.net
@@ -296,6 +299,7 @@
 7a359f2ef5826b667045aa3b091bdf6c.co.cc
 7abd87ce270434f4a78d57fac459d43c.co.cc
 7b286bd0409d77647653172361bca811.co.cc
+7b2ced48b8113ee1b73539b293e39f64.co.cc
 7b6d99a9-c61e-438f-908d-9c5d71038dd5.msi-afteburner.com
 7cef378651d480506e459aab2e47c8b2.co.cc
 7d6cf4e8d009dd7aadc6d7df1f885032.co.cc
@@ -384,6 +388,7 @@
 9fyqzxdiq8njukl1.info
 9ge.ge
 9v.tbeew.com
+a29b7605e1c4aceb490eae09a7d5ac6b.co.cc
 a303cdb12428cfa93b9c84113ec0662b.co.cc
 a35c19aed6f917f68a79b7d2246c4b5c.co.cc
 a38a02e302bc5a76adb2d50354061601.co.cc
@@ -667,6 +672,7 @@ b7ea5221bcf29a9364f444727fd67ae6.co.cc
 b85558819f3765d74edc7a81964ff25c.co.cc
 b8c7efe431cd1e57b40bda4ccf2ff408.co.cc
 b8f27435f1a3d0c93e10a106584ce25b.co.cc
+b93d747b0b417d34553577f4ef8586bd.co.cc
 b93e28052c0507b86c8e49a9610635ca.co.cc
 ba209d2a8a1a379235ce0134fb2f0676.co.cc
 babieschristeningoutfits.com
@@ -1112,6 +1118,7 @@ d3749c7e162ad04d123a7b355cd3b058.co.cc
 d3902996f23b0475fd56706fb33a8c18.co.cc
 d3llu4686fshym.cloudfront.net
 d3w0arvvki19jt.cloudfront.net
+d452ecfe408441b07ed934022959d509.co.cc
 d5600c531758ea41acf39e5726dea120.co.cc
 d5986e109273390b3d79b4d00f620132.co.cc
 d5d46d773a149f2ad49dc14017741c51.co.cc
@@ -1288,6 +1295,7 @@ e598536d6516eaf03a52ebf519b15117.co.cc
 e5bb129e09ad81faac3618d20e4ff185.co.cc
 e5d0fd19795aef2523f765e6c16282cf.co.cc
 e6028619206ef38c15dd6c88c9c60e84.co.cc
+e60da811568f46a368dc88816c14c084.co.cc
 e66c1924a90e0d59c0276bc769789411.co.cc
 e6b118d626e69f1864a598b4a793bad3.co.cc
 e6e71511c4640263e86bdf133362abcd.co.cc
@@ -1386,6 +1394,7 @@ f49dc35d9b52ba34ffeb894e87739c0e.co.cc
 f49eb829c5215a2cc49f90bafaf69d2c.co.cc
 f4a38fb8-74af-4a65-8330-7afca66eb7df.firslhorlzom.com
 f4a78c93711fe22bd270f177854d352d.co.cc
+f4bb8e9b9b3cab4172b11d9eb6aaaba4.co.cc
 f4ec74bad7e0fdb7b40ab2074a9892b9.co.cc
 f51f72c7621926fe3ceca0c700929bd1.co.cc
 f57bdab6154f15a1e050500aef9e9cee.co.cc
@@ -2311,6 +2320,7 @@ karmadhi-37033.portmap.io
 kashbilly.duckdns.org
 kaspesrky.live
 kawunimy.com
+kbaxllfbgyfg42ev.info
 keeptosafe.top
 kegov.com
 kejepujajeg.eu
@@ -3174,6 +3184,7 @@ rvzqo.impresivedate.com
 ryhyruqeliz.eu
 rylupalyxad.eu
 s172.minrosoftupdate.com
+s173.minrosoftupdate.com
 sa.advertearn.xyz
 saaiservices.net
 safehand.xyz
@@ -3276,6 +3287,7 @@ she32rn1.com
 shiptrax24.com
 shopalbum.xyz
 shop.bookinfirst.com
+shopee-se.cc
 shop.firslhorlzom.com
 shop.msi-afteburner.com
 shop.msl-afteburner.com
@@ -3793,6 +3805,7 @@ windowsupdates.shop
 windowsupdate.sytes.net
 winery.nsupdate.info
 winlog02.micnosoftupdates.com
+winlog03.micnosoftupdates.com
 withylndng.click
 w-me.me
 wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion
