@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-02-19 11:06:01 +07                        #
+# Last updated: 2023-02-19 11:14:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -57,7 +57,7 @@ rd-g0-th.cc
 rd-g0-th.com
 rd-g0-th.top
 rd-g0-th.xyz
-rd2-go-th.cc
+rd-go-th.cc
 rd-go-th.club
 rd-go-th.co
 rd-go-th.com
