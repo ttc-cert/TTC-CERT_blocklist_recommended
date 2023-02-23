@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-02-23 03:00:01 +07                        #
+# Last updated: 2023-02-24 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -14,10 +14,12 @@
 00aa8b953d76040d.azureedge.net
 00ab380299f67a85d2b3b1d4efb81bc2.co.cc
 011678.com
+012ae072fe9c29bfd6766b89f33ac24a.co.cc
 012.bond
 015-plus.com
 017e7fb10ce1141001801283db30d176.co.cc
 020.57thandnormal.com
+028446060bd3e3b94263c23f370bee0c.co.cc
 028fbcde2192767fb18eb9d8d13107cf.co.cc
 044ffdfe1eb4b191a638657bbc95a985.co.cc
 04b441dba1f238f75c001bf3a05f2386.co.cc
@@ -25,6 +27,7 @@
 0-4.top
 04yh16065cdi.xyz
 053297a5fd0743ba54ccfb5ea950a4f6.co.cc
+05a6b41cb7b51f97da2979edf65e71a8.co.cc
 05cefdf580641b02f503ec58a66d90a3.co.cc
 05d387b4bd07f95bfcdd24fd91b156d9.co.cc
 076f3b7048e3a66513b970ef68cb3c0a.co.cc
@@ -41,6 +44,7 @@
 0c422952587f892b.azureedge.net
 0ca9947db6576ad85e95d2c85d595271.co.cc
 0cd1a1625386f1b750f6fab0731dbd35.co.cc
+0d3d8fe4126823a1c5d7504cdda5ea3f.co.cc
 0d6b93a67772fcfaedb08bdcf6eddb72.co.cc
 0f08c1ddcec2e97730c943c94fa3b717.co.cc
 0f544da3484bbc954f79b3eb84e6c2a0.co.cc
@@ -138,6 +142,7 @@
 2e66bc6f5d015d224448c6fdb1d50a0b.co.cc
 2e720da52300a2ecc750178c689e3912.co.cc
 2ee94a679695e68899189f49d3778c2c.co.cc
+2gfeks7mnsghbulv.info
 2oertmpv3beoyyyz.info
 2xdepp.com
 2zjpc0z3d94047s4.info
@@ -322,6 +327,7 @@
 7b286bd0409d77647653172361bca811.co.cc
 7b2ced48b8113ee1b73539b293e39f64.co.cc
 7b6d99a9-c61e-438f-908d-9c5d71038dd5.msi-afteburner.com
+7c703903bb0d5fba40dbeb9cca4b3bbf.co.cc
 7cef378651d480506e459aab2e47c8b2.co.cc
 7d6cf4e8d009dd7aadc6d7df1f885032.co.cc
 7e359b0415f2d98c3df9d33e8a7835d4.co.cc
@@ -338,6 +344,7 @@
 80ms.live
 80ms.shop
 80t9ha9xybtevi6v.info
+81ead1514bab3878aea569d4255304e4.co.cc
 822bd99f03904b78f9650c808e6552ad.co.cc
 82879f1a17c21658854afb76ef0cf64c.co.cc
 82b4fff2ab16eb6e2ee9a528aa786044.co.cc
@@ -474,6 +481,7 @@ acs-c2.com
 ad061e4d9248836c5b670992539eef5a.co.cc
 ad7aa387e742389ad4c67d707caae392.co.cc
 adc5533ea3ea3f2a6e15f6cb18ab335d.co.cc
+adci9.cc
 add2netflix.ddns.info
 ade9c63373a0c1218f98233fef94c49a.co.cc
 admin96.hopto.org
@@ -530,6 +538,7 @@ airanavityulet.com
 aiu-w.com
 algoliaplaces.arsvmcloud.com
 alice2019.myftp.biz
+alidocs.dingtalk.com.wswebpic.com
 alignhr.org
 alijhaborta.com
 alikgriffin.com
@@ -620,6 +629,7 @@ archiver-7zip.software
 areforthesoleuseof.com
 arivrent.com
 arp.lol
+arponet.duckdns.org
 arthurlegal.org
 artinghost-graphene.cfd
 as.197324gsa.shop
@@ -725,6 +735,7 @@ bb1.lol
 bb404b97b350f9f6c4ede426e034f175.co.cc
 bb8e696128b8831a0197ff0850a8057b.co.cc
 bbc33be93d0f2786aec9f1c6d3c09279.co.cc
+bbc-s.news
 bbk.lol
 bc14db12038fca1fab3db1b20d086fc0.co.cc
 bcalogin2195295.liv3-media.my.id
@@ -861,6 +872,7 @@ bnloginmyapp.x24hr.com
 bnq.lol
 bnr45iqly.cfd
 bo6.lol
+bofbot.com
 bokywodzfa.xyz
 bomes.ru
 bonafidepress.com
@@ -972,6 +984,7 @@ cdn.ubutun.xyz
 cdn.violetlovelines.com
 cdn.whereismyip.cf
 cdown883.oss-us-east-1.aliyuncs.com
+cea4421239413cc7a96ea5d2a741303c.co.cc
 cec77a2c75dd821d67950a79d75b85fe.co.cc
 ceca72f49358ed7a61bf4d5c77dce5d6.co.cc
 ceedohostzcomi.xyz
@@ -986,7 +999,9 @@ cfb0159ee18cfcf178e0d4f2fb1c7c3d.co.cc
 cfcasualty.live
 cfgcb.sbs
 chaosandkiddos.com
+chat-gpt-ai.info
 chatgpt-go.online
+chat-gpt-openai.space
 chat-gpt-pc.online
 chat-whatsapp3321.resmi.icu
 cheapestratecalls.com
@@ -1059,6 +1074,9 @@ coronavirus.co.business
 corp-datassl.pro
 corpyfoxiy.xyz
 correctnc.com
+courtbox.online
+courtgova.online
+courtgova.site
 covid19.gov.gd
 cpcalendars.login-brimo.bi-bri.com
 cqwwe8.cc
@@ -1116,6 +1134,7 @@ crop18king.xyz
 cryptobrowser.top
 crystal-blocker.com
 cs45.meiiqia.com
+csc.zte.com.cn.wswebpic.com
 cs-endpoint-hmb2bad8bkdwd2b0.z01.azurefd.net
 cslzmm.com
 csn.lol
@@ -1167,6 +1186,7 @@ d5600c531758ea41acf39e5726dea120.co.cc
 d5986e109273390b3d79b4d00f620132.co.cc
 d5d46d773a149f2ad49dc14017741c51.co.cc
 d5e929b50c9d561737b84b192067b77b.co.cc
+d66f800e24ba4f3701ebdaa6680bf980.co.cc
 d681e65f29c8b7c4e2851083b8bc5cea.co.cc
 d685eaaaddf5a6cec09e19c109a806ac.co.cc
 d6db4f6221eab9fe583e77f7f46848fd.co.cc
@@ -1322,6 +1342,7 @@ duncan-technologies.net
 duongbat-31148.portmap.host
 dusyguri.com
 d.vbmtu.com
+dw.bpdeliver.ru
 dygov.com
 dy.kr.wildpettykiwi.info
 dz.yzhy08.cn
@@ -1472,6 +1493,7 @@ fat-tx.at.ply.gg
 faxphoto.com
 fb1.me
 fb5a953cc2baa9cff23f748acadcb867.co.cc
+fbi.su1001-2.top
 fca36d9eb70c9d73ba44413036c6b505.co.cc
 fcd82c2766e5232f35d71b73e317a668.co.cc
 fcer.org
@@ -1563,6 +1585,7 @@ freedommgt.online
 freedommortgagey.net
 freedomportal.cloud
 freefiles22.xyz
+free-gptchat.com
 freewindowsactivator.com
 frydog.email
 ftp.online03nb-loginaces.dns05.com
@@ -2116,6 +2139,7 @@ godstreamsviews.site
 godstreamsviews.space
 godstreamsviews.website
 godstreamsview.website
+gogletags.click
 go.google-analytcis.com
 golilopaster.org
 gololosd.ddns.net
@@ -2143,6 +2167,7 @@ graphic-updater.com
 greatjbook.com
 greenbottz.xyz
 gsgoxf4zkkv9dgoe.info
+gtag-analytics.com
 gv2.one
 gwcea.com
 g-y.gy
@@ -2330,6 +2355,7 @@ jelojujopen.eu
 jepepyxiwam.eu
 jetpoolworld.pro
 jhwdgtsb.com
+jira.letmaker.top
 jit.lol
 jmazukoltoxjnvvp3.com
 joangirones.com
@@ -2770,6 +2796,7 @@ myhelpcare.cc
 myhelpcare.online
 myloster2v1.xyz
 mynetflixbe.com
+my-odin.com
 mypklboy3.xyz
 mysite-servrz.xyz
 mytallphon.click
@@ -2816,6 +2843,7 @@ newlicensekeys.com
 newlife00.top
 newlife100.top
 new-login-activity.com
+new.my-odin.com
 news.istisharaat.com
 news.weatherplllatform.com
 news.wooordhunts.com
@@ -2935,6 +2963,7 @@ ofc-srvce.com
 offce.sbs
 offcheck.live
 office360-update.com
+officecdn.microsotf.com
 office-ecenterz.com
 officefaxlogin.top
 office-srvce.com
@@ -2949,8 +2978,10 @@ okv.lol
 old.firslhorlzom.com
 old.msl-afteburner.link
 old.msslafteburner.link
+old.my-vidar.com
 olifamagaznov.com
 olivnakercheast.com
+olponetox.com
 omegaweth.com
 onecracks.com
 onedrive-d0v.pages.dev
@@ -3033,6 +3064,7 @@ pesobuw.com
 pfizer.eastus.cloudapp.azure.com
 pharmarite.azurewebsites.net
 pi2.lol
+pililor.com
 pimode-al-ain.cfd
 pineries.org
 pingatinga.click
@@ -3124,6 +3156,7 @@ py5.one
 qcellphone.click
 qegov.com
 qekafuqafit.eu
+qertoplast.com
 qetyrypopup.eu
 qexeholagav.eu
 qfyxz.com
@@ -3314,6 +3347,8 @@ servercentralsection.com
 servermlrn.com
 service-11ghje19-1301390598.sh.apigw.tencentcs.com
 service-381kylfn-1306620309.bj.apigw.tencentcs.com
+service-3c8oujtz-1252130768.bj.apigw.tencentcs.com
+service-7eaicd0p-1308943111.sh.apigw.tencentcs.com
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com
 service-8gyxqgnf-1304181841.bj.apigw.tencentcs.com
 service-center.club
@@ -3325,6 +3360,7 @@ service-gogtk08f-1310215561.bj.apigw.tencentcs.com
 serviceime.site
 service-k791lpuo-1306177445.gz.apigw.tencentcs.com
 service-mltm6xvs-1304585582.gz.apigw.tencentcs.com
+service-n4ufol3c-1252579309.gz.apigw.tencentcs.com
 service-nwokv82p-1258426110.sh.apigw.tencentcs.com
 service-o4vr732h-1315517919.sh.apigw.tencentcs.com
 service-p8rvo1ba-1257582847.gz.apigw.tencentcs.com
@@ -3376,6 +3412,7 @@ sigmarole.cyou
 significadodeloscolores.com
 sigrat4hyp.xyz
 silent911-44688.portmap.io
+silversters.com
 similar.similarwebline.com
 similarwebline.com
 singlwirre.click
@@ -3418,6 +3455,7 @@ slugmefilehos.xyz
 smartsfil.com
 smbcgroup.us
 smostluxi.com
+smplemente.net
 smtp.elec-qatar.com
 soa.lol
 softdl.ahhxwavi.cn
@@ -3435,6 +3473,7 @@ somosacce.org
 sorfvillehomes.cfd
 soryytlic4.net
 southfirstarea.com
+spaceris.com
 specialblueitems.com
 speedycrm.msl-aftebuurner.xyz
 speedycrm.robimhod.com
@@ -3447,8 +3486,10 @@ s-sh.sh
 sso-authrock.cloud
 sso-authrock.live
 sso-freedommgt.online
+ssogo-th.cc
 ssopay-amazon.x24hr.com
 sso.sermifleksiks.com
+sso.silversters.com
 sso.trialstreak.com
 ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion
 st7.fun
@@ -3525,6 +3566,7 @@ t9o.qcupn.com
 tailwera.cloud
 taktuk.ru
 talulime.com
+taoche.cn.wswebpic.com
 tarkin-60275.portmap.io
 taxes.rpacx.com
 tbsdocs-educationfile.com
@@ -3697,6 +3739,7 @@ txtfaerlwmunuhg.com
 ty7.site
 tzw7ckhurmxgcpajx6gy57dkrysl2sigfrt6nk4a3rvedfldigtor7ad.onion
 u0lk6d1vu8eixkcj.info
+uaery.top
 ufox.co
 ufox.info
 uhie2020.duckdns.org
@@ -4567,6 +4610,7 @@ www.shop.msi-afteburner.com
 www.shop.msl-afteburner.com
 www.shop.msl-afteburner.link
 www.shop.msslafteburner.link
+www.silversters.com
 www.sitemap.firslhorlzom.com
 www.sitemap.msi-afteburner.com
 www.sitemap.msl-afteburner.link
