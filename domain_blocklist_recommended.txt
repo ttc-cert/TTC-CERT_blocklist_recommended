@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-03-06 03:00:01 +07                        #
+# Last updated: 2023-03-07 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -185,6 +185,7 @@
 34ms.live
 3558a96f05746a46d4f0e54011e8d84c.co.cc
 355d94ff42e9a07aa7a88659a59b8695.co.cc
+35ebbc09c26653ff7b73d3a9e5586f85.co.cc
 360www.ca
 3619667015e3233fdeff388d13941b68.co.cc
 371d5df8859c2d1e9b08142e77e7263d.co.cc
@@ -270,6 +271,7 @@
 4fourartengo.cfd
 50ms.live
 50ms.xyz
+510addfcb9a521ee80a9f77d8b92d702.co.cc
 511dfa5f7accf49e054f079d192c396a.co.cc
 513d904aace80e0359a78a606b5f3ffa.co.cc
 516c1915c5ca84f2d423ea1fd6261d0d.co.cc
@@ -314,6 +316,7 @@
 63b413f4ebae81def4f6d91048b2ee7f.co.cc
 63ms.live
 646d43d09c37cfec786d928895b7e969.co.cc
+648a874eb423e79776e7d83094034fe9.co.cc
 64f4aafbb9c0b7093ff02a5a265090a5.co.cc
 65941da36d6fbcee0f6e8b199fcaf0cd.co.cc
 65d6e7cd5b310112a5c3c09bcf39c3ae.co.cc
@@ -342,6 +345,8 @@
 701d71948bf5f375728683113fcd4cd7.co.cc
 701fdb19a2ad164bc98f685499b4af99.co.cc
 70495f1832e5ed5bf82e0772bc14bd6f.co.cc
+713c01440063bab6383afe9225575810.co.cc
+71430e6974209ad9edc819ae77923653.co.cc
 71b2ac14cadd6ac97ff185ecbace72bd.co.cc
 71bf1b2fea3f70ebf0b5e294000e4d41.co.cc
 71e4a8863f8e9a58833ac913f6803f3f.co.cc
@@ -380,6 +385,7 @@
 7abd87ce270434f4a78d57fac459d43c.co.cc
 7b286bd0409d77647653172361bca811.co.cc
 7b2ced48b8113ee1b73539b293e39f64.co.cc
+7b434910a8e90f7140b6a9cbe59efc06.co.cc
 7b6d99a9-c61e-438f-908d-9c5d71038dd5.msi-afteburner.com
 7c2bcf8fcbec92858cef8a1b6ed8a1a6.co.cc
 7c703903bb0d5fba40dbeb9cca4b3bbf.co.cc
@@ -453,6 +459,7 @@
 916dfd3be2880e451865381365912405.co.cc
 91afc95427527acdb259e887ad424f95.co.cc
 9217dad442bf95004880eed11a8d6c19.co.cc
+92c47714c0741db8886333b1a35076dc.co.cc
 9333a2239391833bc420b3c69c7e1195.co.cc
 93ca66c1cf068d3bfa1f7bd82bd72576.co.cc
 94632664553f246869a1a7dca3759128.co.cc
@@ -1147,6 +1154,7 @@ c66834620cce0ad10bbf8c125f144115.co.cc
 c690bbf93ec18719749f60f2bdcc6e3d.co.cc
 c6b9f7569e8e66fdbed92f3fd7284c8e.co.cc
 c6ce20548cd8d28392c99d3b2c4dba5a.co.cc
+c7ffb7dabbef307b24a67083d845c873.co.cc
 c8f1bf44d4377169a9b41ea20c283b28.co.cc
 ca58ec5a1338a7a3f6994d8c96a58ec3.co.cc
 ca9118cdbecaf1f0ea7bce80cb177207.co.cc
@@ -1178,6 +1186,7 @@ cba-login-assistance.com
 cbc5fbc00b04644a3250faeffc2b3c81.co.cc
 cbc-fcu.org
 cbf46829a2c6349ed0e94c1044a11c87.co.cc
+cc059c3cb0acc73c42090b66a9e5f338.co.cc
 cc2.lol
 cc50b957245871356b633521e15a792c.co.cc
 cc6d2186588a17191db7e4263b1674da.co.cc
@@ -1726,6 +1735,7 @@ edgememblognservc.com
 edit.wpsonline.co
 edupoliceam.info
 ee28c58d0a4a59263e6c45c2c6ba2e59.co.cc
+ee60614848ae7afd473c889ccfa7d7e7.co.cc
 ee9bfd3ffaa8f2e4fbb250449ed0df48.co.cc
 ee9.lol
 eeabf6fd399ea45da6fd4a271a51e8aa.co.cc
@@ -1805,6 +1815,7 @@ f39a3ad4f1fa362835377bd46eff177f.co.cc
 f3ba4a3eff5a453002ce75f0522f12dc.co.cc
 f42978e1a417d733f2629331ead5c525.co.cc
 f443ffe79db06814b43b11a041342b12.co.cc
+f459375170d27f0549fe20e60bac2193.co.cc
 f495b6ab9dcf8d3b.info
 f495da768df13f3467769d755d85c2e0.co.cc
 f49cb1551d3251c793bc67253cae388d.co.cc
@@ -2998,6 +3009,8 @@ lmsoffixe.click
 lmsoffixe.homes
 lmsoffixe.quest
 lmsofio.site
+lngpetro.com
+loader.oxy.st
 loadingsharingdoc.cloud
 load.whitesnake.church
 loansimpleclosing.site
@@ -3995,6 +4008,7 @@ sdk.expresswayautopr.com
 sdmodelmakers.click
 sec00payment-amazon.x24hr.com
 second.pmservicespr.com
+second.yayayawawawa.cn
 secretary.rentamimi.com
 secretformulameals.com
 sec.sideq500.net
@@ -4032,6 +4046,7 @@ service-cmgfmgrw-1301382485.nj.apigw.tencentcs.com
 service-cq6c7204-1308476627.gz.apigw.tencentcs.com
 service-d1ytpf7k-1258890276.hk.apigw.tencentcs.com
 service-dancq08b-1306177445.cd.apigw.tencentcs.com
+service-dydpc1xk-1304560974.gz.apigw.tencentcs.com
 service-el84p2u9-1304765474.sh.apigw.tencentcs.com
 service-emrt552f-1307868367.bj.apigw.tencentcs.com
 service-gogtk08f-1310215561.bj.apigw.tencentcs.com
@@ -4193,6 +4208,7 @@ specialblueitems.com
 speedycrm.msl-aftebuurner.xyz
 speedycrm.robimhod.com
 spkdeutshnewsupp.com
+sportiffcity.com
 sql8001.site4now.net
 sql8003.site4now.net
 sql8004.site4now.net
@@ -4324,6 +4340,7 @@ techinovation.online
 techinovation.site
 techinovation.space
 techinovation.website
+techlineengineering.com
 techlivewire.com
 tecinnovation.fun
 tecinnovation.online
@@ -4379,6 +4396,7 @@ thepropertystock.com
 therealclave-47992.portmap.host
 thereporterz.com
 theshoplace.com
+thietbinuoitom.vn
 thirawogla.com
 thk.lol
 thondorbird.com
