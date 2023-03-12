@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-03-12 03:00:01 +07                        #
+# Last updated: 2023-03-13 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -21,6 +21,7 @@
 020.57thandnormal.com
 028446060bd3e3b94263c23f370bee0c.co.cc
 028fbcde2192767fb18eb9d8d13107cf.co.cc
+0345e3af94a9e6ce17b92e049e967c90.co.cc
 044ffdfe1eb4b191a638657bbc95a985.co.cc
 04b441dba1f238f75c001bf3a05f2386.co.cc
 04e10a6dd881b791534bcf2b33a9419f.co.cc
@@ -43,6 +44,7 @@
 0b9109ec2a0bab2792c71fa561456910.co.cc
 0bdca88d1204fcb6a78ff10388be84d5.co.cc
 0c0c6defe1b97976da80632ec86365e5.co.cc
+0c1c21b28a9fedc2193f6dd1ad109a98.co.cc
 0c21ed33e98f4fbe785bf29cb70ef316.co.cc
 0c422952587f892b.azureedge.net
 0ca9947db6576ad85e95d2c85d595271.co.cc
@@ -106,6 +108,7 @@
 1c3c719eeffbee2c5344bfb808909ec9.co.cc
 1c40557acb7971a622c574a7fac095a4.co.cc
 1c7c8b0d783f40cdae470a13f9ca5f0b.co.cc
+1c86138f1f678237b50f6ddad33bbd8c.co.cc
 1cd865e347ad36e8.azureedge.net
 1d4bf94e985ac1a1abcd732bafac8816.co.cc
 1drvmicrosoft.com
@@ -292,6 +295,7 @@
 513d904aace80e0359a78a606b5f3ffa.co.cc
 516c1915c5ca84f2d423ea1fd6261d0d.co.cc
 516f7bf1dc2509a9f99a12ceb8423602.co.cc
+517be1488591ebfe13af7358cbb5775c.co.cc
 521a0f6c3752ee4da621d7250f265a13.co.cc
 52226asdiobioboioie.com
 5275f6fdb37a41dab980a299c2d57a88.co.cc
@@ -312,6 +316,7 @@
 58ad4ab0d9d957f0ce44774294d499ed.co.cc
 58e957c96e955ecccdbddaf5bf3b8ae3.co.cc
 5915e9672be2395132f04e39ae85c09b.co.cc
+596939ee1cc2eb667c4c2e3738777f74.co.cc
 5bff6c3642816b61416a637a76dafa01.co.cc
 5c2d.zgngu.com
 5ceb5f8efb9d954225561a8f0f3fc386.co.cc
@@ -421,6 +426,7 @@
 7e94936cdcfd301475758c253f2fe482.co.cc
 7f40ed5656201abc6254d01b54bbb18e.co.cc
 7f4f5b87de7fc4342628c4da3b485646.co.cc
+7f67925ad509ffc49c2e98f06119c8f7.co.cc
 7iqt53dr345u.com
 7kstc545azxeahkduxmefgwqkrrhq3mzohkzqvrv7aekob7z3iwkqvyd.onion
 7la.la
@@ -525,12 +531,14 @@
 9ccf34e2ddfe4bd5a37375c3d6b80148.co.cc
 9d70ba2355e95a43c7dc222534d2293d.co.cc
 9dfda54555186ac4734e5fc6c0c8218a.co.cc
+9dff710775b2fdb559bba3c36a983222.co.cc
 9e814a894b2c8b760efb8fd94f6f4a29.co.cc
 9ea31849891cd89b4f4a6882de9b4260.co.cc
 9f83c5db7f552946b26a422c09aab81f.co.cc
 9fyqzxdiq8njukl1.info
 9ge.ge
 9v.tbeew.com
+a03692b26dde96b50c416fa3f3012a61.co.cc
 a04e24e172cd59a1f671411529716371.co.cc
 a0d5290e955a80938b5408966e850cac.co.cc
 a0w.herokuapp.com
@@ -969,6 +977,7 @@ billingreception.homes
 bilognet.com
 binarbaidrealestate.com
 binaryfile.cfd
+bing-api.goyi.workers.dev
 binowww.pw
 birungor.com
 bitclandng.click
@@ -1530,6 +1539,7 @@ csn.lol
 csolutionslimited.click
 cs.pdtrojans.xyz
 cs.qatarpgreenroperties.com
+cs.usy7.cc
 ct-cvsp.pro
 ctmnews.kr
 ctmouzecla.click
@@ -1583,6 +1593,7 @@ d3llu4686fshym.cloudfront.net
 d3w0arvvki19jt.cloudfront.net
 d452ecfe408441b07ed934022959d509.co.cc
 d5600c531758ea41acf39e5726dea120.co.cc
+d57e9760dfd2a9ccbf028756c1e7dbfd.co.cc
 d5986e109273390b3d79b4d00f620132.co.cc
 d5cdf9f2e4f0360bf0be68da5f95da65.co.cc
 d5d46d773a149f2ad49dc14017741c51.co.cc
@@ -1757,6 +1768,7 @@ doxuwojol.com
 doylescap.com
 dp0kuiftynn0b.cloudfront.net
 dpgurumaesagevms.online
+dpp.zhuoeye.com
 dpunktesting.ddns.net
 drc6ebhco4cva.cloudfront.net
 drcordoba.com
@@ -1849,6 +1861,7 @@ ee28c58d0a4a59263e6c45c2c6ba2e59.co.cc
 ee60614848ae7afd473c889ccfa7d7e7.co.cc
 ee9bfd3ffaa8f2e4fbb250449ed0df48.co.cc
 ee9.lol
+eea3fc719c173a8b6b45e1eeccab6051.co.cc
 eeabf6fd399ea45da6fd4a271a51e8aa.co.cc
 efb78c7e44e8e1823287b7bedc123cc2.co.cc
 efvsx.gq
@@ -2050,6 +2063,7 @@ fleetind.live
 flexsf.ru
 flipper-zero.shop
 flipperzerostore.net
+flltsxsspqzfhzk.com
 floer.sbs
 florida.serveblog.net
 florinaprivateschool.com
@@ -3691,6 +3705,7 @@ nvidia1.top
 nvidia.services
 nwpxdtbdfdbbop.com
 nxsimdevelop.com
+nxytpbiyjjmfzolnd.com
 nysicforma.xyz
 nytimesjournal.net
 nzarkatar.no-ip.biz
@@ -4298,6 +4313,7 @@ service-i3kx54cp-1307868367.sh.apigw.tencentcs.com
 service-ibw4m758-1257554267.gz.apigw.tencentcs.com
 serviceime.site
 service-inswy5c0-1308873553.gz.apigw.tencentcs.com
+service-jaqour6q-1303896379.gz.apigw.tencentcs.com
 service-k791lpuo-1306177445.gz.apigw.tencentcs.com
 service-kmsksppr-1309016787.bj.apigw.tencentcs.com
 service-mltm6xvs-1304585582.gz.apigw.tencentcs.com
