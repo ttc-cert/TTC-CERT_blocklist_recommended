@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-03-18 03:00:01 +07                        #
+# Last updated: 2023-03-19 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -210,6 +210,7 @@
 34ms.live
 3558a96f05746a46d4f0e54011e8d84c.co.cc
 355d94ff42e9a07aa7a88659a59b8695.co.cc
+35cc0d46b02124cbb1abf24bf83eea40.co.cc
 35ebbc09c26653ff7b73d3a9e5586f85.co.cc
 360www.ca
 3619667015e3233fdeff388d13941b68.co.cc
@@ -321,6 +322,7 @@
 52f50109a9db5a85613fe0b989325947.co.cc
 53d745798b8e19b07e7aa910fd344b3f.co.cc
 53th.xgunq.com
+54b0ae6056a01d2eb6a1a09ae6499dfb.co.cc
 55424fa8bc0f7efd87f0609901f1bfaf.co.cc
 566a7b4a67b91ef3697440c61602fa18.co.cc
 5695bf9f09950e0fbec57ce86b60ba9b.co.cc
@@ -604,12 +606,14 @@ a75568f8f3931ef4c3732c4cef8bc989.co.cc
 a77517f2489fd2ec569af30eaa692e57.co.cc
 a7caf65c0d0f52aa4635e0b3efa63cce.co.cc
 a7da95710957fcd8da660012d320ee69.co.cc
+a8b129af398462133524d4fe20a8814c.co.cc
 a8bb731644729f4d1c7fb3f90fbb4672.co.cc
 a8f68d3f4c8436ee4f9eed4cf35aa732.co.cc
 a8zsxqt8rf.execute-api.us-east-1.amazonaws.com
 a9017745cf79415a2bf0b3929541a8e1.co.cc
 a9457e92d9d8f0b9c83be681b6cb5716.co.cc
 a945ed9d3b411249c830f59b0cd05bbe.co.cc
+a96430d209eb4aff8fcb981ba8f0d358.co.cc
 aaa46feb47e453651c9f79f4b3fd8393.co.cc
 aaafaxelectronic.store
 aaafaxing.store
@@ -655,6 +659,7 @@ accounts.mynewtopboyfriend.store
 account.vuzf.bg
 accountyandex.inro.link
 ace5fea4a63116b69d42f5d8212d73fd.co.cc
+acroserver.com
 acs-c2.com
 active.aasm.pro
 actors.jcracing.com
@@ -697,6 +702,7 @@ aerilaponawki.com
 aeronaut-25032.portmap.io
 af8191b763e9af4c5819d66d737d15e0.co.cc
 afb6f2e6b688ea84b5c08e921562d000.co.cc
+aff20229a70f15f1df2fda038cb80a70.co.cc
 afforlogon.top
 afrodizajoy.com
 afteerbumers.lol
@@ -875,8 +881,10 @@ as.svcshosvt.com
 astradamus.com
 astrawwinzo.homes
 asy1543.duckdns.org
+atechniques.com
 ats-ascott.com
 attachment-posts.cc
+attention.acemindtechnology.com
 au.advertearn.xyz
 auction.wonderwomanquilts.com
 audacite.org
@@ -960,6 +968,7 @@ b8f27435f1a3d0c93e10a106584ce25b.co.cc
 b93d747b0b417d34553577f4ef8586bd.co.cc
 b93e28052c0507b86c8e49a9610635ca.co.cc
 b98f5ed579f67dd3b6ddd45b6c777964.co.cc
+b9f4ffdb3690c05fceb2ca7df436334b.co.cc
 ba209d2a8a1a379235ce0134fb2f0676.co.cc
 babieschristeningoutfits.com
 bafc96e392b3a3c99c76b8d7a2cab3fe.co.cc
@@ -1296,6 +1305,7 @@ bytcox01.top
 c0b6199aabe29f77a5ba38e3ee1b3643.co.cc
 c0c471b8127d0c0e8434d44f4367d782.co.cc
 c0san0stra.zapto.org
+c1472198093194b4610e2089e1f22f2d.co.cc
 c15cb344daf2d467c279450a65117b83.co.cc
 c1730432a5096af9e7dc0ff9505476b4.co.cc
 c1907c64f6fa8ef271b2b0a73d1b02f5.co.cc
@@ -1542,6 +1552,7 @@ contentdirect-gkcpe7cwafa0f7d7.z01.azurefd.net
 contentnonprod.azureedge.net
 continueusingyourcap.com
 contractor.thecaninescholar.com
+control.meetsocial.hk
 control.rawrgaming.icu
 conversgint.org
 co-o.co
@@ -1697,6 +1708,7 @@ d57e9760dfd2a9ccbf028756c1e7dbfd.co.cc
 d5986e109273390b3d79b4d00f620132.co.cc
 d5cdf9f2e4f0360bf0be68da5f95da65.co.cc
 d5d46d773a149f2ad49dc14017741c51.co.cc
+d5d54f56b2247b0ef50f8d491be123ed.co.cc
 d5e929b50c9d561737b84b192067b77b.co.cc
 d66f800e24ba4f3701ebdaa6680bf980.co.cc
 d681e65f29c8b7c4e2851083b8bc5cea.co.cc
@@ -1740,6 +1752,7 @@ data-columsecure.sbs
 datacolum-secure.sbs
 datacolumsecure.sbs
 datadocumentaccess.sbs
+data.fixx.sbs
 datahubserv.com
 dataport.sbs
 datasecureaccess.sbs
@@ -1862,6 +1875,7 @@ dol-thgo.cc
 domainnet.ssl443.org
 domcomp.info
 dominatess.com
+donaldtrump.cc
 donotshotnigers.com
 doockerq.site
 dooker.space
@@ -2234,6 +2248,7 @@ freedomportal.cloud
 freefiles22.xyz
 free-gptchat.com
 freewindowsactivator.com
+fremodver.cf
 friscomusicgroup.com
 frydog.email
 ftp.mgcpakistan.com
@@ -2859,6 +2874,7 @@ greenbottz.xyz
 greencorp.pro
 group5.corralphacap.com
 gsgoxf4zkkv9dgoe.info
+gsm.ftp.sh
 gtag-analytics.com
 guerytech.online
 guiadosabor.com
@@ -2963,6 +2979,7 @@ hrauthconds.com
 hrotuaolajhjdi.com
 hse.ru.attachment-posts.cc
 htaccessredirected.com
+https-proxy-phxf3piyqa-uc.a.run.app
 https-steamcommunity.ru
 htv.lol
 htygh.online
@@ -3588,6 +3605,7 @@ mikerin.ml
 mikkymicrovps.online
 mikludoykxx.ddns.net
 mime-cit-x.xyz
+mine.c3pool.com
 minecraftrpgserver.com
 minghost.cfd
 minicrack.com
@@ -4073,6 +4091,7 @@ pcsoftkit.com
 pdfsoftwarevn.com
 peak-pjv.com
 penny.glove38.gayado.ru
+penshorn.org
 people.fl2wealth.com
 people.zonashoppers.com
 pepatoniyac.click
@@ -5120,6 +5139,7 @@ uscenter-north.site
 us-central1-workers-373921.cloudfunctions.net
 uscracks.com
 usd-circle.com
+usdt.lat
 userput.email
 usfoods-pdf.click
 us.ja7.site
@@ -5296,6 +5316,7 @@ winegroup.club
 winery.nsupdate.info
 winlog02.micnosoftupdates.com
 winlog03.micnosoftupdates.com
+winsatoom.com
 wispields.ml
 withylndng.click
 w-me.me
@@ -5600,6 +5621,7 @@ www-fortlnet.top
 wwwfortlnet.top
 www.forum.firslhorlzom.com
 www.fox8hen.com
+www.freet.tech
 www.fzupdate.com
 www.genmedcv2023.ru
 www.getapp4.xyz
@@ -6107,6 +6129,7 @@ www.homemani.pw
 www.hostmaster.bookinfirst.com
 www.hostmaster.gethonestseo.com
 www.hostmaster.megaobjects.com
+www.htl502.tech
 www.huifeng-tech.com
 wwwid.bim-mgn.com
 www.iidethakur.xyz
