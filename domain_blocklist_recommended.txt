@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-03-23 03:00:01 +07                        #
+# Last updated: 2023-03-24 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -58,6 +58,7 @@
 0f544da3484bbc954f79b3eb84e6c2a0.co.cc
 0f8c57d7e099eee9a4307c85cf6e198d.co.cc
 0fsixwh1sfqt64gc.info
+0qm0me53ux46fg6m.info
 0xx1.kaspenskyupdates.com
 0xx3.kaspenskyupdates.com
 104dc2943f6fa2c5341de73f204647f9.co.cc
@@ -86,9 +87,19 @@
 14956711210dab161fc4a04e8f733bfc.co.cc
 14a4018074a8dc85b65ff2fb63b517fc.co.cc
 151b9437d059f871ee0960e9c582dab7.co.cc
+1537la.buzz
+1537li.buzz
+1537lx.buzz
 15622f259b21aecc1abf543cc8b8310e.co.cc
 1565c5327f0c43e5d5e3550c249a16f0.co.cc
+1568la.buzz
+1568li.buzz
+1568lx.buzz
 1578e58ebe61393b0656541df72ec642.co.cc
+1599la.buzz
+1599li.buzz
+1599lx.buzz
+1599lz.buzz
 15bfd60aaa0965a2a710.b-cdn.net
 15e81ac9a812ffe5b8228caa7dfa574e.co.cc
 1636365.com
@@ -193,6 +204,7 @@
 2fe0103c07a212cf17d97c0a4f5fe666.co.cc
 2gfeks7mnsghbulv.info
 2oertmpv3beoyyyz.info
+2snrw9bgtk0qv.cfc-execute.bj.baidubce.com
 2xdepp.com
 2zjpc0z3d94047s4.info
 309c7f9710eb2eb0434c8a6a38f25307.co.cc
@@ -231,6 +243,7 @@
 39144465f0b8616dd65c34e9ff74fdd6.co.cc
 3956b72758c56d1500c3596d90638487.co.cc
 39b097746097b361b16d78161d40515c.co.cc
+39e96382f9df5f747e57c0747d2a0625.co.cc
 3a7838eae5375819e6253c77f523c7d4.co.cc
 3ad6c03901bf7101e0c04e1008b93e91.co.cc
 3ae43c2c8ba3369ba7a19091ee757ff9.co.cc
@@ -283,6 +296,7 @@
 458cffb5586aa7e589572c40fc74b8ad.co.cc
 4624ee148501ccaf0df5272c3f71b7f5.co.cc
 46534d169524a561ceb0f2c4575df414.co.cc
+465de7052a235ebe5fab8158f19b481a.co.cc
 46654f05c3939d8accbbc1fdb525a544.co.cc
 4667cf92ea23b2b0756fcd4fae60fa8b.co.cc
 4698e7e4b91beb537d1b01fd921e4960.co.cc
@@ -333,6 +347,7 @@
 53d745798b8e19b07e7aa910fd344b3f.co.cc
 53th.xgunq.com
 54b0ae6056a01d2eb6a1a09ae6499dfb.co.cc
+551e924b094f22d08c02873cc690d04d.co.cc
 55424fa8bc0f7efd87f0609901f1bfaf.co.cc
 566a7b4a67b91ef3697440c61602fa18.co.cc
 5695bf9f09950e0fbec57ce86b60ba9b.co.cc
@@ -470,6 +485,7 @@
 7df9502672bf75fef9671708862954c8.co.cc
 7e359b0415f2d98c3df9d33e8a7835d4.co.cc
 7e94936cdcfd301475758c253f2fe482.co.cc
+7ead9cbbdd4de253e98b7668a0a6f84c.co.cc
 7eo6iblxi8qlw89e.info
 7f40ed5656201abc6254d01b54bbb18e.co.cc
 7f4f5b87de7fc4342628c4da3b485646.co.cc
@@ -493,6 +509,7 @@
 82.115.223.46:57672
 822bd99f03904b78f9650c808e6552ad.co.cc
 82879f1a17c21658854afb76ef0cf64c.co.cc
+829038ee1af163ccf50de93114fc3cd8.co.cc
 82b4fff2ab16eb6e2ee9a528aa786044.co.cc
 82b53e7a2dd2c46a0cb7918104826b35.co.cc
 82ed1d64c2bfd9481c94e86f32d5b79b.co.cc
@@ -629,6 +646,7 @@ a75568f8f3931ef4c3732c4cef8bc989.co.cc
 a77517f2489fd2ec569af30eaa692e57.co.cc
 a7caf65c0d0f52aa4635e0b3efa63cce.co.cc
 a7da95710957fcd8da660012d320ee69.co.cc
+a894f093cfbd812b30c8392ae2b821ee.co.cc
 a8b129af398462133524d4fe20a8814c.co.cc
 a8bb731644729f4d1c7fb3f90fbb4672.co.cc
 a8f68d3f4c8436ee4f9eed4cf35aa732.co.cc
@@ -720,6 +738,7 @@ ae8748bc53dc0af7bfc0f985fc7fa935.co.cc
 ae8afbd8824ad814e6496031b531a48e.co.cc
 aeea2642b5c19a5e653058c26be003dc.co.cc
 aef6207a094b16f0c7012a290e0ba81a.co.cc
+aek0aicifaloh1yo.com
 aekh3.cc
 aerilaponawki.com
 aeronaut-25032.portmap.io
@@ -849,6 +868,12 @@ api.safeit.com
 api.tw1988.link
 api.vmwareportal.net
 app888888.email8.xyz
+appcloud19.buzz
+appcloud1.buzz
+appcloud20.buzz
+appcloud2.buzz
+appcloud3.buzz
+appcloud5.buzz
 appdevtechnology.com
 appendix1m.com
 appfree.club
@@ -875,6 +900,7 @@ appweb8474.servebeer.com
 app.wired.co.uk
 aquufuuu.pw
 aqwkly.com
+araboxtv.sbs
 archieve.zip
 archive-downloader.com
 archiver-7zip.software
@@ -1027,6 +1053,7 @@ bb404b97b350f9f6c4ede426e034f175.co.cc
 bb8e696128b8831a0197ff0850a8057b.co.cc
 bb9d11f539cbb7ecad731abc10f37c52.co.cc
 bbc33be93d0f2786aec9f1c6d3c09279.co.cc
+bbc3906318c07a332042756fd326bd05.co.cc
 bbc-s.news
 bbk.lol
 bc14db12038fca1fab3db1b20d086fc0.co.cc
@@ -1170,6 +1197,7 @@ blennbeer.online
 blennbeer.xyz
 blennber.lol
 blennber.xyz
+blindsmax.sbs
 bllenber.lol
 bllenber.site
 bllsl2.shop
@@ -1321,6 +1349,7 @@ btc.yomeat.com
 btect05c77e3wke9.info
 btv.lol
 btxoklpyhqgv.com
+bubapeq.quest
 bubl-filez.xyz
 bugiplaysec.com
 build1nformation.community
@@ -1541,6 +1570,7 @@ closingspro.com
 cloudapifirst.com
 cloud.archive-downloader.com
 cloud.bncfministries.org
+cloudflear.cf
 cloudforceget.online
 cloud.globiscapital.co
 cloudgooglesdk.publicvm.com
@@ -1703,6 +1733,7 @@ cutlinks.pw
 cuturls.net
 cvqsvdvv1i6dq1zn.info
 c-whatsapp.com
+cybercrusader.ddns.net
 cyberghostpro-vpn.com
 cyberghostprovpn.com
 cyber-ghostsvpn.com
@@ -1831,6 +1862,7 @@ de4b1a1c3f3a663e3d015c04255717a8.co.cc
 deadpool-shop.top
 dedeperesere.xyz
 deepbluecompanys.site
+dehelibe.com
 dehuvowomo.com
 de.jsp.lol
 delmonte-us.top
@@ -1847,6 +1879,9 @@ desktop-tradingview.org
 desmart.msk.ru
 devcloudpro.com
 d-ev.dev
+dev-extension.cloud
+dev-extension.one
+dev-extension.us
 dev.gitlabs.me
 devoinnanote.com
 devoterfo.com
@@ -2058,6 +2093,7 @@ efb78c7e44e8e1823287b7bedc123cc2.co.cc
 efvsx.gq
 egscorp.net
 egt.lol
+ekcentric.com
 ekslyqfwreqid.com
 elcapolis.com
 e-learning.mialislamiyahckp.sch.id
@@ -2140,6 +2176,7 @@ f23351c5694b1352baf87e0f5ea55ca9.co.cc
 f2a2991032d7606b66dd90ea9f840383.co.cc
 f39a3ad4f1fa362835377bd46eff177f.co.cc
 f3ba4a3eff5a453002ce75f0522f12dc.co.cc
+f3e452b0ad592db8051a2cccaa415572.co.cc
 f42978e1a417d733f2629331ead5c525.co.cc
 f443ffe79db06814b43b11a041342b12.co.cc
 f459375170d27f0549fe20e60bac2193.co.cc
@@ -2397,6 +2434,7 @@ gimpv.org
 gimvp.org
 ginepija.com
 giniechoserved.com
+ginoreku.com
 git.app.msl-afteburner.com
 git.app.msl-afteburner.link
 git.app.msl-aftebuurner.xyz
@@ -2976,6 +3014,7 @@ harmoniagardens.com
 harrysucksdick.com
 havana.littlehavanacigarstore.com
 hayneselden.com
+hbeat.ru
 hbfyewtuvfbhsbdjhjwebfy.net
 hc32.weixinzx.org
 hc64.hserverdns.com
@@ -2990,6 +3029,7 @@ healing-strategies.xyz
 healthsteward.org
 healthy-sweets.ru
 heavy-support.com
+hedeya.sbs
 heglosuty.com
 heifan2survr.xyz
 heikickgn.com
@@ -3012,6 +3052,7 @@ hhomebarclaysasohaec.com
 hhtreiojgdii56h.com
 hicks-woodley.live
 hiden.geeksnail.ga
+hie7doodohpae4na.com
 hificellfon.click
 highlineadsl.com
 hightingsoul.hair
@@ -3029,6 +3070,7 @@ hls.itunes.apple.com.mwcname.com
 hnatechgroup.com
 hnftwzf.com
 hoaviet-54998.portmap.host
+hoh0aeghwugh2gie.com
 hokorlll.pw
 homely-ecbhbqd3fdashda7.z01.azurefd.net
 homemani.pw
@@ -3110,6 +3152,7 @@ ii.haqo.net
 ii-ii.ru
 iiijoxfyewimnu.com
 i-io.io
+iivy6qhlrp62o0ru.info
 ijorar.com
 ijoyzymama.com
 il1.000webhostapp.com
@@ -3126,6 +3169,7 @@ in1.lol
 indevsys.com
 indocakraniaga.id
 industria.baraodoamazonas.dlcontabilidade.com.br
+industrialtechservices.com
 industry-planning.in
 industry.tj.mypolicy.top
 info.abbny.com
@@ -3145,6 +3189,7 @@ ingramjapan.com
 inj.had0.live
 inshotforpc.com
 inspire.azureedge.net
+inspirefitness.sbs
 instagram.128-199-14-40.plesk.page
 instagram-authentication.pages.dev
 instagram.com.t-alhajar.com
@@ -3768,12 +3813,14 @@ moontraps.com
 mooremakeup.com
 moosdies.top
 moran101.duckdns.org
+mordo.ru
 morshalmatters.com
 mosatrap.art
 moscowkov.xyz
 moscpcpipe.inro.link
 moses-staff.se
 most-wntonlyfunns.ru
+motherearthlabs.sbs
 movescx.top
 moviegallerys.com
 moyakanj0.xyz
@@ -3873,6 +3920,7 @@ namtv.ru
 napajep.com
 napala.top
 napokirup.com
+nasaservers.sbs
 naswarlobi.xyz
 nata-chic.ru
 natply.com
@@ -3922,6 +3970,7 @@ neuka.top
 neukoo.top
 nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion
 newactivationkey.com
+newarriwal.quest
 newclosing-office.click
 newcracksoft.com
 new.devupdates.workers.dev
@@ -4195,6 +4244,7 @@ panelcheck.live
 paneldrive.live
 panelremitweb.com
 papazz.xyz
+paramountchemicals.sbs
 parkerpublic.com
 parlogin.top
 passphrase.singinganewsong.com
@@ -4224,6 +4274,7 @@ penshorn.org
 people.fl2wealth.com
 people.zonashoppers.com
 pepatoniyac.click
+peqart.sbs
 performancesurvey.online
 performer.stmhonline.com
 perpus.poltekkes-tanjungpinang.ac.id
@@ -4354,6 +4405,7 @@ psihimapto.com
 psiloveyou.co.za
 pslog.estonine.com
 psu.su
+psychologymax.com
 ptnveubnqtovirort.com
 public.dsixonsat.com
 publicpressmagazine.com
@@ -4464,6 +4516,7 @@ reggy914.ru
 reg.n0tepad-plus.com
 releaselineaging.info
 reliablesw.com
+remediadigital.sbs
 remitprogress.com
 remitvolume.com
 renew-powers.com
@@ -4520,6 +4573,7 @@ rnail.rnid.ru.inro.link
 rnetatrader4.com
 robertbuss.com
 robimhod.com
+roboshop.sbs
 roboterra.one
 roboterra.xyz
 robottera.one
@@ -4605,6 +4659,7 @@ s-b.sb
 sc32.hserver.dns-dns.com
 scala-nimcomp-iterate.cfd
 schedule.zip
+schmerzfrei-shop.sbs
 sc.hserverdns.com
 scientific.pk
 scifihits.com
@@ -4930,6 +4985,7 @@ stillprunnert.com
 stimaimmi.ac.id
 stop-pause-cityplay3r.cfd
 streamix.tv
+streetlifegaming.com
 stripchatapp.info
 stripchatapp.net
 stripchatapp.org
@@ -4984,6 +5040,7 @@ svchost.freeddns.org
 svoykbragudern.com
 svparto.com
 swp6fbywla09.com
+swsgswsg.sbs
 sxconstructions.com.au
 sy-s.systems
 systemwin.linkpc.net
@@ -5088,6 +5145,7 @@ thaicash.net
 thb.lol
 thebtcrevolution.com
 thecloudnet.org
+thecornerstoreau.sbs
 thecrackfiles.com
 thecracksoftware.com
 thecryptosyndicate.com
@@ -5252,6 +5310,7 @@ ufox.info
 uhie2020.duckdns.org
 uhie.hopto.org
 uigov.com
+ultracoolfl.sbs
 ultratec.com.pk
 u-mu.mu
 unacademyforpc.com
@@ -5359,6 +5418,7 @@ virginiaservice.org
 virtualbse.com
 virtualmediaoffice.com
 virvida.com
+vispik.at
 visualstudio-t.com
 vitanigoldtravelandtours.com
 vj.nrgsd.com
@@ -5406,6 +5466,7 @@ vwvv-discord.top
 vysorforpc.com
 vystar-login-review.dynamic-dns.net
 w3.puvmw.com
+wa5zu7sekai8xeih.com
 wac.ac
 wacuvosa.com
 wagringamuk.com
@@ -5751,6 +5812,7 @@ www.chatgtp.icu
 www.cistonewhobeliev.xyz
 www-citrix.top
 www-citrlx.top
+www.cornerstonebeverly.org
 www.crm.msl-aftebuurner.xyz
 www.crm.msslafteburner.link
 www.crm.robimhod.com
@@ -6606,6 +6668,7 @@ yellokomput.xyz
 yelprope.cloudns.cl
 yelsopotre.com
 yg8fmkxx1rnyvq8x.info
+yic0oosaeiy7ahng.com
 yifebuto.com
 ynns.uk
 ynpfctxfufump4d.com
