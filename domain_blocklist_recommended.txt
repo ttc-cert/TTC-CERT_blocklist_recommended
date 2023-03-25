@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-03-25 03:00:01 +07                        #
+# Last updated: 2023-03-26 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -25,6 +25,7 @@
 0345e3af94a9e6ce17b92e049e967c90.co.cc
 03bd3bc95879b3756a3b4d37c856af1f.co.cc
 044ffdfe1eb4b191a638657bbc95a985.co.cc
+047e6a4124594a9028218833dbfd27f7.co.cc
 04b441dba1f238f75c001bf3a05f2386.co.cc
 04e10a6dd881b791534bcf2b33a9419f.co.cc
 0-4.top
@@ -35,6 +36,7 @@
 05cefdf580641b02f503ec58a66d90a3.co.cc
 05d387b4bd07f95bfcdd24fd91b156d9.co.cc
 05da27e9dc1d9d1ea90bf6d64f006781.co.cc
+05da4bd9627590f9e5cd0f42f3a8bb51.co.cc
 06297dea1424cedbf6b56993afab94f9.co.cc
 07501fdcf9f9214698cb5a4534185efc.co.cc
 076f3b7048e3a66513b970ef68cb3c0a.co.cc
@@ -42,6 +44,7 @@
 07ab6bb82eefde068784eee1a1322dc6.co.cc
 08aa5282d1ebebe8620d92390009fb1e.co.cc
 08e3fcec0edcd487c8d8a75d74f0e6a0.co.cc
+09b526b4ec469b9b8ccb8cd1f844f274.co.cc
 09f8f0fef362fff92e900552ce7bc733.co.cc
 0a28ce44e208aae29c30eb1e498103f0.co.cc
 0a365076054629b02fb6c63603f99bf5.co.cc
@@ -126,6 +129,7 @@
 19ec44f8b81ee19bb4247c3fccbde8d2.co.cc
 1b3291d6647dbafe63bff7040d525ddd.co.cc
 1b7ba9433401c55c4b3b5f57af6c0e43.co.cc
+1ba85caedf48b9fc4615c57b0c621a71.co.cc
 1be4c670415fb48bd585a7c3053daee7.co.cc
 1c3c719eeffbee2c5344bfb808909ec9.co.cc
 1c40557acb7971a622c574a7fac095a4.co.cc
@@ -323,6 +327,7 @@
 4b1210720ebbd9602e5f1dd836e17a19.co.cc
 4b2e196179a6fc5e15de1533fb8df566.co.cc
 4b6272a31ef2996b22674c209cb2750d.co.cc
+4b9702de88792f278e54397a2a7d212c.co.cc
 4bcd099a267e83e3c3971d0d9da93d16.co.cc
 4beaee1a1f61970bd72315afbd473665.co.cc
 4c0b0f2a4e7cd0c13f4037072b77aa88.co.cc
@@ -411,6 +416,7 @@
 6732f77e8449ff4572d697fb22ecd894.co.cc
 683a2cf98f7e359c032c94e34efaf5ce.co.cc
 684c73153cafe52d24d67399c31c3e89.co.cc
+6894d5e4d23b2ee67e12ab7aa84874d4.co.cc
 693d218a9009152d719329ad8d379c1d.co.cc
 69d1fe63e44b556def23951cacff5e99.co.cc
 6af2ba13e87d071d9ad4c942df1cfa68.co.cc
@@ -458,6 +464,7 @@
 778672df279ce414c92d42a63d276014.co.cc
 77867e53e19e1bfe82ca656b9f15351e.co.cc
 77c492b52b1f8fca4196dd332e573d8c.co.cc
+77df2153b1b24cbc44fb5082b1512c4b.co.cc
 77e9b6a0669afca5e25d234ca89cca08.co.cc
 77ec81a254a58ba5dfa1fa6cde04af44.co.cc
 77ed529c20abdc23f6d55a0da888f66a.co.cc
@@ -570,6 +577,7 @@
 8x19.com
 900595f1326c2a05974ad9ce49d4a83e.co.cc
 90736ef3038154e7e2d6ee95914621f1.co.cc
+908bf32a5ac4b026922848bdc4d1d60a.co.cc
 90ec4c5ea5b0120bc97a19b723ceee16.co.cc
 90ms.live
 90ms.online
@@ -622,6 +630,7 @@
 9dff710775b2fdb559bba3c36a983222.co.cc
 9e814a894b2c8b760efb8fd94f6f4a29.co.cc
 9ea31849891cd89b4f4a6882de9b4260.co.cc
+9f5fff8809ccc3097b94da77e20edf3d.co.cc
 9f83c5db7f552946b26a422c09aab81f.co.cc
 9fyqzxdiq8njukl1.info
 9ge.ge
@@ -646,6 +655,7 @@ a4a5cd544f19602bd1cd759f89f0420c.co.cc
 a4b23d6a1a33fdac74df15ffd579ecbc.co.cc
 a4f654f5e773078dca7424da76c5cd9f.co.cc
 a5a66e281885ef518709bd3f9612ba17.co.cc
+a5b93a7ca4c46aef5d704734370237ca.co.cc
 a627c826fd8637df643ae9edca4f4c63.co.cc
 a63cf611-acbd-4806-82f5-8d5b3160d1a9.robimhod.com
 a699351bb90fc9c4b902f6c52609fb30.co.cc
@@ -718,10 +728,12 @@ actors.jcracing.com
 acwapower.in
 ad061e4d9248836c5b670992539eef5a.co.cc
 ad7aa387e742389ad4c67d707caae392.co.cc
+adblocker-sentinel.net
 adc5533ea3ea3f2a6e15f6cb18ab335d.co.cc
 adci9.cc
 add2netflix.ddns.info
 ade9c63373a0c1218f98233fef94c49a.co.cc
+adfreewatch.info
 admin96.hopto.org
 admin.boostbank.io
 admin.yuexiu.life
@@ -1377,6 +1389,7 @@ bullitt-ch.click
 business.mygshplus.com
 buyer.techagencyinc.com
 buytechstuff.com
+buzzonclick.com
 b-vg.life
 b-vg.top
 bwdt9.cc
@@ -1609,6 +1622,7 @@ clzqwhc.com
 cmme.it
 cmnb9.cc
 cnc.dotxyz.cf
+coauthcn.com
 codewithnodejs.com
 cofi.hk
 cofs.uk
@@ -1732,6 +1746,7 @@ csc.zte.com.cn.wswebpic.com
 cs.docker-compose-update.com
 cs-endpoint-hmb2bad8bkdwd2b0.z01.azurefd.net
 cs.kkksex.com
+csklo06p.slt.sched.intlscdn.com
 cslzmm.com
 csn.lol
 csolutionslimited.click
@@ -1911,6 +1926,7 @@ devicepartner.huawei.com
 devoinnanote.com
 devoterfo.com
 devsecurityservices.com
+devsetgroup.com
 dexterstampingtn.com
 df3233.workers.dev
 df5212d0fb41bc5cd769e579ee0c7c06.co.cc
@@ -2947,6 +2963,7 @@ g-l.gl
 glmps.site
 gl-ms.info
 gloa.in
+globaladblocker.com
 global-application.us
 globaltechline.com
 globiscapital.co
@@ -3818,6 +3835,7 @@ minjs.us
 minoorrchik.online
 minsk.gov.by.attachment-posts.cc
 mintngjzqpcpenalfpgjtbhazks.fun
+mirzadihatti.com
 mistitis.ug
 mixload.email
 miyake.sbs
@@ -4043,6 +4061,7 @@ news.wooordhunts.com
 newsworldcity.com
 newsworldcity.ml
 newtryex.ddns.net
+newwvideos.com
 newzelannd66.org
 new-zltrinzetndfhnc1inzzilwiyntlkodg4ndg2zqaqap.online
 nghfh.com
@@ -4345,6 +4364,7 @@ pharmabeaver.com
 pharmabeaver.ml
 pharmarite.azurewebsites.net
 phone-drive.online
+photo.asf5.sbs
 phyton.site
 phytonsite.xyz
 pi2.lol
@@ -4527,6 +4547,7 @@ quy32-filez.xyz
 quyetchip9x-62387.portmap.host
 quyetchip9x8-59495.portmap.host
 qw00.site
+qwavemediaservice.net
 qweastradoc.com
 qwert1121.live
 qw.execsvct.com
@@ -4770,6 +4791,7 @@ service-2knpsjoi-1308395236.gz.apigw.tencentcs.com
 service-2nbv117r-1252578242.bj.apigw.tencentcs.com
 service-381kylfn-1306620309.bj.apigw.tencentcs.com
 service-3c8oujtz-1252130768.bj.apigw.tencentcs.com
+service-3uc3y0ao-1301310284.gz.apigw.tencentcs.com
 service-4ass89cc-1300716010.gz.apigw.tencentcs.com
 service-7eaicd0p-1308943111.sh.apigw.tencentcs.com
 service-7u28tmku-1309186631.gz.apigw.tencentcs.com
@@ -4788,6 +4810,8 @@ service-dxkujbtv-1305051246.sh.apigw.tencentcs.com
 service-dydpc1xk-1304560974.gz.apigw.tencentcs.com
 service-el84p2u9-1304765474.sh.apigw.tencentcs.com
 service-emrt552f-1307868367.bj.apigw.tencentcs.com
+service-f19aq6v8-1300773162.gz.apigw.tencentcs.com
+service-fcvuvti8-1258973287.gz.apigw.tencentcs.com
 service-foqiq1ty-1312402023.gz.apigw.tencentcs.com
 service-ftyn94bx-1308675124.cd.apigw.tencentcs.com
 service-gogtk08f-1310215561.bj.apigw.tencentcs.com
@@ -4960,6 +4984,7 @@ softs32.com
 softskeygen.com
 softwarekeygen.com
 softwareulike.com
+soguo.quest
 soh.lol
 solotionult.site
 solotionult.store
@@ -5247,6 +5272,23 @@ tibenorote.com
 tickets.kairosadvantage.com
 tidbitsofexperience.com
 tikalandof.click
+tiktok.0dtlvs.cloud
+tiktok.2rkb.cloud
+tiktok.4fbg.cloud
+tiktok.4ope9v.cloud
+tiktok.8rghj.cloud
+tiktok.8rghj.sbs
+tiktok.bdwnl.cloud
+tiktok.dahaak.sbs
+tiktok.dfh5.sbs
+tiktok.fre3.sbs
+tiktok.km8j.sbs
+tiktoks.0dtlvs.cloud
+tiktoks.ae4eg.cloud
+tiktok.sd4rge.cloud
+tiktoks.dfh5.sbs
+tiktoks.rhlm4.cloud
+tiktok.ss4gy.cloud
 tilojejeza.com
 timoconnor.com.au
 tiny-url.mobi
@@ -5476,7 +5518,12 @@ victirn.online
 videocdn.fun
 videoconscepts.com
 videoconverterfree.com
+videolass.com
+videolost21.com
 videosdahora.fun
+videosdidi.com
+videospriv8.com
+video.tv1d30.sbs
 video.your-notice.fun
 vietnamcredit.oss-ap-southeast-1.aliyuncs.com
 view1-secure.sbs
@@ -5646,6 +5693,7 @@ wordpress.msl-afteburner.com
 wordpress.msl-afteburner.link
 wordpress.msslafteburner.link
 work.letmaker.top
+workspacevideo.email
 wormxwar.ddns.net
 wowcracks.com
 wp.bookinfirst.com
