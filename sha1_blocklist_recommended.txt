@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-03-27 03:00:01 +07                        #
+# Last updated: 2023-03-28 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -5225,6 +5225,7 @@ f5149543014e5b1bd7030711fd5c7d2a4bef0c2f
 f5196163632946f77307e61eebe7be5b782362a6
 f51fb8dcbc71a3036cc5ca0cc7feef7c766cd2d3
 f54a41145b732d47d4a2b0a1c6e811ddcba48558
+f54ed65a7da560f40921784226329294c773ad61
 f54f91d143399b3c9e9f7abf0c90d60b42bf25c9
 f56c3b72b7e8c55b9685e35765553fafbbb08e2b
 f5704b37ba696a6b3032f4c3bcc9b0f041afd251

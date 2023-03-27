@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-03-27 03:00:01 +07                        #
+# Last updated: 2023-03-28 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -81,6 +81,7 @@
 12-25.telegraxm.org
 1251215763b582b24385aaa1b796e35d.co.cc
 126a881dc789e2af6fef76fb301822a5.co.cc
+12e53ee5450397661a392351b24ace02.co.cc
 139180215100.b-cdn.net
 1395f8504e7234780156788f7ae53958.co.cc
 13c09aa990e85afadb11c69577873822.co.cc
@@ -125,6 +126,7 @@
 193.233.20.20:4134
 193.233.20.23:4124
 1981db50a06ff37ecabf0a976def1fb3.co.cc
+198e7afea1320dd0eb122930425468e5.co.cc
 19d8b02c1a4cbe695e00.b-cdn.net
 19ec44f8b81ee19bb4247c3fccbde8d2.co.cc
 1b3291d6647dbafe63bff7040d525ddd.co.cc
@@ -296,7 +298,9 @@
 437c5ed3952a49d9ed84ac8054aff960.co.cc
 44368a6f7e71e72fc5e6607d1826fa03.co.cc
 44526d4652dfd6f759a183a51a457e87.co.cc
+44788649bbfd474064a67c6dc1c77dd4.co.cc
 44b52a05e65c359543c1825c62f26247.co.cc
+44c9696dbc4159c8e584cafb4d63e0a7.co.cc
 44c9760e72234c60e68212dc0005cf44.co.cc
 44fc7cd8601f4c8da28ca2818eac821a.co.cc
 4515c6ac2e2d2a2fb8ad1cef31ce0051.co.cc
@@ -476,6 +480,7 @@
 7922447ed625b8fd9ff04645c6f07297.co.cc
 792bb4c2a061c52f306fb286806ef3be.co.cc
 793e28d73d79265d9e1dd9906236eb66.co.cc
+7981d888e228da5374a53e4d7c109f3b.co.cc
 79b3046f60f85cfc80564abfbac99e2e.co.cc
 79c649f0abc150280e1c903ce7b80bcd.co.cc
 79cd3d10263d47dd90973fc082445f71.co.cc
@@ -557,6 +562,7 @@
 89bc17545145890e7ae4453fb5fa2f1a.co.cc
 89c8c344f54cba1fb6bad2351b07e679.co.cc
 8a44b6a796c65628e84c5af345205e8e.co.cc
+8b341dbe033c0b1a5e753e17c0e47c06.co.cc
 8b938bd3613ef91bcabd282e99467def.co.cc
 8c12dd5c4f5c0e00bec3b6821b652d95.co.cc
 8cb0268b53ed572a452770e0fc9a52d6.co.cc
@@ -568,6 +574,7 @@
 8da986afefb18aa598da1ad22ba7832f.co.cc
 8dabcaa833348534c17850b82be5773d.co.cc
 8df10067757b5b68ba5f99434724b69f.co.cc
+8e78fd89670e0edd565681c085ef7572.co.cc
 8e860f39145190220e90889c1c64b52a.co.cc
 8e89985e302d2d768495c53c410be44f.co.cc
 8f14ab82fce39baec6e6d00346e65c56.co.cc
@@ -635,6 +642,7 @@
 9fyqzxdiq8njukl1.info
 9ge.ge
 9v.tbeew.com
+a01d28bee11b2884f90595485f817198.co.cc
 a03692b26dde96b50c416fa3f3012a61.co.cc
 a04e24e172cd59a1f671411529716371.co.cc
 a0641e9108eb77f5753a30281b78711e.co.cc
@@ -1421,6 +1429,7 @@ c690bbf93ec18719749f60f2bdcc6e3d.co.cc
 c6b9f7569e8e66fdbed92f3fd7284c8e.co.cc
 c6ce20548cd8d28392c99d3b2c4dba5a.co.cc
 c773d7fac2cedf5917e414d85da09b55.co.cc
+c799ef81d2ed8edd5014da5cff49136a.co.cc
 c7f587237f38054e08da9a939054ee04.co.cc
 c7ffb7dabbef307b24a67083d845c873.co.cc
 c8f1bf44d4377169a9b41ea20c283b28.co.cc
@@ -1480,6 +1489,7 @@ cc-z.cz
 cd45bd62659340988ebbab3a0cc91a5c.co.cc
 cd5ecff88f0e0cf2dc365efb591335ca.co.cc
 cd8h4oikbfgntfve6p40.msl-afteburner.link
+cd9bf24f3563dbf858ace836a79de01f.co.cc
 cd9es62kbfgq26rbe220.msl-afteburner.link
 cdfbj4.cc
 cdfunldnl.cfd
@@ -1903,6 +1913,7 @@ de4b1a1c3f3a663e3d015c04255717a8.co.cc
 deadpool-shop.top
 dedeperesere.xyz
 deepbluecompanys.site
+def30qw5ks4uw.cloudfront.net
 dehelibe.com
 dehuvowomo.com
 de.jsp.lol
@@ -3161,6 +3172,7 @@ htygh.online
 htygh.website
 huanbaogai.cn
 hubspp.com
+hufipeh.com
 huhidefe.com
 hujkj.store
 hujukui3.net
@@ -4644,6 +4656,7 @@ rexten-49704.portmap.host
 rfosusl6qdm4zhoqbqnjxaloprld2qz35u77h4aap46rhwkouejsooqd.onion
 ridsosurver1.xyz
 rif-nador123333333.zapto.org
+rifovekina.com
 righttoplay.live
 righttoplayswitzerland.click
 ri-guard.com
@@ -4793,6 +4806,7 @@ server1.elearningmansatuokit.sch.id
 servercentralsection.com
 servermlrn.com
 service-11ghje19-1301390598.sh.apigw.tencentcs.com
+service-14dd1oy1-1301249313.bj.apigw.tencentcs.com
 service-2knpsjoi-1308395236.gz.apigw.tencentcs.com
 service-2nbv117r-1252578242.bj.apigw.tencentcs.com
 service-381kylfn-1306620309.bj.apigw.tencentcs.com
@@ -5242,6 +5256,7 @@ testxx.mcuweb.cf
 tevegram.com
 tginbota.cyou
 th7.site
+th852.com
 thaicash.net
 thb.lol
 thebtcrevolution.com
