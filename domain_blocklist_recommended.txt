@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-04-05 03:00:01 +07                        #
+# Last updated: 2023-04-06 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -116,10 +116,12 @@
 15e81ac9a812ffe5b8228caa7dfa574e.co.cc
 1636365.com
 166755c70675aab7f718b1532f0ce59c.co.cc
+16807f7e5d9201bc0221937a20218f72.co.cc
 16ce9f1a0e6806809dd769a47c6a553e.co.cc
 171a05ddcf56e19633c4ca4c8d605353.co.cc
 172-105-5-70.ip.linodeusercontent.com
 172-86-123-86.static.hvvc.us
+1764c538e41bf3251b375980ec58ea35.co.cc
 176bf757678a1ddb2e84d527d413f37e.co.cc
 179cddde3b33c369bfb69ad4f9d6ebbc.co.cc
 17ab9a06b2eeb53c4a9b3c2e12f9c9a0.co.cc
@@ -213,7 +215,6 @@
 296058a5121d2482401e519f81f7c2b5.co.cc
 29742ee9f235c78be7be821b2986e6e0.co.cc
 29ceb1aa5d210fb695365ff96d4ce717.co.cc
-2a18aa1123a62ddee6c45fb4965f46ac.co.cc
 2b9892b5dc80c0b9c26e7895b41c939b.co.cc
 2c36e1be1691216d1f9ab22f4de50691.co.cc
 2c6c19e4ae36b479d4fbd38f757d366f.co.cc
@@ -276,6 +277,7 @@
 39b097746097b361b16d78161d40515c.co.cc
 39e96382f9df5f747e57c0747d2a0625.co.cc
 3a31ddc00474a510f0405fd67b194d49.co.cc
+3a45122952b9023f3714a51d98231c4f.co.cc
 3a7838eae5375819e6253c77f523c7d4.co.cc
 3ad6c03901bf7101e0c04e1008b93e91.co.cc
 3ae43c2c8ba3369ba7a19091ee757ff9.co.cc
@@ -320,7 +322,6 @@
 4254bf1439e7a7541bd72dd6626ca1e1.co.cc
 42c150df-96bf-4714-9d76-9b9c8f464b9c.msl-afteburner.com
 42de3b35f84f241193dc950eb407e7df.co.cc
-42efbacc6bf81db1d8bedf13dc31faac.co.cc
 437c5ed3952a49d9ed84ac8054aff960.co.cc
 44368a6f7e71e72fc5e6607d1826fa03.co.cc
 44526d4652dfd6f759a183a51a457e87.co.cc
@@ -411,6 +412,7 @@
 58e957c96e955ecccdbddaf5bf3b8ae3.co.cc
 5915e9672be2395132f04e39ae85c09b.co.cc
 596939ee1cc2eb667c4c2e3738777f74.co.cc
+5a86742ac18751c809c5a2aedaa32d3c.co.cc
 5b67d5155e6d002a662805bb372bce07.co.cc
 5bff6c3642816b61416a637a76dafa01.co.cc
 5c2d.zgngu.com
@@ -495,7 +497,6 @@
 74087dd7b1ef2e8adc4f7e0e5cfb8dc6.co.cc
 74c1bd0b908ecc02ec7519c1de412adf.co.cc
 754a18979f22ef52ceb7f1898317a22b.co.cc
-75bb504a00bdaae5e1de3eb5c7fde34b.co.cc
 75c6745d26910603cbcdc1d7b6029c7f.co.cc
 75cd55e75f07b4df90377e858d688b99.co.cc
 763481c368e1f328009fa7840b94838a.co.cc
@@ -584,7 +585,6 @@
 837a5eb5fbc0b95140abe4e2eff20bfb.co.cc
 837f3cd28a4a0faee54afa0402436d40.co.cc
 839da5653f05581488fa62915a5c17bb.co.cc
-83c4270ecf45af0510c784246d0c6ae3.co.cc
 83ed57aeacd74a715b23bb7d7b8f20bd.co.cc
 84210d8cbb452b290039c2f6407776fd.co.cc
 845635fbed656829b79c849d9134116a.co.cc
@@ -603,13 +603,13 @@
 88172ea6fc21b7bd7fd7c2d1302674b2.co.cc
 88945b63907ed550fc1d5ae8bb986211.co.cc
 88a4fa023b592ecfc12fb6ba3b6b8f2d.co.cc
+88bfff4e8c903c2168922e058468df2e.co.cc
 8919e095819f098ff3b85160bc22a125.co.cc
 89.22.235.53:16640
 8925f0d5444ac6ce9177be3f22d4c763.co.cc
 8937fdb13fe209667dab9dd178fc584a.co.cc
 8940a925e35bacc5086a5e5c10f04741.co.cc
 89bc17545145890e7ae4453fb5fa2f1a.co.cc
-89c8c344f54cba1fb6bad2351b07e679.co.cc
 8a44b6a796c65628e84c5af345205e8e.co.cc
 8b341dbe033c0b1a5e753e17c0e47c06.co.cc
 8b938bd3613ef91bcabd282e99467def.co.cc
@@ -663,7 +663,6 @@
 96e806f693223f36de7cbcd1de7f7522.co.cc
 96f3f72950ddb5bc396b7c6d8c23bc8c.co.cc
 972490f322bef127e3f4438073efda0d.co.cc
-972a2b3612d716cfc15b3f7cc9e9e382.co.cc
 977873da633df88a35217b97e5354137.co.cc
 97a5dca5b7a2a4e0e3c4d1707742cdcb.co.cc
 980b4b277aec53127179f9ac91f6d9ae.co.cc
@@ -715,10 +714,12 @@ a35c19aed6f917f68a79b7d2246c4b5c.co.cc
 a38a02e302bc5a76adb2d50354061601.co.cc
 a3c779fbd45bc0931f6ddc7ee4061e90.co.cc
 a3ea71068ca3b5e58282846d18255693.co.cc
+a3f7ed3b9bbb6cc11604767861dd68bc.co.cc
 a40aa4347adc88645748216e3e39c09f.co.cc
 a46ff68bbbf5ee3e58967b9b9e7d139d.co.cc
 a4a5cd544f19602bd1cd759f89f0420c.co.cc
 a4b23d6a1a33fdac74df15ffd579ecbc.co.cc
+a4cefd7c29f1ae069d5963db117e3f90.co.cc
 a4f654f5e773078dca7424da76c5cd9f.co.cc
 a54b8a7f16c75b6f110f4c8b6716e27c.co.cc
 a5a66e281885ef518709bd3f9612ba17.co.cc
@@ -1146,7 +1147,6 @@ b705e2ddaa0c8ccedff60a0f2396100d.co.cc
 b74d847f1f12d079acb8c64d8db15fbd.co.cc
 b7884a0b8395ec6b5d05989d999bfe91.co.cc
 b7a00f1db9429c03a5923382f8f241f9.co.cc
-b7dec3180fd727dc7803de9dd29d6691.co.cc
 b7ea5221bcf29a9364f444727fd67ae6.co.cc
 b81bd60ed6a31e2cca6c8d03ccb2e703.co.cc
 b85558819f3765d74edc7a81964ff25c.co.cc
@@ -1187,7 +1187,6 @@ baumart.lv
 baveyek.com
 baxtermedical.in
 bb1.lol
-bb404b97b350f9f6c4ede426e034f175.co.cc
 bb8e696128b8831a0197ff0850a8057b.co.cc
 bb9d11f539cbb7ecad731abc10f37c52.co.cc
 bbc33be93d0f2786aec9f1c6d3c09279.co.cc
@@ -1499,6 +1498,7 @@ btv.lol
 btxoklpyhqgv.com
 bubapeq.quest
 bubl-filez.xyz
+bud02s43.office36o.online
 bugiplaysec.com
 build1nformation.community
 bukubuka1.net
@@ -1537,6 +1537,7 @@ c3g6gx853u6j.xyz
 c4d8e84b757c148f93d0120f9a9ddfce.co.cc
 c4fb733a94580c6f5c53ece2f958a268.co.cc
 c55dff8c120346b42bf0d9804b3fad67.co.cc
+c58966f5ff70b56f46e5cb0e09b46f9b.co.cc
 c5b7e203fc147d44b4effbf94145bf1b.co.cc
 c5d805e447931cc205bc22e93cd186ba.co.cc
 c622daf869ea68b48aa07a1d4fa3e66f.co.cc
@@ -1554,6 +1555,10 @@ c9fefec50adba30e072cf15bf60c71bd.co.cc
 ca58ec5a1338a7a3f6994d8c96a58ec3.co.cc
 ca7177b5989de304110400363e401948.co.cc
 ca9118cdbecaf1f0ea7bce80cb177207.co.cc
+cache01.micnosoftupdate.com
+cache02.micnosoftupdate.com
+cache03.micnosoftupdate.com
+cache04.micnosoftupdate.com
 cache33.ml
 cache.micnosoftupdate.com
 cafb337f88315beff69e9ecf9f4e967e.co.cc
@@ -1763,7 +1768,6 @@ cloudzippe.com
 cloveselec.quest
 clsmd1.cc
 clzqwhc.com
-cmme.it
 cmnb9.cc
 cnc.dotxyz.cf
 coauthcn.com
@@ -1964,6 +1968,7 @@ d3079b8e5db3fa69a9686c66c980a9fc.co.cc
 d3749c7e162ad04d123a7b355cd3b058.co.cc
 d3902996f23b0475fd56706fb33a8c18.co.cc
 d3b142fc2efbdd1bb5c3a10237eb8b5b.co.cc
+d3cnyow4xnjlr1.cloudfront.net
 d3codndcrka2un.cloudfront.net
 d3iox1tjepb92.cloudfront.net
 d3llu4686fshym.cloudfront.net
@@ -1983,7 +1988,6 @@ d5e929b50c9d561737b84b192067b77b.co.cc
 d66f800e24ba4f3701ebdaa6680bf980.co.cc
 d681e65f29c8b7c4e2851083b8bc5cea.co.cc
 d685eaaaddf5a6cec09e19c109a806ac.co.cc
-d6db4f6221eab9fe583e77f7f46848fd.co.cc
 d75f15b79622bd46e02acf4df3b9d99b.co.cc
 d76b73a397d882de1eb082cdfbba0f64.co.cc
 d79bfdb2d3353579c7685eab5c3c4516.co.cc
@@ -2144,6 +2148,7 @@ dnautik.com
 dns2.cloudf1are.com
 dns.anbush.com
 dns.cloudf1are.com
+dns.wutry.com
 dns.xxe.pw
 dnuocc.com
 dnx.capital
@@ -2296,6 +2301,7 @@ easycoinjjj.com
 easy-dns.lol
 easywindowsactivator.com
 eaton.red
+ebancking.azurewebsites.net
 ebilling.paynotificament.com.bluebguss.com
 ebothlips.com
 ec1ccef2-ccd2-4ab4-9a6f-fda5f8e6a66d.robimhod.com
@@ -2306,6 +2312,7 @@ ec76f51e0b1fb79211a1e071a8690d86.co.cc
 ecar.allsunstates.com
 ecc1dfe6f2cae77dafd70442d958de93.co.cc
 ecf1cdd2f3294a91602610d233b0f54f.co.cc
+ecfcc89b80ec82b01c10371fcfd9f563.co.cc
 e-csg.com
 ed4f0c2a57a26428d787220e0854f9ae.co.cc
 ed90d8492a7798a996f0c3e1eff2f6eb.co.cc
@@ -2382,9 +2389,9 @@ esentai-gourmet.kz
 e-servicesolutions.com
 estimate1a.com
 etv.lol
-eu.adbison-redirect.com
 eu.advertearn.xyz
 eu.ja7.site
+eurodevservices.com
 europe.updater.keenetic.pro
 eusfclboikkggc5d.com
 evgoapp.com
@@ -2440,6 +2447,7 @@ f633f8351d1b4d1cc97a23b2315c2a7f.co.cc
 f636ed7acf6975fa28ada9e843ca7ce0.co.cc
 f69025e845de11350b7cde623bd6cc1b.co.cc
 f6fa5b184bd1d8dec54a8ca4989f6ab7.co.cc
+f709f8cee71210baddbb9db46b80d3b1.co.cc
 f791aeaef622307f907b01d11b873d4e.co.cc
 f84a32568daab16db1434196396f747c.co.cc
 f873566b1e8385daff8251dc01715491.co.cc
@@ -2553,8 +2561,6 @@ flakka24.biz
 flatthe.uno
 fleetind.live
 flexsf.ru
-flipper-zero.shop
-flipperzerostore.net
 flltsxsspqzfhzk.com
 floer.sbs
 florida.serveblog.net
@@ -3449,6 +3455,7 @@ industrialtechservices.com
 industry-planning.in
 industry.tj.mypolicy.top
 info.abbny.com
+infoamanewonliag.online
 info.amynx.com
 info.ateam-qax-sec.tk
 info.beahh.com
@@ -3907,6 +3914,7 @@ mac.cracked23.site
 macdownloadpro.com
 macgamers.net
 macsoftwarepro.com
+madaaraa-hbenaadvcsaahfc7.z01.azurefd.net
 madassgamers.com
 madupusod.com
 mafia.carverdesigngroup.com
@@ -4546,6 +4554,7 @@ onionafrizdan.com
 onlineaccess-myg0v-login.info
 onlineaccess-mygov-login.info
 onlinecloud.cloud
+onlinecloud.live
 onlinei.sbs
 onlineix.sbs
 onlinemicrosoft.fr
@@ -4669,7 +4678,6 @@ pepatoniyac.click
 peqart.sbs
 performancesurvey.online
 performer.stmhonline.com
-perpus.poltekkes-tanjungpinang.ac.id
 perseus.bond
 personnel.bdm-sa.fr
 perspective.abcbarbecue.xyz
@@ -4696,7 +4704,6 @@ pingatinga.click
 pinkbotts2.xyz
 pipe-cable.com
 pipeliningutah.com
-piphoto.tw
 pirtibox.click
 pixelarmada.su
 pj.flyvpncrack.com
@@ -5178,11 +5185,13 @@ service-ibw4m758-1257554267.gz.apigw.tencentcs.com
 serviceime.site
 service-inswy5c0-1308873553.gz.apigw.tencentcs.com
 service-intpwz8r-1301841391.bj.apigw.tencentcs.com
+service-ivnlf9ya-1310046338.gz.apigw.tencentcs.com
 service-jaqour6q-1303896379.gz.apigw.tencentcs.com
 service-jnbjutxg-1304098235.hk.apigw.tencentcs.com
 service-k791lpuo-1306177445.gz.apigw.tencentcs.com
 service-kboespoo-1317138495.gz.apigw.tencentcs.com
 service-kmsksppr-1309016787.bj.apigw.tencentcs.com
+service-m619gnhk-1259697681.gz.apigw.tencentcs.com
 service-mltm6xvs-1304585582.gz.apigw.tencentcs.com
 service-mtrar14d-1316554402.sh.apigw.tencentcs.com
 service-n4ufol3c-1252579309.gz.apigw.tencentcs.com
@@ -5645,6 +5654,7 @@ ti7.eu
 tibenorote.com
 tickets.kairosadvantage.com
 tidbitsofexperience.com
+tiepanghu.xyz
 tikalandof.click
 tiktok.0dtlvs.cloud
 tiktok.2rkb.cloud
@@ -5804,6 +5814,7 @@ uelcoskdi.ru
 ufox.co
 ufox.info
 uhcoxvpn.site
+uhgzxwvtybtudgw.com
 uhie2020.duckdns.org
 uhie.hopto.org
 uigov.com
@@ -6892,6 +6903,7 @@ www.gptchat.tools
 www.gptonlinechat.xyz
 www.graciesvoice.info
 www.grand-italia.ru
+www.gtasdfgh.com
 www.h3lpr3.store
 www.hanimani.pw
 www.headzees.com
@@ -7246,6 +7258,7 @@ z3a.r1z.rocks
 za.advertearn.xyz
 zabitto.ru
 zacharryblogs.com
+zatabax.online
 zcssedu.com
 zedorocop.com
 zetaros.000webhostapp.com
