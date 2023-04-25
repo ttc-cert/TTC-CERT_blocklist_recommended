@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-04-25 03:00:01 +07                        #
+# Last updated: 2023-04-26 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -41,16 +41,13 @@
 077cc9dcb13fa1bd01a78091d15a5e7d.co.cc
 07ab6bb82eefde068784eee1a1322dc6.co.cc
 07c26a2aed316f61a06bb2b3257eefa2.co.cc
-08aa5282d1ebebe8620d92390009fb1e.co.cc
 08ef7b165f7cbed5b3204917b438c24f.co.cc
 09b526b4ec469b9b8ccb8cd1f844f274.co.cc
 09e224684cf16624a728b0be1911a0b2.co.cc
 09f8f0fef362fff92e900552ce7bc733.co.cc
 0a28ce44e208aae29c30eb1e498103f0.co.cc
 0abbb915e01b379b368c41e6e6203c2e.co.cc
-0c0c6defe1b97976da80632ec86365e5.co.cc
 0c1c21b28a9fedc2193f6dd1ad109a98.co.cc
-0c21ed33e98f4fbe785bf29cb70ef316.co.cc
 0c422952587f892b.azureedge.net
 0cd1a1625386f1b750f6fab0731dbd35.co.cc
 0d01ba0a7b45c90a0789d6686ce974b3.co.cc
@@ -119,6 +116,7 @@
 17ab9a06b2eeb53c4a9b3c2e12f9c9a0.co.cc
 17d681c3c9f6254fdce93b65cc610084.co.cc
 18609ec83d96415ed462328c40af34af.co.cc
+18a4cbecca1c1368bcaa9ed008244d05.co.cc
 18b531d8070ebe16481c4040adc94f53.co.cc
 18ee18f48da9de8bdae4bff36969c9cb.co.cc
 18f3973a7882070dddd4dce1add31ae6.co.cc
@@ -297,6 +295,7 @@
 45303c36c574138083fb37db6be63a03.co.cc
 453f1f6d44f8b6ce784c9419aeb6241a.co.cc
 45562e02c0785b281240806f72b2e482.co.cc
+45643995464e287c93f54ba663bf0a02.co.cc
 458cffb5586aa7e589572c40fc74b8ad.co.cc
 45acb7d1d977a17a40dca12a43bc4b0c.co.cc
 4624ee148501ccaf0df5272c3f71b7f5.co.cc
@@ -355,6 +354,7 @@
 55424fa8bc0f7efd87f0609901f1bfaf.co.cc
 55751ebeba329fbb2d8eee2f83a15a45.co.cc
 566a7b4a67b91ef3697440c61602fa18.co.cc
+566bb6df31f94892521eeb7652564cd1.co.cc
 56700b9a25a2cfd7b8f90c6b32e9ae2b.co.cc
 56867748b78658da7a86416bd253ee42.co.cc
 5695bf9f09950e0fbec57ce86b60ba9b.co.cc
@@ -382,8 +382,10 @@
 5d713ab23f09acf802bfdff3cff59c20.co.cc
 5d8fd75e34b5f0e6bd97f9a723779e43.co.cc
 5dc7039a0fc5a5aca643ca77b17b3df8.co.cc
+5ddebbadc45e73b3e00d43240e5054c8.co.cc
 5e612f1de5539f2e5acf8ca0a61d8a66.co.cc
 5e873d042e26a6bc634c340c4e1ebed0.co.cc
+5e9f63e0c8555778303e1cc07ca5bd00.co.cc
 5eb17014313a51cf65b8c18ce9699ca6.co.cc
 5f96a5a10114ed074196f2925d30b96b.co.cc
 5fb20e70e949f04f9d8096db5056706e.co.cc
@@ -398,7 +400,6 @@
 62befc06f005d0f79fa8f48880ed24cb.co.cc
 62df3e60e6a721084e209e2b6944d9b0.co.cc
 635a2b7dec5ba9aa066b06e2efe4d57d.co.cc
-637615b0f1e9f7c4c854d4efe4742e2c.co.cc
 6394c846bc2ee7137ea544f275916ee8.co.cc
 63b02d2f8d19dda6f7cc7e2323366ad3.co.cc
 63cab32f88d336124dc7641cadba3373.co.cc
@@ -540,9 +541,12 @@
 8500615d68b35516453948506b4c1a63.co.cc
 85293e903e2019c5528be1db4e10739a.co.cc
 8570f9e83ec4ebc34bb8fdfd3daf3c1a.co.cc
+8665f2a6697f444baa979d6450f44f89.co.cc
 86ska9em7u8jons5.info
 8729a2c3568ce4d7f511ad7f5aea2d1b.co.cc
 8768f93baab150a06557a80d5ce3894d.co.cc
+87aacc428b2e21a953bea1fe573871cc.co.cc
+87b2208e275d572da3a6ae28541e48b3.co.cc
 87c015a09fa1812288b69809d0007ff7.co.cc
 88172ea6fc21b7bd7fd7c2d1302674b2.co.cc
 88bfff4e8c903c2168922e058468df2e.co.cc
@@ -572,7 +576,6 @@
 8e78fd89670e0edd565681c085ef7572.co.cc
 8e860f39145190220e90889c1c64b52a.co.cc
 8e89985e302d2d768495c53c410be44f.co.cc
-8fc32a320744ed622f3db05be25c18eb.co.cc
 8x19.com
 900440ffeda4cc0a3e1e2d651d82dff5.co.cc
 900595f1326c2a05974ad9ce49d4a83e.co.cc
@@ -609,6 +612,7 @@
 98389b463939fd5d2585629628fb23bd.co.cc
 98fb3b3ded9906b30157423d18df6a6f.co.cc
 991-touring.info
+994ede92c078561258996c28e1a8d645.co.cc
 99600ea0d213375a695eb408695b4ab4.co.cc
 997d8a21a3dd67bf1ce84812cd6a1401.co.cc
 998n.f3322.net
@@ -700,7 +704,6 @@ abc.8x19.com
 abc.sncyhkttp.nl
 abedc36e94c5f4008b7c94cb20840d8c.co.cc
 abilitytechservices.com
-aboutdatabasesoftware.com
 about.git1ab.com
 abrahams-ax.nu
 abrahams-ax.se
@@ -744,7 +747,6 @@ adfreewatch.info
 ad.gemin-otc.icu
 admarketlocation.com
 admin96.hopto.org
-admin.boostbank.io
 admin.yuexiu.life
 adobe-a.com
 adobe-cdn.org
@@ -760,6 +762,7 @@ adsformarket.com
 adsl.testapiss.online
 adsrequestbest.com
 ads.specialadves.com
+ads-tm-glb.click
 adtrafficjam.com
 advice-th.cc
 advice-th.co
@@ -815,6 +818,7 @@ allforfun.online
 all-free-software.online
 allfreesoftware.online
 allison2patrick.online
+allowlisted.net
 allplaces.online
 alnormatic.xyz
 alockajilly.com
@@ -933,6 +937,7 @@ app.bydn285.bar
 app.bydn303.bar
 app.bzudn.club
 app.cbodn.bar
+appcisco.com
 appcloud19.buzz
 appcloud1.buzz
 appcloud20.buzz
@@ -1030,6 +1035,7 @@ asy1543.duckdns.org
 atechniques.com
 atfepro.com
 atfexpro.com
+atlas-upd.com
 atonpi.ru
 attachment-posts.cc
 attention.acemindtechnology.com
@@ -1115,6 +1121,7 @@ b9f4ffdb3690c05fceb2ca7df436334b.co.cc
 ba2ed215e8eeb035e82c9d956ed79680.co.cc
 ba4aa94b6529d7cb2e55518775ba6046.co.cc
 ba5a87e44dbb7f5ff4bf0d97d9f62061.co.cc
+ba856577693f40318aff82f9c1e505ad.co.cc
 babieschristeningoutfits.com
 backrocklondon.com
 back.rooter.tk
@@ -1514,6 +1521,7 @@ cbbfe3136fbc6095182ba26196595aa9.co.cc
 cbc5fbc00b04644a3250faeffc2b3c81.co.cc
 cbc619531214a45ea396455eaaac2cc8.co.cc
 cbf46829a2c6349ed0e94c1044a11c87.co.cc
+cbox4.ignorelist.com
 cc059c3cb0acc73c42090b66a9e5f338.co.cc
 cc2.lol
 cc6d2186588a17191db7e4263b1674da.co.cc
@@ -1659,6 +1667,8 @@ classiccolor.live
 classicfonts.live
 classicpartnerships.com
 classified.com.au
+claudfront.ml
+claudfront.net
 clean-blocker.com
 clean.godmessagedme.com
 cleanitgo.info
@@ -1676,6 +1686,7 @@ cloudateup.online
 cloud.bncfministries.org
 cloudcat.ddns.net
 cloud-cdn.org
+cloud.dnx.capital
 cloud-drive.store
 cloudf1are.com
 cloudflear.cf
@@ -1802,6 +1813,7 @@ cs.capetradefinance.co.za
 csc.zte.com.cn.wswebpic.com
 cs.docker-compose-update.com
 cs-endpoint-hmb2bad8bkdwd2b0.z01.azurefd.net
+cs.hacker.wang
 cs.kkksex.com
 csklo06p.slt.sched.intlscdn.com
 csn.lol
@@ -1846,6 +1858,7 @@ d1bb9b7a70144dc7e6be7f63b58e95fc.co.cc
 d1d178fba1ee7158e8407a520127cb1f.co.cc
 d1fgry9dth4dwk.cloudfront.net
 d1j6ynnkkyzn6b.cloudfront.net
+d1k3jm8ts5rfjb.cloudfront.net
 d1mxovbic5u3wv.cloudfront.net
 d1q9csnjkgnx2a.cloudfront.net
 d2008f6040f9314febc002819d3e71db.co.cc
@@ -1855,7 +1868,6 @@ d2it5qvo5v7f26.cloudfront.net
 d2j09jsarr75l2.cloudfront.net
 d2k9649bx1yvrv.cloudfront.net
 d2keeghmxuwkh3.cloudfront.net
-d2r7zxxp94uuq9.cloudfront.net
 d2t63xuowhr5jl.cloudfront.net
 d2tm7b3g7gf7d5.cloudfront.net
 d3079b8e5db3fa69a9686c66c980a9fc.co.cc
@@ -1944,6 +1956,7 @@ ddlakava.ac.ug
 ddockeers.space
 de1.lol
 de2356522122fb8b637e672c835560cd.co.cc
+deck.31ventures.info
 deck.altair-vc.com
 deck.altair-vc.co.uk
 deck.toyota-ai.org
@@ -1979,7 +1992,6 @@ dev-extension.us
 dev.gitlabs.me
 devicepartner.huawei.com
 devoinnanote.com
-devoterfo.com
 devsecurityservices.com
 devsetgroup.com
 dev.yuanta.dev
@@ -2705,6 +2717,7 @@ hovabatoje.xyz
 hquycrogjlsdhy.com
 hrabrlonian.xyz
 hrowerknifi.com
+hsdps.cc
 hse.ru.attachment-posts.cc
 hs.hserverdns.com
 https-proxy-phxf3piyqa-uc.a.run.app
@@ -2956,6 +2969,7 @@ kenmil.ac.ug
 kepw.org
 keyzishaptu.com
 kezydorekuw.eu
+kfcvme50.cn.com
 kggov.com
 kgu.lol
 kidsfunland.org
@@ -2994,6 +3008,7 @@ kr.jsp.lol
 kruktech.shop
 kryptex.software
 ksboard.in
+ksecrity.hd-line.cc
 ksecurity.ta-line.cc
 ksecurity.ta-th.cc
 ksecurity.xv-line.cc
@@ -3043,8 +3058,6 @@ liamelston.com
 liangjiang33.top
 liangjiang44.top
 library.covebooks.com
-library.patria-artha.ac.id
-lib.vipklh.ru
 lifeinsurancequotes.xyz
 lightversionhotel.com
 line-cn.net
@@ -3099,7 +3112,6 @@ loop.abbbny.com
 loop.haqo.net
 lordgitcash.com
 lose-aliveoffice.in
-lostbussiness.com
 lostmeals.org
 lo.tkkls.ml
 louvre.abudhabe.info
@@ -3158,6 +3170,7 @@ mail.mdist.us
 mail.mercamaq.com.br
 mail.mfa.az-link.email
 mail.mfa.gov.kg.openingfile.net
+mail.mfa.uz.webmails.info
 mail.mgimo.ru.sigriup.site
 mail.nata-chic.ru
 mail.raouf-hotels.com
@@ -3933,6 +3946,7 @@ russk22.icu
 ru-uid-507352920.pp.ru
 ryhyruqeliz.eu
 rylupalyxad.eu
+rytha.top
 s-01.defendersupdate.com
 s-02.defendersupdate.com
 s-03.defendersupdate.com
@@ -4236,13 +4250,23 @@ ss3.lol
 sseamb.com
 s-sh.sh
 ssm.awszonwork.com
+sso-co.cc
+sso-ga.cc
+sso-go.cc
+sso-goth.cc
 ssogo-th.cc
+sso-go-th.com
 sso.sermifleksiks.com
 sso.silversters.com
 sso-so-line.cc
 sso-tc.cc
+sso-th.cc
 sso.trialstreak.com
+sso-uo.cc
+sso-vode.cc
+sso-xy.cc
 ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion
+ssth9.com
 st7.fun
 st7.skin
 stablehouses.info
@@ -5219,7 +5243,6 @@ www.femfirst.co.uk
 www.fidelity-mining.cc
 www.fidelity-mining.com
 www.fidelity-mining.net
-www.filebring.com
 www.flexsf.ru
 www.forpjuuu.pw
 www.freet.tech
@@ -5368,7 +5391,6 @@ www.micorsoft.shop
 www.microsofe.xyz
 www.microsoftcontents.com
 www.mingy.xyz
-www.models.com
 www.moidvain.live
 www.msfst.vip
 www.mtevz.online
@@ -5468,9 +5490,9 @@ www.slkypeapp.com
 www.snaptikt.com
 www.snmew.com
 www.snpeac.vip
+www.speech-microsoft.com
 www.sswapap.vip
 www.sswapep.vip
-www.stackpath.com
 www.stakewise.net
 www.stargatefinancenews.com
 www.stargatefinancial.net
