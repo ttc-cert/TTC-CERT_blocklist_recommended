@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-04-30 03:00:01 +07                        #
+# Last updated: 2023-05-01 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -184,6 +184,7 @@
 27bc70fd5a72472b5865437d9153d439.co.cc
 27d321b294c7db41d321438257c782ec.co.cc
 282f058f3434e3123168cd709e7053b1.co.cc
+286a9087769b8c47b0035d9890a97ff3.co.cc
 28b2a1bdbc8d96b80380a846595ecd45.co.cc
 28c81f667ffc756bb45a666c90ea752b.co.cc
 2944ad05d5e5168401062048bca9ee1f.co.cc
@@ -255,7 +256,6 @@
 3ad6c03901bf7101e0c04e1008b93e91.co.cc
 3ae43c2c8ba3369ba7a19091ee757ff9.co.cc
 3aqrek.com
-3bd1582868e16e56453c0f60aed76636.co.cc
 3c2bfad8cdd8cf54b5c4b8fdc8e75c30.co.cc
 3c9d3155a4d4a86d51487b6707f20933.co.cc
 3ccaa9835d70619b891a66c9b44cfacd.co.cc
@@ -430,7 +430,6 @@
 6c214639c554fcbe092242cc0df34b6c.co.cc
 6c.nz
 6dbaa9ac6dbfe0c388dd2bd75ed55fc0.co.cc
-6dc4afadbe3f5dfe300b31192f77c511.co.cc
 6e9f66cf6680fd9a84a2c77d85ad2bab.co.cc
 6eb9868f0d15653f94ef1b420a5db6ae.co.cc
 6ebc2f8930f2e26f9748c76340a4582c.co.cc
@@ -452,7 +451,6 @@
 71b2ac14cadd6ac97ff185ecbace72bd.co.cc
 71bf1b2fea3f70ebf0b5e294000e4d41.co.cc
 71e4a8863f8e9a58833ac913f6803f3f.co.cc
-71eb80d64708319bed92fb8bd254fc0a.co.cc
 71f2963be2b6b6547e32e79c76f8ade0.co.cc
 724ad2ff4c404d444679da073caca5a8.co.cc
 7285c7aff9535add6c6d39d8a4bbced6.co.cc
@@ -481,6 +479,7 @@
 77w.pw
 7841094b87ef16a2537b8746ed5d231b.co.cc
 78cfae2315df265ec2886576246811c3.co.cc
+78f939e6b2cbd3e1bff93a5ea6371174.co.cc
 7922447ed625b8fd9ff04645c6f07297.co.cc
 792bb4c2a061c52f306fb286806ef3be.co.cc
 793e28d73d79265d9e1dd9906236eb66.co.cc
@@ -529,9 +528,9 @@
 81.161.229.143:45156
 8194aaa4ec16816c58952eae87b515e6.co.cc
 81ead1514bab3878aea569d4255304e4.co.cc
+81f9f4a0705916a90a019dfafd060993.co.cc
 82.115.223.46:57672
 829038ee1af163ccf50de93114fc3cd8.co.cc
-82b53e7a2dd2c46a0cb7918104826b35.co.cc
 82ed1d64c2bfd9481c94e86f32d5b79b.co.cc
 8310a0e990774261b13ba8eeccb1b2fc.co.cc
 8368147f43426f5e8aeed9ad6dfafb4a.co.cc
@@ -594,6 +593,7 @@
 9191b3ff45efcf77f8ca6673ae60d755.co.cc
 9217dad442bf95004880eed11a8d6c19.co.cc
 92c47714c0741db8886333b1a35076dc.co.cc
+92d43f806e1c04cf9718a866c88ef792.co.cc
 92ed0dad969ddcb3199d7bd0eaac2ed8.co.cc
 933da9beb5d6450e4cb6020fe43d0811.co.cc
 9348.cn
@@ -608,7 +608,6 @@
 959aee0f358f9128e0143b01d86a4593.co.cc
 95b298a678ba4e9055996b1e2b623927.co.cc
 95e02f7e07303527a17223cff1bead64.co.cc
-96bb29f764f3f35b53affd90e0edf98f.co.cc
 96f3f72950ddb5bc396b7c6d8c23bc8c.co.cc
 977873da633df88a35217b97e5354137.co.cc
 97a5dca5b7a2a4e0e3c4d1707742cdcb.co.cc
@@ -640,6 +639,7 @@
 9df07993532d048a80c87bb4ab9faefb.co.cc
 9dff710775b2fdb559bba3c36a983222.co.cc
 9f3e348d05e48dc9ddc45301498651cf.co.cc
+9f5502c697dff3d60150d3820fd77c78.co.cc
 9f5fff8809ccc3097b94da77e20edf3d.co.cc
 9f67ef6e830eff2f2507509e60d4434a.co.cc
 9f83c5db7f552946b26a422c09aab81f.co.cc
@@ -661,6 +661,7 @@ a238243f52857e06c628df581655f365.co.cc
 a2747804181787f585cd750a0d82c59c.co.cc
 a2911136dfc7cd5f77ce4a28e040da57.co.cc
 a29b7605e1c4aceb490eae09a7d5ac6b.co.cc
+a2c7a28796a7d698cd8b7d1b4d7da1d5.co.cc
 a344a0431f7715585a729215a59d64d5.co.cc
 a3c779fbd45bc0931f6ddc7ee4061e90.co.cc
 a3ea71068ca3b5e58282846d18255693.co.cc
@@ -693,6 +694,7 @@ a9457e92d9d8f0b9c83be681b6cb5716.co.cc
 a96430d209eb4aff8fcb981ba8f0d358.co.cc
 a99e862e441a001f394e1f9fe960c85a.co.cc
 aaa46feb47e453651c9f79f4b3fd8393.co.cc
+aace44da322c1888043093eca005d9c9.co.cc
 aa-cj.com
 aackj2.cc
 aackj3.cc
@@ -733,7 +735,6 @@ acexh.cc
 acf9d9b5b1e8d224c31c200e73f37085.co.cc
 acharryblogs.com
 acroserver.com
-acs-c2.com
 active.aasm.pro
 actors.jcracing.com
 actraffic.com
@@ -1099,7 +1100,6 @@ b4y08hrp3jdb.com
 b5bebb0f3576910b7f4ae10236a89f53.co.cc
 b63ee9e7b8d5a4befe54b5d1ef5c597d.co.cc
 b65fcc9d236dd190033db045216caaa7.co.cc
-b671b89289f98f6fbbeef62753f204a3.co.cc
 b69fc229c2ce4d891d02cefabab68681.co.cc
 b6e9823dc89dffc3cc00046911302aef.co.cc
 b704212b0c968e579f6c53bf89ed538e.co.cc
@@ -1110,7 +1110,6 @@ b7a00f1db9429c03a5923382f8f241f9.co.cc
 b7a01bd2ba6430f9dc1f4a4c8e16957e.co.cc
 b7ea5221bcf29a9364f444727fd67ae6.co.cc
 b81bd60ed6a31e2cca6c8d03ccb2e703.co.cc
-b85558819f3765d74edc7a81964ff25c.co.cc
 b87944dc4587f980df3a7431aa3aff18.co.cc
 b8c7efe431cd1e57b40bda4ccf2ff408.co.cc
 b8c96cd93f1add5cbae4074e03db3622.co.cc
@@ -1493,7 +1492,6 @@ caixadasorte.link
 cakoithaivuong.site
 call.konghaojce.com
 ca.minexmr.com
-canadiantire.work
 canlicerrahi.xyz
 canonical.fmunews.com
 capcutdesktop.shop
@@ -1505,13 +1503,10 @@ capitaltrust.uz
 caputono.com
 caramelas.ru
 cardo.diem-co.com
-career-conagragroup.live
 careerhub4u.com
-career-petsmart.com
 careers4ad.com
 careers.bankofamerica.nyc
 careersbankofamerica.us
-careers-firstenergycorp.online
 carlbendergogo.com
 caseiden.com
 casting.austinonline.shop
@@ -1663,7 +1658,6 @@ circle.web3claimer.net
 ciruvowuto.com
 citahikodab.eu
 citypharmacylv.com
-cjur8utdzjnqvs39.info
 ckav.ru
 classiccolor.live
 classicfonts.live
@@ -1946,7 +1940,6 @@ dc157dac452d3c081e6d5d823585aca0.co.cc
 dc540b8448aad1b147d023db4d3b3bbf.co.cc
 dcaa092571f87871d2a8575657bb3367.co.cc
 dcache.ml
-dcc8f811389dda9250d89612fd87cbba.co.cc
 dcee48034292fb88036abf0e591cafa4.co.cc
 dcf10afe564dd2141b6afd728b05408b.co.cc
 dcmvue.vip
@@ -1990,7 +1983,6 @@ desktop-tradingview.org
 desmart.msk.ru
 destinyfernandi.com
 dev04.ruok.org
-devcloudpro.com
 d-ev.dev
 dev-extension.cloud
 dev-extension.one
@@ -2292,6 +2284,7 @@ f0533095.xsph.ru
 f0fda63efcf17b5098f7b55a5d8a9299.co.cc
 f120b0e98f7e70f3475b35961d38f140.co.cc
 f13ddb896dcfd466add9d351243297ee.co.cc
+f142f7f97c7442016a7b08118a70ee0e.co.cc
 f19dd454bcd0ff235b366c70fb7bb3e4.co.cc
 f24f5290fea22f1938bab70abd45174d.co.cc
 f2a2991032d7606b66dd90ea9f840383.co.cc
@@ -2518,12 +2511,12 @@ gimp-t.com
 gimyglobal.com
 ginaandhipa.com
 ginoreku.com
+giyelido.xyz
 gknbm.ddns.net
 glbtex.me
 glcloudservice.com
 g-l.gl
 globaladblocker.com
-global-application.us
 globallyreinvation.com
 globalnewsnew.com
 globaltechline.com
@@ -2682,7 +2675,6 @@ highfalutin.ru
 highlineadsl.com
 hilinksapps.com
 hinterfy.com
-hire-weston.com
 hiufouwnwk.shop
 hivnd.com
 hjiqa.com
@@ -2807,11 +2799,9 @@ installer-xvpn-h.site
 installer-xvpn-k.site
 installer-xvpn-n.site
 inst.shconstmarket.com
-intellectsoftcareer.com
 inter.gpmtreit.co
 internetmediatech.net
 internship.ojul.com
-interview-petsmart.online
 interytec.shop
 investwell.ml
 investwell.site
@@ -4000,7 +3990,6 @@ schmerzfrei-shop.sbs
 sc.hserverdns.com
 scientific.pk
 scifihits.com
-sciwgczmvyho39.com
 scmrhh.com
 scqoegqewvohstt1r.com
 screenshotcap.com
@@ -4046,6 +4035,7 @@ service-3c8oujtz-1252130768.bj.apigw.tencentcs.com
 service-3uc3y0ao-1301310284.gz.apigw.tencentcs.com
 service-3v98c748-1310046338.gz.apigw.tencentcs.com
 service-4ass89cc-1300716010.gz.apigw.tencentcs.com
+service-4b1hpuo9-1305604765.sh.apigw.tencentcs.com
 service-4f04ow2r-1304941417.sh.apigw.tencentcs.com
 service-5auq8xic-1314775489.gz.apigw.tencentcs.com
 service-6e3glral-1301841391.bj.apigw.tencentcs.com
@@ -4108,6 +4098,7 @@ service-kmsksppr-1309016787.bj.apigw.tencentcs.com
 service-kqjz2v9d-1252551592.bj.apigw.tencentcs.com
 service-m2cuoqpa-1307969704.gz.apigw.tencentcs.com
 service-m619gnhk-1259697681.gz.apigw.tencentcs.com
+service-mewxt0rn-1251826339.sh.apigw.tencentcs.com
 service-ml46wp70-1300972060.gz.apigw.tencentcs.com
 service-mltm6xvs-1304585582.gz.apigw.tencentcs.com
 service-mptsa0js-1258128533.nj.apigw.tencentcs.com
@@ -4332,7 +4323,6 @@ su95.bpdeliver.ru
 su-95.letmaker.top
 subcloud.online
 subinfralab.info
-submit-application.us
 submitgoogleurl.com
 subscribe.3gbling.com
 succinct.ru
@@ -4675,6 +4665,7 @@ urneradjjj.com
 us1-eat-a-w-s.blogspot.com
 us2.smtp.mailhostbox.com
 us-central1-funktionalc2.cloudfunctions.net
+us-central1-yx-1316-8be1.cloudfunctions.net
 usd-circle.com
 usdt.lat
 us.ja7.site
@@ -4981,6 +4972,7 @@ w-ws.ws
 www.189dom.com
 www.213221321.com
 www.2s11.com
+www.300.cn
 www.365heji.com
 www.911ddos.com
 www.achainps.vip
@@ -5168,6 +5160,7 @@ www.chat-gtp.icu
 www.chatgtp.icu
 www.cistonewhobeliev.xyz
 www.ckbap.vip
+www.cnaec.com.cn
 www.cncaps.vip
 www.cncolapi.vip
 www.cnexkz.vip
@@ -5334,6 +5327,7 @@ www.kbangbi.net
 www.kbgr.vip
 www.kczwup.vip
 www.kfcjn.com
+www.khjw.gov.cn
 www.kjsjjdbqweva.com
 www.kkenproap.vip
 www.kmspico-2023.net
@@ -5354,6 +5348,7 @@ www.kybitap.vip
 www.kybnets.vip
 www.l333333.com
 www.l777888.com
+www.lanzouw.com
 www.laomoe.com
 www.lavazza-msk.ru
 www.lesopilkino.ru
@@ -5382,7 +5377,6 @@ www.megamildp.vip
 www.mercdiv.vip
 www.metamaskmin.pro
 www.meta-tradler5.com
-www.micorsoft.shop
 www.microsofe.xyz
 www.microsoftcontents.com
 www.mingy.xyz
@@ -5691,10 +5685,7 @@ zoom.themyr2bpodcast.com
 zoomvideor.com
 zopowww.pw
 zos.lol
-zscalercareers.co
-zscaler-finance-analyst-strategy.live
 zujgzbu5y64xbmvc42addp4lxkoosb4tslf5mehnh7pvqjpwxn5gokyd.onion
-zuora-ux-designer-a83637.ingress-erytho.easywp.com
 zusmodert.com
 zx.kbnexc.com
 zx.mssexec.com
