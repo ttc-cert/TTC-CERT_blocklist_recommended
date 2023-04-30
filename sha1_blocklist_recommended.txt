@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-04-29 03:00:01 +07                        #
+# Last updated: 2023-04-30 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -187,6 +187,7 @@
 0a7980f838ad2f4875b8daa4eb572fec2a3e7913
 0a79b29fc0b04d3c678e9b95bff72a9558a632ac
 0a877ac38f4782cd0c67a6848c802d3b16847da3
+0a87b12b2d12526c8ba287f0fb0b2f7b7e23ab4a
 0a8bea74fd509c8185e989537669a1f20b0dfafe
 0a9cf490a49533e659f373912006a05c560fdb37
 0aa3334addd54e53417667d5924afd4951f6020f
@@ -3078,6 +3079,7 @@
 92bcbf74010bb056b79968cd64289d100c8a80c7
 92cc306abbee07f2a2dff125f36534180ecd1f4a
 92ccc255fa7b3dc8cfe548c3e836880b802374c1
+92d00383cc03d165bb4a2e55fdcedc0dd184450a
 92d836489944fb7c3690ad4395742e1b434f7077
 92f400992dd8bc5acaf87b91b5d46b5d9666c27a
 9316e1df38002b06855ff3e004ed1bcf236f3874
@@ -5037,6 +5039,7 @@ f0527e27ea42d0deaef2bafa554b32fc8d1909d5
 f053f1917096b6d576339f3137e07f286c89b183
 f05b2066a375a5c8d3dfc44d6097f577cd4f0255
 f05ff93ee4d2f31bc70c0484a559d562203b7700
+f064b3d1779692c1928869e6b682d0682e0d987d
 f08a3b75893dcd2b82376c81012b07f13a36fd1c
 f09a58efe05c51b15373b69ca1aa1453052a5719
 f0cba94a5a8f6bb64e9178d43239f84ba0882be5
