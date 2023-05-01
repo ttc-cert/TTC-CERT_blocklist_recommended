@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-05-01 03:00:01 +07                        #
+# Last updated: 2023-05-02 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -203,6 +203,7 @@
 2e231017fe779d24cf45a4a40f02962c.co.cc
 2e66bc6f5d015d224448c6fdb1d50a0b.co.cc
 2ebceef5c3404e12dbe1c521c9aa3399.co.cc
+2ed79fa8bd0ce4892f211dd1f0aa2230.co.cc
 2ef64f21a86331b985f5823c85353cb7.co.cc
 2f158a321a4f7d3fd94e0ca269a1e004.co.cc
 2f1b982054113d361625b07e8cdc3e9c.co.cc
@@ -218,6 +219,7 @@
 30fb5b3a38f2245e862bdcd7b806c557.co.cc
 311ce34167dffe2d997b67770a3b0fe4.co.cc
 313aeef4d4cd70161f4ba4ca51de897f.co.cc
+313f2005a0b5b61e8819dcdeb584a53a.co.cc
 31d7a1e38c3fe04c19b2d5cef56bae73.co.cc
 32464a917f2bf147217426988203ec61.co.cc
 327bd7c6086e4430c983fcba84c659bf.co.cc
@@ -233,6 +235,7 @@
 355d94ff42e9a07aa7a88659a59b8695.co.cc
 35cc0d46b02124cbb1abf24bf83eea40.co.cc
 35ebbc09c26653ff7b73d3a9e5586f85.co.cc
+3603a5ba0b3516ed97ac60bc28d4d6cb.co.cc
 360.penw2iieel.tk
 360www.ca
 365-8119.com
@@ -292,7 +295,6 @@
 44c9760e72234c60e68212dc0005cf44.co.cc
 4515c6ac2e2d2a2fb8ad1cef31ce0051.co.cc
 45303c36c574138083fb37db6be63a03.co.cc
-453f1f6d44f8b6ce784c9419aeb6241a.co.cc
 45562e02c0785b281240806f72b2e482.co.cc
 45643995464e287c93f54ba663bf0a02.co.cc
 458cffb5586aa7e589572c40fc74b8ad.co.cc
@@ -323,7 +325,6 @@
 4b1210720ebbd9602e5f1dd836e17a19.co.cc
 4b1428877ce598811193a63ccf65cf72.co.cc
 4b2e196179a6fc5e15de1533fb8df566.co.cc
-4b6272a31ef2996b22674c209cb2750d.co.cc
 4b9702de88792f278e54397a2a7d212c.co.cc
 4bcd099a267e83e3c3971d0d9da93d16.co.cc
 4beaee1a1f61970bd72315afbd473665.co.cc
@@ -336,6 +337,7 @@
 4d7e67ca54645247c8486eeb85164ffe.co.cc
 4db262e4d511b019c5de411232058ef0.co.cc
 4e0088e797c60e05c230510abea482d8.co.cc
+4e6abcca9bd1eca1f7207d10dc8d8176.co.cc
 4ea1401aa15cb1ddae77d180eb7dc87c.co.cc
 4hjh55rpbf2smd9a.info
 4n.wf
@@ -438,7 +440,6 @@
 6f5bc954165f95544650dfbd65baaf20.co.cc
 6f67390310c3c7c51adf2bda67a4cc1f.co.cc
 6fddbf6fbded5ab5beb3ec382a81e4c9.co.cc
-6.tcp.eu.ngrok.io
 6t.pm
 6v4q5w7di74grj2vtmikzgx2tnq5eagyg2cubpcnqrvvee2ijpmprzqd.onion
 70023077a44724e5c740ad6f6994e1cf.co.cc
@@ -543,7 +544,6 @@
 845eca1757b6187acee0c1994139fb50.co.cc
 84fbccb6de1885c1c5536c85d72ac434.co.cc
 8500615d68b35516453948506b4c1a63.co.cc
-85293e903e2019c5528be1db4e10739a.co.cc
 8570f9e83ec4ebc34bb8fdfd3daf3c1a.co.cc
 8665f2a6697f444baa979d6450f44f89.co.cc
 86a957434ca9ce00017824ee7706f531.co.cc
@@ -556,6 +556,7 @@
 88172ea6fc21b7bd7fd7c2d1302674b2.co.cc
 88bfff4e8c903c2168922e058468df2e.co.cc
 88d318d2fa705bddf6b1761d6e4e25d2.co.cc
+88deer.stupendous.ru
 8919e095819f098ff3b85160bc22a125.co.cc
 89.22.235.53:16640
 8925f0d5444ac6ce9177be3f22d4c763.co.cc
@@ -682,7 +683,6 @@ a70a2cc31881562352f45ffc5d7bf0ec.co.cc
 a75568f8f3931ef4c3732c4cef8bc989.co.cc
 a77517f2489fd2ec569af30eaa692e57.co.cc
 a7c1918b30e0645436ba565ad4973554.co.cc
-a7caf65c0d0f52aa4635e0b3efa63cce.co.cc
 a7da95710957fcd8da660012d320ee69.co.cc
 a894f093cfbd812b30c8392ae2b821ee.co.cc
 a8b129af398462133524d4fe20a8814c.co.cc
@@ -813,6 +813,7 @@ a.linuxupdate.info
 alishabrindeader.com
 alishaskainz.com
 alivod1.com
+aliyunduncdn.com
 alle13net1.com
 alle13net2.com
 aller-retour.lu
@@ -856,7 +857,6 @@ anydesk-r.com
 anydeskupdate.com
 anydeskupdates.com
 aoczppoxmfqqthtwlwi4fmzlrv6aor3isn6ffaiic55wrfumxslx3vyd.onion
-aogy01-24227.portmap.host
 aone.ddns.net
 apendgo.com
 apexit.yachts
@@ -1012,7 +1012,6 @@ arrowlchat.com
 arthurcambell.ac.ug
 arthurlegal.org
 artztech.dyndns.info
-as.197324gsa.shop
 asc.lol
 asdbe.net
 asdsadqw.online
@@ -1046,7 +1045,7 @@ au.advertearn.xyz
 auction.wonderwomanquilts.com
 aui.hopto.org
 auribluz.com
-authenticationupdate92352-53771.portmap.host
+aurorawenters.com
 authentificationservicetoken.azurewebsites.net
 author.baidu.com.dsa.dnsv1.com.cn
 autokoza.tattoo
@@ -1072,6 +1071,7 @@ awssecupdate.com
 a.wvwvwv.tk
 axaxtc.com
 axms.yeelip.com
+ayarimar.ru
 azeriseks.org
 azimut-service.co.rs
 azuredeploystore.com
@@ -1085,6 +1085,7 @@ b066aed399a1f38faa69b7e5643b1b01.co.cc
 b0bdda2f7e3f993ab2cfb5c1f67c85e8.co.cc
 b1728e79c0686d9db1bc318e33a8a9bd.co.cc
 b1e7dcf91b16c7a4fee285e90cc63928.co.cc
+b2197c1e8799455186057a5ded571ae3.co.cc
 b29c8cdca96a01f9021e42c99426b0e5.co.cc
 b330a15dd9b93f61e64acd4b93fbc693.co.cc
 b3896afe13ed3624d3544f7d17f05fd2.co.cc
@@ -1146,7 +1147,6 @@ balancelogs.buzz
 balantfromsun.com
 balkeryswep.online
 balotolll.pw
-balunc4-31150.portmap.host
 bancodobrasil.in
 bankcext.me
 bankofamerica.nyc
@@ -1387,6 +1387,7 @@ bonafidepress.com
 bonny-marvels-authentic.top
 bonsars.com
 bookinbournemouth.co.uk
+boraito.ru
 botanica-online.ru
 bot.layer7.top
 botnet.goelites.cc
@@ -1489,6 +1490,7 @@ caeded091a496cd89a5a10ad4c81eb05.co.cc
 cafb337f88315beff69e9ecf9f4e967e.co.cc
 cahapowowo.com
 caixadasorte.link
+caixar.oss-us-east-1.aliyuncs.com
 cakoithaivuong.site
 call.konghaojce.com
 ca.minexmr.com
@@ -1852,7 +1854,6 @@ d0dd4a77daadd95dbf4e15e812717081.co.cc
 d0nuts.no-ip.biz
 d12b1cb038a82c74918fb64cc6d45ed0.co.cc
 d1bb9b7a70144dc7e6be7f63b58e95fc.co.cc
-d1d178fba1ee7158e8407a520127cb1f.co.cc
 d1fgry9dth4dwk.cloudfront.net
 d1j6ynnkkyzn6b.cloudfront.net
 d1k3jm8ts5rfjb.cloudfront.net
@@ -1865,7 +1866,6 @@ d2it5qvo5v7f26.cloudfront.net
 d2j09jsarr75l2.cloudfront.net
 d2keeghmxuwkh3.cloudfront.net
 d2t63xuowhr5jl.cloudfront.net
-d2tm7b3g7gf7d5.cloudfront.net
 d3079b8e5db3fa69a9686c66c980a9fc.co.cc
 d32my1g7y42nkk.cloudfront.net
 d364878b46873e87094c88ebcbee43bf.co.cc
@@ -1895,7 +1895,6 @@ d788504e87b1c4161fa6e89697aa91ea.co.cc
 d79bfdb2d3353579c7685eab5c3c4516.co.cc
 d7a21c4ec4a0ef962abd27ae5d33fa62.co.cc
 d816e44462cb903357a3249e8aac8abf.co.cc
-d823b63c24c7eb2c9b929e6d7f4d2905.co.cc
 d8807c2374c3ffda594cf3412e4362bd.co.cc
 d9bc30be46b2cda3c4888b0a5845c66b.co.cc
 d9dd6e9a942a5d1048dbd5bb97d5b72e.co.cc
@@ -2109,7 +2108,7 @@ duinvest.info
 dumepad.com
 dunamistrd.com
 duncan-technologies.net
-duongbat-31148.portmap.host
+dussaut.ru
 duuoq42f19jly.cloudfront.net
 dw.bpdeliver.ru
 dybits.life
@@ -2138,9 +2137,9 @@ e56f45ced6abbc729fc3dfab9eb03bff.co.cc
 e5ba76b3236f1e624b78f79d60c1fb83.co.cc
 e600d11e9b52f70aa0cf589e41cfd5b1.co.cc
 e60da811568f46a368dc88816c14c084.co.cc
+e6555e298ad3bcec299373437a71959e.co.cc
 e66c1924a90e0d59c0276bc769789411.co.cc
 e6abf78f4afeb161a141a01cfaf6aae4.co.cc
-e6b118d626e69f1864a598b4a793bad3.co.cc
 e6ebb7ba548d47d001ffef62d2f37f08.co.cc
 e6f9189c9a4dee875c3418f8f2363515.co.cc
 e76bbd956875b7758665779c6387cbe5.co.cc
@@ -2151,6 +2150,7 @@ e83a7a95bedaa3349b9be11f8bfc577d.co.cc
 e84fb0df440afd604278d627b51d54ef.co.cc
 e85db30c4cab13e2ecb653a9daffe3b9.co.cc
 e8b75f51d132f57c3ca1973e6ceb1748.co.cc
+e92f9a9c44476421934f56e2cc7d208a.co.cc
 e9444e142515ff44e93a5513362d47f7.co.cc
 e95ebd938693830d293ab688944d8354.co.cc
 e9c468b43a1d7cf9c9ee60aaff9a1df1.co.cc
@@ -2231,6 +2231,7 @@ en.firstgooal.com
 engie.red
 en-localhost.herokuapp.com
 en-office365updatescente.herokuapp.com
+enokida.ru
 enqldvgzeafxmuzm.com
 en.rawafedpor.com
 enrollering.com
@@ -2282,6 +2283,7 @@ extensions-update.azurewebsites.net
 f01f1d374aa1c7192fc8b0f3c1cee8a3.co.cc
 f0533095.xsph.ru
 f0fda63efcf17b5098f7b55a5d8a9299.co.cc
+f10320c631812a305608f2964f528104.co.cc
 f120b0e98f7e70f3475b35961d38f140.co.cc
 f13ddb896dcfd466add9d351243297ee.co.cc
 f142f7f97c7442016a7b08118a70ee0e.co.cc
@@ -2322,13 +2324,13 @@ f89e43641d83e53bcd97f22137cafb99.co.cc
 f8b851928faa914d5820459009a10106.co.cc
 f8b96875385c768f90e716f6f4f2d3d0.co.cc
 f8e4fcc65c2bf92a9e766521902c9b17.co.cc
+f8f3215ef27fc52c602d48590b06f663.co.cc
 f918d4d7d5cb6d143d5bc8089a79b956.co.cc
 f935d23d1c7a1e9dc09ee000ccaaa149.co.cc
 f9bd320aed767b98f960891a804ac80c.co.cc
 fa03034fdc68da41c2c11ecef1de80ba.co.cc
 fa5539a48ffea9fc9a55be404856ceea.co.cc
 fa7067e88e66a0a60697d089f5a7ff63.co.cc
-fa7f39b18538b6a23037a81db9a55416.co.cc
 fa81c0203be2b2d8360dd882bae48b00.co.cc
 fa835c0ecdeca253dd407d68c198b4f4.co.cc
 factjjj.com
@@ -2354,7 +2356,6 @@ fb-crewappeals.ml
 fbd15296ae55496cd4f1d01b0cb824ea.co.cc
 fbi.su1001-2.top
 fcache.ml
-fcd82c2766e5232f35d71b73e317a668.co.cc
 fcer.org
 fclouddown.co
 fco.to
@@ -2371,6 +2372,7 @@ fer-superf1car.in
 festival.robingaster.com
 fezuru.bltadwin.ru
 ff8da4f3f0499d5d2e088cc84e7aaaea.co.cc
+ff93c7883d6911af1c2fda4c6ce74c51.co.cc
 fff-ttt.com
 fg56ds.azurewebsites.net
 fggov.com
@@ -2406,8 +2408,6 @@ flippingfrenzy.com
 flltsxsspqzfhzk.com
 florida.serveblog.net
 flowit.pics
-flynex-20218.portmap.host
-flynex44-44842.portmap.host
 fm9.lol
 fmo.fm
 fobyqyhezem.eu
@@ -2419,11 +2419,15 @@ fonts.google-au.ga
 foodyplates.com
 football.4tosocial.com
 footballmeta.com
+footcoinball.com
 foqurowyxul.eu
 forestaaa.com
 formenn.linkpc.net
 forpjuuu.pw
 fortuna777.duckdns.org
+fortunacaixa.com
+fortunefountainllc.com
+fortunyzo.ru
 forum.winidowtech.info
 fosterunch.com
 foundurycolletive.com
@@ -2685,7 +2689,6 @@ hkex.dr74.cc
 hk-law.co.kr
 h-k.lu
 hls.itunes.apple.com.mwcname.com
-hoaviet-54998.portmap.host
 hodbeast.com
 hoh0aeghwugh2gie.com
 hokorlll.pw
@@ -2831,6 +2834,7 @@ irwxvpn.site
 irymountain.com.ua
 isacombk.com
 i-s.is
+islandsnake.com
 isn.is
 isoridkf.ru
 isx.sx
@@ -2848,10 +2852,6 @@ ja7.mom
 jaalifepower.world
 jacketsupport.com
 j.ad
-jamesdabill.com
-jamesreuther.com
-jamesstepleton.com
-jardinaix.fr
 java-a.com
 javaapp.xyz
 javacomp.xyz
@@ -2903,8 +2903,6 @@ job-lionserver.ru
 job-lionserver.site
 jobviewer.co
 jockersunface.com
-johncheston.com
-johnwagen.com
 jollyengg.com
 jop.lol
 jourmoe.com
@@ -2933,6 +2931,7 @@ kacofinance.net
 kacofin.com
 kadltt.top
 kaerneng.net
+kaigitang.ru
 kajainterior.com
 kakao.cloudfiles.epizy.com
 kakaocop.com
@@ -2940,7 +2939,6 @@ kali.arrenal.com
 kani-cn.bytedance.net.cdn.dnsv1.com.cn
 karbilyazilim.com
 karimgousa.ug
-karmadhi-37033.portmap.io
 kashbilly.duckdns.org
 kasikorn.go-line.cc
 kavach-app.in
@@ -2968,7 +2966,6 @@ kikocruize.com
 kimhasa.com
 kimlee11.duckdns.org
 kinematics.starmidwest.com
-kingarthur001-25006.portmap.host
 kisa.42web.io
 kisomer.com
 kit18.kekpook1337.workers.dev
@@ -2989,6 +2986,7 @@ kondarimno.com
 koppolll.pw
 koraliowe.com
 koreamonitoring.com
+kpmk.info
 kr.advertearn.xyz
 kritec.pics
 kr.ja7.site
@@ -3038,7 +3036,6 @@ lesopilkino.ru
 letsdoitjjj.com
 letsmakesomechoice.com
 lezurafigu.us
-liamelston.com
 liangjiang33.top
 liangjiang44.top
 library.covebooks.com
@@ -3098,6 +3095,7 @@ lostmeals.org
 lo.tkkls.ml
 louvre.abudhabe.info
 louvree.abudhabe.info
+lovingearthy.com
 lowerp.onlinewebshop.net
 lplp1.abbny.com
 lplp1.ackng.net
@@ -3257,8 +3255,6 @@ microso-t.com
 mictobig.xyz
 midcoastsupplies.com.au
 mikefaw.com
-mikegarmon.com
-mikelatona.com
 mikeludomax.ddns.net
 mikeludoyyxx.ddns.net
 mikerin.com
@@ -3465,7 +3461,6 @@ n.nz-tollroad.icu
 nocomp.freeboxos.fr
 node-dashboard.site
 node-panel.site
-noise5500-26252.portmap.host
 nomimokubab.eu
 noosaerty.com
 noraplant.com
@@ -3516,6 +3511,7 @@ nucleus.goodwood.com
 nujtec.shop
 nuktose.com
 nuljjjnuli.org
+nutriag.ru
 nutureheus.com
 nvidia1.top
 nvidia-graphics.top
@@ -3691,7 +3687,6 @@ player.hkdd.me
 players.u2pic.us
 playfish.fun
 playozas.com
-playpol699-57464.portmap.io
 playstoree.xyz
 pliblu-fax.home-webserver.de
 plus.cr-halal.com
@@ -3803,8 +3798,6 @@ quickbooks-q.com
 quizzical.ru
 quotaupgradededicated.com
 quote.swalter.com
-quyetchip9x-62387.portmap.host
-quyetchip9x8-59495.portmap.host
 qwavemediaservice.net
 qweastradoc.com
 qwepoi123098.com
@@ -3851,6 +3844,7 @@ reggy506.ru
 reggy914.ru
 reg.n0tepad-plus.com
 regtech.sbs
+relation46.samiseto.ru
 reloadyourbrowser.info
 remcoss.onmypc.org
 remediadigital.sbs
@@ -3881,8 +3875,6 @@ retmodul.com
 review-status-plan.online
 rewelab.de
 rexness.me
-rexten-23467.portmap.host
-rexten-49704.portmap.host
 rfosusl6qdm4zhoqbqnjxaloprld2qz35u77h4aap46rhwkouejsooqd.onion
 rfuwlxggossdcib3.com
 richa-sharma.ddns.net
@@ -3901,7 +3893,6 @@ rnail.iterrf.ru.inro.link
 rnail.mintrans.gov.ru.inro.link
 rnail.rnid.ru.inro.link
 rnetatrader4.com
-robertbuss.com
 roboshop.sbs
 robot-876.frge.io
 roboterra.one
@@ -3925,6 +3916,7 @@ rtowatchship.xyz
 ru.advertearn.xyz
 rubanojeansup.com
 ruflus.xyz
+ruizchris.ru
 rukjdgqbvudldqwki.com
 runningandbeyond.org
 runtime.microsofteth.workers.dev
@@ -3958,7 +3950,6 @@ safewayintltransfer.com
 saglykministriligi.online
 saglykministriligi.ru
 sa.ja7.site
-sajimadurop.com
 sa.jsp.lol
 sakogabu.com
 salako.net
@@ -3966,6 +3957,7 @@ salcomp.buzz
 salimafia.net
 salt1ending.com
 same.gleaming8.battleras.ru
+samiseto.ru
 samoloangu.com
 samsontech.mobi
 sani990.duckdns.org
@@ -4040,6 +4032,7 @@ service-4f04ow2r-1304941417.sh.apigw.tencentcs.com
 service-5auq8xic-1314775489.gz.apigw.tencentcs.com
 service-6e3glral-1301841391.bj.apigw.tencentcs.com
 service-6qmsqtf2-1254325626.gz.apigw.tencentcs.com
+service-78ohk44l-1305604765.sh.apigw.tencentcs.com
 service-7eaicd0p-1308943111.sh.apigw.tencentcs.com
 service-7lia5beq-1258021343.gz.apigw.tencentcs.com
 service-8gyxqgnf-1304181841.bj.apigw.tencentcs.com
@@ -4124,6 +4117,7 @@ set.hik.icu
 setnewcreds.ukr.net.frge.io
 settingdata.com
 sevensdfe.com
+sewokip.biz
 sexy.yourmom1.o-r.kr
 sezijiru.com
 sg5.ja7.site
@@ -4314,6 +4308,7 @@ study-search.com
 studyshifts.com
 studysliii.com
 stuff.bonneltravel.com
+stupendous.ru
 sty5r4hhb5oihbq2mwevrofdiqbgesi66rvxr5sr573xgvtuvr4cs5yd.onion
 styleanature.com
 stylelifees.com
@@ -4374,7 +4369,6 @@ t.amxny.com
 t.amynx.com
 taoche.cn.wswebpic.com
 tapcache.ml
-tarkin-60275.portmap.io
 tatacarhire.com
 ta-th.cc
 t.awcna.com
@@ -4433,7 +4427,6 @@ ternocorg.cf
 tescoshoppingmall.com
 testcs.luckybox.monster
 test.gv2.lol
-testing.api-securehub.com
 test.ja7.site
 test.tw1988.link
 testxx.mcuweb.cf
@@ -4458,7 +4451,6 @@ the-myst.net
 thenewsfill.com
 thepila.com
 thepropertystock.com
-therealclave-47992.portmap.host
 thereporterz.com
 thervide.net
 theshoplace.com
@@ -4579,10 +4571,8 @@ t.sqlnetcat.com
 tt1.apktrial.com
 t-telegrm.com
 tthunderbilp.space
-tthunderbir.space
 t.tr2q.com
 ttwweatterarartgea.ga
-tuanan112-64714.portmap.host
 tufibiqunit.eu
 tumbleproperty.com
 tunneldrive.com
@@ -4674,7 +4664,6 @@ uss.advertearn.xyz
 us.securitycloud-symantec.icu
 usszddsxqwtfdulfp.com
 ust.aly2um.com
-us-thunderbird-soft.com
 us-thunderbird-soft.top
 us-west.minexmr.com
 utv.mindray.com
@@ -4691,9 +4680,9 @@ v2r.lol
 vaadiandkoh.com
 vacation.thebrightgift1.com
 vacation.thebrightgift.com
+valasati.ru
 valenta2023.ru
 vatacloud.com
-vavaman-51708.portmap.host
 v.bddp.net
 v.beahh.com
 vbnmob.ddns.net
@@ -4719,6 +4708,7 @@ videospriv8.com
 video.tv1d30.sbs
 video.your-notice.fun
 vikolin.com
+vilaverde.ru
 vinoneros.com
 vip.qiangsheng888.top
 virginiaservice.org
@@ -4922,7 +4912,6 @@ wikipedoptions.com
 wilddog.site
 wildhour.store
 wilfred123.ddns.net
-williamhankins.com
 wincoin-eth.com
 windmencherser.com
 windowcsupdates.com
@@ -5517,7 +5506,6 @@ www.towerresearch.me
 www.tradingtechnologies.com
 www.traviewx.com
 www.trialstreak.com
-www.tthunderbir.space
 www.twitcln.com
 www.uhmext.vip
 www.u-pin-it.com
