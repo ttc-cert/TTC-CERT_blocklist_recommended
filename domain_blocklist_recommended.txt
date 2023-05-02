@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-05-02 03:00:01 +07                        #
+# Last updated: 2023-05-03 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -47,7 +47,6 @@
 09d52459a172cd6436292666bb5b2f6d.co.cc
 09e224684cf16624a728b0be1911a0b2.co.cc
 09f8f0fef362fff92e900552ce7bc733.co.cc
-0a28ce44e208aae29c30eb1e498103f0.co.cc
 0abbb915e01b379b368c41e6e6203c2e.co.cc
 0adbe2fad6a70209883d7c96a959991f.co.cc
 0c1c21b28a9fedc2193f6dd1ad109a98.co.cc
@@ -96,7 +95,6 @@
 1537la.buzz
 1537li.buzz
 1537lx.buzz
-15622f259b21aecc1abf543cc8b8310e.co.cc
 1568la.buzz
 1568li.buzz
 1568lx.buzz
@@ -110,6 +108,7 @@
 1636365.com
 166755c70675aab7f718b1532f0ce59c.co.cc
 16807f7e5d9201bc0221937a20218f72.co.cc
+16977de28554a5b3a35463f1b709a916.co.cc
 16ce9f1a0e6806809dd769a47c6a553e.co.cc
 16-fa.pw
 170b47e6d53591178731a51d841df497.co.cc
@@ -127,7 +126,6 @@
 193.233.20.17:4139
 193.233.20.20:4134
 193.233.20.23:4124
-1981db50a06ff37ecabf0a976def1fb3.co.cc
 198e7afea1320dd0eb122930425468e5.co.cc
 19d8b02c1a4cbe695e00.b-cdn.net
 19ec44f8b81ee19bb4247c3fccbde8d2.co.cc
@@ -148,7 +146,6 @@
 1e5e89c42a7b0efcc52a6e5a432a2568.co.cc
 1e7296bfa4be1e3da078b386bac34e9a.co.cc
 1eb68fb7ef13d301bc85296812fe1f10.co.cc
-1f0afb458ae303a52424de683ade171f.co.cc
 1f169464c8eb6b0774d645ca4389ae43.co.cc
 1fa1d8a949a147f0fe5f45d94ef094ce.co.cc
 1wkxpfzmtvdkvekpro.xyz
@@ -221,7 +218,6 @@
 313aeef4d4cd70161f4ba4ca51de897f.co.cc
 313f2005a0b5b61e8819dcdeb584a53a.co.cc
 31d7a1e38c3fe04c19b2d5cef56bae73.co.cc
-32464a917f2bf147217426988203ec61.co.cc
 327bd7c6086e4430c983fcba84c659bf.co.cc
 32ce93d225d8cab8a7ce3721008d2a8c.co.cc
 3313v.com
@@ -373,6 +369,7 @@
 582ad998cfda80a6e2ea9f4f7f31d121.co.cc
 582c6125598f3e0928579198050df0ee.co.cc
 585ab28f1d50bfab3c7daea6f8dad500.co.cc
+5868a30cade03c345ba96e31de41d1eb.co.cc
 5891e13ad20cbd2708cf07d50f2dfdd3.co.cc
 58bd5ecd2317585add26af47914d239d.co.cc
 595cc358c71b4dafbc47a9e32c51361e.co.cc
@@ -403,10 +400,10 @@
 61af9e42cd01d3924dcaf9659f5aeed7.co.cc
 61b04fef2f49714401b05a97545ae288.co.cc
 61b5a574a98332e0debc78829e9df053.co.cc
+623b5e682566def1f3e20dde6c9be04b.co.cc
 62befc06f005d0f79fa8f48880ed24cb.co.cc
 62df3e60e6a721084e209e2b6944d9b0.co.cc
 635a2b7dec5ba9aa066b06e2efe4d57d.co.cc
-6394c846bc2ee7137ea544f275916ee8.co.cc
 63b02d2f8d19dda6f7cc7e2323366ad3.co.cc
 63cab32f88d336124dc7641cadba3373.co.cc
 63f2f39cf826292237f53fee41018898.co.cc
@@ -425,6 +422,7 @@
 682dfde8c2ecfda9beb01afde01d72cb.co.cc
 683a2cf98f7e359c032c94e34efaf5ce.co.cc
 684c73153cafe52d24d67399c31c3e89.co.cc
+686d501c56909ccdb75f218648637720.co.cc
 6894d5e4d23b2ee67e12ab7aa84874d4.co.cc
 6b906f65b42a4b5c235346eee90f4de4.co.cc
 6b986b1e77d4234f06eb98353ccb30ab.co.cc
@@ -458,7 +456,6 @@
 73817898a164d1fc74f681deaf620d3b.co.cc
 738267872.azurefd.net
 73uu.com
-74087dd7b1ef2e8adc4f7e0e5cfb8dc6.co.cc
 742bc866954922d13dbacaa37fcc4bc2.co.cc
 74baf566c8fed4ed847e61eecbae3e39.co.cc
 74c1bd0b908ecc02ec7519c1de412adf.co.cc
@@ -525,6 +522,7 @@
 8032a913a78484334152b036023566a6.co.cc
 8045a073b42624e2cfbcea64056907b7.co.cc
 806bc7dacc281ad6ca43619aa5cd24e0.co.cc
+808e9d5c8a6be7cd61c4ba8c93a9d4cb.co.cc
 80cd1a0eb5171a82551af587da9730b2.co.cc
 81.161.229.143:45156
 8194aaa4ec16816c58952eae87b515e6.co.cc
@@ -545,6 +543,7 @@
 84fbccb6de1885c1c5536c85d72ac434.co.cc
 8500615d68b35516453948506b4c1a63.co.cc
 8570f9e83ec4ebc34bb8fdfd3daf3c1a.co.cc
+85757c3140b0864d7d0e48a1f680b166.co.cc
 8665f2a6697f444baa979d6450f44f89.co.cc
 86a957434ca9ce00017824ee7706f531.co.cc
 86ska9em7u8jons5.info
@@ -668,7 +667,6 @@ a3c779fbd45bc0931f6ddc7ee4061e90.co.cc
 a3ea71068ca3b5e58282846d18255693.co.cc
 a3f7ed3b9bbb6cc11604767861dd68bc.co.cc
 a46ff68bbbf5ee3e58967b9b9e7d139d.co.cc
-a4a5cd544f19602bd1cd759f89f0420c.co.cc
 a4b23d6a1a33fdac74df15ffd579ecbc.co.cc
 a4cefd7c29f1ae069d5963db117e3f90.co.cc
 a5046530b6ff2cabd57e1726acba8bd2.co.cc
@@ -740,7 +738,6 @@ actors.jcracing.com
 actraffic.com
 acwapower.in
 ad061e4d9248836c5b670992539eef5a.co.cc
-ad7aa387e742389ad4c67d707caae392.co.cc
 adacaranya.com
 adblocker-sentinel.net
 adci9.cc
@@ -1476,6 +1473,7 @@ c7ffb7dabbef307b24a67083d845c873.co.cc
 c8f1bf44d4377169a9b41ea20c283b28.co.cc
 c91e879b9cf7401c010c0905c6793817.co.cc
 c9fefec50adba30e072cf15bf60c71bd.co.cc
+ca3cd594607732f2647314aa3c10097f.co.cc
 ca58ec5a1338a7a3f6994d8c96a58ec3.co.cc
 ca7177b5989de304110400363e401948.co.cc
 cache01.micnosoftupdate.com
@@ -1635,7 +1633,6 @@ chevalblanc.cf488101.to
 chevalblanc.efe87401.to
 chevalblanc.wm01.to
 chicago.beboldskin.com
-chidao.icu
 chinamobile.space
 chiyiqian.net
 chloe-boreman.com
@@ -1657,7 +1654,6 @@ circle-mintusdc.com
 circle-reserves.com
 circleusdcoin.com
 circle.web3claimer.net
-ciruvowuto.com
 citahikodab.eu
 citypharmacylv.com
 ckav.ru
@@ -1683,6 +1679,7 @@ cloudateup.online
 cloud.bncfministries.org
 cloudcat.ddns.net
 cloud-cdn.org
+cloudcitrix.site
 cloud.dnx.capital
 cloud-drive.store
 cloudf1are.com
@@ -1894,10 +1891,10 @@ d76b73a397d882de1eb082cdfbba0f64.co.cc
 d788504e87b1c4161fa6e89697aa91ea.co.cc
 d79bfdb2d3353579c7685eab5c3c4516.co.cc
 d7a21c4ec4a0ef962abd27ae5d33fa62.co.cc
+d7b2df183fbe367ec0fad927d11a06d2.co.cc
 d816e44462cb903357a3249e8aac8abf.co.cc
 d8807c2374c3ffda594cf3412e4362bd.co.cc
 d9bc30be46b2cda3c4888b0a5845c66b.co.cc
-d9dd6e9a942a5d1048dbd5bb97d5b72e.co.cc
 da11b91de811a1e6b7d08196cfd6c194.co.cc
 da2108fb5c09cf54d2a9645f26418a28.co.cc
 da75189868724cfe46aaa5cc607687f9.co.cc
@@ -1933,7 +1930,6 @@ dbcache.fun
 d.beahh.com
 dbexbit.me
 dbtsex.com
-dbx.formsift.io
 dc0b925e931cbb6198f04fb93e02f6f7.co.cc
 dc157dac452d3c081e6d5d823585aca0.co.cc
 dc540b8448aad1b147d023db4d3b3bbf.co.cc
@@ -1947,7 +1943,6 @@ dd9fa2f15cd64eee3e6d08ea6a867812.co.cc
 ddc7751aa9d24f2a280ac1d3996ff608.co.cc
 ddf8483a7cde8bff44df394c3ac7d04d.co.cc
 ddlakava.ac.ug
-ddockeers.space
 de1.lol
 de2356522122fb8b637e672c835560cd.co.cc
 deck.31ventures.info
@@ -2113,7 +2108,6 @@ duuoq42f19jly.cloudfront.net
 dw.bpdeliver.ru
 dybits.life
 dygov.com
-dy.kr.wildpettykiwi.info
 dyshangcheng.info
 e12fa2f49a889f6b2f788478b8230fce.co.cc
 e13bcae4293aaccbb6626a338a415b37.co.cc
@@ -2122,7 +2116,6 @@ e1b18b0c8a4292b1aa155509294c7be8.co.cc
 e1c3385738bcd9a5a21fece87e26a5db.co.cc
 e1cdbb8e879b42e26c0c11a880a6dc29.co.cc
 e204e606adcbd562a8cb78577acba06f.co.cc
-e2269bd7b385ed493f67721197d389ba.co.cc
 e23f0eda2ee30ec0b3013260f261449a.co.cc
 e301031391595096a2ba5ec61ce8cabe.co.cc
 e304b6288f552b177c013969dbc0420a.co.cc
@@ -2146,7 +2139,6 @@ e76bbd956875b7758665779c6387cbe5.co.cc
 e7b386b6c09c4fcc0017b4e6ec97c410.co.cc
 e7d2eeac5242c1efbfe134a82a10185a.co.cc
 e7ed3d5406aec39b8181d921691ac908.co.cc
-e83a7a95bedaa3349b9be11f8bfc577d.co.cc
 e84fb0df440afd604278d627b51d54ef.co.cc
 e85db30c4cab13e2ecb653a9daffe3b9.co.cc
 e8b75f51d132f57c3ca1973e6ceb1748.co.cc
@@ -2200,6 +2192,7 @@ eea3fc719c173a8b6b45e1eeccab6051.co.cc
 eeabf6fd399ea45da6fd4a271a51e8aa.co.cc
 eedloversra.online
 ef54ce73638ca360c0e63724c6304f66.co.cc
+efab3dc761413151ab36053f116267c2.co.cc
 efb78c7e44e8e1823287b7bedc123cc2.co.cc
 efvsx.gq
 e-gaming.online
@@ -2524,6 +2517,7 @@ globaladblocker.com
 globallyreinvation.com
 globalnewsnew.com
 globaltechline.com
+globe.gloomy80.masudgo.shop
 globepayinfo.com
 globiscapital.co
 gloogletag.com
@@ -3187,6 +3181,7 @@ masjid.com.au
 mask.covidturf.com
 master.ilsrecruitment.com
 masterofdigital.org
+masudgo.shop
 mavaxokitad.eu
 maxarusok.com
 maxcache.ml
@@ -3402,7 +3397,6 @@ neashell2.com
 nebiltech.shop
 necdicks.com
 necktro.com
-needfradka.com
 negerotar.com
 negopisetu.com
 neocrypt.info
@@ -3474,7 +3468,6 @@ novubymyvip.eu
 novunapro.com
 nowancenorly.ddns.net
 ns-1953dns.ns-google.com
-ns1.azure-atp.com
 ns1.backdates0.org
 ns1.backdates10.com
 ns1.backdates12.com
@@ -3648,6 +3641,7 @@ pbxsources.com
 pcworldgetin.net
 pdfsoftwarevn.com
 peak-pjv.com
+penholder89.decorous.ru
 penny.glove38.gayado.ru
 pennywines.com
 penshorn.org
@@ -3977,7 +3971,6 @@ sblec38whhp0ig96.info
 sbmsa.wiki
 s-b.sb
 sc32.hserver.dns-dns.com
-schedule.zip
 schmerzfrei-shop.sbs
 sc.hserverdns.com
 scientific.pk
@@ -3987,6 +3980,7 @@ scqoegqewvohstt1r.com
 screenshotcap.com
 screenshot.icu
 screenshotlite.com
+sdjbizirebz.cn
 sdk.expresswayautopr.com
 sdk.privacy-center.org
 second.pmservicespr.com
@@ -4494,6 +4488,7 @@ tiktoks.rhlm4.cloud
 tiktok.ss4gy.cloud
 tilojejeza.com
 timeeforsports.com
+timenow.pw
 timoconnor.com.au
 tiny-url.mobi
 tisoyinum.com
@@ -4517,7 +4512,6 @@ topformorelive.com
 topronet.com
 toptube.fun
 topuprr.com
-totalmassasje.no
 t-o.to
 toupandgoforward.com
 tourdeworldsport.com
@@ -4563,7 +4557,6 @@ tripsapata.com
 troadsecow.com
 troon.dns.army
 true.az-link.email
-trustyox.cloud
 tryno.ru
 tscoints.com
 tscoints.lol
@@ -4893,6 +4886,7 @@ wemanagegroup.com
 wendoqolta.com
 west.bykikarose.com
 wew.lol
+wewutif.online
 whatcapp.org
 whatcpp.com
 whatcpp.net
@@ -5674,7 +5668,6 @@ zoomvideor.com
 zopowww.pw
 zos.lol
 zujgzbu5y64xbmvc42addp4lxkoosb4tslf5mehnh7pvqjpwxn5gokyd.onion
-zusmodert.com
 zx.kbnexc.com
 zx.mssexec.com
 zx.svchosexec.com
