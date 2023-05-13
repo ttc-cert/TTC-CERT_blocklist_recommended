@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-05-13 03:00:01 +07                        #
+# Last updated: 2023-05-14 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -9,8 +9,6 @@
 ################################################################
 #
 # Domain
-00ab380299f67a85d2b3b1d4efb81bc2.co.cc
-011678.com
 012ae072fe9c29bfd6766b89f33ac24a.co.cc
 012.bond
 012cb7b38650b76878623bc091b1b7a7.co.cc
@@ -86,6 +84,7 @@
 1106b20896afcf454ec20255f164193d.co.cc
 111dc5f547a298603b5fe6010b41f8d5.co.cc
 117ygh9x.com
+11f2d57363098b72157a23c01bc7ab87.co.cc
 12-03.telegramxe.com
 1205dc8df27230e65b385571731741c8.co.cc
 12-08.telegraem.org
@@ -99,12 +98,9 @@
 12e53ee5450397661a392351b24ace02.co.cc
 131153dac8480ece23f2d4e328c04638.co.cc
 1387360c757b6f06c267e62efce006f3.co.cc
-139180215100.b-cdn.net
 13c09aa990e85afadb11c69577873822.co.cc
 13f08101e6535d469b6809529560a4e1.co.cc
 13i6.com
-1424080362cf2a692e20.b-cdn.net
-144a5cee58fda29321e97d1fddaebb1f.co.cc
 14f7778b1d6370aaf559c18b8403195e.co.cc
 1537la.buzz
 1537li.buzz
@@ -117,7 +113,6 @@
 1599li.buzz
 1599lx.buzz
 1599lz.buzz
-15bfd60aaa0965a2a710.b-cdn.net
 15e81ac9a812ffe5b8228caa7dfa574e.co.cc
 1636365.com
 166755c70675aab7f718b1532f0ce59c.co.cc
@@ -144,7 +139,6 @@
 193.233.20.20:4134
 193.233.20.23:4124
 198e7afea1320dd0eb122930425468e5.co.cc
-19d8b02c1a4cbe695e00.b-cdn.net
 19ec44f8b81ee19bb4247c3fccbde8d2.co.cc
 1a3tb5d02otc2i31.info
 1af51c996fe5f6bfd5f374a58d06bcec.co.cc
@@ -161,6 +155,7 @@
 1d935db31ed14d6cb1f5020f9f17b6b9.co.cc
 1d96906d0bc295ac44456143f979d4ca.co.cc
 1e5e89c42a7b0efcc52a6e5a432a2568.co.cc
+1ea5f7c31b7b732dbb491e2d839996b1.co.cc
 1eb68fb7ef13d301bc85296812fe1f10.co.cc
 1ed844b7068810c48d2725e47145ae98.co.cc
 1f169464c8eb6b0774d645ca4389ae43.co.cc
@@ -241,6 +236,7 @@
 30fb5b3a38f2245e862bdcd7b806c557.co.cc
 313f2005a0b5b61e8819dcdeb584a53a.co.cc
 31d7a1e38c3fe04c19b2d5cef56bae73.co.cc
+31d7ada5849ed4e9ca227cbb00e01145.co.cc
 327bd7c6086e4430c983fcba84c659bf.co.cc
 32ce93d225d8cab8a7ce3721008d2a8c.co.cc
 3313v.com
@@ -387,7 +383,6 @@
 56867748b78658da7a86416bd253ee42.co.cc
 5695bf9f09950e0fbec57ce86b60ba9b.co.cc
 570cd22265c476e252f4d65991afef38.co.cc
-578166841f92494646e9e5b52f1b0419.co.cc
 57b7b80bc2718dd682cb7b1134dd276e.co.cc
 57d84b9ed341e74f8731e5da72710089.co.cc
 57e71c27f6de96c9fe2a67428c50610f.co.cc
@@ -419,6 +414,7 @@
 5eae5dc0c7234268acdbf4e46aedb285.co.cc
 5eb17014313a51cf65b8c18ce9699ca6.co.cc
 5f96a5a10114ed074196f2925d30b96b.co.cc
+5fbd70cc041cd3ed0a52421790af4711.co.cc
 5fbf625aaf06602eac1b68ca0b62e0aa.co.cc
 5g7.at
 5g-a.com
@@ -461,7 +457,6 @@
 6894d5e4d23b2ee67e12ab7aa84874d4.co.cc
 69f9217f47ff048c49c4f6c8d7994db2.co.cc
 6b906f65b42a4b5c235346eee90f4de4.co.cc
-6b986b1e77d4234f06eb98353ccb30ab.co.cc
 6c214639c554fcbe092242cc0df34b6c.co.cc
 6c.nz
 6dbaa9ac6dbfe0c388dd2bd75ed55fc0.co.cc
@@ -480,7 +475,6 @@
 6w.re
 70023077a44724e5c740ad6f6994e1cf.co.cc
 701d71948bf5f375728683113fcd4cd7.co.cc
-701fdb19a2ad164bc98f685499b4af99.co.cc
 70495f1832e5ed5bf82e0772bc14bd6f.co.cc
 708e1ab1f16471a23e5498e07661c449.co.cc
 713c01440063bab6383afe9225575810.co.cc
@@ -536,6 +530,7 @@
 7cef378651d480506e459aab2e47c8b2.co.cc
 7d6cf4e8d009dd7aadc6d7df1f885032.co.cc
 7da4fb176faa4789382da8acc22b7b94.co.cc
+7dba2a6d0c1a1e7a10150dfb4dc1d050.co.cc
 7ddd218a1b9899daab6c3e04720408de.co.cc
 7df9502672bf75fef9671708862954c8.co.cc
 7d.rs
@@ -642,6 +637,7 @@
 93ca66c1cf068d3bfa1f7bd82bd72576.co.cc
 93dcdc6dee33938847bf79b129196b19.co.cc
 93e2b8dab26cdee5acf3e51bd487eb55.co.cc
+942ff783d1d2591ffd4f15d38c53de46.co.cc
 94314ecc1528aac276e7163563a24048.co.cc
 9460bfc2dcac14cf02a5c492b5b1c38e.co.cc
 947eb36767e185883d08bc3220f7ca0a.co.cc
@@ -805,7 +801,6 @@ adv-sect.site
 ae2964db351fa5be40fc713abb2445f1.co.cc
 ae8748bc53dc0af7bfc0f985fc7fa935.co.cc
 aecf5.cc
-aeea2642b5c19a5e653058c26be003dc.co.cc
 aef6207a094b16f0c7012a290e0ba81a.co.cc
 aejava.ddns.net
 aejva.ddns.net
@@ -818,7 +813,6 @@ af4dfb4b7c10f5152ac863646170a8ca.co.cc
 afb6f2e6b688ea84b5c08e921562d000.co.cc
 afe.doc-share.cloud
 aff20229a70f15f1df2fda038cb80a70.co.cc
-afrodizajoy.com
 afterburnermsi-download.com
 afterburner-software.net
 afterburner-software.org
@@ -910,6 +904,7 @@ api.fetctw.xyz
 api.imango.ink
 api.odskguo.xyz
 api.oktask88.com
+api-open.360com.live
 ap.iprocam.xyz
 apis.nodejs.cn.wswebpic.com
 api.tanksw.top
@@ -1131,7 +1126,6 @@ b69fc229c2ce4d891d02cefabab68681.co.cc
 b6e9823dc89dffc3cc00046911302aef.co.cc
 b705e2ddaa0c8ccedff60a0f2396100d.co.cc
 b74d847f1f12d079acb8c64d8db15fbd.co.cc
-b7884a0b8395ec6b5d05989d999bfe91.co.cc
 b7a01bd2ba6430f9dc1f4a4c8e16957e.co.cc
 b7.photoeffect.xyz
 b81bd60ed6a31e2cca6c8d03ccb2e703.co.cc
@@ -1467,11 +1461,13 @@ c142382bad2d1e24b43a8c62e1f3a5c5.co.cc
 c1472198093194b4610e2089e1f22f2d.co.cc
 c1730432a5096af9e7dc0ff9505476b4.co.cc
 c1.amlhbmdtaw5namlh.top
+c1hcy855.caspio.com
 c2.iamabhacker.tk
 c2.microsoftupdate.cloud
 c36e0f5b924fd25f43b2d7f2b56a4ecc.co.cc
 c39cfd1d4b0fe82a510f871115159a9c.co.cc
 c3c224e5c26dec67e6ae5e9548677eff.co.cc
+c3fa848bc3ef5d7e5a8b6fb30e7b406e.co.cc
 c4d8e84b757c148f93d0120f9a9ddfce.co.cc
 c4x.at
 c58966f5ff70b56f46e5cb0e09b46f9b.co.cc
@@ -1480,7 +1476,6 @@ c5b7e203fc147d44b4effbf94145bf1b.co.cc
 c5ee5f8b1461e647cb6ba5da13d4dd6d.co.cc
 c622daf869ea68b48aa07a1d4fa3e66f.co.cc
 c690bbf93ec18719749f60f2bdcc6e3d.co.cc
-c6b9f7569e8e66fdbed92f3fd7284c8e.co.cc
 c6ce20548cd8d28392c99d3b2c4dba5a.co.cc
 c6cecc65abdc1ad0bbd88d6f29e31316.co.cc
 c72e2db559a26733cc5bfb5db8112f13.co.cc
@@ -1822,7 +1817,6 @@ cs.hacker.wang
 cs.kingsoft365.top
 cs.kkksex.com
 csklo06p.slt.sched.intlscdn.com
-cs.qatarpgreenroperties.com
 cs.svchostok.pro
 cs.svchost.pro
 cstest.niuxianhua.top
@@ -1843,6 +1837,7 @@ cuttraffic.com
 cuturls.net
 cv-builder.site
 cvqsvdvv1i6dq1zn.info
+cyberanalysis.io
 cybercrusader.ddns.net
 cyberplace.social
 cyberwf.cf
@@ -1890,6 +1885,7 @@ d66f800e24ba4f3701ebdaa6680bf980.co.cc
 d6859e28409f689f2847c8814843629c.co.cc
 d6950585d281c4d5f08dc7ef81cfd814.co.cc
 d732828932f9d41d68e1ccdd2c2151a1.co.cc
+d749e7b0ad0cda889a6d3c3672354445.co.cc
 d76b73a397d882de1eb082cdfbba0f64.co.cc
 d788504e87b1c4161fa6e89697aa91ea.co.cc
 d79bfdb2d3353579c7685eab5c3c4516.co.cc
@@ -1898,7 +1894,6 @@ d7b2df183fbe367ec0fad927d11a06d2.co.cc
 d7c2f5972bcdd67a8737c5db2d91fa17.co.cc
 d7ee0160d33c07dee0dc78665ca1c247.co.cc
 d816e44462cb903357a3249e8aac8abf.co.cc
-d8807c2374c3ffda594cf3412e4362bd.co.cc
 d9bc30be46b2cda3c4888b0a5845c66b.co.cc
 da2108fb5c09cf54d2a9645f26418a28.co.cc
 da75189868724cfe46aaa5cc607687f9.co.cc
@@ -1946,6 +1941,7 @@ dd9fa2f15cd64eee3e6d08ea6a867812.co.cc
 ddc7751aa9d24f2a280ac1d3996ff608.co.cc
 ddf8483a7cde8bff44df394c3ac7d04d.co.cc
 ddlakava.ac.ug
+de68ad6aed475adf1f9ab1ca70163c32.co.cc
 dec707b79274daa351ab6daf3f50dcf1.co.cc
 deck.31ventures.info
 deck.altair-vc.com
@@ -2034,8 +2030,6 @@ dobcia.com
 doc.256ventures.us
 doc.az-link.email
 doc.bluework.ink
-dockeerw.site
-dockeruscom.top
 docscpcpipe.inro.link
 docsend.me
 doctormaersstore.ru
@@ -2082,7 +2076,6 @@ down.xxe.pw
 doxuwojol.com
 d.pic447.com
 dpp.zhuoeye.com
-dpunktesting.ddns.net
 dremmfyttrred.com
 dressuse.com
 d-rise.cc
@@ -2109,7 +2102,6 @@ e13bcae4293aaccbb6626a338a415b37.co.cc
 e1a97faa98457139250419b4073a40fa.co.cc
 e1b18b0c8a4292b1aa155509294c7be8.co.cc
 e1c3385738bcd9a5a21fece87e26a5db.co.cc
-e1cdbb8e879b42e26c0c11a880a6dc29.co.cc
 e23f0eda2ee30ec0b3013260f261449a.co.cc
 e301031391595096a2ba5ec61ce8cabe.co.cc
 e34ea1d11b9536a75a5d7e07c0ea1e50.co.cc
@@ -2275,7 +2267,6 @@ f3ba4a3eff5a453002ce75f0522f12dc.co.cc
 f3bb11898bbf03703aa9af5e47c509ea.co.cc
 f3e452b0ad592db8051a2cccaa415572.co.cc
 f43d3cfdd320361c14ded97a6c9806ad.co.cc
-f443ffe79db06814b43b11a041342b12.co.cc
 f459375170d27f0549fe20e60bac2193.co.cc
 f495da768df13f3467769d755d85c2e0.co.cc
 f4bb8e9b9b3cab4172b11d9eb6aaaba4.co.cc
@@ -2304,6 +2295,7 @@ f8e4fcc65c2bf92a9e766521902c9b17.co.cc
 f8f3215ef27fc52c602d48590b06f663.co.cc
 f918d4d7d5cb6d143d5bc8089a79b956.co.cc
 f935d23d1c7a1e9dc09ee000ccaaa149.co.cc
+f971024c5aa8cba312d2f3a1e2448de2.co.cc
 f9b022e74ea114be2230e951bd8f38a7.co.cc
 f9bd320aed767b98f960891a804ac80c.co.cc
 fa03034fdc68da41c2c11ecef1de80ba.co.cc
@@ -2311,6 +2303,7 @@ fa5539a48ffea9fc9a55be404856ceea.co.cc
 fa7067e88e66a0a60697d089f5a7ff63.co.cc
 fa81c0203be2b2d8360dd882bae48b00.co.cc
 fa835c0ecdeca253dd407d68c198b4f4.co.cc
+fac962c9b4099474bc553e2e0b4fe4f8.co.cc
 facebookmessages.serveuser.com
 facebooktie.faqserv.com
 factjjj.com
@@ -2581,6 +2574,7 @@ guidassembler.com
 guteyutu.com
 guzmanmodels.com
 gwgp-y6phfwkylyu.n.bdcloudapi.com
+gxxdd.xyz
 g-y.gy
 gyxplonto.com
 gz.qa
@@ -3009,7 +3003,6 @@ leaveidealcontrol.in
 lebocunu.com
 leftrightpolitics.com
 legendarytable.com
-leinabetz.com
 lejerx.com
 lemonupdate.ddns.net
 leonofdomain.duckdns.org
@@ -3077,7 +3070,6 @@ londonistory.com
 loop2.hago.net
 loop.abbbny.com
 loop.haqo.net
-lordgitcash.com
 lose-aliveoffice.in
 lostmeals.org
 lo.tkkls.ml
@@ -4000,6 +3992,7 @@ scifihits.com
 scmrhh.com
 scqoegqewvohstt1r.com
 scripts.asi.services
+sdelay.kantik.ru
 sdjbizirebz.cn
 sdk.expresswayautopr.com
 sdk.privacy-center.org
@@ -4039,6 +4032,7 @@ service-2r21z5dz-1258209792.bj.apigw.tencentcs.com
 service-2skej89a-1301998990.hk.apigw.tencentcs.com
 service-3ardqx66-1300773162.gz.apigw.tencentcs.com
 service-3c8oujtz-1252130768.bj.apigw.tencentcs.com
+service-3rlc1z29-1318191688.bj.apigw.tencentcs.com
 service-3uc3y0ao-1301310284.gz.apigw.tencentcs.com
 service-3v98c748-1310046338.gz.apigw.tencentcs.com
 service-4ass89cc-1300716010.gz.apigw.tencentcs.com
@@ -4052,10 +4046,10 @@ service-78ohk44l-1305604765.sh.apigw.tencentcs.com
 service-7eaicd0p-1308943111.sh.apigw.tencentcs.com
 service-7lia5beq-1258021343.gz.apigw.tencentcs.com
 service-8cdlt0mn-1310256589.bj.apigw.tencentcs.com
-service-8gyxqgnf-1304181841.bj.apigw.tencentcs.com
 service-8w49s7e0-1308639534.nj.apigw.tencentcs.com
 service-98cbalut-1302394400.sh.apigw.tencentcs.com
 service-996gjd0l-1259444062.sh.apigw.tencentcs.com
+service-9op9r1ye-1306177445.gz.apigw.tencentcs.com
 service-9p7fpg6n-1257582847.bj.apigw.tencentcs.com
 service-asejzoh9-1252427727.bj.apigw.tencentcs.com
 service-b2qhuyiu-1307021836.gz.apigw.tencentcs.com
@@ -4067,9 +4061,7 @@ service-c016brab-1302420290.sh.apigw.tencentcs.com
 service-c3gdh3za-1314775489.gz.apigw.tencentcs.com
 service-cbbvkr4y-1309046927.gz.apigw.tencentcs.com
 service-cekfycnf-1257582847.bj.apigw.tencentcs.com
-service-center.club
 service-cfj9jdgi-1307868367.gz.apigw.tencentcs.com
-service-cmgfmgrw-1301382485.nj.apigw.tencentcs.com
 service-cq6c7204-1308476627.gz.apigw.tencentcs.com
 service-d1ytpf7k-1258890276.hk.apigw.tencentcs.com
 service-d9pbyhs4-1305051246.gz.apigw.tencentcs.com
@@ -4078,6 +4070,7 @@ service-df5bnsx8-1305350386.gz.apigw.tencentcs.com
 service-dmasysh1-1309196782.sh.apigw.tencentcs.com
 service-dxkujbtv-1305051246.sh.apigw.tencentcs.com
 service-dydpc1xk-1304560974.gz.apigw.tencentcs.com
+service-e6qj5a3r-1251769991.bj.apigw.tencentcs.com
 service-el84p2u9-1304765474.sh.apigw.tencentcs.com
 service-elsvu1ds-1308206226.gz.apigw.tencentcs.com
 service-emrt552f-1307868367.bj.apigw.tencentcs.com
@@ -4103,6 +4096,7 @@ service-inswy5c0-1308873553.gz.apigw.tencentcs.com
 service-intpwz8r-1301841391.bj.apigw.tencentcs.com
 service-ivnlf9ya-1310046338.gz.apigw.tencentcs.com
 service-jaqour6q-1303896379.gz.apigw.tencentcs.com
+service-jj2b7hxn-1303919683.bj.apigw.tencentcs.com
 service-jjmi43bc-1252551592.gz.apigw.tencentcs.com
 service-jnbjutxg-1304098235.hk.apigw.tencentcs.com
 service-k34gi85k-1314775489.gz.apigw.tencentcs.com
@@ -4113,6 +4107,7 @@ service-kboespoo-1317138495.gz.apigw.tencentcs.com
 service-kmsksppr-1309016787.bj.apigw.tencentcs.com
 service-kqjz2v9d-1252551592.bj.apigw.tencentcs.com
 service-lqa4r7qi-1314027945.gz.apigw.tencentcs.com
+service-lteuokof-1317231554.sh.apigw.tencentcs.com
 service-m2cuoqpa-1307969704.gz.apigw.tencentcs.com
 service-m619gnhk-1259697681.gz.apigw.tencentcs.com
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com
@@ -4451,7 +4446,6 @@ thecornerstoreau.sbs
 thecryptosyndicate.com
 thedailycute.com
 thedesertsafariadventures.com
-thefirstupd.com
 theframeloop.com
 thegamershub.co.uk
 thegreenlight.xyz
@@ -4543,6 +4537,7 @@ traffic.vip2-nice.com
 trailerstrade.com
 training.c1ypsilanti.org
 training.ren-kathybermejo.com
+transcash-recharge.sytes.net
 transcom.ddns.net
 transfer.sh
 transformaition.com
@@ -5368,6 +5363,7 @@ www.marketingadmin.port25.biz
 www.mbitvnex.com
 www.mdexx.xyz
 www.mecadrw.vip
+www.mediakomen.com
 www.megamilap.vip
 www.megamildp.vip
 www.mercdiv.vip
@@ -5590,7 +5586,6 @@ xadvxco2ef8ei0ar.info
 x-album.com
 x-albums.com
 xcvdfgdfgdfg.site
-xe3x1.ath.cx
 xegroups.com
 xework.com
 xfks.workers.dev
@@ -5618,7 +5613,6 @@ xn----8sbkaccwp2a5br4d.xn--p1ai
 xn--c1a9ah.xn--p1ai
 x.nz-tollroad.top
 xojecabike.com
-xonxen.dnsalias.com
 x-photos.net
 x-pictures.net
 xqoykemmcivwtpxh3a6pu3w7sstr2y7hapxdiv4caaxidurmwwbjx2id.onion
@@ -5688,7 +5682,6 @@ zekoyofugu.network
 zeredil.com
 zero.kdocs.cc
 zetaros.000webhostapp.com
-zh-cn.imags.microsoft.com.w.kunlunca.com
 zh.servicesest.services
 zillancer.com
 zjc.bz
