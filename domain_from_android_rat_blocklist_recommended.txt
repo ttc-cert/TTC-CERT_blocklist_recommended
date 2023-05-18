@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-04-27 17:48:01 +07                        #
+# Last updated: 2023-05-18 21:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -154,3 +154,9 @@ hd-line.cc
 ai-th.cc
 dol.ai-th.cc
 sso.thai-line.cc
+coj-th-line.cc 
+moc.gov-tt.cc
+ksecrity.xa-line.cc
+xa-line.cc
+ksecrity.the-line.cc
+the-line.cc
