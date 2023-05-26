@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-05-26 03:00:01 +07                        #
+# Last updated: 2023-05-27 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -58,7 +58,6 @@
 0c146c0caa1ad2774b7a944d9d566a05.co.cc
 0c1c21b28a9fedc2193f6dd1ad109a98.co.cc
 0c98a2847a8dc85e12d461e49fbc91f4.co.cc
-0cd1a1625386f1b750f6fab0731dbd35.co.cc
 0d01ba0a7b45c90a0789d6686ce974b3.co.cc
 0d3d8fe4126823a1c5d7504cdda5ea3f.co.cc
 0dee414df276769a3567ec1eea5592a1.co.cc
@@ -102,6 +101,7 @@
 1537la.buzz
 1537li.buzz
 1537lx.buzz
+153ishak.best
 1568la.buzz
 1568li.buzz
 1568lx.buzz
@@ -213,10 +213,8 @@
 2c6c19e4ae36b479d4fbd38f757d366f.co.cc
 2c72da61f79cdaf6d76cc4866e816e26.co.cc
 2cb16eaf878fa5a917321c9c3bdbd248.co.cc
-2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion
 2d1ee3ff52f17438654be3e99b7202b7.co.cc
 2deb1be7af1a341622b609a9366e1a0e.co.cc
-2df49de003ab75bde422ef2ae59ccfd5.co.cc
 2e231017fe779d24cf45a4a40f02962c.co.cc
 2e8f33222dbfa7c5eb658bfdcf7dec26.co.cc
 2ebceef5c3404e12dbe1c521c9aa3399.co.cc
@@ -251,7 +249,6 @@
 346cc0e92f6d821f2b40f67e5816e462.co.cc
 34cd412e2d709ba3f02bc640b1fdc72b.co.cc
 3558a96f05746a46d4f0e54011e8d84c.co.cc
-355d94ff42e9a07aa7a88659a59b8695.co.cc
 35cc0d46b02124cbb1abf24bf83eea40.co.cc
 35ebbc09c26653ff7b73d3a9e5586f85.co.cc
 3603a5ba0b3516ed97ac60bc28d4d6cb.co.cc
@@ -273,7 +270,6 @@
 3a7838eae5375819e6253c77f523c7d4.co.cc
 3aa4a358b25b6a8431ef3d98548f274d.co.cc
 3abaed70ef4a74008760d6ac9b412754.co.cc
-3ad6c03901bf7101e0c04e1008b93e91.co.cc
 3ae43c2c8ba3369ba7a19091ee757ff9.co.cc
 3aqrek.com
 3c2bfad8cdd8cf54b5c4b8fdc8e75c30.co.cc
@@ -311,6 +307,7 @@
 44c9696dbc4159c8e584cafb4d63e0a7.co.cc
 44c9760e72234c60e68212dc0005cf44.co.cc
 4515c6ac2e2d2a2fb8ad1cef31ce0051.co.cc
+45269a1b42c182dd8d49a46a4d4f8c3f.co.cc
 45303c36c574138083fb37db6be63a03.co.cc
 45562e02c0785b281240806f72b2e482.co.cc
 45643995464e287c93f54ba663bf0a02.co.cc
@@ -354,6 +351,7 @@
 4e0088e797c60e05c230510abea482d8.co.cc
 4e6abcca9bd1eca1f7207d10dc8d8176.co.cc
 4ea52b1696cfaf5064542f2b8f48cced.co.cc
+4f357cb1068589cf88bd619b77d64b54.co.cc
 4hjh55rpbf2smd9a.info
 4j.pm
 4n.wf
@@ -420,6 +418,7 @@
 5g7.at
 5g-a.com
 5icvzwz.xyz
+5tg66izsi8.execute-api.us-west-2.amazonaws.com
 5v0.nl
 5z.pm
 6009afabaecf0cf7b9eb098a337c740c.co.cc
@@ -664,7 +663,6 @@
 9c522f25a43886e7853d0815f73cb925.co.cc
 9ca1527451d1dfae0ff7b3e5f4c4bdda.co.cc
 9cde9db30d044f681bb5c0e9885f90b4.co.cc
-9d70ba2355e95a43c7dc222534d2293d.co.cc
 9db38f56adb444cd53247c6d0dad26c4.co.cc
 9dc8e832647ea259c654b18b7d2f5e14.co.cc
 9df07993532d048a80c87bb4ab9faefb.co.cc
@@ -693,7 +691,6 @@ a1de25ef1d6d31e53c6f52236df746e2.co.cc
 a238243f52857e06c628df581655f365.co.cc
 a2747804181787f585cd750a0d82c59c.co.cc
 a2911136dfc7cd5f77ce4a28e040da57.co.cc
-a29b7605e1c4aceb490eae09a7d5ac6b.co.cc
 a2b6b494072521754455a6e47a0361f0.co.cc
 a2c7a28796a7d698cd8b7d1b4d7da1d5.co.cc
 a344a0431f7715585a729215a59d64d5.co.cc
@@ -737,6 +734,7 @@ absolutbackup.com
 abttt.win
 a.bwvwvwv.cf
 ac2.nsjdhmdjs.com
+acarcuib.bazar
 acc.officeappsreviews.com
 accongestion.com
 account.mail.ru.sigriup.site
@@ -804,7 +802,6 @@ adv-pardorudy.ru
 adv-sect.ru
 adv-sect.site
 ae2964db351fa5be40fc713abb2445f1.co.cc
-ae8748bc53dc0af7bfc0f985fc7fa935.co.cc
 aecf5.cc
 aef6207a094b16f0c7012a290e0ba81a.co.cc
 aejava.ddns.net
@@ -866,7 +863,6 @@ alphagamers.online
 alphastand.top
 alphastand.trade
 alphastand.win
-alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion
 altair.linkpc.net
 altocdn.online
 altocloudzone.live
@@ -881,7 +877,6 @@ amsterdam.keyrock.eu.com
 amuck.scoler.tech
 anaida.evisyn.lol
 analysticked.com
-analytics.vip2-nice.com
 angry-franklin.104-168-167-88.plesk.page
 aniarchit.com
 annefront.com
@@ -895,8 +890,8 @@ anydesk-o.com
 anydesk-r.com
 anydeskupdate.com
 anydeskupdates.com
-aoczppoxmfqqthtwlwi4fmzlrv6aor3isn6ffaiic55wrfumxslx3vyd.onion
 aone.ddns.net
+a.oobcsilent.com
 apexit.yachts
 api2.check-data.xyz
 api2.openai-service.workers.dev
@@ -908,6 +903,7 @@ api.fetc-net.com
 api.fetctw.xyz
 api.imango.ink
 api.linkein.org
+api.mmmllkps.tk
 api.odskguo.xyz
 api.oktask88.com
 api-open.360com.live
@@ -1017,6 +1013,7 @@ app.msfdn.bar
 app.ofexdn.bar
 app.ovezjx.vip
 app.phemex-otc.icu
+app.professional-survey.com
 app.qdn110.bar
 app.qdn131.bar
 app.qdn135.bar
@@ -1024,12 +1021,12 @@ app.robindn.club
 apps.executivegiftcards.com
 app.sfpalexdn.bar
 app.snapexdn.vip
-app.sncyhkttp.nl
 app.socodn.bar
 appsrv.live
 app.starkdn.bar
 app.tdviewdn.vip
 app.thbtaxdn.vip
+app.towerfinancial.net
 app.tpgdn.bar
 app.upbitdn.club
 app.vaneckdn.vip
@@ -1123,6 +1120,7 @@ b066aed399a1f38faa69b7e5643b1b01.co.cc
 b0baccad3dba9e474c39abb4ca05a4ee.co.cc
 b0bdda2f7e3f993ab2cfb5c1f67c85e8.co.cc
 b1728e79c0686d9db1bc318e33a8a9bd.co.cc
+b1r2fwxppaczrfe7.org
 b2197c1e8799455186057a5ded571ae3.co.cc
 b29c8cdca96a01f9021e42c99426b0e5.co.cc
 b37998ba008bb986a627caf50e8a7414.co.cc
@@ -1134,7 +1132,6 @@ b40126522651fcb7ef20deee99c5e86f.co.cc
 b455a77a1948fdee1d3edb7a7de98815.co.cc
 b4b75f3d22a14d0be8caca81c7dbe915.co.cc
 b4fe5130788ae260f8dcac51b4fc3f60.co.cc
-b4twqa2mvob3s6uvuyfra5xk3qgps2v5kkt7k2qnb7rpdu3j4fkntead.onion
 b5bebb0f3576910b7f4ae10236a89f53.co.cc
 b5f4a0e12af52ae8c791a04b82c317bd.co.cc
 b65fcc9d236dd190033db045216caaa7.co.cc
@@ -1149,7 +1146,6 @@ b87944dc4587f980df3a7431aa3aff18.co.cc
 b8c96cd93f1add5cbae4074e03db3622.co.cc
 b8cebe0fe432be530bf553bcaf31303a.co.cc
 b8c.mveditor.xyz
-b93d747b0b417d34553577f4ef8586bd.co.cc
 b98f5ed579f67dd3b6ddd45b6c777964.co.cc
 b9cf568dc299e2bdc0c660c907428ffe.co.cc
 b9f4ffdb3690c05fceb2ca7df436334b.co.cc
@@ -1403,9 +1399,11 @@ boa.jobdescription.us.com
 bobkkfoundationyemen2022.ddns.net
 bobm1jgjahsg81.ddns.net
 bocc.live
+boldidiotruss.xyz
 bol-north.com
 bol-south.org
 bonny-marvels-authentic.top
+b.oobcsilent.com
 bookinbournemouth.co.uk
 booksfortress.sytes.net
 boraito.ru
@@ -1462,14 +1460,17 @@ c0f18b9186664ae9b314fbc6a75af8e1.co.cc
 c142382bad2d1e24b43a8c62e1f3a5c5.co.cc
 c1472198093194b4610e2089e1f22f2d.co.cc
 c1730432a5096af9e7dc0ff9505476b4.co.cc
+c1.engaageement.com
 c1hcy855.caspio.com
 c2.digitalriverinfosec.com
+c2.engaageement.com
 c2.iamabhacker.tk
 c2.microsoftupdate.cloud
 c31be9c16b546747ed28be5e1cc982e2.co.cc
 c36e0f5b924fd25f43b2d7f2b56a4ecc.co.cc
 c39cfd1d4b0fe82a510f871115159a9c.co.cc
 c3c224e5c26dec67e6ae5e9548677eff.co.cc
+c3.engaageement.com
 c3fa848bc3ef5d7e5a8b6fb30e7b406e.co.cc
 c465cb696118135a3b08a2f6b1e4a36c.co.cc
 c4d8e84b757c148f93d0120f9a9ddfce.co.cc
@@ -1537,7 +1538,6 @@ cater.sphery.live
 cb181892cfc2798c1be12354e6807b2f.co.cc
 cb7ea9a060922418f0651b5cec4f691a.co.cc
 cb810a4ed984958ff434968feb358e88.co.cc
-cb8b22367d8d0697895358f37a270060.co.cc
 cbbdfc174e5be085e6fddba8cfe80262.co.cc
 cbbfe3136fbc6095182ba26196595aa9.co.cc
 cbc619531214a45ea396455eaaac2cc8.co.cc
@@ -1555,20 +1555,26 @@ cdn16.bootcdn.net.dsa.dnsv1.com.cn
 cdn2.cloudf1are.com
 cdn3.cloudf1are.com
 cdn4.cloudf1are.com
+cdn.adobe-research.net
+cdn.ad-tracker.org
+cdn.avprotect.net
 cdn.azureeservices.co.uk
 cdncache.ml
 cdn-cloude.extended-system.workers.dev
 cdn.cloudf1are.com
 cdn.contentsecure.net
+cdn.dnsportal.org
+cdn.dns-response.net
+cdn.efstech.de
 cdn.ethvseos.nl
 cdneurops.health
 cdn.goby.pw
 cdn.google-au.ga
+cdn.idnslookup.net
 cdn.imango.ink
 cdn.loca1host.cf
 cdn.torsey.xyz
 cdn.winserver-network.in
-cdn.winservers-network.in
 ceb26ef0da2d0e40a4182a05f4c030f5.co.cc
 cefe2e012d9b34588a6a35089f56fc4b.co.cc
 ceiling.kalpo.xyz
@@ -1640,6 +1646,7 @@ check-data.xyz
 checkip.dyndns.org
 checkping.ddns.us
 check.update.nadra-pk.org
+check.up.interior-gov-pk.org
 cheetah.s3exchange-sec.live
 chess.north-atlantic.com
 chevalblanc.1e517001.to
@@ -1786,6 +1793,7 @@ connect.interalliancemediagroups.cloud
 considerf.info
 console.samsungue.com
 consultant.meredithklemmblog.com
+contact.mwam.support
 contificoseguro.con-ip.com
 contractor.thecaninescholar.com
 contracts-eth.io
@@ -1835,7 +1843,6 @@ cryptyk.hopto.org
 cryptyk.sytes.net
 cryptyk.webredirect.org
 cs40a.microsoftup.pw
-cs.capetradefinance.co.za
 cs.docker-compose-update.com
 csdstore.app
 cs.frnetua.buzz
@@ -1912,7 +1919,6 @@ d6859e28409f689f2847c8814843629c.co.cc
 d6950585d281c4d5f08dc7ef81cfd814.co.cc
 d732828932f9d41d68e1ccdd2c2151a1.co.cc
 d749e7b0ad0cda889a6d3c3672354445.co.cc
-d76b73a397d882de1eb082cdfbba0f64.co.cc
 d788504e87b1c4161fa6e89697aa91ea.co.cc
 d79bfdb2d3353579c7685eab5c3c4516.co.cc
 d7a21c4ec4a0ef962abd27ae5d33fa62.co.cc
@@ -2017,7 +2023,6 @@ dev-extension.us
 dev.gitlabs.me
 devicepartner.huawei.com
 devoinnanote.com
-devsecurityservices.com
 devsetgroup.com
 dev.yuanta.dev
 dexterfortune.com
@@ -2031,6 +2036,10 @@ dh5rg5aebo6yx.cloudfront.net
 dhgrshghjrsg0092102.ddns.net
 diagnostic-resolver.com
 diamond.speaktomyheart.org
+dianqi1.dianqi2.jiayongdianqi.xyz
+dianqi1.jiayongdianqi.xyz
+dianqi2.dianqi1.jiayongdianqi.xyz
+dianqi2.jiayongdianqi.xyz
 diasgallery.com
 dicktres.com.br
 difozaa.life
@@ -2039,6 +2048,7 @@ digitalenergetic.com
 digital-mar.com
 dikolobeliw.eu
 dio45.com
+dip6fsrch.club
 dirctt88.org
 directt88.org
 direfiwahur.eu
@@ -2059,7 +2069,9 @@ dlt.pro-th.cc
 dmarc.onlineshares.cloud
 dn4d1v1ofq2j1.cloudfront.net
 dnautik.com
+dns1.utcsystemtime.com
 dns2.cloudf1are.com
+dns2.utcsystemtime.com
 dns.anbush.com
 dns.binsmob.com
 dns.cloudf1are.com
@@ -2079,6 +2091,7 @@ dobcia.com
 doc.256ventures.us
 doc.az-link.email
 doc.bluework.ink
+doc.freeonline-office.com
 doc.gdocshare.one
 doc.j-ic.com
 doc.linkpc.net
@@ -2140,6 +2153,7 @@ dr-doom.xyz
 dremmfyttrred.com
 dressuse.com
 drive-phone.online
+dropper.bilibili360.xyz
 ds8v3gllwhqrf.cloudfront.net
 dsauvsiv.top
 dsixonsat.com
@@ -2167,6 +2181,7 @@ e23f0eda2ee30ec0b3013260f261449a.co.cc
 e301031391595096a2ba5ec61ce8cabe.co.cc
 e34ea1d11b9536a75a5d7e07c0ea1e50.co.cc
 e38071543005d61c2580958b3819483d.co.cc
+e39e6c40a64813dd9e83d36e6feae441.co.cc
 e3ac88b64d703f69ec5fc8afbf9c98a0.co.cc
 e4375c094379f01216465d7433bd91c8.co.cc
 e4796b8c1bc855634b63097e582386ae.co.cc
@@ -2202,6 +2217,7 @@ eagleexpresspostalservices.com
 e-aks.uz
 earnjjj.com
 earthyouwantiis.com
+eas.cqivc.com
 easycoinjjj.com
 eatgre.wiki
 eaton.red
@@ -2220,7 +2236,6 @@ ece2e1ef6e9237ad1c8075c1494d2deb.co.cc
 ecfcc89b80ec82b01c10371fcfd9f563.co.cc
 ecologitics.com
 ecraiqwpqtjgavi5q.com
-ed90d8492a7798a996f0c3e1eff2f6eb.co.cc
 edgeserver-fubqd0b0d0eje9b9.z01.azurefd.net
 edu.hicomputing.huawei.com
 ee0887ebbe059079575d03d0c95efbf7.co.cc
@@ -2299,6 +2314,8 @@ evgoapp.com
 evnpowerspeedtest.com
 exchange.openmd5.com
 exchange.portomnail.com
+exchanges1.microsoftser.top
+exchanges2.microsoftser.top
 exche.xinhptw.com
 exclusive.milonopensky.store
 exl.officeappsreviews.com
@@ -2365,6 +2382,7 @@ fa7067e88e66a0a60697d089f5a7ff63.co.cc
 fa81c0203be2b2d8360dd882bae48b00.co.cc
 fa835c0ecdeca253dd407d68c198b4f4.co.cc
 fac962c9b4099474bc553e2e0b4fe4f8.co.cc
+facdda2befda58fbf1ae2368b7305944.co.cc
 facebookmessages.serveuser.com
 facebooktie.faqserv.com
 fackyouman123456789.ddns.net
@@ -2643,6 +2661,7 @@ guidassembler.com
 guide.graty.tech
 gumicryptos.com
 guteyutu.com
+guwamog.network
 guzmanmodels.com
 gwekekccef.webull.day
 gwgp-qgrtsasseax.n.bdcloudapi.com
@@ -2794,7 +2813,6 @@ ibrghebuxdbwjtuo7.com
 ibsq.co.kr
 iconnectgs.com
 icy51j1b6sbewpauivxwfrmcu30vok.oastify.com
-id7seexjn4bojn5rvo4lwcjgufjz7gkisaidckaux3uvjc7l7xrsiqad.onion
 identowel.com
 idsexpo.com
 i.hago.net
@@ -2805,6 +2823,7 @@ iivy6qhlrp62o0ru.info
 ikejd.com
 iknatonpa.ru
 il1.000webhostapp.com
+ilu21plane.xyz
 image.cdn.ecmot.com
 images.hepsiburada.net
 imango.ink
@@ -2878,7 +2897,6 @@ islandsnake.com
 isoridkf.ru
 it2it.tk
 italdizain.az
-ituitem.net
 ituyiut.wang
 itygreyhound.buzz
 iujdhsndjfks.ru
@@ -2957,6 +2975,7 @@ journeywithvision.com
 journeywithvision.ga
 jovuwidane.com
 j.pic6005588.com
+jp.motex-inc.com
 jp.yelove.xyz
 jre.jdklibraries.com
 jscache.live
@@ -2993,7 +3012,6 @@ kasperslkyupdate.com
 kavach-app.in
 kayevabunu.com
 kaziyapa.ru
-kbangbi.net
 kbap1.cc
 kbcoin.io
 kbcoins.me
@@ -3156,6 +3174,7 @@ log0x1.s01kaspersky.com
 log.bddp.net
 login.interalliancemediagroups.cloud
 login-svb.com
+login.up.interior-gov-pk.org
 logistics.socialtrendsmanagement.com
 log.kungdf.com
 logover.su
@@ -3218,6 +3237,7 @@ mail.dsixonsat.com
 mail.economy.qov.az-link.email
 maileecommission.inro.link
 mail.facebookmessages.serveuser.com
+mail.freeonline-office.com
 mail.g-cloud.by.authentication.becloud.cc
 mail.gov.az-link.email
 mail.gtasdfgh.com
@@ -3263,6 +3283,7 @@ mail.xxe.pw
 mail.yareducation.site
 mainchksrh.com
 mainerjjj.com
+mainertin.com
 main.hik.icu
 makananwisata.com
 makesomethird3.com
@@ -3270,7 +3291,6 @@ makolo.ml
 malichy.pl
 maly22333.ddnsking.com
 mamajjj.com
-mandalorecnote.com
 mangersales.zyns.com
 manigiajabae32.com
 manigiajabae35.com
@@ -3441,7 +3461,6 @@ mta018.focusmag-pierre.fr
 mtlklabs.co
 mtp.evotek.vn
 mtss.bol-south.org
-mu75ltv3lxd24dbyu6gtvmnwybecigs5auki7fces437xvvflzva2nqd.onion
 mufg.us.com
 mundoadportas.com
 musicmatrix.access.ly
@@ -3475,7 +3494,6 @@ nadiac7806.hopto.org
 nadra-gov-pk.com
 nahalx.ru
 najdlegend1.com
-name.vip2-nice.com
 namtv.ru
 nano.nanotechos.com
 naogoze.com
@@ -3529,7 +3547,6 @@ netlivechat.com
 netupdates.net
 netviewremote.com
 network.drivespacenet.com
-network.vip2-nice.com
 nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion
 nevomob.quest
 newarriwal.quest
@@ -3558,6 +3575,7 @@ nhisis.xyz
 nid.daurn.in.net
 nikertimeshaft.com
 nivea.dreamworkscdc.com
+nizaoplov.xyz
 nmjvutdwrw.dns04.com
 nnetatrader4.com
 nnhuigou.com
@@ -3584,7 +3602,11 @@ novunapro.com
 nrwmarkettoys.com
 ns1.007work.icu
 ns-1953dns.ns-google.com
+ns1.a1batr0ss.xyz
+ns1.abcon.online
 ns1.ace3.ru
+ns1.adcqowtrhs.com
+ns1.aehliu.com
 ns1.akingump.cloud
 ns1.aptce4.top
 ns1.backdates0.org
@@ -3602,39 +3624,78 @@ ns1.backdates6.org
 ns1.backdates7.org
 ns1.backdates8.org
 ns1.backdates9.org
+ns1.bernetdiscover.com
+ns1.bewiser.at
+ns1.box-cache.com
+ns1.boxcloudcdn.com
 ns1.bre1ce.top
 ns1.bustring.com
 ns_1.chanenergy.com
+ns1.choperaderlwonen360.xyz
+ns1.corpais900.co
+ns1.ctfer.club
+ns1.djasjp.tk
 ns1.glthub.icu
 ns1.gonamph.com
+ns1.hammercdntech.com
 ns1.hanqianye.com
 ns1.hkappdev.com
+ns1.icbci.top
+ns1.jojoieadd.com
+ns1.jpgureai.com
 ns1.linkein.org
 ns1.microtimezone.com
+ns1.micsoft.org
 ns1.mlcr0s0ft.one
+ns1.niggerasssys.com
+ns1.norahomespace.online
+ns1.push-alibaba.com
+ns1.pycharm-edu.us
+ns1.rememdam.xyz
 ns1.scant.online
+ns1.shidianjiyuan.com
 ns1.speech-microsoft.com
 ns1.timechk23.com
 ns1.trytiponlineresult.com
+ns1.xiaopeng111.com
 ns1.xxe.pw
 ns1.xync.org
 ns2.007work.icu
+ns2.a1batr0ss.xyz
 ns2.ace3.ru
+ns2.adcqowtrhs.com
+ns2.aehliu.com
 ns2.aptce4.top
+ns2.bernetdiscover.com
 ns2.blackwaf.tk
+ns2.box-cache.com
+ns2.boxcloudcdn.com
 ns2.bustring.com
 ns_2.chanenergy.com
+ns2.choperaderlwonen360.xyz
+ns2.corpais900.co
+ns2.ctfer.club
+ns2.djasjp.tk
 ns2.glthub.icu
 ns2.hkappdev.com
+ns2.icbci.top
+ns2.jojoieadd.com
+ns2.jpgureai.com
 ns2.mammothspoon.xyz
 ns2.microtimezone.com
+ns2.niggerasssys.com
+ns2.norahomespace.online
+ns2.rememdam.xyz
 ns2.scant.online
 ns2.speech-microsoft.com
 ns2.trytiponlineresult.com
+ns2.xiaopeng111.com
 ns2.xxe.pw
 ns3.007work.icu
 ns3.ace3.ru
+ns3.jojoieadd.com
 ns3.michiganlocking.com
+ns3.xiaopeng111.com
 ns4.michiganlocking.com
 nsaozcuhlcqeysute.info
 ns.blackwaf.tk
@@ -3655,6 +3716,7 @@ ns.sportwo8.me
 ns.sportxx.me
 ns.uplink.sbs
 n-supreme.com
+ns.z7-tech.com
 ntc-pk.com
 ntc-pk.org
 nujtec.shop
@@ -3807,6 +3869,7 @@ pbxphonenetwork.com
 pbxsources.com
 pcadmin.online
 pcworldgetin.net
+pdf.freeonline-office.com
 pdfsoftwarevn.com
 peiploersea.com
 penholder89.decorous.ru
@@ -3915,6 +3978,7 @@ pp.abbny.com
 ppabbny.com
 ppcadsmedia.com
 ppressplayy.com
+ppt.freeonline-office.com
 ppt.officeappsreviews.com
 preag.info
 preat.fujit.info
@@ -3930,6 +3994,7 @@ primesinfo.ml
 privacylocationforloc.com
 privacy.olerpic.info
 private.hldren.info
+prod.ergonomic-survey.com
 profile.office365update.cn
 profimax-official.com
 progetecloud.online
@@ -4027,6 +4092,8 @@ rdp.amazmm.live
 read-backgroundaward.in
 real-stories-microsoft.com
 realtxt.co.uk
+rea.ppesaletrend.com
+reb.ppesaletrend.com
 recarrega.top
 rechargefr.hopto.org
 records.libutires.info
@@ -4073,7 +4140,6 @@ reveal.troks.site
 review-status-plan.online
 rexness.me
 rfa.ink
-rfosusl6qdm4zhoqbqnjxaloprld2qz35u77h4aap46rhwkouejsooqd.onion
 rfuwlxggossdcib3.com
 rhlmeefzdkigjus42.com
 richa-sharma.ddns.net
@@ -4126,8 +4192,10 @@ s-03.defendersupdate.com
 s-06.defendersupdate.com
 s1-download-photos.com
 s1.fileditch.ch
+s1.mieccm.com
 s28bxcw.xyz
 s2.google-support.org
+s2.mieccm.com
 s3amzn.com
 s41nt1.s01kaspersky.com
 s41nt2.s01kaspersky.com
@@ -4190,7 +4258,6 @@ secure.dsixonsat.com
 securesmtp.interalliancemediagroups.cloud
 security-ocsp.com
 securitysc.xyz
-security.vip2-nice.com
 sedarait.com
 seemlabie.top
 seeusdt.com
@@ -4283,6 +4350,7 @@ service-in0m8ruo-1317231554.gz.apigw.tencentcs.com
 service-inswy5c0-1308873553.gz.apigw.tencentcs.com
 service-intpwz8r-1301841391.bj.apigw.tencentcs.com
 service-ivnlf9ya-1310046338.gz.apigw.tencentcs.com
+service-j7rl21xg-1252551592.gz.apigw.tencentcs.com
 service-jaqour6q-1303896379.gz.apigw.tencentcs.com
 service-jj2b7hxn-1303919683.bj.apigw.tencentcs.com
 service-jjmi43bc-1252551592.gz.apigw.tencentcs.com
@@ -4522,7 +4590,6 @@ studysliii.com
 stuff.bonneltravel.com
 stupendous.ru
 stupuviijvftuiu.cf
-sty5r4hhb5oihbq2mwevrofdiqbgesi66rvxr5sr573xgvtuvr4cs5yd.onion
 styleanature.com
 stylelifees.com
 su-94.letmaker.top
@@ -4562,6 +4629,7 @@ svch0st.webredirect.org
 svchost.freeddns.org
 svoykbragudern.com
 svparto.com
+swebbers.com
 swsgswsg.sbs
 sxconstructions.com.au
 syncupserver.com
@@ -4631,6 +4699,7 @@ telezzh.com
 ternocorg.cf
 tescoshoppingmall.com
 testcs.luckybox.monster
+test.g-security.cn
 test-hf.su
 test.yuanta.dev
 tevegram.com
@@ -4724,7 +4793,6 @@ tradingviews-software.com
 tradingviews-software.net
 tradingviews-software.org
 trafficlmedia.com
-traffic.vip2-nice.com
 trailerstrade.com
 training.c1ypsilanti.org
 training.ren-kathybermejo.com
@@ -4782,7 +4850,6 @@ twopixis.com
 t.zer9g.com
 t.zz3r0.com
 u0.nz
-u-correos.com
 uelcoskdi.ru
 uevj.win
 uhcoxvpn.site
@@ -4814,6 +4881,7 @@ update.ankining.com
 update.bddp.net
 update.h4ck3r.workers.dev
 updateinfo.windows.vip.global.prod.fastly.net
+update.kernel-service.workers.dev
 update.microsoftapply.com
 update.microsofthk.com
 update.microsoftkernel.com
@@ -4821,11 +4889,10 @@ updatenew.servehttp.com
 update.pwserver.top
 updateservicecenter.com
 update.sixcode.shop
+update.up.interior-gov-pk.org
 updatewininstace.com
 upd.kasperskyupdates.com
-upgrade.vip2-nice.com
 upload.buchananapp.com
-u-postbank.com
 uqqdheeesrztjs0.com
 urneradjjj.com
 us2.smtp.mailhostbox.com
@@ -5792,7 +5859,6 @@ www.zopowww.pw
 w.yobuy01.com
 w.zz3r0.com
 x2chatgpt.org
-xadvxco2ef8ei0ar.info
 x-album.com
 x-albums.com
 xa-line.cc
@@ -5805,6 +5871,7 @@ xhamster-18.ru
 xibukoy.com
 xinyuhuang.com
 xlongactive.su
+xls.freeonline-office.com
 xmr.2miners.com
 xmr-asia1.nanopool.org
 xmr-au1.nanopool.org
@@ -5828,7 +5895,6 @@ x.nz-tollroad.top
 xojecabike.com
 x-photos.net
 x-pictures.net
-xqoykemmcivwtpxh3a6pu3w7sstr2y7hapxdiv4caaxidurmwwbjx2id.onion
 xrepositoryx.name
 x-telegram.app
 xt-line.cc
@@ -5842,7 +5908,6 @@ x.xxe.pw
 xxxxxxxxxxxxxxx.ru
 xytcdn.hongmengchuangke.com
 xziewb0jg25frjwj.org
-y4722ss64vel5hmph75te7lx2x5xz463322ypjirm5ytxviijtdpybid.onion
 yachtlife.ru
 yafatid.com
 yangak.com
@@ -5913,7 +5978,6 @@ zoomvideor.com
 zopowww.pw
 zretw.xyz
 zuberipa.ru
-zujgzbu5y64xbmvc42addp4lxkoosb4tslf5mehnh7pvqjpwxn5gokyd.onion
 zx.kbnexc.com
 zx.mssexec.com
 zx.svchosexec.com
