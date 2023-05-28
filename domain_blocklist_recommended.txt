@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-05-28 03:00:01 +07                        #
+# Last updated: 2023-05-29 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -33,7 +33,6 @@
 054190d73c691df3656cd5629ea6e2a7.co.cc
 0549f1430ea0e9f66d8365683d84d895.co.cc
 056027c04c4cd670cb42e0f76e62e965.co.cc
-05a6b41cb7b51f97da2979edf65e71a8.co.cc
 05c1d1bda2f820df76a903c65db786d0.co.cc
 05da27e9dc1d9d1ea90bf6d64f006781.co.cc
 05da4bd9627590f9e5cd0f42f3a8bb51.co.cc
@@ -60,7 +59,6 @@
 0c1c21b28a9fedc2193f6dd1ad109a98.co.cc
 0c98a2847a8dc85e12d461e49fbc91f4.co.cc
 0d01ba0a7b45c90a0789d6686ce974b3.co.cc
-0d3d8fe4126823a1c5d7504cdda5ea3f.co.cc
 0dee414df276769a3567ec1eea5592a1.co.cc
 0e10a37eb5c4943cd16bbdf5c5f60eca.co.cc
 0e1845309bae1972ab9789189f0dac72.co.cc
@@ -118,6 +116,7 @@
 16977de28554a5b3a35463f1b709a916.co.cc
 16-fa.pw
 170b47e6d53591178731a51d841df497.co.cc
+170e1d8dab111b8d6e2b88399694d105.co.cc
 175471f81e4c519f3735115835104dee.co.cc
 1764c538e41bf3251b375980ec58ea35.co.cc
 176bf757678a1ddb2e84d527d413f37e.co.cc
@@ -215,7 +214,6 @@
 2c6c19e4ae36b479d4fbd38f757d366f.co.cc
 2c72da61f79cdaf6d76cc4866e816e26.co.cc
 2cb16eaf878fa5a917321c9c3bdbd248.co.cc
-2d1ee3ff52f17438654be3e99b7202b7.co.cc
 2deb1be7af1a341622b609a9366e1a0e.co.cc
 2e231017fe779d24cf45a4a40f02962c.co.cc
 2e8f33222dbfa7c5eb658bfdcf7dec26.co.cc
@@ -266,7 +264,6 @@
 379b7df699fdeef732018effa38283ca.co.cc
 382129af1a3e6afc4b731a2ac87be7ba.co.cc
 388855d14c658c016995f8b0de24567e.co.cc
-3956b72758c56d1500c3596d90638487.co.cc
 39b097746097b361b16d78161d40515c.co.cc
 39e96382f9df5f747e57c0747d2a0625.co.cc
 3a2382404ebef3662f2a831859e46982.co.cc
@@ -277,12 +274,10 @@
 3abaed70ef4a74008760d6ac9b412754.co.cc
 3ae43c2c8ba3369ba7a19091ee757ff9.co.cc
 3aqrek.com
-3c2bfad8cdd8cf54b5c4b8fdc8e75c30.co.cc
 3cf19ccfa97adb68371816543137e087.co.cc
 3dc5e94b09e0f45f9e6471e02569af6c.co.cc
 3dstore.pro
 3e1946e2cc156c534c84132779c5f11a.co.cc
-3e99c13f456b195825ec3a8a435624c0.co.cc
 3f1804f0d758719e481e03c6cdff187a.co.cc
 3f5fd4198e9cee08f185f17b1c6b2c8e.co.cc
 3f738528cb147bcbdb682b9cd0096295.co.cc
@@ -318,12 +313,14 @@
 45643995464e287c93f54ba663bf0a02.co.cc
 4567987654345265.tk
 45acb7d1d977a17a40dca12a43bc4b0c.co.cc
+45fc81e0e01cc463a6fbada048f2788e.co.cc
 465de7052a235ebe5fab8158f19b481a.co.cc
 46654f05c3939d8accbbc1fdb525a544.co.cc
 46ddac5eff4ea638cb460390dcec1dc5.co.cc
 47321496960531bae0a59c907d5c338c.co.cc
 4739e3c4bb7a7f87392d70083c3e3253.co.cc
 47c7c269680f27fbb0ea9ff8a4208b4a.co.cc
+47f38941ace77c311fb128406765d709.co.cc
 48224f5bd670485671955745c91e7fef.co.cc
 491c99afc2f6ecf64805997224fcd62e.co.cc
 493cfca3cafbef301400716164cccba8.co.cc
@@ -566,7 +563,6 @@
 84210d8cbb452b290039c2f6407776fd.co.cc
 845eca1757b6187acee0c1994139fb50.co.cc
 8478562a8456e96a61a65af4ce977d82.co.cc
-84fbccb6de1885c1c5536c85d72ac434.co.cc
 8500615d68b35516453948506b4c1a63.co.cc
 8570f9e83ec4ebc34bb8fdfd3daf3c1a.co.cc
 85757c3140b0864d7d0e48a1f680b166.co.cc
@@ -591,6 +587,7 @@
 8955d6264775fe3b64eb8dc87ef5a633.co.cc
 89b3ceecfda363af4e9f19b096cc8beb.co.cc
 89b5da37ab93655b2d2c7acf1ed43974.co.cc
+8a48b3ed47f8e331c2fd6102664a3904.co.cc
 8b341dbe033c0b1a5e753e17c0e47c06.co.cc
 8be4e3266dc28e9421630d891a69d266.co.cc
 8c12dd5c4f5c0e00bec3b6821b652d95.co.cc
@@ -665,6 +662,7 @@
 9b.nu
 9c522f25a43886e7853d0815f73cb925.co.cc
 9ca1527451d1dfae0ff7b3e5f4c4bdda.co.cc
+9cde13c322343c97e8f3df9bb7420a37.co.cc
 9cde9db30d044f681bb5c0e9885f90b4.co.cc
 9db38f56adb444cd53247c6d0dad26c4.co.cc
 9dc8e832647ea259c654b18b7d2f5e14.co.cc
@@ -680,7 +678,6 @@ a01d28bee11b2884f90595485f817198.co.cc
 a030e810d279638ab25f365a3c2ea429.co.cc
 a03354c219d922d282a2bebf0fe6d26b.co.cc
 a03692b26dde96b50c416fa3f3012a61.co.cc
-a04e24e172cd59a1f671411529716371.co.cc
 a0641e9108eb77f5753a30281b78711e.co.cc
 a0d5290e955a80938b5408966e850cac.co.cc
 a0.pm
@@ -698,6 +695,7 @@ a2b6b494072521754455a6e47a0361f0.co.cc
 a2c7a28796a7d698cd8b7d1b4d7da1d5.co.cc
 a33f56f94ae1a4257ae87c3ae9789af1.co.cc
 a344a0431f7715585a729215a59d64d5.co.cc
+a371c602e0eda993a85add67071ca0c4.co.cc
 a3ea71068ca3b5e58282846d18255693.co.cc
 a3f7ed3b9bbb6cc11604767861dd68bc.co.cc
 a430352a535e01cd83f86eda47a82baf.co.cc
@@ -773,7 +771,6 @@ actumali.org
 acwapower.in
 adacaranya.com
 adblocker-sentinel.net
-adci9.cc
 addictmetui.com
 additionalpublic.work.gd
 addons.news
@@ -816,7 +813,6 @@ adv-sect.ru
 adv-sect.site
 ae2964db351fa5be40fc713abb2445f1.co.cc
 aecf5.cc
-aef6207a094b16f0c7012a290e0ba81a.co.cc
 aejava.ddns.net
 aejva.ddns.net
 aek0aicifaloh1yo.com
@@ -1091,7 +1087,6 @@ asheypi.ru
 ashgrrwt.click
 asis.downloadwindowsupdate.co
 asis.fastdnslog.com
-as.kbnexc.com
 as.mssexec.com
 as.svchosexec.com
 as.sveexec.com
@@ -1125,6 +1120,7 @@ autoprotect.com.de
 autoprotect.com.se
 autoupdatecheck.work.gd
 avail.freay.tech
+avalekto.bazar
 avdeeva.info
 avtomehprofession.site
 avtoshopping.com
@@ -1591,6 +1587,7 @@ casting.austinonline.shop
 casting.faeryfox.com
 cater.sphery.live
 cb181892cfc2798c1be12354e6807b2f.co.cc
+cb729fd56c5ec8c0613ad1701b52ea16.co.cc
 cb7ea9a060922418f0651b5cec4f691a.co.cc
 cb810a4ed984958ff434968feb358e88.co.cc
 cbbc01.xyz
@@ -1650,6 +1647,7 @@ cf94e5e584c332baf85f978a78b9d48e.co.cc
 cfbcce58a8e15fe1f60204b4509ba731.co.cc
 cf-c-backelmfyx.cn-beijing.fcapp.run
 cf-c-backelmfyx.cn-zhangjiakou.fcapp.run
+cf-cs-cloudfuctions-rkkwaxzxjd.cn-hangzhou.fcapp.run
 cf-health.click
 cgimumtbwilcrlnn.com
 charlesmbamalu.com
@@ -1962,7 +1960,6 @@ d1m383qkjwdfx0.cloudfront.net
 d1n3g6gayr311x.cloudfront.net
 d1o5jj3er1p34c.cloudfront.net
 d1ugea0fewof2r.cloudfront.net
-d2008f6040f9314febc002819d3e71db.co.cc
 d2b436078c31e26e977800bfc24fefaf.co.cc
 d2it5qvo5v7f26.cloudfront.net
 d2j09jsarr75l2.cloudfront.net
@@ -2157,6 +2154,7 @@ dns.djn.blue
 dns.eudnslog.com
 dns.exploitresearch.art
 dns.forcorpor.com
+dns.greypsecurity.training
 dns.ionscapir.com
 dns.ns1.akingump.cloud
 dns.steasteel.net
@@ -2253,6 +2251,7 @@ dybits.life
 dyshangcheng.info
 dzhabaripa.ru
 dzhahipa.ru
+e105c3b1338b526492e8a3a60b2d626d.co.cc
 e112148b4256de25fce921d2b5bca2dc.co.cc
 e12fa2f49a889f6b2f788478b8230fce.co.cc
 e1a97faa98457139250419b4073a40fa.co.cc
@@ -2319,6 +2318,7 @@ ecfcc89b80ec82b01c10371fcfd9f563.co.cc
 ecologitics.com
 ecraiqwpqtjgavi5q.com
 edgeserver-fubqd0b0d0eje9b9.z01.azurefd.net
+edgesupporttd.eastus.cloudapp.azure.com
 edolio5.com
 edu.hicomputing.huawei.com
 ee0887ebbe059079575d03d0c95efbf7.co.cc
@@ -2542,6 +2542,7 @@ finandy.online
 finesoul.pw
 fireclier.com
 fireup.xyz
+firstsoftapp.com
 fishuflatinned.ml
 fitmillionschools.com
 fittingroom.gibbsjewelry.com
@@ -2611,6 +2612,7 @@ funeral-engineering-expression.top
 furiamoc.com
 furniture.nothingordinarydesign.com
 fuyaboho.com
+fxebbrcwgcssvpjiky.com
 g2fm.co.uk
 g3n3sis.org
 g3n3sis.pro
@@ -2898,6 +2900,7 @@ hse.ru.attachment-posts.cc
 hsgdjh78632.mypsx.net
 hs.hserverdns.com
 hsushzidooonsnx.gq
+htc.ccb.com
 htetryfugyioiyut.ml
 https-proxy-phxf3piyqa-uc.a.run.app
 htyyed.com
@@ -3036,6 +3039,7 @@ itter.me
 ituyiut.wang
 itygreyhound.buzz
 iujdhsndjfks.ru
+iuxbhggvthbwhodpyl.com
 ivibits.com
 iwoodstor.xyz
 j1n.me
@@ -3360,7 +3364,6 @@ lplp.ackng.com
 ltupdate.ddns.net
 lubidex.xyz
 lucas.hertic.tech
-lugociyah.com
 luo.dchu2u.com
 luxario.org
 luxurycompare.com
@@ -3499,7 +3502,6 @@ meadi.test.upcdn.net
 mea-ph-line.cc
 mea.yk-line.cc
 mecezom.biz
-mediaget.com
 medusacegu2ufmc3kx2kkqicrlcxdettsjcenhjena6uannk5f4ffuyd.onion
 meehealth.org
 meetsapp.org
@@ -3821,6 +3823,7 @@ ns1.backdates8.org
 ns1.backdates9.org
 ns1.bernetdiscover.com
 ns1.bewiser.at
+ns1.bogotatrade.co
 ns1.box-cache.com
 ns1.boxcloudcdn.com
 ns1.bre1ce.top
@@ -3829,7 +3832,9 @@ ns1.centos-yum.xyz
 ns_1.chanenergy.com
 ns1.choperaderlwonen360.xyz
 ns1.corpais900.co
+ns1.crnbchina.top
 ns1.ctfer.club
+ns1.dingtaik.tk
 ns1.djasjp.tk
 ns1.glthub.icu
 ns1.gonamph.com
@@ -3840,11 +3845,13 @@ ns1.icbci.top
 ns1.jojoieadd.com
 ns1.jpgureai.com
 ns1.linkein.org
+ns1.maxvps.top
 ns1.microtimezone.com
 ns1.micsoft.org
 ns1.mlcr0s0ft.one
 ns1.niggerasssys.com
 ns1.norahomespace.online
+ns1.ossqianxin.co
 ns1.push-alibaba.com
 ns1.pycharm-edu.us
 ns1.rememdam.xyz
@@ -3853,7 +3860,9 @@ ns1.shidianjiyuan.com
 ns1.speech-microsoft.com
 ns1.timechk23.com
 ns1.trytiponlineresult.com
+ns1.uswatchcorp.com
 ns1.xiaopeng111.com
+ns1.xionoll.com
 ns1.xxe.pw
 ns1.xync.org
 ns2.007work.icu
@@ -3871,7 +3880,9 @@ ns2.centos-yum.xyz
 ns_2.chanenergy.com
 ns2.choperaderlwonen360.xyz
 ns2.corpais900.co
+ns2.crnbchina.top
 ns2.ctfer.club
+ns2.dingtaik.tk
 ns2.djasjp.tk
 ns2.glthub.icu
 ns2.hkappdev.com
@@ -3882,6 +3893,7 @@ ns2.mammothspoon.xyz
 ns2.microtimezone.com
 ns2.niggerasssys.com
 ns2.norahomespace.online
+ns2.ossqianxin.co
 ns2.rememdam.xyz
 ns2.rtsafetech.com
 ns2.scant.online
@@ -3893,6 +3905,7 @@ ns3.007work.icu
 ns3.ace3.ru
 ns3.jojoieadd.com
 ns3.michiganlocking.com
+ns3.ossqianxin.co
 ns3.xiaopeng111.com
 ns4.michiganlocking.com
 nsaozcuhlcqeysute.info
@@ -3902,6 +3915,7 @@ nsjdhmdjs.com
 ns.jeb5353.buzz
 ns.mlnrm.com
 ns.msazure.dnsrd.com
+ns.qaxno1.ml
 nssnissshch.bio
 nssnissshch.gay
 nssnissshch.ink
@@ -3979,6 +3993,7 @@ online.microsoft-online.top
 online.publicvm.com
 onlineshares.cloud
 onmepdum.com
+onysexib.bazar
 oo.beahh.com
 oop2.hago.net
 oop.abbbny.com
@@ -4142,6 +4157,7 @@ pool.minexmr.com
 pool.supportxmr.com
 pool.whitesnake.church
 poomcis.com
+pop2000.ddns.net
 pops.mastercoa.co
 poptube.fun
 port3000newspm.duckdns.org
@@ -4289,7 +4305,6 @@ qvg6nfaaulfkncgz.org
 qwavemediaservice.net
 qwepoi123098.com
 qwert.xyz
-qw.kbnexc.com
 qw.mssexec.com
 qw.svchosexec.com
 qw.sveexec.com
@@ -4499,7 +4514,6 @@ sephoragroup.com
 serienjunkies.us
 server13.cdneurops.pics
 server1.bre1ce.top
-server1.elearningmansatuokit.sch.id
 server-1.phcnetworks.net
 server42.microsoft-essentials.com
 servercheck.zyns.com
@@ -4589,6 +4603,7 @@ service-k34gi85k-1314775489.gz.apigw.tencentcs.com
 service-k6rxhtl1-1314298810.bj.apigw.tencentcs.com
 service-kaic9luv-1307760246.sh.apigw.tencentcs.com
 service-kboespoo-1317138495.gz.apigw.tencentcs.com
+service-kpy719kw-1252391081.gz.apigw.tencentcs.com
 service-kqjz2v9d-1252551592.bj.apigw.tencentcs.com
 service-lqa4r7qi-1314027945.gz.apigw.tencentcs.com
 service-lteuokof-1317231554.sh.apigw.tencentcs.com
@@ -4603,7 +4618,6 @@ service-na956zr6-1309996193.gz.apigw.tencentcs.com
 service-nllkzxuw-1301998990.hk.apigw.tencentcs.com
 servicenow-godaddy.com
 service-now.support
-service-nwe3sk3y-1303130145.gz.apigw.tencentcs.com
 service-o5t8eebz-1313934947.sh.apigw.tencentcs.com
 service-ohddx02s-1300389563.gz.apigw.tencentcs.com
 service-ohpiv7vr-1310764774.bj.apigw.tencentcs.com
@@ -4725,6 +4739,7 @@ snawswdyntiol0.com
 sniper.pet
 snnytsmlpn28.com
 snu.cloudfiles.epizy.com
+soalsewa.bazar
 social.1877.team
 sock.tofu.lol
 sodality.mandmsolicitors.com
@@ -4783,13 +4798,13 @@ sso-go.cc
 sso-goth.cc
 sso-go-th.com
 sso-so-line.cc
-sso-tc.cc
 sso.thai-line.cc
 sso-th.cc
 sso-uo.cc
 sso-vode.cc
 sso-xy.cc
 ssth9.com
+stablever.store
 stacstocuh.quest
 stakewise.net
 standart.sdtranspo.com
@@ -4961,6 +4976,7 @@ ternocorg.cf
 tescoshoppingmall.com
 teslali.com
 teslal.shop
+tesla-ltt.com
 teslal.xyz
 tesla-s.shop
 testcs.luckybox.monster
@@ -5472,6 +5488,7 @@ windowservicecentar.com
 windowservicecenter.com
 windowsupdatebg.s.llnwi.net
 windowsupdate.social
+windowsupdate.test.upcdn.net
 winegroup.club
 wins23novok.duckdns.org
 winsatoom.com
@@ -5743,7 +5760,6 @@ www.desktop-chatgpt.com
 www.desktopchatgpt.com
 www.desmart.msk.ru
 www.dhksblog.top
-www.diaolu.live
 www.difundap.vip
 www.digitalf.vip
 www.digitalq.vip
@@ -5851,6 +5867,7 @@ www.incxzsdcuuwqag.serveuser.com
 www.inlinkedlnmessagesdigiter.serveuser.com
 www.interalliancemediagroups.cloud
 www.jagajaga.ga
+www.jaic-vc.co.in
 www.javaapp.xyz
 www.javacomp.xyz
 www.javadestkop.com
@@ -6215,7 +6232,6 @@ xt-line.cc
 xudoxijiwef.eu
 xufapoxa.us
 xv-line.cc
-xvnmyi.ht5wy2lga.site
 xxe.linuxupdate.info
 xxe.pw
 x.xxe.pw
@@ -6236,7 +6252,6 @@ yemenofoneofline.ddns.net
 yewopeuropaus.com
 yhdmb.xyz
 yic0oosaeiy7ahng.com
-yifebuto.com
 yjksvjdbjdbjjda.cf
 yjksvjdbjdbjjda.ga
 yjksvjdbjdbjjda.ml
@@ -6304,7 +6319,6 @@ zopowww.pw
 zougla.news
 zretw.xyz
 zuberipa.ru
-zx.kbnexc.com
 zx.mssexec.com
 zx.svchosexec.com
 zx.sveexec.com
