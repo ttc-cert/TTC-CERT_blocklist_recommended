@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-06-03 03:00:01 +07                        #
+# Last updated: 2023-06-04 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -40,7 +40,6 @@
 06de659a494311be77cef6f0e4ecf2bf.co.cc
 06xttsmz502po73e.info
 0725a65b2fa593ee282ecdc649afa18d.co.cc
-07501fdcf9f9214698cb5a4534185efc.co.cc
 07c26a2aed316f61a06bb2b3257eefa2.co.cc
 08459f37dc73a86ac99d75d8109ccd6b.co.cc
 08ef7b165f7cbed5b3204917b438c24f.co.cc
@@ -158,7 +157,6 @@
 20b64177af7a28c78b8b718f5eced7a8.co.cc
 20becc21c537148255bbefd4d861e443.co.cc
 214d4029641f04d6c18971b32146da09.co.cc
-2188edac3ba7d066c99e123dcb901a88.co.cc
 21ba61b72b55355316e8ab295e2431dc.co.cc
 21efb6eac88a1f491877dc8708dea7a8.co.cc
 221336607eeaa47e30ea80f94da2ac07.co.cc
@@ -275,7 +273,6 @@
 3z.nu
 4017b31aac1e7e352b3e5a938043853c.co.cc
 404.zoominfo.click
-406214850621f3b126a5d4a1520b61e7.co.cc
 414940eeba5590ee994317ab68b6b45f.co.cc
 425108873a6baf95cb4d8d1e1356427e.co.cc
 42ad6538554927e45679fb8a2099d25b.co.cc
@@ -462,7 +459,6 @@
 742bc866954922d13dbacaa37fcc4bc2.co.cc
 74baf566c8fed4ed847e61eecbae3e39.co.cc
 74ecb1fd88aba611e7bb17fbc75e2b56.co.cc
-754a18979f22ef52ceb7f1898317a22b.co.cc
 75d30f0c529343bc8f20b88738d7107b.co.cc
 766005d0939bc6b21c756039124e2b7f.co.cc
 7687ytuyt78gfg.ddns.net
@@ -514,7 +510,6 @@
 801c9883c5bf089ffcafbbe8e910e1cc.co.cc
 8032a913a78484334152b036023566a6.co.cc
 8045a073b42624e2cfbcea64056907b7.co.cc
-806bc7dacc281ad6ca43619aa5cd24e0.co.cc
 80876dd5.shop
 808e9d5c8a6be7cd61c4ba8c93a9d4cb.co.cc
 80cd1a0eb5171a82551af587da9730b2.co.cc
@@ -586,7 +581,6 @@
 933da9beb5d6450e4cb6020fe43d0811.co.cc
 9348.cn
 935df437e24344564269458ab191d9c1.co.cc
-93ca66c1cf068d3bfa1f7bd82bd72576.co.cc
 93dcdc6dee33938847bf79b129196b19.co.cc
 93e2b8dab26cdee5acf3e51bd487eb55.co.cc
 93e2da871acc76a51302bfd22600b5b3.co.cc
@@ -615,9 +609,7 @@
 9b150c5b467df1a600804e48c24e95e3.co.cc
 9b3b3c77314ff367d3bfba6f70274311.co.cc
 9b4ea8f26cb182333b66748c9f3c773b.co.cc
-9b65705774fb619152b2d25da634913b.co.cc
 9b94a827c4ee4b69d3221f6291b4b8e9.co.cc
-9b9e0fcb9a57de22840140691d18a22f.co.cc
 9ba866390a577465690856436a5a6732.co.cc
 9be13d0f2701c0a800b070a22ea7eb76.co.cc
 9b.nu
@@ -647,7 +639,6 @@ a190acf460c2f234fa7926e111652a43.co.cc
 a1b214538854ba83d946d8976dcd00c5.co.cc
 a1c13dee67ba6f17d0d9e0b3c5185fdc.co.cc
 a1de25ef1d6d31e53c6f52236df746e2.co.cc
-a238243f52857e06c628df581655f365.co.cc
 a2911136dfc7cd5f77ce4a28e040da57.co.cc
 a2b6b494072521754455a6e47a0361f0.co.cc
 a2c7a28796a7d698cd8b7d1b4d7da1d5.co.cc
@@ -876,7 +867,6 @@ api2.openai-service.workers.dev
 api.360com.live
 api-apple-buy.com
 a.pic447.com
-apidiscord.com
 apid.mutoujs.xyz
 api.fetc-net.com
 api.fetctw.xyz
@@ -1074,7 +1064,6 @@ aui.hopto.org
 aurorawenters.com
 ausib-edu.org
 australiansuper.xyz
-author.baidu.com.dsa.dnsv1.com.cn
 auth.webapi-telegram.com
 autoprotect.com.de
 autoprotect.com.se
@@ -1154,6 +1143,7 @@ bafybeidqh7dk3sse4u5d66web5v446nnygtw5jeav5vunueyonjx5wp6gm.ipfs.nftstorage.link
 bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io
 bafybeiehf33obq42jx73m3nfilstzgk52wuvwmoechf4wmbt652p36jsia.ipfs.nftstorage.link
 baglamanotalari.com
+baidu.moonsir.cf
 baidu.office365update.cn
 bakareiswap.xyz
 bakel.zapto.org
@@ -1404,7 +1394,6 @@ c773d7fac2cedf5917e414d85da09b55.co.cc
 c799ef81d2ed8edd5014da5cff49136a.co.cc
 c7f587237f38054e08da9a939054ee04.co.cc
 c7ffb7dabbef307b24a67083d845c873.co.cc
-c8f1bf44d4377169a9b41ea20c283b28.co.cc
 c91e879b9cf7401c010c0905c6793817.co.cc
 c9e6f7b57b3fb477c7fa84d373cac8f3.co.cc
 c9fefec50adba30e072cf15bf60c71bd.co.cc
@@ -1505,7 +1494,6 @@ cerupedi.com
 ceu84g.com
 cf7ad803f1f2f5ea91b2dbaadceadb95.co.cc
 cf8c6b4856f513008663c73c65d3835c.co.cc
-cf94e5e584c332baf85f978a78b9d48e.co.cc
 cfbcce58a8e15fe1f60204b4509ba731.co.cc
 cf-c-backelmfyx.cn-beijing.fcapp.run
 cf-c-backelmfyx.cn-zhangjiakou.fcapp.run
@@ -1563,6 +1551,7 @@ circle.web3claimer.net
 citahikodab.eu
 citrixcanada.azureedge.net
 citroen.gr.com
+citycredito.com
 cityoall.com
 citypharmacylv.com
 c.kalilinux.net
@@ -1733,6 +1722,7 @@ cs.kingsoft365.top
 cs.kkksex.com
 csklo06p.slt.sched.intlscdn.com
 cs-line.cc
+csremote.duckdns.org
 cssc-net.co
 cs.server.bike
 cs.siakapkeli.net
@@ -1924,7 +1914,6 @@ diasgallery.com
 dicktres.com.br
 difozaa.life
 digestcolect.com
-digitalenergetic.com
 digital-mar.com
 dikolobeliw.eu
 dio45.com
@@ -2223,7 +2212,6 @@ f25b490899ddda990a227208d0473df2.co.cc
 f2a2991032d7606b66dd90ea9f840383.co.cc
 f2e99c9d01c9b9722afc0a36e02bfdb0.co.cc
 f32f1ccad1433e997f7bcd37738878a8.co.cc
-f3ba4a3eff5a453002ce75f0522f12dc.co.cc
 f3bb11898bbf03703aa9af5e47c509ea.co.cc
 f3e452b0ad592db8051a2cccaa415572.co.cc
 f3ee03ac45e1a65a36680cedce681d59.co.cc
@@ -2252,7 +2240,6 @@ f8e4fcc65c2bf92a9e766521902c9b17.co.cc
 f8f3215ef27fc52c602d48590b06f663.co.cc
 f971024c5aa8cba312d2f3a1e2448de2.co.cc
 f9b022e74ea114be2230e951bd8f38a7.co.cc
-f9bd320aed767b98f960891a804ac80c.co.cc
 fa03034fdc68da41c2c11ecef1de80ba.co.cc
 fa0de91970eb9837c36f48290efb985c.co.cc
 fa5539a48ffea9fc9a55be404856ceea.co.cc
@@ -2553,6 +2540,7 @@ h5.tmsfin.com
 h5.yelove.xyz
 h6.re
 habka.online
+hack.mchotspring.press
 hairouni.serveblog.net
 haiwai2.xyz
 hakimiya.live
@@ -2996,6 +2984,7 @@ library-query.info
 lifeinsurancequotes.xyz
 lifestyleshops.net
 ligaspace.ru
+light.tsinghua.fyi
 lightversionhotel.com
 limk.one
 lines.aeryple.xyz
@@ -3247,7 +3236,6 @@ mirzadihatti.com
 mistitis.ug
 mitmail.tech
 mitube1.link
-mjwhdsleih62jsit.info
 mkhkjxgchtfgu7uhofxzgoawntfzrkdccymveektqgpxrpjb72oq.zero
 mlinks.ws
 mmarx.quest
@@ -3336,7 +3324,6 @@ myfcbk.net
 myif471ok9ipidk2kkl.xyz
 mylab123321hm.ddn.net
 mylab123321hm.ddns.net
-my-mac-24.com
 mypcs.myvnc.com
 mypcs.sytes.net
 myplayer.ml
@@ -3503,6 +3490,7 @@ ns1.ctfer.club
 ns1.digitelela.com
 ns1.dingtaik.tk
 ns1.djasjp.tk
+ns1.dnehtb.cn
 ns1.glthub.icu
 ns1.gonamph.com
 ns1.hammercdntech.com
@@ -3511,7 +3499,9 @@ ns1.hkappdev.com
 ns1.icbci.top
 ns1.jojoieadd.com
 ns1.jpgureai.com
+ns1.kirs1234.top
 ns1.linkein.org
+ns1.m1crosoft.cloud
 ns1.maxvps.top
 ns1.microtimezone.com
 ns1.micsoft.org
@@ -3553,11 +3543,14 @@ ns2.crnbchina.top
 ns2.ctfer.club
 ns2.dingtaik.tk
 ns2.djasjp.tk
+ns2.dnehtb.cn
 ns2.glthub.icu
 ns2.hkappdev.com
 ns2.icbci.top
 ns2.jojoieadd.com
 ns2.jpgureai.com
+ns2.kirs1234.top
+ns2.m1crosoft.cloud
 ns2.mammothspoon.xyz
 ns2.microtimezone.com
 ns2.msnsiccs.com
@@ -3577,6 +3570,7 @@ ns3.ace3.ru
 ns3.aliyunapis.com
 ns3.chongfan1990.xyz
 ns3.jojoieadd.com
+ns3.m1crosoft.cloud
 ns3.michiganlocking.com
 ns3.ossqianxin.co
 ns3.peermanshuus.bio
@@ -3689,6 +3683,7 @@ origa2up.top
 ortra.tech
 orykpbyh02nia6jz.info
 oscarnaija.com
+osce12-0-sc.url.asiainfo-sec.com
 oscp-avanguard.com
 oss.s0vsa12.xyz
 otaupdatesios.com
@@ -4151,7 +4146,6 @@ service-3mgi5kkg-1318387972.gz.apigw.tencentcs.com
 service-3rlc1z29-1318191688.bj.apigw.tencentcs.com
 service-3uc3y0ao-1301310284.gz.apigw.tencentcs.com
 service-3v98c748-1310046338.gz.apigw.tencentcs.com
-service-4ass89cc-1300716010.gz.apigw.tencentcs.com
 service-4b1hpuo9-1305604765.sh.apigw.tencentcs.com
 service-4f04ow2r-1304941417.sh.apigw.tencentcs.com
 service-4qt7wcxz-1315517919.sh.apigw.tencentcs.com
@@ -4170,6 +4164,7 @@ service-93y89p5u-1307021836.gz.apigw.tencentcs.com
 service-98cbalut-1302394400.sh.apigw.tencentcs.com
 service-996gjd0l-1259444062.sh.apigw.tencentcs.com
 service-9op9r1ye-1306177445.gz.apigw.tencentcs.com
+service-a3q6cine-1318428097.gz.apigw.tencentcs.com
 service-asejzoh9-1252427727.bj.apigw.tencentcs.com
 service-b2qhuyiu-1307021836.gz.apigw.tencentcs.com
 service-besjnih9-1307114390.sh.apigw.tencentcs.com
@@ -4448,7 +4443,6 @@ su-95.letmaker.top
 subcloud.online
 subinfralab.info
 succinct.ru
-sufiduwo.com
 sumnutrionm.com
 sunclub.site
 sunnyweek.site
@@ -4585,7 +4579,6 @@ thetimespress.com
 thietbinuoitom.vn
 thqvmifjnroshobqy.com
 thunderbluet97.no-ip.org
-tibenorote.com
 tidiciwu.co
 tiepanghu.xyz
 tiffyre.net
