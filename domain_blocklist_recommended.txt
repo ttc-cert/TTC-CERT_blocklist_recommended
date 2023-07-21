@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-07-21 03:00:01 +07                        #
+# Last updated: 2023-07-22 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -34,7 +34,6 @@
 08459f37dc73a86ac99d75d8109ccd6b.co.cc
 08f518b4f4ecf73658a642baeff6958c.co.cc
 09d52459a172cd6436292666bb5b2f6d.co.cc
-09e224684cf16624a728b0be1911a0b2.co.cc
 0adbe2fad6a70209883d7c96a959991f.co.cc
 0af7b7fc6caefddfe6fda0edf4b86925.co.cc
 0bmenka.com
@@ -134,7 +133,6 @@
 2e8f33222dbfa7c5eb658bfdcf7dec26.co.cc
 2ed79fa8bd0ce4892f211dd1f0aa2230.co.cc
 2ef64f21a86331b985f5823c85353cb7.co.cc
-2f1b982054113d361625b07e8cdc3e9c.co.cc
 2fb0b01081729846d4ec50e8f5e1265a.co.cc
 2ff83dd8f0b0ea5559de5d7448999202.co.cc
 2ffb818dde24465bc4065dee67b6ac1f.co.cc
@@ -161,7 +159,6 @@
 360sec.site
 360www.ca
 388855d14c658c016995f8b0de24567e.co.cc
-3a2382404ebef3662f2a831859e46982.co.cc
 3aa4a358b25b6a8431ef3d98548f274d.co.cc
 3abaed70ef4a74008760d6ac9b412754.co.cc
 3dgamesource.com
@@ -178,6 +175,7 @@
 414940eeba5590ee994317ab68b6b45f.co.cc
 42ad6538554927e45679fb8a2099d25b.co.cc
 42fd3cb97d1e3ac6d6e02d51968e17f9.co.cc
+42.zip
 436c2e6f810f71d1e55730574d938a74.co.cc
 45.154.98.153:8080
 45.154.98.244:8080
@@ -190,7 +188,6 @@
 47c7c269680f27fbb0ea9ff8a4208b4a.co.cc
 47f38941ace77c311fb128406765d709.co.cc
 49d99065fd9e5b490c25607da7586cb7.co.cc
-4ac378ee7e44fbb7e14c836dbd746aeb.co.cc
 4aw.ro
 4b1f789e8bd508c8866451d858d03973.co.cc
 4b5723b2292d11834bc0d2d36f146fc4.co.cc
@@ -253,7 +250,6 @@
 63f2f39cf826292237f53fee41018898.co.cc
 6470ee21f96be4a70050540d9ddb98b2.co.cc
 649787a4d99a96e97b50a2aef9463ce9.co.cc
-652dfa04a5f065301bc58b0c9b592248.co.cc
 66387b1639b2ce0ee5a36142d0dcb3d8.co.cc
 66563.se
 66y143.xyz
@@ -288,7 +284,6 @@
 7772068e4f8c4a4814587ed696f5f19d.co.cc
 77owship.netsociality.com
 78f939e6b2cbd3e1bff93a5ea6371174.co.cc
-796004f5d403cc84f2464260f5bdd13a.co.cc
 79f43cdeb8a596c5266fcb4b81e5a8f2.co.cc
 7a7b1bfb7d47f9d03bb7dbd2dcdfb564.co.cc
 7aef79a0bd9ea307ead11b28a87352cf.co.cc
@@ -328,7 +323,6 @@
 89786255678978267.from-al.com
 89b3ceecfda363af4e9f19b096cc8beb.co.cc
 8a48b3ed47f8e331c2fd6102664a3904.co.cc
-8c9322021d5934e8bc3ac15f372e7949.co.cc
 8ccfcfcd717c75e5cc6976d646a347d4.co.cc
 8e623a0ef467b403b46bd775f8e39bbe.co.cc
 8e6cb2bb90bba9b747383fd765acb5df.co.cc
@@ -350,7 +344,6 @@
 93e2da871acc76a51302bfd22600b5b3.co.cc
 93ea690d42250dab7c54ba2cb3c57955.co.cc
 942ff783d1d2591ffd4f15d38c53de46.co.cc
-94314ecc1528aac276e7163563a24048.co.cc
 95b298a678ba4e9055996b1e2b623927.co.cc
 95delicious.remmaoso.ru
 96mvipmy.com
@@ -360,17 +353,14 @@
 987b396746bd8f2d31a612e491010417.co.cc
 99429cfbd85f6482c085020b36692884.co.cc
 994ede92c078561258996c28e1a8d645.co.cc
-9a9e8cc1cb34c4b24c0a64eea499796a.co.cc
 9b3b3c77314ff367d3bfba6f70274311.co.cc
 9b94a827c4ee4b69d3221f6291b4b8e9.co.cc
-9be13d0f2701c0a800b070a22ea7eb76.co.cc
 9b.nu
 9ca1527451d1dfae0ff7b3e5f4c4bdda.co.cc
 9cde13c322343c97e8f3df9bb7420a37.co.cc
 9cde9db30d044f681bb5c0e9885f90b4.co.cc
 9db38f56adb444cd53247c6d0dad26c4.co.cc
 9f5502c697dff3d60150d3820fd77c78.co.cc
-9mltg07b.slt-dk.sched.tdnsv8.com
 a030e810d279638ab25f365a3c2ea429.co.cc
 a03354c219d922d282a2bebf0fe6d26b.co.cc
 a0.pm
@@ -477,6 +467,7 @@ a-fms.ntp-update.com
 a-fratellanza.corsica
 africahelp.org
 agakuklesdoresfores3.net
+agcbiocareers.com
 agency.baidubet.com
 aggbvdfbbafdg.moeuda.link
 agoexcoin.com
@@ -495,6 +486,7 @@ airways.wts-line.cc
 aisvip.cc
 ait.claims
 ajp.zon-cojp.top
+akadeumcareers.com
 akamaicontainer.com
 akamaitechcloudservices.com
 akamaixed.net
@@ -503,6 +495,7 @@ akedhorrorr.com
 akeygen.com
 akjdaks54678sdas.ddns.net
 akochar.site
+alamarbiocareers.com
 alarm.bettermoneyhelp.com
 alast.ntp-update.com
 alast.sun-java.com
@@ -511,6 +504,7 @@ alchemistwallet.io
 alcrobit.com
 aleagroupdevelopment.com
 alegoomaster.com
+aleralabscareers.com
 alerterapp.mobi
 alertgeeks.ddnsfree.com
 alfelixstownrus.com
@@ -558,12 +552,14 @@ amazisbtc.site
 amazonon.buzz
 amazonsell.pro
 amazonsserv.ddns.net
+amberstonebiocareers.com
 amcoin-btc.com
 amd-export.com
 amend-snetlu.com
 amends-snetlu.com
 americanocoffea.ru
 amezcn.xyz
+amicusrxcareers.com
 amiri-outlets.online
 amirishopoutlet.online
 amirisoutlets.online
@@ -625,7 +621,6 @@ api.viberrx.com
 api.vpbankem.com
 apk.198449.com
 ap-northeast-1.compute.internal.anondns.net
-apollo-crypto.org.shilaerc20.com
 app.bsan.mobi
 app.callrail.com
 appcisco.com
@@ -649,6 +644,7 @@ aps-ledegere.com
 aptradex.com
 aqwzxdcpj.top
 aramexegypt.com
+arborbioscicareers.com
 arbor.companydetail.online
 arbordeck.co.in
 archiparist.com
@@ -680,11 +676,11 @@ asis.downloadwindowsupdate.co
 ask.healthgurues.com
 askubuntu.com
 a-sp-rps.0g6666.com
+assignment.zip
 associacaocarioca.org.br
 association.linkpc.net
 as.sortx2.com
 asssaaass1.qianxinsecurity.com
-as.sveexec.com
 as.tackhostw.com
 astooltrade.com
 astrachats.com
@@ -839,6 +835,7 @@ becdaotrade.com
 beecrypt.net
 beepmarket.org
 beetfux.com
+bell.dyndns-server.com
 belliecow.wiki
 beltsymd.org
 bendito2714.duckdns.org
@@ -863,6 +860,7 @@ bgptools-wildcard-confirmed.onlineshares.cloud
 bhandarapolice.org
 b.hdmodecam.live
 bhyyinfodzs.688608.xyz
+bi2price.com
 biboxpro.net
 bigexc.eu
 big-loads.com
@@ -1202,7 +1200,6 @@ btcswapx.com
 btctrade48.com
 b-th.cc
 btradecoin.com
-bucket-amazon.com
 buhgdkurd444.ga
 bukubuka1.net
 bulimu55t.net
@@ -1211,6 +1208,7 @@ bumabara.bid
 burgerking-50.com
 burgerprince.us
 businesnews.net
+businesscentral.zip
 businessvideonews.com
 busscherart.com
 busybody.app
@@ -1291,6 +1289,7 @@ carpetmarker.pw
 carrefourmisr.com
 cartolabrasil.com
 cas.opposrv.top
+catalystcrcareers.com
 cater.sphery.live
 catrinavc.shop
 cawotrade.com
@@ -1334,12 +1333,14 @@ cdn.update.microsoft.com.w.kunluncan.com
 ceb26ef0da2d0e40a4182a05f4c030f5.co.cc
 cehazik.com
 ceiling.kalpo.xyz
+celasllc.com
 celebrnewz.xyz
 cellconn.net
 centos-pkg.org
 centos-repos.org
 centraless.com
 ceriossl.info
+cernerenvizacareers.com
 cert-docs.co.za
 cert-docs.net.za
 certificationsmadeeasy.com
@@ -1362,7 +1363,6 @@ channel.today-breakingnews.com
 charlesmbamalu.com
 charlie-twice.suiteb.io
 charlizard.shop
-charlslogin.com
 charmander.xyz
 chase.cert-docs.co.za
 chasejpwealth.com
@@ -1455,7 +1455,6 @@ clonex-raffle.com
 close-h.xyz
 cloud.anobaka.info
 cloudat.ddns.net
-cloudateup.online
 cloud.azurehosting.co
 cloud.bdcc.bio
 cloudcat.ddns.net
@@ -1496,8 +1495,10 @@ cnc.chinesetable.us
 cnc.wq.gy
 cnealsoftware.com
 cnn.gr.com
+cnshealthcaree.org
 coalafoods.com
 coalermallwive.ga
+cocrystalpharmacareers.com
 codecoinwallet.com
 coinally.ltd
 coinans.com
@@ -1522,6 +1523,7 @@ coinfiy.com
 coinfloup.org
 coinfyp.com
 coingarlem.com
+coingeckoprice.com
 coingup.com
 coinhes.com
 coinhqx.com
@@ -1604,6 +1606,7 @@ confirm-agent.online
 confirmer-snet.com
 confirmer-snetlu.com
 confluence.assbutt.xyz
+confrue.z1m3s.xyz
 conlnk.one
 connect.interalliancemediagroups.cloud
 connectivitychecker.com
@@ -1764,6 +1767,7 @@ cryptonexu.com
 crypto-nix.com
 cryptoover.net
 cryptopifix.com
+cryptopriceoffer.com
 cryptoregcash.com
 cryptorpea.in
 cryptoscoin24.com
@@ -1818,7 +1822,6 @@ currantbit.com
 current-h.click
 currentna.com
 currentna.exchange
-curvefinances.com
 curveroad.com
 customjvupdate.live
 cutgelhxlkbqipwjog.com
@@ -1861,6 +1864,7 @@ d7b5a23896e996ed064d415d37a0e69d.co.cc
 d7c2f5972bcdd67a8737c5db2d91fa17.co.cc
 d7ee0160d33c07dee0dc78665ca1c247.co.cc
 daa365e0666985202be3a4a62656b0f9.co.cc
+dadiwarm.com
 daichetmob.sbs
 damcostafreda12.cat
 danas.bid
@@ -1933,7 +1937,6 @@ deskinvoice.com
 deslonmer.online
 dev01.kagotsurube.org
 dev02.kagotsurube.org
-dev04.ruok.org
 dev.androidadbserver.com
 developersolutions.org
 dev.jdklibraries.com
@@ -2232,6 +2235,7 @@ elvalledetarrazu.com
 elyslink.online
 emv1.onlineshares.cloud
 enclose.info
+endrainccareers.com
 endure.sphery.live
 eneeeeetdhdhdluu-1401867.mybigcommerce.com
 energy.steelcdn.com
@@ -2247,6 +2251,7 @@ enocrypt.com
 enokida.ru
 enough-are.xyz
 enrybit.com
+ensyscecareers.com
 entxviewsinterf.com
 enuovrv79erc.itemdb.com
 eopkne8kapj01xi.m.pipedream.net
@@ -2255,7 +2260,6 @@ ep298728728652652.from-nj.com
 ephbs.top
 ephma.top
 epicenergyservicestexas.com
-epiczplus.buzz
 epnex.io
 epostaljobs.com
 epravda.com.ua
@@ -2279,6 +2283,7 @@ esxi-lty.ntp-update.com
 ethcoinex.com
 ethcoinsale.store
 ethernx.com
+ethos-labscareers.com
 etisalategypt.tech
 etisalatgreen.com
 e-tohfa.net
@@ -2301,6 +2306,7 @@ exbycrypto.online
 exbyswap.com
 excapt.com
 excbit.co
+excelpatch.zip
 exchanege.com
 exchange24coin.com
 exchangebitx.com
@@ -2357,7 +2363,6 @@ f25b490899ddda990a227208d0473df2.co.cc
 f3ee03ac45e1a65a36680cedce681d59.co.cc
 f43d3cfdd320361c14ded97a6c9806ad.co.cc
 f5b3570f784c56a9fe446a9de44160ad.co.cc
-f626298db973840d5419b48ccddcb309.co.cc
 f6b2d4220fa0b65657d246f08db707d3.co.cc
 f6.beautycam.xyz
 f6f2cvymk3mz6xuj.info
@@ -2397,7 +2402,6 @@ fastswap24.com
 fastuploads.xyz
 faustas.com.au
 favebit.io
-fawirocizu.org
 faxytrade.com
 fbadmanage.info
 fbc8213450838f7ae251d4519c195138.xyz
@@ -2483,7 +2487,6 @@ fnx.wf
 focus.mectel.tech
 focus.semain.tech
 fofastore.com
-foliagedesigner.azurewebsites.net
 folkmusicstreams.com
 follow247.xyz
 fon1.sells-it.net
@@ -2554,6 +2557,7 @@ gbhoczcg.vip
 gclouddrives.com
 gd001122.com
 gearfill.biz
+geisingercareer.org
 genlytec.us
 geoloc.top
 george.ikopl.online
@@ -2898,6 +2902,7 @@ injective.claims
 inkly.net
 innerlovefest.com
 in-politics.com
+insatageram.com
 insert.roteh.site
 inservices.digital
 insider.gr.com
@@ -2929,6 +2934,7 @@ irc.socialfreedom.party
 ircx.us.to
 ircxx.us.to
 ircybit.com
+irvineclinicalcareers.com
 isfrc7.weboos.cc
 is.gd
 islamic-path.com
@@ -2993,6 +2999,7 @@ johnsimde.xyz
 jokeadvert.ru
 jokoloret.ru
 jonnyarnold.com
+joomla.zip
 joongang.site
 jotunswap.net
 journalide.org
@@ -3015,6 +3022,8 @@ jslopasitmon.com
 jspassport.ssl.qhimg.com.dsa.dnsv1.com.cn
 juarezcompany.shop
 judicious.ru
+juneaubiosciencescareers.com
+junknomad.com
 jusdintinhoper.servebeer.com
 justiceua.org
 juyhtrdwski.sexidude.com
@@ -3041,6 +3050,7 @@ katskateringllc.com
 kavier.com.mx
 kaziyapa.ru
 kbfvzoboss.bid
+kdrm201.b-cdn.net
 kdungthai.com
 keepas.org
 kee-pass.com
@@ -3187,6 +3197,7 @@ lijiang.yunnan.cn
 limitbit.co
 limk.one
 lindobit24.com
+lindybiocareers.com
 lines.aeryple.xyz
 link.b4a.app
 linkit.cloud
@@ -3418,6 +3429,7 @@ microsoftdownloadonline.com
 microsoftfile.com
 microsoft-service-checker.xyz
 microsoftsupertech.com
+microsoftteams.con-ip.com
 microsofttechinfo.com
 microsouftonline.gq
 micrwindow-app-38sqh.ondigitalocean.app
@@ -3432,6 +3444,7 @@ m.interalliancemediagroups.cloud
 mint-november.app
 mipexcrypto.com
 miqcgim.vip
+miradrycareers.com
 mirros3.linuxupdate.info
 mirros.microsoftcontents.com
 missunno.com
@@ -3498,6 +3511,7 @@ msf-sql.com
 msft-resources.eastus.cloudapp.azure.com
 msk-gov.com
 ms.msteam.biz
+msnbc.zip
 msn-center.uk
 msn-service.co
 msoft-updt.net
@@ -3664,6 +3678,7 @@ nmjvutdwrw.dns04.com
 nn.gxyy77.xyz
 nno1.6nc060821.co
 nno3.6nc060821.co
+nodepkg.com
 nomadpkg.com
 nomadpkgs.com
 nomoresense.com
@@ -3680,6 +3695,12 @@ notfiled.com
 notmalware.red-wizard-demo-01.nl
 novanosa5org.org
 novosti.bid
+npmaudit.com
+npmcloudjs.com
+npmjscloud.com
+npmjsregister.com
+npm-pool.org
+npmrepos.com
 npm-solar.com
 nrwmarkettoys.com
 ns1.007work.icu
@@ -3910,7 +3931,7 @@ nterpretation-introduce.otzo.com
 ntlm.duckdns.org
 nuljjjnuli.org
 nutriag.ru
-nxmnv.site
+nuviewlifesciencescareers.com
 nzul13-3-23.duckdns.org
 o7car.com
 oa.cncb.info
@@ -3920,7 +3941,6 @@ objects-us-east-1.dream.io
 ocean-exchange.com
 ocspverisgn.ddns.net
 octopusbit.com
-od.lk
 odskguo.xyz
 oeewbovon.gofunhome.buzz
 offerapt.com
@@ -4013,6 +4033,7 @@ ourfturehealth.org.uk
 ouro-coins.com
 out.interalliancemediagroups.cloud
 outletvanssuomi.com
+outlook365update.zip
 outlook.maschinenbau-iutz.de
 overbitcoin.net
 overcoin.net
@@ -4055,6 +4076,7 @@ pasteio.com
 pastepast.net
 pastlet.live
 pastsgaiunder.com
+patientpointcareers.com
 patrickaweller.com
 pay-beautiful-flowers.com
 paybiswallet.com
@@ -4371,6 +4393,7 @@ qrz.nu
 qtyiobnsfds.top
 qualityzer.com
 quallybit.com
+quansysbiocareers.com
 quasarincorporated.com
 qu.ax
 qufrex.com
@@ -4384,7 +4407,6 @@ qweastradoc.com
 qwepoi123098.com
 qwert.xyz
 qw.sortx2.com
-qw.sveexec.com
 qw.tackhostw.com
 qw.vm3dservice.com
 qw.vrghosst.com
@@ -4448,6 +4470,7 @@ reinstating-snetlu.com
 r-e.kr
 relation46.samiseto.ru
 relay.interalliancemediagroups.cloud
+releaseapp.zip
 relenqu.com
 remsoftman.com
 rensexchange.com
@@ -4472,6 +4495,7 @@ rewards.roshan.af
 rfa.ink
 rfuwlxggossdcib3.com
 rgwjpwhc.vip
+rhadwikiwwzr6sfzygsr3qh7lwu5ghnaoupxwpsj2xuxjcgcebikh7id.onion
 rhlmeefzdkigjus42.com
 richard4545.loseyourip.com
 richa-sharma.ddns.net
@@ -4511,6 +4535,7 @@ rugby.wsink.live
 ruizchris.ru
 rumanta.com
 runstatistics.net
+runtimebroker-telemetry.com
 rustcasec.com
 rustfacepuchs.com
 rustgiveaways.com
@@ -4564,6 +4589,7 @@ salad-h5.letscall.today
 salad-msg.letscall.today
 salebitc.com
 sale-coin.net
+sales.yummycakes.online
 salogo.gq
 salt.doctordanm.com
 salwanazeeze.ddns.net
@@ -4684,7 +4710,6 @@ service-9op9r1ye-1306177445.gz.apigw.tencentcs.com
 service-9zbgzdjb-1301775575.bj.apigw.tencentcs.com
 service-a3q6cine-1318428097.gz.apigw.tencentcs.com
 service-ayurikha-1302461797.gz.apigw.tencentcs.com
-service-b2qhuyiu-1307021836.gz.apigw.tencentcs.com
 service-besjnih9-1307114390.sh.apigw.tencentcs.com
 service-bflrax8k-1306177445.gz.apigw.tencentcs.com
 service-buv6fchs-1305961616.gz.apigw.tencentcs.com
@@ -4715,6 +4740,7 @@ service-iby8w5fq-1306407718.gz.apigw.tencentcs.com
 service-in0m8ruo-1317231554.gz.apigw.tencentcs.com
 service-in1v1ia6-1256578115.gz.apigw.tencentcs.com
 service-ivfpu96s-1258596386.gz.apigw.tencentcs.com
+service-j3lu1dcf-1259409518.bj.apigw.tencentcs.com
 service-j7rl21xg-1252551592.gz.apigw.tencentcs.com
 service-j815x7l4-1302505002.gz.apigw.tencentcs.com
 service.jaguarlandroverglobalservice.com
@@ -4723,6 +4749,7 @@ service-jcetme20-1314507962.nj.apigw.tencentcs.com
 service-jivrpccg-1258596386.gz.apigw.tencentcs.com
 service-jj2b7hxn-1303919683.bj.apigw.tencentcs.com
 service-jjmi43bc-1252551592.gz.apigw.tencentcs.com
+service-jmhic8q0-1306743016.gz.apigw.tencentcs.com
 service-js8jhgzk-1302739990.gz.apigw.tencentcs.com
 service-jvv5aomb-1305465584.sh.apigw.tencentcs.com
 service-jzcboqxy-1301167793.gz.apigw.tencentcs.com
@@ -4745,6 +4772,7 @@ service-mitx0ap6-1308639534.nj.apigw.tencentcs.com
 service-ml46wp70-1300972060.gz.apigw.tencentcs.com
 service-mph8ibgh-1309275416.sh.apigw.tencentcs.com
 service-myg47s10-1256578115.gz.apigw.tencentcs.com
+service-n232999m-1258583189.nj.apigw.tencentcs.com
 service-n51jl7jj-1313008602.sh.apigw.tencentcs.com
 service-na956zr6-1309996193.gz.apigw.tencentcs.com
 service-nlajk04n-1255951368.sh.apigw.tencentcs.com
@@ -4851,6 +4879,7 @@ skepartisol.com
 skillfullegends.com
 sk.krontec.info
 skybitex.biz
+skylerhaupt.com
 skynet-i.asuscomm.com
 slimedit.live
 slow.digisert-telemetry.com
@@ -4872,7 +4901,6 @@ smbc-ssfa.shop
 smbc-uois.shop
 smionsa.web.app
 smiss.imwork.net
-smitasean.site
 smocbemyid-co.xyz
 smocbemyid.top
 smocbemyid.xyz
@@ -4900,7 +4928,6 @@ softdownloaderonline.net
 soft-end.com
 soft-kind.com
 soft-make.com
-softproxyapi.com
 softsandtools.com
 softs-labs.com
 software.cncb.info
@@ -4992,6 +5019,7 @@ statements.verified-docs.org.za
 stathorrientd.com
 static.adobe-cdn.org
 static-cdn-349.net
+static.cgbchina.com.cn.cloud.360.net.cdn.dnsv1.com
 static.cgbchina.com.cn.cloud.360.net.cdn.dnsv1.com.cn
 static.dingtalk.com
 static-graph.com
@@ -5000,6 +5028,7 @@ static.tencentsbank.com
 statusgeotrust.com
 staxonecommerce.com
 stayersa.art
+stealerskymtni3tiagmx3pqktjgkm2iigwj6e2touws773emrfjvoyd.onion
 steamairdrops.com
 steam-auth.com
 steamcomunity.xyz
@@ -5075,6 +5104,7 @@ t3.twmills.xyz
 t8336355f.emailsys2a.net
 tab.gruve.site
 tableq.xyz
+taelifesciencescareers.com
 tagclick-cdn.com
 takaelot.com
 ta-line.cc
@@ -5088,6 +5118,7 @@ tavositaru.co
 taxrebateuk.com
 taxx-lux.firebaseapp.com
 tb2acrc45seiw1r0.info
+tbcrtampacareers.com
 tb-ndi2.ntp-update.com
 tcar.dnsrd.com
 tchk-1.com
@@ -5246,6 +5277,7 @@ tradero.org
 tradespace.cc
 trade-terminal.store
 tradeway24.com
+tradingprice.net
 tradingterminalbot.com
 trading-trust.com
 trainpolkstaet.com
@@ -5290,6 +5322,7 @@ turiruy.us
 tvchanel.org
 tviptv.co
 twart.myfirewall.org
+twinstrandbiocareers.com
 twitch-bonuse.com
 tw.itter.me
 twittsupport.com
@@ -5328,6 +5361,7 @@ ukr.net.frge.io
 ukrprivacysite.frge.io
 ukyudrst.zyns.com
 ultragoldcoin.com
+unbreakable.live
 unconditional.gq
 undgrddapc4reaunnrdrmnagvdelqfvmgycuvilgwb5uxm25sxawaoqd.onion
 unibraz.org
@@ -5406,6 +5440,7 @@ v2ray2.mmsy.top
 v4oup3.bizlanceguru.com
 vabrycoin.com
 valasati.ru
+valentbiosciencescareers.com
 valvulasthermovalve.cl
 vanbycoin.com
 vanderstuyfbe.com
@@ -5470,6 +5505,7 @@ velmeded.com
 venomia.ddns.net
 venomnavie.wudibaolong.top
 venoxiswallet.com
+ventyxbiocareers.com
 verderesilencia.duckdns.org
 veriernano.com
 verified-docs.com
@@ -5496,6 +5532,7 @@ vestby.net
 ve.toobox.online
 vghz6k.mrface.com
 viaefectivopymeperu.com
+vialcareers.com
 viberrx.com
 victorybattle.com
 videoproducer.site
@@ -5631,6 +5668,7 @@ wedonhissw.com
 wellsfargobonus.com
 well-story.co.kr
 wemakebelieve.africa
+werewolves.su
 wersika.com
 wesfengwhere.com
 we-site.net
@@ -5793,6 +5831,7 @@ www.csair.cloud
 www.csyml.cyou
 www.ctrivertravel.net
 www.cufinancialservices.com
+www.cy9nus.com
 www.cyclophilit.com
 www.cyprus-villas.org
 www.danmarktilbud.com
@@ -6026,7 +6065,6 @@ www.tiendaspumamx.com
 www.tinlly.co
 www.tools-bitget.com
 www.torontos.ga
-www.tradingtechnologies.com
 www.ufalive.ru
 www.uggcizme.ro
 www.uggghete.com
@@ -6116,6 +6154,7 @@ xcvdfgdfgdfg.site
 xczxbnfdlki.top
 xeadult.com
 xegroups.com
+xeneticbiocareers.com
 xenonbit.eu
 xeoncrypto.net
 xeonus.online
@@ -6132,6 +6171,7 @@ xls.freeonline-office.com
 xmkq08012g.top
 xms.yeelip.com
 xn--etherealsoires-mkb.com
+xnfz2jv5fk6dbvrsxxf3dloi6by3agwtur2fauydd3hwdk4vmm27k7ad.onion
 xn--geledevgirie-fnc.app
 xn--ldger-6za.net
 xn--ledgres-d9a.com
@@ -6251,7 +6291,6 @@ zvub.us
 zx.dsvchost.com
 zx-line.cc
 zx.sortx2.com
-zx.sveexec.com
 zx.tackhostw.com
 zx.vm3dservice.com
 zx.vrghosst.com
