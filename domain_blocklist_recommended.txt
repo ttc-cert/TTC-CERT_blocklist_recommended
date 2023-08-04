@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-08-04 03:00:01 +07                        #
+# Last updated: 2023-08-05 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -36,7 +36,6 @@
 0c98a2847a8dc85e12d461e49fbc91f4.co.cc
 0dee414df276769a3567ec1eea5592a1.co.cc
 0e1845309bae1972ab9789189f0dac72.co.cc
-0e99a0ec180260a5756ee256c091eb3f.co.cc
 0fe43d9ad2734fd3df2f956118c3b239.co.cc
 0l9i3.mjt.lu
 0.tcp.jp.ngrok.io
@@ -60,10 +59,8 @@
 188criolaserz.space
 1911drink.best
 1915cea63b0c7c7438f72718873710fe.co.cc
-1a3tb5d02otc2i31.info
 1a8e1745d86d14cddf7cde9a5ab88a33.co.cc
 1aac30f6f41d89830c91623464dd76f4.co.cc
-1b0ff8342f3fa20c7a0be857aa3d7019.co.cc
 1b7d8d44937dd0c254893b46e221ab26.co.cc
 1bf82f8237c6fe43963aa3055bf51ee0.co.cc
 1cnet.changeip.co
@@ -108,7 +105,6 @@
 26asdcgd.xyz
 26e8d14678f0eabfe0c9630ab0bd60ae.co.cc
 277f47162ec8f0afa256ad27f1cd7234.co.cc
-286a9087769b8c47b0035d9890a97ff3.co.cc
 28a32afc1c38f755d59aca4f71833d6a.co.cc
 2922eb47f884a58dba6c93827c51b5bc.co.cc
 2967dbd6a86bc23b70159b17b6a42087.co.cc
@@ -201,7 +197,6 @@
 53d78041f05c3bc5067b159be8ea1dad.co.cc
 55e05ec6ae75af70e72d583131b9aca5.co.cc
 56people.com
-5814a24e5d079affeba1d914189bc445.co.cc
 5868a30cade03c345ba96e31de41d1eb.co.cc
 5bitcloud.com
 5c227699231e1ec4df1a3af59df4d52e.co.cc
@@ -244,7 +239,6 @@
 77112hilan.ddns.net
 7772068e4f8c4a4814587ed696f5f19d.co.cc
 77owship.netsociality.com
-78f939e6b2cbd3e1bff93a5ea6371174.co.cc
 79f43cdeb8a596c5266fcb4b81e5a8f2.co.cc
 7a7b1bfb7d47f9d03bb7dbd2dcdfb564.co.cc
 7aef79a0bd9ea307ead11b28a87352cf.co.cc
@@ -258,13 +252,11 @@
 80delay.dzhabaripa.ru
 827be13813f27f007f84d3d9f763cb5a.co.cc
 8478562a8456e96a61a65af4ce977d82.co.cc
-85757c3140b0864d7d0e48a1f680b166.co.cc
 859c443c7dfbe930d872d7ddfcac8a61.co.cc
 85aa65c72168e52bbf10a70cd7cb6cdd.co.cc
 87524uyre.ddns.net
 877baa8ce15e7701735dd45c4677b9a8.co.cc
 89278675472098928762.from-nd.com
-8955d6264775fe3b64eb8dc87ef5a633.co.cc
 89786255678978267.from-al.com
 89b3ceecfda363af4e9f19b096cc8beb.co.cc
 8a48b3ed47f8e331c2fd6102664a3904.co.cc
@@ -318,6 +310,7 @@ aaa.ad4min.com
 aace.zzux.com
 aadcdn.msftauth.net
 a-ad-tml.ntp-update.com
+aa.hunanshengweibajgongshi.site
 aa.imgjeoogbb.com
 ab3c099528c90798a0951ee10bf2c85f.co.cc
 ab978863fa0e900a053fff8ecd323d2e.co.cc
@@ -341,6 +334,7 @@ acc.officeappsreviews.com
 account.associates
 accounts.login-google.co
 accountsupport.ftp1.biz
+accountsverification.onmicrosoft.com
 ace1.dynamic-dns.net
 acina.live
 acirt.xyz
@@ -472,6 +466,7 @@ aisvip.cc
 ait.claims
 ajp.zon-cojp.top
 akadeumcareers.com
+akadns-02.net
 akamaicontainer.com
 akamaitechcloudservices.com
 akamaixed.net
@@ -599,6 +594,7 @@ ans.itissohard.journal.itsaol.com
 anstv.net
 antahomaar2022.ddns.net
 antegivi.com
+antiquavox.it
 antiquesanddecor.org
 antivirus-help.pro
 anydeesk.net
@@ -622,6 +618,7 @@ api.fetctw.xyz
 api.linkein.org
 api.microft.dynssl.com
 api.mmmllkps.tk
+api.office-updates.org
 api-open.360com.live
 api.reportsearch.dynamic-dns.net
 apiservices.krxd.net
@@ -675,6 +672,7 @@ appointmentmedia.com
 app.professional-survey.com
 apps-ios.net
 apps.mynetav.net
+apps.onlinemapservices.com
 appsrv.live
 app.towerfinancial.net
 aprotect.sun-java.com
@@ -725,10 +723,12 @@ asia.facebook.com-impetro.serveo.net
 asia.www.facebook.com-impetro.serveo.net
 asinustrade.com
 ask.healthgurues.com
+aslpls.io
 asmer.live
 a-sp-rps.0g6666.com
 asrweer.amazon-corp.wikaba.com
 assetmanagements.xyz
+assets.bnbcoinstatic.com
 assignment.zip
 associacaocarioca.org.br
 association.linkpc.net
@@ -822,6 +822,7 @@ avit.live
 avnbit.com
 avors.xyz
 avscanfix.xyz
+awarefinance.com
 awert.xyz
 awesomeessential.com
 awirt.xyz
@@ -846,6 +847,7 @@ azure.doc-view.cloud
 azureonlinecloud.com
 azureonlinestorage.com
 azure.protection-service.cloud
+azuresecuritycenter.onmicrosoft.com
 azx.aace.zzux.com
 a.zzsoft.info
 b00ce57682c9f14145f10a24894d4676.co.cc
@@ -1280,6 +1282,7 @@ bjb.msoffice2.com
 bjkataraedu.in
 bks.loginke.xyz
 blackbitinc.com
+blackfox.lol
 blacktrail.xyz
 blacktulip.tk
 blastcoin24.com
@@ -1340,6 +1343,7 @@ bomems.xyz
 bomert.xyz
 bonems.xyz
 b.oobcsilent.com
+booking-onlines.com
 bookingswarfaces.com
 bookingswarfacesec.com
 bookjob.club
@@ -1369,6 +1373,8 @@ box4box.online
 box.xxe.pw
 bozing.xyz
 bozis.live
+bqq2.clubreadbook.online
+bqq.clubreadbook.online
 brac.tech
 bradtrade.space
 bragancasbrasil.com
@@ -1421,7 +1427,9 @@ burgerking-50.com
 burgerprince.us
 busanabaju.com
 businesnews.net
+business-account-15781759289.web.app
 businesscentral.zip
+business-request-review127989.web.app
 businessvideonews.com
 busscherart.com
 busybody.app
@@ -1514,12 +1522,14 @@ carert.xyz
 cargo-novorossiysk.ru
 caric.live
 caritasmadrededios.org
+carlogamesaqol.com
 carlosperdomoremser.con-ip.com
 carolinascarpelini.com.br
 carom.live
 carpetmarker.pw
 carrefourmisr.com
 cartolabrasil.com
+case-report-1883849.com
 cashapp.pw
 casig.live
 cas.opposrv.top
@@ -1774,7 +1784,6 @@ cloudplatfromservice.one
 cloud.prosec.ink
 cloudprotect.us.org
 cloudserver.exportassociatesonline.info
-cloudshareinc.com
 cloudsofsolarwinds.servehttp.com
 cloudsponcer.com
 cloudstatistics.net
@@ -1882,7 +1891,6 @@ cokix.live
 colis-luxepost.com
 coloradotruckie.com
 combinedresidency.org
-com-change.info
 com-coffee.click
 com-def.asia
 comein.journal.itsaol.com
@@ -1954,7 +1962,6 @@ copur.live
 coral-app-wd3d4.ondigitalocean.app
 core-win-up.global.ssl.fastly.net
 corewo4romocm.duckdns.org
-cornerstonebeverly.org
 corp-cv.net
 corporacionhardsoft.com
 corporate-event-s4u-services.com
@@ -2194,7 +2201,6 @@ d12lysxt2c11pc.cloudfront.net
 d1672414.azureedge.net
 d1am0nd.ddns.net
 d1m383qkjwdfx0.cloudfront.net
-d1n3g6gayr311x.cloudfront.net
 d1o5jj3er1p34c.cloudfront.net
 d1ugea0fewof2r.cloudfront.net
 d28wv8t5c2bp7k.cloudfront.net
@@ -2203,7 +2209,7 @@ d2-new.com
 d2s6z1m6xnp5uj.cloudfront.net
 d3hdbjtb1686tn.cloudfront.net
 d3m6daqa7jwjsk.cloudfront.net
-d3onbhsbjmu9qx.cloudfront.net
+d3ryeb3hz8ljby.cloudfront.net
 d4zy82lzfuvln.cloudfront.net
 d5318e0c480ae52eaec053f2d037ef77.co.cc
 d6166ba0765ca39008c67bf357aa17df.co.cc
@@ -2478,6 +2484,7 @@ dihirs.xyz
 dijeng.xyz
 dijers.xyz
 dijirs.xyz
+dijladentalcenter-qa.com
 dijong.xyz
 diling.xyz
 dimong.live
@@ -2829,12 +2836,14 @@ ecorterra.com
 ecraiqwpqtjgavi5q.com
 e-dato.com
 edc1.6nc051221c.co
+edd2ed2.online
 eddcrabtree.com
 edeisasbeautif.com
 edge.microft.dynssl.com
 edgesupporttd.eastus.cloudapp.azure.com
 edg.mdstech.com.tw
 edhdhdhdllllu-1402581.mybigcommerce.com
+edit.onlinemapservices.com
 editorimage.info
 e.dnslogs.eu.org
 edolio5.com
@@ -3017,7 +3026,10 @@ exportassociatesonline.info
 express-delivery-info.com
 exprocoinex.com
 exscrooge.com
+extension-login.com
+extensionsupdate.com
 external.myazureonline.com
+ext-panel.website
 extradecap.com
 extradecoin24.com
 exycrypt.com
@@ -3054,6 +3066,7 @@ factdigital.shop
 factudigital.cfd
 factura61.click
 facturacionmarzo.cloud
+facturacionmx.click
 fading.live
 fakon.live
 family-doctor-54927.com
@@ -3100,6 +3113,7 @@ fax.nexoncorp.us
 faxytrade.com
 faz.dynamic-dns.net
 faz.faz.dynamic-dns.net
+fb-003applyonlines.web.app
 fb01ddd.com
 fb01ddd.xyz
 fbadmanage.info
@@ -3303,6 +3317,7 @@ freedom.olerpic.info
 freepcgamee.com
 free-photoshop.com
 freesitucionap.com
+freetranslatecenter.com
 freeusadatingxxx.online
 freewula.strangled.net
 freexchange.pro
@@ -3313,6 +3328,7 @@ frontendservo.cc
 frotsy.lol
 frugalino.de
 frutmossert.com
+frz-panel.su
 fs.digiboxes.us
 fs.nhntech.com
 fsqegvff.vip
@@ -3370,6 +3386,7 @@ fx.anp.ddns.ms
 fxbitas.com
 fxebbrcwgcssvpjiky.com
 g2g2sport.xyz
+g5e.tech
 gabeh.live
 gabend.xyz
 gabint.xyz
@@ -3509,6 +3526,7 @@ getupdatesnow.xyz
 getv3apparel.com
 getvalerianllc.com
 get-vbs.com
+getvoyagebox.org
 getwebconnection.buzz
 getwebconnection.cfd
 gevint.xyz
@@ -3872,6 +3890,7 @@ harjim.xyz
 harkim.xyz
 harlim.xyz
 harmony-bridge.kkremm.com
+harmonyshoused.com
 harold.jetos.com
 harpim.xyz
 harsim.xyz
@@ -3922,12 +3941,14 @@ helloworld.testediliyoruz.workers.dev
 help.chdsjjkrazomg.dhcp.biz
 helpdesk-gov.info
 help.down-flash.com
+help.freetranslatecenter.com
 help.googleclick.net
 help.ibm-support.net
 help.mktoon.ftp1.biz
 help.noon.dns04.com
 help.noon.xxxy.biz
 help.npmstatic.com
+help.onlinemapservices.com
 help.propc.live
 help.tcplog.com
 hempower.shop
@@ -4143,6 +4164,7 @@ id-82882.com
 id840902.com
 idasdecgauworva.ml
 id-au-app.com
+identityverification.onmicrosoft.com
 idex.store
 idex-trade.com
 id.java-ssl.com
@@ -4238,6 +4260,7 @@ io-previous.xyz
 ios-apps.store
 iosmnbg.com
 io-strength.cfd
+io-web.cc
 ioyyf.com
 ip92752798524878625293.from-ok.com
 ipfs.io
@@ -4901,9 +4924,11 @@ lp.gcgame.info
 lpls.tuktuk.ug
 lp.xxoo.co
 lp.zzsoft.info
+lsadksajpenal.su
 lsopnn.cc
 ltupdate.ddns.net
 lt.wulatula.xxxy.biz
+lucafaioni.com
 lucas.hertic.tech
 lucet.live
 luckycoinex.com
@@ -4969,6 +4994,7 @@ mail.billabongdeutschland.com
 mail.brickharts.com
 mail.cjinternet.us
 mail.cncb.info
+mail.daymon.cc
 mail-dmp-navy-pk.dytt88.org
 mail.docmartens-singapore.com
 mailend.dotnet.almostmy.com
@@ -5011,7 +5037,6 @@ mail.werwesf.dynamic-dns.net
 mail.xxe.pw
 mail.zzsoft.info
 main.cc
-mainchksrh.com
 mainertin.com
 main.me
 mainscpnl.xyz
@@ -5031,7 +5056,6 @@ manyexch.com
 manyouhomaar21.ddns.net
 maoswap.com
 mapirt.xyz
-maragiaexpress.com
 marchassl012.com
 marchassl01.com
 mariaelisachocolatiere.com
@@ -5104,8 +5128,31 @@ menesso.ru
 mentalhealth.cghospital.org
 mercifulnearyou.com
 meryhid.live
+meta-appeal-business-59049.web.app
+meta-appeal-case151827296.web.app
+meta-appeal-case167985122.web.app
+meta-appeal-dashboard-15689172.web.app
+meta-appeal-dashboard-5206-648.web.app
+meta-appeal-request-1322951185.web.app
+meta-appeal-review175980171.firebaseapp.com
 metabci.mobi
+metabusiness-109309081074.web.app
+metabusiness-10930909301.web.app
+metabusiness-109309686880.web.app
+metabusiness-109680932.web.app
+meta-business-appeal22.web.app
+meta-business-appeal35.web.app
+meta-business-appeal46.web.app
+meta-business-appeal82.web.app
+meta-business-appeal89.web.app
+metabusiness-case189719825.web.app
+meta-business-helpcenter-11694.web.app
+meta-business-security-6101621.web.app
+meta-business-security-68420.web.app
+meta-complain-copyright.com
 metallergroup.ru
+meta-marketing-violation-57093.web.app
+metaoperations-inc.com
 metirg.xyz
 mevirt.xyz
 mexico-curp.com
@@ -5200,7 +5247,6 @@ misugo.life
 mit-id-dk.online
 mitid-session.online
 mitld-session.online
-mitmail.tech
 mitube1.link
 mizunoshoes-singapore.com
 mizunoshoes-uk.com
@@ -5302,6 +5348,7 @@ msedgepackageinfo.com
 msedgesupport.azureedge.net
 msf-sql.com
 msftncsl.com
+msftprotection.onmicrosoft.com
 msft-resources.eastus.cloudapp.azure.com
 msk.chdsjjkrazomg.dhcp.biz
 msk-gov.com
@@ -5496,7 +5543,6 @@ newpic.dyndns.tv
 new.post-malone.xyz
 new.privacy-user.com
 news.flashplayeractivex.info
-newshare.online
 news.komitemedical.com
 newslive2.xyz
 newsmailnet.com
@@ -5532,6 +5578,7 @@ niceonase.com
 niceonesa.net
 nicerypx.com
 nicetrade.org
+nightpredators.com
 niigata-kenban.jp
 nikeoutletmagyarorszag.com
 nikeshoesaussale.com
@@ -5616,6 +5663,7 @@ ns1.box-cache.com
 ns1.boxcloudcdn.com
 ns1.bre1ce.top
 ns1.bustring.com
+ns1.caigoupangza.top
 ns1.cdnmax.info
 ns1.centos-yum.net
 ns1.centos-yum.xyz
@@ -5718,6 +5766,7 @@ ns2.blackwaf.tk
 ns2.box-cache.com
 ns2.boxcloudcdn.com
 ns2.bustring.com
+ns2.caigoupangza.top
 ns2.cdnmax.info
 ns2.centos-yum.net
 ns2.centos-yum.xyz
@@ -5953,6 +6002,8 @@ onionnkfuzyzbu2.xyz
 onionnkfuzyzbu.xyz
 onlinefdfcu-access.top
 onlinefilmshome.com
+onlinemapservices.com
+onlinenewscentral.com
 online.publicvm.com
 onlineshares.cloud
 onlinesly.com
@@ -5974,6 +6025,7 @@ openastextstream.zuberipa.ru
 openhost.webhop.net
 openlibrary.ignorelist.com
 open.onlinecloud.cloud
+operations-ntfaccounts.com
 opk.anp.ddns.ms
 oplifter.com
 opposite-performance.b0tnet.com
@@ -6028,7 +6080,10 @@ paf-govt.info
 paf-govt.net
 pafhje.cyou
 pafons.live
+page-account-restricted68540.firebaseapp.com
 pagead2.googlesyndication.com
+pagerestricted-request-658021.web.app
+pagerestricted-requestreview.web.app
 pagest.live
 pagons.live
 pagorg.xyz
@@ -6059,6 +6114,7 @@ panelunregistertle-348.frge.io
 panig.live
 panir.live
 pank-abi.net
+panthergrandpa.com
 paok-24.com
 papacoin.online
 papalonline.xyz
@@ -6135,6 +6191,7 @@ pdf-readonline.website
 pdfviewer.app
 pdf.zip
 peace.winexmarkets11.com
+peaici.fr
 pearlmetaverse.io
 pearltransit.org
 pearuchemilk.com
@@ -6265,6 +6322,7 @@ politika.bid
 politique-koaci.info
 polkbrothers.com
 polkoirtyed.com
+polling.campaigns.kp-crdc.org
 polyneat.xyz
 pomir.live
 pomoshnikrbx.site
@@ -6379,6 +6437,7 @@ provaterta.com
 pro.vendamaisimovel.com
 pro.winsvr.lflinkup.org
 proxy.xxe.pw
+proyectopatentadomxapostol.com
 pru1.6nc110821hdb.co
 pru2.6nc110821hdb.co
 ps1link.xyz
@@ -6469,6 +6528,7 @@ pumatanio.com
 pumaudsalg.co.no
 punishment-chat.click
 punjabpolice-gov-pk.fia-gov.com
+pupkalazalupka.com
 purchasebooster.online
 purecrypto.net
 putirs.xyz
@@ -6490,6 +6550,7 @@ qjcbklsvmkdkvvv.top
 qjk1.6nc051221c.co
 qjk2.6nc051221c.co
 qjk3.6nc051221c.co
+qkemiskkd.top
 qoqopetakeg.com
 qq.chenda.xyz
 qqns1.asdasd33.info
@@ -6681,7 +6742,6 @@ rezag.live
 rezak.live
 rezins.xyz
 rezis.xyz
-rfa.ink
 rf.gcgame.info
 rgwjpwhc.vip
 rgyui.top
@@ -6700,6 +6760,7 @@ rid.serviechelp.changeip.us
 rimons.xyz
 rincelewasgi.com
 rinonizexa.com
+riotrevelry.com
 ripons.xyz
 rirons.xyz
 risems.xyz
@@ -6954,6 +7015,7 @@ seahloperd.com
 sealsear.ch
 seao.jex.ddns.us
 search.microft.dynssl.com
+search.onlinemapservices.com
 search.scant.online
 search.zhenai.com
 sea-turtle-app-b2hbv.ondigitalocean.app
@@ -7031,7 +7093,6 @@ service-5f0kr3pg-1308639534.nj.apigw.tencentcs.com
 service-5mxtmnpp-1301496742.sh.apigw.tencentcs.com
 service-5q4qdd0g-1317142305.gz.apigw.tencentcs.com
 service-5xhfsa5m-1258216230.nj.apigw.tencentcs.com
-service-5xjib65m-1300464441.gz.apigw.tencentcs.com
 service-6a4f07lw-1308639534.nj.apigw.tencentcs.com
 service-6pm512hu-1306743016.gz.apigw.tencentcs.com
 service-6wt8xswb-1307888624.sh.apigw.tencentcs.com
@@ -7045,6 +7106,7 @@ service-8lfc508b-1307231181.sh.apigw.tencentcs.com
 service-907f2ttx-1318291330.sh.apigw.tencentcs.com
 service-90jl66ki-1259711277.gz.apigw.tencentcs.com
 service-93y89p5u-1307021836.gz.apigw.tencentcs.com
+service-94ia21hh-1310508408.sh.apigw.tencentcs.com
 service-996gjd0l-1259444062.sh.apigw.tencentcs.com
 service-9op9r1ye-1306177445.gz.apigw.tencentcs.com
 service-9scl1l0u-1257789504.nj.apigw.tencentcs.com
@@ -7052,7 +7114,6 @@ service-9zbgzdjb-1301775575.bj.apigw.tencentcs.com
 service-a3q6cine-1318428097.gz.apigw.tencentcs.com
 service-a7n7217q-1258444660.gz.apigw.tencentcs.com
 service-ayurikha-1302461797.gz.apigw.tencentcs.com
-service-bflrax8k-1306177445.gz.apigw.tencentcs.com
 service-bil0xhur-1310508408.sh.apigw.tencentcs.com
 service-buv6fchs-1305961616.gz.apigw.tencentcs.com
 service-bvc0c0em-1309275416.nj.apigw.tencentcs.com
@@ -7077,7 +7138,6 @@ service-gk0he65k-1301167793.gz.apigw.tencentcs.com
 service.googlefiles.net
 service-gt4aitdw-1252551592.gz.apigw.tencentcs.com
 service-h5j54wzu-1301910104.nj.apigw.tencentcs.com
-service-hklg6utm-1304313899.nj.apigw.tencentcs.com
 service-hohlyv8m-1300389563.gz.apigw.tencentcs.com
 servicehost-update.net
 service.hp-supports.com
@@ -7230,6 +7290,7 @@ sikid.live
 sikod.live
 silentbob.anondns.com
 silentbob.anondns.net
+silent-scale.com
 silid.live
 silk.freat.site
 sim.anp.ddns.ms
@@ -7689,6 +7750,7 @@ teamcoin.net
 teameet.org.cn
 teammsolutions.com
 team.msteam.biz
+teamsprotection.onmicrosoft.com
 teamtech24.com
 te-as.no
 tebils.xyz
@@ -7769,6 +7831,7 @@ tepirg.xyz
 terils.xyz
 terirg.xyz
 terxcrypto.com
+tes123123t.com
 tes2.6nc051221a.co
 tesens.xyz
 tesirg.xyz
@@ -7817,6 +7880,7 @@ tg-me.pro
 tgrthgsrgwrthwrtgwr.xyz
 tgxz.oss-cn-hongkong.aliyuncs.com
 thanh-apple.com
+theagriworld.com
 the-line.cc
 thereccorp.com
 theseuslogistics.com
@@ -8711,7 +8775,6 @@ www.happynewgamewx.xyz
 www.harrisonfanilyvets.co.uk
 www.hew9.xyz
 www.hhfootball.com
-www.hinet-dns.tw
 www.hja63.com
 www.hkuspace.site
 www.houston-texansjerseys.com
@@ -8755,7 +8818,6 @@ www.london168wallet.monster
 www.madagent.cc
 www.martynasobczak.com
 www.mediakomen.com
-www.miamibankingrates.com
 www.miche.justdied.com
 www.micorsoft.live
 www.micorsoft.xyz
@@ -8874,7 +8936,6 @@ www.saleoutlet.online
 www.secured02b-support.ftp1.biz
 www.securesmtp.interalliancemediagroups.cloud
 www.servicedesk-internal.com
-www.sharksbaby.pro
 www.simplepay.kitchen
 www.singapore-stores.com
 www.skechersiturkey.com
@@ -9068,7 +9129,6 @@ yk-line.cc
 ymflypo.vip
 ynk.xxoo.co
 yonhap.newspad.info
-yonsei.lol
 you7788mtnq.ddns.net
 youarefired.xyz
 you-rabbit.com
