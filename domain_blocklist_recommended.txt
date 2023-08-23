@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2023-08-23 03:00:01 +07                        #
+# Last updated: 2023-08-24 03:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -15,7 +15,6 @@
 00-l.ru
 01-net.com
 024e7675c88d974442e94a4a99f14778.co.cc
-02638b270e35a093669a9ed42d02ff6e.co.cc
 02.com
 0bmenka.com
 0c146c0caa1ad2774b7a944d9d566a05.co.cc
@@ -38,6 +37,7 @@
 153ishak.best
 170e1d8dab111b8d6e2b88399694d105.co.cc
 173-44-141-47.nip.io
+180.ip.ply.gg
 188criolaserz.space
 1911drink.best
 1a8e1745d86d14cddf7cde9a5ab88a33.co.cc
@@ -133,12 +133,12 @@
 4mekey.myftp.biz
 4qyuj-fqaaa-aaaam-abcuq-cai.raw.ic0.app
 4qzm.com
+4.tcp.us-cal-1.ngrok.io
 4-t.me
 4.xianlaohu.com
 500dropio.top
 50fdghhoo11.com
 51-83-136-132.xyz
-51c5569541179ee3908bfe48c43bd20c.co.cc
 56people.com
 5bitcloud.com
 5j6.ru
@@ -182,11 +182,9 @@
 9728656269988725.from-nh.com
 99429cfbd85f6482c085020b36692884.co.cc
 99avip.online
-9ca1527451d1dfae0ff7b3e5f4c4bdda.co.cc
 9cde13c322343c97e8f3df9bb7420a37.co.cc
 9mdxmex.damnserver.com
 9ygw2.com
-a171t1dgelzo9od.online
 a1.googletrait.com
 a1.nexongame.net
 a1.reegame.net
@@ -231,7 +229,6 @@ ace1.dynamic-dns.net
 acina.live
 acirt.xyz
 a.connectie-78d5566d11aea.nl
-a.connection-78d5500d66aea.nl
 acount-login.begin-session.com
 across-are.xyz
 active.clarusbank.com
@@ -285,7 +282,6 @@ adstat477d.xyz
 ads-tm-glb.click
 adultpcz.xyz
 advanced-ip-scaner.com
-advanced-ip-scanner.net
 advanced-ip-scanners.com
 advancity.ro
 advert127ds.xyz
@@ -505,7 +501,6 @@ api.inetfield.com
 api.iredemail.com
 api.launchelemnt.com
 api.launchertasks.com
-api.linkein.org
 api.lookupindex.com
 api.macreationsapp.com
 api.majorsprint.com
@@ -573,6 +568,7 @@ applicationdl.shop
 app.livcloud.info
 appnsure.com
 appointmentmedia.com
+app.onedrivo.com
 app.professional-survey.com
 apps-ios.net
 apps.mynetav.net
@@ -645,6 +641,7 @@ astralcoinex.com
 asu.noon.wikaba.com
 as.vrghosst.com
 as.xxoo.co
+asyncfox.xyz
 atamergranit.com
 a-tb.ntp-update.com
 atec.dnset.com
@@ -952,7 +949,6 @@ bingalos.com
 bingechat.net
 binodexcoin.com
 binormax.com
-binsmob.com
 bintexgrow.com
 bintexrows.com
 biohealth.azurewebsites.net
@@ -1384,7 +1380,6 @@ c3.engaageement.com
 c3.haopangnie.top
 c501702c7f8ca0ee2ea052e29c8f5a4b.co.cc
 c612c3a6faaa413399ee81d65ce11333.co.cc
-c9e6f7b57b3fb477c7fa84d373cac8f3.co.cc
 caamanitoba.us
 cabalaexchange.com
 cabert.xyz
@@ -1413,7 +1408,6 @@ camshere-hot.life
 canadiancrafting.azureedge.net
 cancelarpersonal.com
 cancel-leecountybank.top
-cancel.soupandselfcare.com
 canfex.com
 canit.live
 can-nothing.cfd
@@ -1483,14 +1477,12 @@ cdnapolicity.it
 cdn.appfree.club
 cdn.avprotect.net
 cdn.cdndbapp.top
-cdn-cloude.extended-system.workers.dev
 cdn-cms.f-static.net
 cdn.contentob.com
 cdncontentstorage.com
 cdn.dnsportal.org
 cdn.dns-response.net
 cdn.efstech.de
-cdn.ethvseos.nl
 cdn.glgjssy.xyz
 cdn.idnslookup.net
 cdn.loca1host.cf
@@ -1576,10 +1568,8 @@ check-list-demenagement.fr
 checkscreenit.com
 check-security-main.com
 check.topgearmemory.com
-check.update.nadra-pk.org
 check.up.flysmart-piac-aero.site
 check.up.interior-gov-pk.org
-cheetah.s3exchange-sec.live
 chek-info.click
 chelunapp.com
 chetkiy.live
@@ -2070,6 +2060,7 @@ csb-xf9fhb.netlify.app
 cscscscscs.imalloc.cn
 csd-govpk.servehttp.com
 cs.dingjie.eu.org
+cs.fighter-team.xyz
 cs-go.btpanel.asia
 csgo.zip
 cs.kkksex.com
@@ -2494,35 +2485,29 @@ dns.antegivi.com
 dns-a.ntp-update.com
 dns.azurelive-dns.com
 dns-beast.com
-dns.binsmob.com
 dns.checkavail.space
 dns.chenda.xyz
 dns.cityoall.com
 dns.cloudserve.store
 dns.creditcarsca.com
 dns.crestbrige.site
-dns.djn.blue
 dns.exploitresearch.art
 dnsfind.reportsearch.dynamic-dns.net
-dns.forcorpor.com
 dns--google.com
 dns.greypsecurity.training
 dns.incididunt.com
 dnsinfo.microft.dynssl.com
-dns.ionscapir.com
 dns.java-ssl.com
 dnslog.zhaoyr.online
 dns.msftncsl.com
 dns.naverpulic.com
 dns.nhnclass.com
 dns.nhnclub.com
-dns.ns1.akingump.cloud
 dnsproxy.blueseaedu.com
 dns.ringatpstul.com
 dns.stratpringl.com
 dnsswag.djn.blue
 dns.velmeded.com
-dns.veriernano.com
 dns.win10micros0ft.com
 dnzonlngrs-login.com
 dobcia.com
@@ -2629,8 +2614,8 @@ down.hedgehogvc.us
 down.j-ic.co
 down.j-ic.com
 download4you.xyz
+download.asyncfox.xyz
 download.baidumusic.cloud
-download.chanenergy.com
 download-desktop-capcut.com
 download-office.net
 downloads.ekaldhfl.club
@@ -2681,7 +2666,6 @@ dsp.pdf.zip
 d-sso.com
 dtgruelle-us.com
 dthestatueof.com
-dt.localtoast.co.za
 d.tocat.co
 dt.staticd.dynamic-dns.net
 dttd.chdsjjkrazomg.dhcp.biz
@@ -2706,7 +2690,6 @@ e105c3b1338b526492e8a3a60b2d626d.co.cc
 e39e6c40a64813dd9e83d36e6feae441.co.cc
 e5.yyr.moe
 e62b6-yyaaa-aaaad-qe2uq-cai.raw.ic0.app
-e6928a874d50451e06432047cc0cd188.co.cc
 e780ae22102013b82ba036e9b3f7b502.co.cc
 e8cac92201194f756610d713b45107a9.co.cc
 e9bja.com
@@ -3085,7 +3068,6 @@ fimuns.xyz
 finallyd.youthinkyouaredecent.oldvideo.longmusic.com
 final.staticd.dynamic-dns.net
 finance-govpk.servehttp.com
-financialeducationconsultants.com
 finbit.us
 find24hs.com
 finda-dl.finda.buzz
@@ -3191,7 +3173,6 @@ foodtodoorde.com
 foped.live
 fopeg.live
 force-are.xyz
-forcorpor.com
 foreg.live
 forgetrackng.com
 forgodsake.oldvideo.longmusic.com
@@ -3344,6 +3325,7 @@ gangstergo.com
 ga.nhntech.com
 ganint.xyz
 ganist.live
+gaoheng.shop
 gapcryptoex.com
 gapet.live
 gapint.xyz
@@ -3837,6 +3819,7 @@ hazix.live
 hbcumicbrophone.com
 hbiwhwr.shop
 hceuropa.com
+hctthai.com
 headsity.com
 healthy-digest.com
 heastings.com
@@ -4180,7 +4163,6 @@ invoker.icu
 io-band.cfd
 io.cy789.ml
 ionicmaterials.net
-ionscapir.com
 io-previous.xyz
 ios-apps.store
 iosmnbg.com
@@ -4259,7 +4241,6 @@ jdklove.top
 jducyd.icu
 jedicort.xyz
 jellyfish-app-jd4ia.ondigitalocean.app
-jelly.readteam.cloud
 jeludo.life
 jerton.live
 jessicagriffeth.com
@@ -4723,7 +4704,6 @@ lenusresearchcommssecuresharepointfile018373.s3.us-west-004.backblazeb2.com
 lenusresearchcomsharepoi.blob.core.windows.net
 leontellez.com
 leonvi.ru
-leopard.s3exchange-sec.live
 lepriconloots.com
 lermansalesmarketing.com
 lestvpn.com
@@ -5077,7 +5057,6 @@ medical-h.click
 medvedy.cz
 meetmarioproductions.com
 megaskigoldmex.dvrcam.info
-megudimoc.co
 mehmetonelge.com
 meizumi.cc
 mekar.live
@@ -5458,7 +5437,6 @@ nb.dotnet.almostmy.com
 nbjhllilknbjldk.top
 nbnj.xyz
 nbright.best
-nc1.mlcr0s0ft.one
 nc.feelids.com
 nchu-onedrive.ppyicu.workers.dev
 ncp44-insaat.online
@@ -5539,7 +5517,6 @@ newslive2.xyz
 newsmailnet.com
 newsnew.info
 news.ooooccoo.com
-newspaper.s3exchange-sec.live
 news.revecontopsy.com
 newyear1.gotdns.ch
 newzelannd66.org
@@ -5616,15 +5593,11 @@ norida.xyz
 norin.co.za
 northernsafety-dot-exceldownloads.uk.r.appspot.com
 nosida.xyz
-note1.mcuweb.cf
-note2.mcuweb.cf
-note3.mcuweb.cf
 notebooksell.kr
 note.jianshu.com.wsdvs.com
 notepads-plus.com
 notfiled.com
 notida.xyz
-notmalware.red-wizard-demo-01.nl
 novanosa5org.org
 novosti.bid
 nowida.xyz
@@ -5641,20 +5614,16 @@ npm-solar.com
 nr-token.space
 ns02.dynamicdns.edns.biz
 ns05.reportsearch.dynamic-dns.net
-ns1.007work.icu
 ns1.333ling.com
 ns188.pdota.top
 ns1.a1batr0ss.xyz
 ns1.abcon.online
-ns1.ace3.ru
 ns1.adcqowtrhs.com
 ns1.aehliu.com
-ns1.akingump.cloud
 ns1.alidns1.tk
 ns1.allegiancefithealth.com
 ns1.amz-proxy.net
 ns1.anaitea.com
-ns1.aptce4.top
 ns1.baidu12366.xyz
 ns1.bernetdiscover.com
 ns1.bewiser.at
@@ -5662,13 +5631,10 @@ ns1.bogotatrade.co
 ns1.bookworld-langchao.work
 ns1.box-cache.com
 ns1.boxcloudcdn.com
-ns1.bre1ce.top
-ns1.bustring.com
 ns1.caigoupangza.top
 ns1.cdnmax.info
 ns1.centos-yum.net
 ns1.centos-yum.xyz
-ns_1.chanenergy.com
 ns1.chat666.live
 ns1.chongfan1990.xyz
 ns1.choperaderlwonen360.xyz
@@ -5689,13 +5655,9 @@ ns1.fcdncloud.link
 ns1.fuckworldxxx.shop
 ns1.gcloud-api.com
 ns1.getporsche.pl
-ns1.glthub.icu
-ns1.gonamph.com
 ns1.goporsche.de
 ns1.gxyy77.xyz
 ns1.hammercdntech.com
-ns1.hanqianye.com
-ns1.hkappdev.com
 ns1.htl502.tech
 ns1.icbcbc.com.cn
 ns1.icbci.top
@@ -5705,7 +5667,6 @@ ns1.jojoieadd.com
 ns1.jpgureai.com
 ns1.kirs1234.top
 ns1.libai.monster
-ns1.linkein.org
 ns1.m0ksh4.com
 ns1.m1crosoft.cloud
 ns1.madagent.cc
@@ -5715,9 +5676,7 @@ ns1.marocfamilyx.com
 ns1.maxvps.top
 ns1.mdstech.com.tw
 ns1.metaethicsecurityltd.online
-ns1.microtimezone.com
 ns1.micsoft.org
-ns1.mlcr0s0ft.one
 ns1.msftncsl.com
 ns1.msnsiccs.com
 ns1.myazureonline.com
@@ -5739,7 +5698,6 @@ ns1.push-alibaba.com
 ns1.pycharm-edu.us
 ns1.rememdam.xyz
 ns1.safesecuredns.co
-ns1.scant.online
 ns1.scongog.com
 ns1.sfklla.vip
 ns1.sgcc.zip
@@ -5759,27 +5717,21 @@ ns1.xn--mil-ixy.com
 ns1.yahootk.tk
 ns1.zengjunhe.top
 ns1.zpepc.net
-ns2.007work.icu
 ns2.333ling.com
 ns2.a1batr0ss.xyz
-ns2.ace3.ru
 ns2.adcqowtrhs.com
 ns2.aehliu.com
 ns2.alidns1.tk
 ns2.allegiancefithealth.com
 ns2.amz-proxy.net
 ns2.anaitea.com
-ns2.aptce4.top
 ns2.bernetdiscover.com
-ns2.blackwaf.tk
 ns2.box-cache.com
 ns2.boxcloudcdn.com
-ns2.bustring.com
 ns2.caigoupangza.top
 ns2.cdnmax.info
 ns2.centos-yum.net
 ns2.centos-yum.xyz
-ns_2.chanenergy.com
 ns2.chat666.live
 ns2.chongfan1990.xyz
 ns2.choperaderlwonen360.xyz
@@ -5797,9 +5749,7 @@ ns2.emohack.xyz
 ns2.fcdncloud.link
 ns2.fuckworldxxx.shop
 ns2.gamepoer7.com
-ns2.glthub.icu
 ns2.gxyy77.xyz
-ns2.hkappdev.com
 ns2.icbcbc.com.cn
 ns2.icbci.top
 ns2.imortal.icu
@@ -5810,11 +5760,9 @@ ns2.kirs1234.top
 ns2.m0ksh4.com
 ns2.m1crosoft.cloud
 ns2.madagent.cc
-ns2.mammothspoon.xyz
 ns2.marocfamily.com
 ns2.mdstech.com.tw
 ns2.metaethicsecurityltd.online
-ns2.microtimezone.com
 ns2.msftncsl.com
 ns2.msnsiccs.com
 ns2.naverpulic.com
@@ -5831,7 +5779,6 @@ ns2.peermanshuus.bio
 ns2.rememdam.xyz
 ns2.rtsafetech.com
 ns2.safesecuredns.co
-ns2.scant.online
 ns2.sfklla.vip
 ns2.sgcc.zip
 ns2.smartlinkcorp.net
@@ -5844,10 +5791,8 @@ ns2.xn--mil-ixy.com
 ns2.yahootk.tk
 ns2.zengjunhe.top
 ns2.zpepc.net
-ns3.007work.icu
 ns30.mayashopping.net
 ns31.mayashopping.net
-ns3.ace3.ru
 ns3.aliyunapis.com
 ns3.chongfan1990.xyz
 ns3.ddddmart.xyz
@@ -5858,7 +5803,6 @@ ns3.jojoieadd.com
 ns3.kagotsurube.org
 ns3.m1crosoft.cloud
 ns3.madagent.cc
-ns3.michiganlocking.com
 ns3.msftncsl.com
 ns3.nhnclass.com
 ns3.nhnclub.com
@@ -5876,7 +5820,6 @@ ns4.digitelela.com
 ns4.icbcbc.com.cn
 ns4.kagotsurube.org
 ns4.madagent.cc
-ns4.michiganlocking.com
 ns4.msftncsl.com
 ns4.sfklla.vip
 ns5.msftncsl.com
@@ -5891,22 +5834,18 @@ ns9.mcafee-update.com
 ns9.msftncsl.com
 nsa1.micrsoft.com.cn
 nsa2.micrsoft.com.cn
-ns.blackwaf.tk
 ns.chinare.cf
 ns.cra2demo.trip2health.com
 nsdps.cc
 ns.googlearth.top
-ns.jeb5353.buzz
 ns.killbaidu.cn
 ns.matrika.cn
 ns.mktoon.ftp1.biz
-ns.msazure.dnsrd.com
 ns.mydhx.top
 ns.qaxno1.ml
 nsqc.xxoo.co
 ns.rty.contact
 nsuncbanki.ink
-ns.uplink.sbs
 nsxx.luqiqi.top
 ns.z7-tech.com
 nt32vn1-redyf.gj2oydber4xfa6c.com
@@ -6027,10 +5966,10 @@ onairnine.ocooooo.com
 onairshop.mgooogle.com
 onc.heliummining.sa.com
 one.bba.dns04.com
-one.cloudfleras.com
 onedrive.emailsecuritymonitor.com
 onedrive.quinnhu.workers.dev
 onedrive.wxy1343.xyz
+onedrivo.com
 one.gxzf.site
 oneinformationcrypto.com
 onemarket.exchange
@@ -6133,7 +6072,6 @@ pajike.icu
 pajke.top
 pajons.live
 pakirs.xyz
-pak.update.nadra-pk.org
 palesreapor.com
 palirg.xyz
 palons.live
@@ -6180,6 +6118,7 @@ payescrow-au.com
 pay-floralstars.com
 payfulcoin.com
 pay.gcgame.info
+payloads.one
 payload.su
 payment.1win.dev
 paymentsescrow-au.com
@@ -6305,7 +6244,6 @@ plainboardssixty.com
 plain-salad-1794.on-stg.fleek.co
 plasefuture.me
 playestore.net
-plenty.ecocampingplus.com
 plt.ekaldhfl.club
 plunder.ddnsguru.com
 plunder.dedyn.io
@@ -6341,6 +6279,7 @@ pokerstorstool.com
 pokik.live
 polewithcandy.com
 police-amniat.info
+policeonline.online
 policy.sso-epg.com
 polinamailserverip.ru
 polirg.xyz
@@ -6585,8 +6524,6 @@ qkemiskkd.top
 ql.rustdesk.net
 qoqopetakeg.com
 qq.chenda.xyz
-qqns1.asdasd33.info
-qqns.asdasd33.info
 qrz.nu
 qs.nexongame.net
 qteof-siaaa-aaaad-qezdq-cai.raw.ic0.app
@@ -6868,7 +6805,6 @@ rqwey6rtds.top
 rsh.sys-stat.download
 rss.6600.org
 rsxindirim.com
-rt02-dns-rdir-lh-01.westeurope.cloudapp.azure.com
 rtew5tsdfag.dns04.com
 rt.ftp1.biz
 rttest7-dns-rdir.westeurope.cloudapp.azure.com
@@ -7043,7 +6979,6 @@ seao.jex.ddns.us
 sea.oouooo.com
 search.microft.dynssl.com
 search.onlinemapservices.com
-search.scant.online
 search.zhenai.com
 sea-turtle-app-b2hbv.ondigitalocean.app
 sea-turtle-app-uta67.ondigitalocean.app
@@ -7097,7 +7032,6 @@ sephoragroup.com
 serasearchtop.com
 serep.kg
 servauto.fr
-server1.bre1ce.top
 server.chdsjjkrazomg.dhcp.biz
 serverguarditweb.com
 serverlogs37.xyz
@@ -7144,6 +7078,7 @@ service-9scl1l0u-1257789504.nj.apigw.tencentcs.com
 service-9zbgzdjb-1301775575.bj.apigw.tencentcs.com
 service-a3q6cine-1318428097.gz.apigw.tencentcs.com
 service-a7n7217q-1258444660.gz.apigw.tencentcs.com
+service-a85mcmy2-1259015174.gz.apigw.tencentcs.com
 service-ayurikha-1302461797.gz.apigw.tencentcs.com
 service-bil0xhur-1310508408.sh.apigw.tencentcs.com
 service-buv6fchs-1305961616.gz.apigw.tencentcs.com
@@ -7161,6 +7096,7 @@ service-dxka5ebo-1306407718.gz.apigw.tencentcs.com
 service-ehj0oavc-1258426110.gz.apigw.tencentcs.com
 service-eii49n6u-1256578115.gz.apigw.tencentcs.com
 service-fq5k3hl2-1258128533.nj.apigw.tencentcs.com
+service-g1c0a353-1302650299.sh.apigw.tencentcs.com
 service-gk0he65k-1301167793.gz.apigw.tencentcs.com
 service-gnzojfcb-1302811215.sh.apigw.tencentcs.com
 service.googlefiles.net
@@ -7216,6 +7152,7 @@ service-q07ntsqs-1301775575.gz.apigw.tencentcs.com
 service-qke82nt8-1301348154.gz.apigw.tencentcs.com
 service-qzmgx5a9-1256327773.bj.apigw.tencentcs.com
 service-rfzb8g23-1319095131.sh.apigw.tencentcs.com
+service-rsb9hux9-1258128533.cd.apigw.tencentcs.com
 service-ryfvjv9l-1313169921.sh.apigw.tencentcs
 servicesau-inbox.com
 service.serviechelp.changeip.us
@@ -7364,13 +7301,11 @@ sky-258.az-mirror.workers.dev
 skybitex.biz
 skycithereforeit.com
 skylerhaupt.com
-skynet-i.asuscomm.com
 slavelevereoewl.info
 slavelever.info
 sl.myxxoo.com
 sloanecarpet.com
 slon.works
-slow.digisert-telemetry.com
 slvakiapos.net
 sl.xxoo.co
 smakizelkopp.com
@@ -7766,6 +7701,7 @@ ta.oksys.lol
 tapen.live
 tapimg.xyz
 tapiservicemgr.com
+taqaddom.com
 tara.ria-auth-ee.info
 tarins.live
 tasins.live
@@ -8071,6 +8007,7 @@ toon.mrbasic.com
 top1.banifabused1.xyz
 topers.xyz
 topgame-4adult.life
+topics-junior.at.ply.gg
 topils.xyz
 topins.xyz
 topirg.xyz
@@ -8269,7 +8206,6 @@ uni.vip-webmail.com
 unlimitedteacup.com
 unminted.farm
 unniuall.com
-un.zxc.rocks
 upbitc.com
 up-bit.com
 upbitrex.com
@@ -8281,9 +8217,6 @@ update.edgeupdates.com
 update.flashplayeractivex.info
 update.ibaidu.buzz
 update.kernel-service.workers.dev
-update.microsoftapply.com
-update.microsofthk.com
-update.microsoftkernel.com
 update.microsoft-support.net
 update.officaesmicrasftonline.com
 update.optaneinteloss.com
@@ -8321,7 +8254,6 @@ usa.nexongame.net
 usauboc.com
 usaunionbank.com
 usa.xxoo.co
-us.cdn-software.workers.dev
 us-central1-fluted-helper-362414.cloudfunctions.net
 us.ekaldhfl.club
 userla.de
@@ -8430,13 +8362,11 @@ venomia.ddns.net
 venoxiswallet.com
 ventyxbiocareers.com
 verderesilencia.duckdns.org
-veriernano.com
 verified-docs.com
 verified-docs.net.za
 verified-docs.org.za
 verified-docs.site
 verifydocument.com.se
-verify.update.nadra-pk.org
 verifyyourcrendetials-1318334846.cos.ap-mumbai.myqcloud.com
 verisims.com
 verkamaving.mybigcommerce.com
@@ -8753,7 +8683,6 @@ www.1cnet.changeip.co
 www.278809.com
 www2.ceshi897.cn
 www2.mynetav.net
-www.360safengine.club
 www3.ceshi897.cn
 www.4thmainland.com
 www.51menke.com
@@ -8806,6 +8735,7 @@ www.bbpline.com
 www.beachdrivingfun.com
 www.beautyporntube.com
 www.beltsymd.org
+www.bhfiles.com
 www.bidenstumulus.us
 www.bildungsverbund-schillerkiez.de
 www.billabongbikini.de
