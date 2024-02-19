@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2024-02-04 12:02:01 +07                        #
+# Last updated: 2024-02-19 15:45:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -414,3 +414,9 @@ secondssalonspa.ro-line.com
 www.secondssalonspa.ro-line.com
 k-ro-line.com
 www.k-ro-line.com 
+www.pea.cz-go.com
+pea.cz-go.com
+cz-go.com
+www.flash.vb-th.com
+flash.vb-th.com
+pea.xv-th.com
