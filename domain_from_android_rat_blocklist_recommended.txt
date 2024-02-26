@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2024-02-21 14:25:01 +07                        #
+# Last updated: 2024-02-26 16:17:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -449,3 +449,6 @@ www.pae.orxth.com
 www.pae.uz-th.com
 www.p.ea-rth.com
 www.pe.a-th.cc
+dps.ur-th.cc
+ur-th.cc 
+bmirp0.com
