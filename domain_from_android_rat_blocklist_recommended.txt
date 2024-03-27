@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2024-03-27 15:00:01 +07                        #
+# Last updated: 2024-03-27 15:05:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -127,10 +127,13 @@ dsi-go-th.org
 dsi-go-th.xyz
 dsi-th.com
 dsith.com
+ea.de-th.com
+ea-f3.com
 ea-org.com
 ea.orqth.com
 ea.osrgo.com
 ea-rth.com
+ea.sn-th.com
 ea-sth.com
 ea.zcvfh.com
 ea.zcvth.com
@@ -143,28 +146,43 @@ ez-th.com
 f3afa.cc
 fj-af.com
 flash.ac-th.com
+flash.ae-th.com
 flash.am-th.com
+flash.de-th.com
 flash.ec-th.com
 flash.en-th.com
 flashepress.goo-line.cc
 flashexpress.ro-line.com
 flashexpress.vf-line.cc
+flash.ez-th.com
+flash.goxth.com
 flash.lv-th.com
+flash.lx-th.com
 flash.no-th.com
 flash.oc-th.com
 flash.orco.cc
 flash.or-go.com
+flash.orkgo.com
 flash.ovrth.com
+flash.oz-th.com
 flash.ra-th.com
 flash.rc-th.com
+flash.rogth.com
 flash.rv-th.com
+flash.sn-th.com
 flash.so-th.com
+flash.srrth.com
+flash.tb-th.com
 flash-th.online
 flash.vb-th.com
+flash.vm-th.com
 flash.vsrgo.com
 flash.vxsgo.com
 flash.xb-th.com
+flash.xe-th.com
+flash.xrsgo.com
 flash.xv-th.com
+flash.za-th.com
 flash.zr-go.com
 ghzy1.com
 gm-line.cc
@@ -223,6 +241,7 @@ moc-cot-th.com
 moc.gov-tt.cc
 moc-no-th.com
 mxs-th.cc
+nbtc.ro-th.com
 nnab1.cc
 nnab2.cc
 nnab3.cc
@@ -256,14 +275,18 @@ ou-th.com
 ovrth.com
 o-zth.com
 oz-th.com
+pae.orkth.com
 pae.orxth.com
+pae.sfzth.com
 pae.uz-th.com
 pea.am-th.com
 pea.cb-th.com
 pea.cf-th.com
+pea.cr-th.com
 pea.cs-th.com
 pea.cv-th.com
 pea.cz-go.com
+p.ea.de-th.com
 pea.de-th.com
 p.ea.de-th.com ea.de-th.com de-th.com
 pea.dj-af.com
@@ -272,6 +295,7 @@ pea.ec-th.com
 pea.en-th.com
 pea.es-th.com
 pea.ex-th.com
+p.ea-f3.com
 p.ea-f3.com ea-f3.com
 pea.fj-af.com
 pea.lv-th.com
@@ -280,10 +304,12 @@ pea.nv-th.com
 pea.nz-th.com
 pea.oc-th.com
 pea.oe-th.com
+pea.okrth.com
 p.ea-org.com
 p.ea.orqth.com
 pea.orsth.com
 pea.or-th.com
+pea.orxgo.com
 p.ea.osrgo.com
 pea.ou-th.com
 pea.ra-th.com
@@ -293,6 +319,7 @@ pea.rs-th.com
 pea.rszgo.com
 pea.rv-th.com
 pea.rx-th.com
+p.ea.sn-th.com
 pea.sn-th.com
 p.ea.sn-th.com ea.sn-th.com sn-th.com
 pea.so-th.com
@@ -383,6 +410,7 @@ sso-uo.cc
 sso-vode.cc
 sso-xy.cc
 ssth9.com
+sud7.xyz
 sx-th.com
 ta-line.cc
 ta-th.cc
@@ -392,6 +420,7 @@ thai-line.cc
 thalife.vty1.cc
 the-line.cc
 tiktokomall.com
+tv-go.cc
 tv-th.com
 ua-th.com
 um-th.com
@@ -412,26 +441,42 @@ vsrgo.com
 vty1.cc
 vxsgo.com
 wts-line.cc
+www.ae-th.com
 www.cf-th.com
 www.flash.ac-th.com
+www.flash.ae-th.com
 www.flash.am-th.com
+www.flash.de-th.com
 www.flash.ec-th.com
 www.flash.en-th.com
+www.flash.ez-th.com
+www.flash.goxth.com
 www.flash.lv-th.com
+www.flash.lx-th.com
 www.flash.no-th.com
 www.flash.oc-th.com
 www.flash.or-go.com
+www.flash.orkgo.com
 www.flash.ovrth.com
+www.flash.oz-th.com
 www.flash.ra-th.com
 www.flash.rc-th.com
+www.flash.rogth.com
 www.flash.rv-th.com
+www.flash.sn-th.com
 www.flash.so-th.com
+www.flash.srrth.com
+www.flash.tb-th.com
 www.flash-th.online
 www.flash.vb-th.com
+www.flash.vm-th.com
 www.flash.vsrgo.com
 www.flash.vxsgo.com
 www.flash.xb-th.com
+www.flash.xe-th.com
+www.flash.xrsgo.com
 www.flash.xv-th.com
+www.flash.za-th.com
 www.flash.zr-go.com
 www.kerry.nv-th.com
 www.kerry.oc-th.com
@@ -440,15 +485,21 @@ www.kerry.zs-th.com
 www.k-ro-line.com 
 www.ksecurlty.af-line.com
 www.ksecurlty.qf-line.com
+www.lv-th.com
+www.nbtc.ro-th.com
 www.orco.cc
+www.pae.orkth.com
 www.pae.orxth.com
+www.pae.sfzth.com
 www.pae.uz-th.com
 www.pea.am-th.com
 www.pea.cb-th.com
 www.pea.cf-th.com
+www.pea.cr-th.com
 www.pea.cs-th.com
 www.pea.cv-th.com
 www.pea.cz-go.com
+www.p.ea.de-th.com
 www.pea.de-th.com
 www.pea.dj-af.com
 www.pea.dl-th.com
@@ -456,6 +507,7 @@ www.pea.ec-th.com
 www.pea.en-th.com
 www.pea.es-th.com
 www.pea.ex-th.com
+www.p.ea-f3.com
 www.pea.fj-af.com
 www.pea.lv-th.com
 www.pea.no-th.com
@@ -463,10 +515,12 @@ www.pea.nv-th.com
 www.pea.nz-th.com
 www.pea.oc-th.com
 www.pea.oe-th.com
+www.pea.okrth.com
 www.p.ea-org.com
 www.p.ea.orqth.com
 www.pea.orsth.com
 www.pea.or-th.com
+www.pea.orxgo.com
 www.p.ea.osrgo.com
 www.pea.ou-th.com
 www.pea.ra-th.com
@@ -477,6 +531,7 @@ www.pea.rszgo.com
 www.p.ea-rth.com
 www.pea.rv-th.com
 www.pea.rx-th.com
+www.p.ea.sn-th.com
 www.pea.sn-th.com
 www.pea.so-th.com
 www.p.ea-sth.com
@@ -503,6 +558,7 @@ www.pea.zr-th.com
 www.pea.zs-th.com
 www.pea.zv-th.com
 www.pea.zw-th.com
+www.rdzgo.com
 www.ro-line.com
 www.rrd-go-th.com
 www.santren.ro-line.com
@@ -520,7 +576,7 @@ xa-th.com
 xb-th.com
 xe-th.com
 xrsgo.com
-xr-th.com
+xr-th.comokrth.com
 xs-th.com
 xv-line.cc
 xv-th.com
@@ -536,4 +592,4 @@ zr-th.com
 zs-th.com
 zv-th.com
 zw-th.com
-zx-line.cc
+zx-line.cc 
