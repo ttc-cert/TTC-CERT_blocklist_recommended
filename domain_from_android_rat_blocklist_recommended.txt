@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2024-03-29 19:45:01 +07                        #
+# Last updated: 2024-04-02 14:52:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -33,6 +33,7 @@ abcdb5.cc
 abcdb6.cc
 abcdb7.cc
 abckk4.cc
+ab-line.cc
 acsv-line.cc
 ac-th.com
 acwc9.com
@@ -64,6 +65,7 @@ am-th.com
 amyt28.com
 ansv-line.cc
 aqfwl9.com
+arzth.com
 atgk8.com
 a-th.cc
 axdfm3.com
@@ -82,6 +84,7 @@ bwz-th.cc
 bx-line.cc
 bydfa7.com
 cb-th.com
+cc-th.com
 cdfbj4.cc
 cdhy6.com
 certral-line.cc
@@ -108,6 +111,7 @@ de-th.com
 dfhk8.cc
 dfx7w.cc
 dj-af.com
+dlj-th.com
 dl-th.com
 dlt.pro-th.cc
 dn9.cc
@@ -115,6 +119,7 @@ dn-line.cc
 doe.ho-line.cc
 dol.ai-th.cc
 dol-hf.cc
+dol.ie-tq.com
 dol.ohkf.cc
 dol-thgo.cc
 dol.vba-th.cc
@@ -128,6 +133,7 @@ dsi-go-th.xyz
 dsi-th.com
 dsith.com
 dxzsa.com
+ea.arzth.com
 ea.de-th.com
 ea-f3.com
 ea-org.com
@@ -136,15 +142,18 @@ ea.osrgo.com
 ea-rth.com
 ea.sn-th.com
 ea-sth.com
+ea.xrsth.com
 ea.zcvfh.com
 ea.zcvth.com
 ec-th.com
 efda3.com
 en-th.com
+eo-th.com
 es-th.com
 ex-th.com
 ez-th.com
 f3afa.cc
+fe-line.cc
 fj-af.com
 flash.ac-th.com
 flash.ae-th.com
@@ -157,13 +166,17 @@ flashexpress.ro-line.com
 flashexpress.vf-line.cc
 flash.ez-th.com
 flash.goxth.com
+flash.lve-th.com
 flash.lv-th.com
 flash.lx-th.com
 flash.no-th.com
+flash.nsrgo.com
 flash.oc-th.com
+flash.ogrth.com
 flash.orco.cc
 flash.or-go.com
 flash.orkgo.com
+flash.ortth.com
 flash.ovrth.com
 flash.oz-th.com
 flash.ra-th.com
@@ -187,6 +200,8 @@ flash.za-th.com
 flash.zr-go.com
 flj-th.com
 fm-th.cc
+gav-line.cc
+gf-th.com
 ghzy1.com
 gm-line.cc
 go-line.cc
@@ -196,14 +211,17 @@ gr2.cc
 gr-th.cc
 hd-line.cc
 ho-line.cc
+ie-tq.com
 kasikorn.go-line.cc
 kbap1.cc
 kc8e.xyz
+kd-line.cc
 kdsd6.com
 kerry.nv-th.com
 kerry.oc-th.com
 kerry.so-th.com
 kerry.zs-th.com
+kf-hh.com
 kp3c.xyz
 k-plus.v-line.cc
 k-ro-line.com
@@ -228,6 +246,7 @@ lioncirthai.com
 lioneirthai.com
 lis-line.cc
 lvc-th.com
+lve-th.com
 lv-th.com
 lx-th.com
 lz-th.cc
@@ -259,12 +278,14 @@ nnzf1.cc
 nnzf2.cc
 nnzf3.cc
 no-th.com
+nsrgo.com
 nv-th.com
 nz-th.com
 ocpb-go-th.cc
-ocpb-th.com 
+ocpb-th.com
 oc-th.com
 oe-th.com
+ogrth.com
 ohkf.cc
 okrth.com
 orco.cc
@@ -274,11 +295,14 @@ orkth.com
 orqth.com
 orsth.com
 or-th.com
+ortth.com
 orxgo.com
 orxth.com
+orzth.com
 osrgo.com
 o-th.online
 ou-th.com
+ov-line.cc
 ovrth.com
 o-zth.com
 oz-th.com
@@ -287,6 +311,7 @@ pae.orxth.com
 pae.sfzth.com
 pae.uz-th.com
 pea.am-th.com
+p.ea.arzth.com
 pea.cb-th.com
 pea.cf-th.com
 pea.cr-th.com
@@ -295,7 +320,9 @@ pea.cv-th.com
 pea.cz-go.com
 p.ea.de-th.com
 pea.de-th.com
-p.ea.de-th.com ea.de-th.com de-th.com
+p.ea.de-th.com
+ea.de-th.com
+de-th.com
 pea.dj-af.com
 pea.dl-th.com
 pea.ec-th.com
@@ -303,7 +330,8 @@ pea.en-th.com
 pea.es-th.com
 pea.ex-th.com
 p.ea-f3.com
-p.ea-f3.com ea-f3.com
+p.ea-f3.com
+ea-f3.com
 pea.fj-af.com
 pea.lv-th.com
 pea.lz-th.cc
@@ -318,6 +346,7 @@ p.ea.orqth.com
 pea.orsth.com
 pea.or-th.com
 pea.orxgo.com
+pea.orzth.com
 p.ea.osrgo.com
 pea.ou-th.com
 pea.ra-th.com
@@ -329,7 +358,9 @@ pea.rv-th.com
 pea.rx-th.com
 p.ea.sn-th.com
 pea.sn-th.com
-p.ea.sn-th.com ea.sn-th.com sn-th.com
+p.ea.sn-th.com
+ea.sn-th.com
+sn-th.com
 pea.so-th.com
 p.ea-sth.com
 pea.sx-th.com
@@ -341,9 +372,11 @@ pea.vb-th.com
 pea.vc-go.com
 pea.vc-th.com
 pea.vm-th.com
+pea.vz-th.com
 pea.xa-th.com
 pea.xb-th.com
 pea.xe-th.com
+p.ea.xrsth.com
 pea.xr-th.com
 pea.xs-th.com
 pea.xv-th.com
@@ -388,11 +421,15 @@ rrd-go-th.xyz
 rs-th.com
 rszgo.com
 rv-th.com
+rx-go.com
 rx-th.com
 santren.ro-line.com
 sa-th.cc
 secondssalonspa.ro-line.com
+ser-th.com
+sf-line.cc
 sfzth.com
+sh-line.cc
 shopee-se.cc
 skgo.cc
 skoding.ro-line.com
@@ -403,6 +440,7 @@ sm-line.cc
 sn-th.com
 so-th.com
 s.o-zth.com
+src-line.cc
 srrth.com
 sr-th.com
 sso-co.cc
@@ -426,6 +464,7 @@ sx-th.com
 ta-line.cc
 ta-th.cc
 tb-th.com
+te-line.cc
 thai-life-ty.com
 thai-line.cc
 thalife.vty1.cc
@@ -434,8 +473,9 @@ tiktokomall.com
 tv-go.cc
 tv-th.com
 ua-th.com
+uc-th.com
 um-th.com
-ur-th.cc 
+ur-th.cc
 uz-th.com
 vba-th.cc
 vb-th.com
@@ -452,9 +492,14 @@ vsrgo.com
 vty1.cc
 vxsgo.com
 vxsho.com
+vz-th.com
+wf-line.cc
 wts-line.cc
 www.ae-th.com
+www.cc-th.com
 www.cf-th.com
+www.dlj-th.com
+www.eo-th.com
 www.flash.ac-th.com
 www.flash.ae-th.com
 www.flash.am-th.com
@@ -463,12 +508,16 @@ www.flash.ec-th.com
 www.flash.en-th.com
 www.flash.ez-th.com
 www.flash.goxth.com
+www.flash.lve-th.com
 www.flash.lv-th.com
 www.flash.lx-th.com
 www.flash.no-th.com
+www.flash.nsrgo.com
 www.flash.oc-th.com
+www.flash.ogrth.com
 www.flash.or-go.com
 www.flash.orkgo.com
+www.flash.ortth.com
 www.flash.ovrth.com
 www.flash.oz-th.com
 www.flash.ra-th.com
@@ -490,11 +539,13 @@ www.flash.xrsgo.com
 www.flash.xv-th.com
 www.flash.za-th.com
 www.flash.zr-go.com
+www.gf-th.com
 www.kerry.nv-th.com
 www.kerry.oc-th.com
 www.kerry.so-th.com
 www.kerry.zs-th.com
-www.k-ro-line.com 
+www.kf-hh.com
+www.k-ro-line.com
 www.ksecurlty.af-line.com
 www.ksecurlty.qf-line.com
 www.lv-th.com
@@ -506,6 +557,7 @@ www.pae.orxth.com
 www.pae.sfzth.com
 www.pae.uz-th.com
 www.pea.am-th.com
+www.p.ea.arzth.com
 www.pea.cb-th.com
 www.pea.cf-th.com
 www.pea.cr-th.com
@@ -534,6 +586,7 @@ www.p.ea.orqth.com
 www.pea.orsth.com
 www.pea.or-th.com
 www.pea.orxgo.com
+www.pea.orzth.com
 www.p.ea.osrgo.com
 www.pea.ou-th.com
 www.pea.ra-th.com
@@ -557,9 +610,11 @@ www.pea.vb-th.com
 www.pea.vc-go.com
 www.pea.vc-th.com
 www.pea.vm-th.com
+www.pea.vz-th.com
 www.pea.xa-th.com
 www.pea.xb-th.com
 www.pea.xe-th.com
+www.p.ea.xrsth.com
 www.pea.xr-th.com
 www.pea.xs-th.com
 www.pea.xv-th.com
@@ -574,37 +629,47 @@ www.pea.zw-th.com
 www.rdzgo.com
 www.ro-line.com
 www.rrd-go-th.com
+www.rx-go.com
 www.santren.ro-line.com
 www.secondssalonspa.ro-line.com
+www.ser-th.com
 www.skoding.ro-line.com
 www.sr-th.com
 www.s.s.o-zth.com
 www.sx-th.com
 www.ua-th.com
+www.uc-th.com
 www.vlk-line.cc
 www.xr-th.com
 www.xw-th.com
+www.zn-th.com
 www.zs-th.com
+www.zu-th.com
 xa-line.cc
 xa-th.com
 xb-th.com
 xe-th.com
+xm-line.cc
 xrsgo.com
-xr-th.comokrth.com
+xrsth.com
+xr-th.com
 xs-th.com
 xv-line.cc
 xv-th.com
 xw-th.com
 yk-line.cc
+za-line.cc
 za-th.com
 zcvfh.com
 zcvth.com
 zf-th.com
 zgth.cc
+zn-th.com
 zr-go.com
 zrogo.com
 zr-th.com
 zs-th.com
+zu-th.com
 zv-th.com
 zw-th.com
 zx-line.cc 
