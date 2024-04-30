@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2024-04-29 22:20:01 +07                        #
+# Last updated: 2024-04-30 21:35:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -59,6 +59,7 @@ ahfn7.com
 airways.wts-line.cc
 ais-th.xyz
 ai-th.cc
+aj-line.cc
 akqf6.com
 akwl8.com
 aldb2.cc
@@ -72,9 +73,12 @@ ansv-line.cc
 apple-th.cc
 aqfwl9.com
 arzth.com
+ase-line.cc
+aszth.com
 atgk8.com
 a-th.cc
 axdfm3.com
+ay-line.cc
 bb-th.cc
 bck-th.cc
 bdfn2.com
@@ -89,6 +93,7 @@ bo-th.cc
 bov-line.cc
 bsdg5.com
 b-th.cc
+bv-et.com
 bwdt9.cc
 bweri6.cc
 bwz-th.cc
@@ -254,6 +259,7 @@ flj-th.com
 flosh-line.com
 fm-th.cc
 ft-th.cc
+fv-th.com
 fxxsh-line.com
 fy-th.cc
 fz-th.cc
@@ -262,6 +268,7 @@ gav-line.cc
 gce-th.cc
 gco-th.cc
 gf-th.com
+gge-line.cc
 gh-th.cc
 ghzy1.com
 glo-th.cc
@@ -276,6 +283,7 @@ goxth.com
 gr2.cc
 gr-th.cc
 gso-th.cc
+gtr-line.cc
 gt-th.cc
 gv-gl.com
 gv-gt.com
@@ -286,6 +294,7 @@ hd-line.cc
 hd-th.cc
 hef-th.cc
 ho-line.cc
+htr-line.cc
 hx-th.cc
 hys-line.cc
 ia-tq.com
@@ -300,6 +309,8 @@ kc8e.xyz
 kco-th.cc
 kd-line.cc
 kdsd6.com
+ke-eg.com
+kerry.aszth.com
 kerry.nv-th.com
 kerry.oc-th.com
 kerry.so-th.com
@@ -307,6 +318,7 @@ kerry.zs-th.com
 ke-th.cc
 kf-go.com
 kf-gt.com
+kf-gu.com
 kf-hh.com
 kingpower-th.cc
 ki-th.cc
@@ -316,6 +328,7 @@ kns-th.cc
 ko-th.cc
 kp3c.xyz
 k-plus.v-line.cc
+kr-kj.com
 kro-line.cc
 k-ro-line.com
 ksecrity.hd-line.cc
@@ -336,6 +349,7 @@ kx-th.com
 kz-th.cc
 ldgr3.cc
 lgo-th.cc
+lhe-line.cc
 line-th.cc
 lionainthai.cc
 lionainthai.com
@@ -345,6 +359,7 @@ lioncirthai.com
 lioneirthai.com
 lis-line.cc
 llfe-th.cc
+lte-line.cc
 lvc-th.com
 lve-th.com
 lv-th.cc
@@ -366,6 +381,7 @@ mfa-ios.com
 mfa-th.com
 mf-line.cc
 mgcth.cc
+mge-line.cc
 moc.bb-th.cc
 moc.b-th.cc
 moc-cot-th.com
@@ -373,6 +389,7 @@ moc.gov-tt.cc
 moc-no-th.com
 mo-th.cc
 ms-th.cc
+mte-line.cc
 m-th.cc
 mv-th.cc
 mw-th.cc
@@ -408,6 +425,7 @@ oe-th.cc
 oe-th.com
 ogrth.com
 og-th.cc
+oh-eg.com
 ohkf.cc
 oh-th.cc
 ok-line.cc
@@ -494,6 +512,8 @@ pe.a-th.cc
 pea-th.co
 pea.tv-th.com
 pea.um-th.com
+pea.un-th.com
+pea.uz-th.com
 pea.vb-th.com
 pea.vc-go.com
 pea.vc-th.com
@@ -517,15 +537,19 @@ pea.zw-th.com
 pea.zx-line.cc
 pemiraphb.ro-line.com
 pk-line.cc
+po-th.com
+prm-go.com
 pro-th.cc
 pr-th.cc
 qe-th.cc
 qf-line.com
+qj-line.cc
 qk-line.cc
 ql-th.cc
 qm-th.cc
 qs-line.com
 qt-line.cc
+qt-th.com
 qvl86.zs-th.com
 ra-th.cc
 ra-th.com
@@ -646,6 +670,7 @@ uc-th.com
 ue-th.cc
 uk-line.cc
 um-th.com
+un-th.com
 ur-th.cc
 uz-th.com
 vba-th.cc
@@ -687,6 +712,7 @@ wts-line.cc
 wt-th.com
 www.ae-th.com
 www.ais-th.xyz
+www.bv-et.com
 www.cc-th.com
 www.cf-th.com
 www.cib-th.com
@@ -736,17 +762,22 @@ www.flash.xv-th.com
 www.flash.za-th.com
 www.flash.zk-th.com
 www.flash.zr-go.com
+www.fv-th.com
 www.fxxsh-line.com
 www.gf-th.com
 www.gv-gl.com
 www.gv-gt.com
+www.ke-eg.com
+www.kerry.aszth.com
 www.kerry.nv-th.com
 www.kerry.oc-th.com
 www.kerry.so-th.com
 www.kerry.zs-th.com
 www.kf-go.com
 www.kf-gt.com
+www.kf-gu.com
 www.kf-hh.com
+www.kr-kj.com
 www.k-ro-line.com
 www.ksecurlty.af-line.com
 www.ksecurlty.qf-line.com
@@ -755,6 +786,7 @@ www.lv-th.com
 www.mfa-th.com
 www.mx-go.com
 www.nbtc.ro-th.com
+www.oh-eg.com
 www.orco.cc
 www.ox-th.com
 www.pae.orkth.com
@@ -811,6 +843,8 @@ www.pe.a-th.cc
 www.pea-th.co
 www.pea.tv-th.com
 www.pea.um-th.com
+www.pea.un-th.com
+www.pea.uz-th.com
 www.pea.vb-th.com
 www.pea.vc-go.com
 www.pea.vc-th.com
@@ -831,6 +865,8 @@ www.pea.zr-th.com
 www.pea.zs-th.com
 www.pea.zv-th.com
 www.pea.zw-th.com
+www.po-th.com
+www.qt-th.com
 www.rdzgo.com
 www.rk-th.com
 www.ro-line.com
