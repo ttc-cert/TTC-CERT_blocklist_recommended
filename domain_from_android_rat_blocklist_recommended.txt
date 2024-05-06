@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2024-04-30 21:35:01 +07                        #
+# Last updated: 2024-05-06 16:45:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -57,6 +57,7 @@ af-th.cc
 ag-line.cc
 ahfn7.com
 airways.wts-line.cc
+ais-th.cc
 ais-th.xyz
 ai-th.cc
 aj-line.cc
@@ -75,6 +76,7 @@ aqfwl9.com
 arzth.com
 ase-line.cc
 aszth.com
+ate-line.cc
 atgk8.com
 a-th.cc
 axdfm3.com
@@ -92,6 +94,7 @@ bm-th.cc
 bo-th.cc
 bov-line.cc
 bsdg5.com
+bte-line.cc
 b-th.cc
 bv-et.com
 bwdt9.cc
@@ -132,6 +135,7 @@ cr-th.com
 cs-line.cc
 csmfd5.com
 cs-th.com
+cte-line.cc
 c-th.cc
 cv-th.cc
 cv-th.com
@@ -174,6 +178,7 @@ dsi-go-th.xyz
 dsi-th.com
 dsith.com
 ds-th.cc
+dte-line.cc
 dvk-th.cc
 dxc-th.cc
 dxzsa.com
@@ -222,6 +227,7 @@ flashexpress.sv-line.cc
 flashexpress.vf-line.cc
 flash.ez-th.com
 flash.goxth.com
+flash-line.cc
 flash.lve-th.com
 flash.lv-th.com
 flash.lx-th.com
@@ -258,6 +264,7 @@ flash.zr-go.com
 flj-th.com
 flosh-line.com
 fm-th.cc
+fte-line.cc
 ft-th.cc
 fv-th.com
 fxxsh-line.com
@@ -293,7 +300,10 @@ hb-th.cc
 hd-line.cc
 hd-th.cc
 hef-th.cc
+hf-eg.com
+hf-lg.com
 ho-line.cc
+hte-line.cc
 htr-line.cc
 hx-th.cc
 hys-line.cc
@@ -314,6 +324,8 @@ kerry.aszth.com
 kerry.nv-th.com
 kerry.oc-th.com
 kerry.so-th.com
+kerry.srth.cc
+kerry.vrgo.cc
 kerry.zs-th.com
 ke-th.cc
 kf-go.com
@@ -618,6 +630,7 @@ so-th.com
 s.o-zth.com
 src-line.cc
 srrth.com
+srth.cc
 sr-th.com
 srz-line.cc
 sso-bn-th.cc
@@ -633,6 +646,7 @@ sso-so-line.cc
 sso-tc.cc
 sso.thai-line.cc
 sso-th.cc
+s.s.o-th.online
 sso-uo.cc
 sso-vode.cc
 sso-xy.cc
@@ -688,6 +702,7 @@ vl-th.cc
 vm-th.com
 vns-th.cc
 vo-line.cc
+vrgo.cc
 vr-line.com
 vr-th.cc
 vso-th.cc
@@ -730,6 +745,7 @@ www.flash.ec-th.com
 www.flash.en-th.com
 www.flash.ez-th.com
 www.flash.goxth.com
+www.flash-line.cc
 www.flash.lve-th.com
 www.flash.lv-th.com
 www.flash.lx-th.com
@@ -767,11 +783,15 @@ www.fxxsh-line.com
 www.gf-th.com
 www.gv-gl.com
 www.gv-gt.com
+www.hf-eg.com
+www.hf-lg.com
 www.ke-eg.com
 www.kerry.aszth.com
 www.kerry.nv-th.com
 www.kerry.oc-th.com
 www.kerry.so-th.com
+www.kerry.srth.cc
+www.kerry.vrgo.cc
 www.kerry.zs-th.com
 www.kf-go.com
 www.kf-gt.com
@@ -877,6 +897,7 @@ www.secondssalonspa.ro-line.com
 www.ser-th.com
 www.skoding.ro-line.com
 www.sr-th.com
+www.s.s.o-th.online
 www.s.s.o-zth.com
 www.sx-th.com
 www.ua-th.com
@@ -942,4 +963,4 @@ zu-th.com
 zv-th.com
 zw-th.cc
 zw-th.com
-zx-line.cc 
+zx-line.cc
