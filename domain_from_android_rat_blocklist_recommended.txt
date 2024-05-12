@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2024-05-10 21:07:01 +07                        #
+# Last updated: 2024-05-12 13:20:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -238,6 +238,7 @@ flashexpress.sv-line.cc
 flashexpress.vf-line.cc
 flash.ez-th.com
 flash.goxth.com
+flashiexpress.com
 flash-line.cc
 flash.lve-th.com
 flash.lv-th.com
@@ -282,12 +283,14 @@ fxxsh-line.com
 fy-th.cc
 fz-th.cc
 ga-th.cc
+ga-th.com
 gav-line.cc
 gce-th.cc
 gco-th.cc
 gf-th.com
 gge-line.cc
 gh-th.cc
+gh-th.com
 ghzy1.com
 glo-th.cc
 gm-line.cc
@@ -352,6 +355,7 @@ ko-th.cc
 kp3c.xyz
 k-plus.v-line.cc
 kr-kj.com
+kr-ko.com
 kro-line.cc
 k-ro-line.com
 ks0-th.com
@@ -461,7 +465,9 @@ okrth.com
 ok-th.cc
 ol-th.cc
 om-th.cc
+om-th.com
 one-th.cc
+oo-th.com
 orco.cc
 or-go.com
 orkgo.com
@@ -701,6 +707,7 @@ thai-nbtc.com
 thairathco-th.cc
 thalife.vty1.cc
 the-line.cc
+th-flashexpress.com
 th-nbtc.com
 tiktokomall.com
 tk-line.cc
@@ -815,7 +822,9 @@ www.flash.zk-th.com
 www.flash.zr-go.com
 www.fv-th.com
 www.fxxsh-line.com
+www.ga-th.com
 www.gf-th.com
+www.gh-th.com
 www.gv-gl.com
 www.gv-gt.com
 www.hf-eg.com
@@ -833,6 +842,7 @@ www.kf-gt.com
 www.kf-gu.com
 www.kf-hh.com
 www.kr-kj.com
+www.kr-ko.com
 www.k-ro-line.com
 www.ks0-th.com
 www.ksecurlty.af-line.com
@@ -844,6 +854,8 @@ www.mx-go.com
 www.nbtc.ro-th.com
 www.ocpb.cv-th.com
 www.oh-eg.com
+www.om-th.com
+www.oo-th.com
 www.orco.cc
 www.ox-th.com
 www.pae.orkth.com
