@@ -1,7 +1,7 @@
 ################################################################
 # TTC-CERT Recommended Block List                              #
 # Tag: TTC-CERT:TLP="clear"                                    #
-# Last updated: 2024-05-24 18:34:01 +07                        #
+# Last updated: 2024-05-31 17:00:01 +07                        #
 #                                                              #
 # Use on your own risk. No warranties implied.                 #
 # Source: https://github.com/ttc-cert/                         #
@@ -240,7 +240,10 @@ fg-th.cc
 fiash.vr-line.com
 fiash.zk-line.com
 fj-af.com
+fla-ab.com
+fla-af.com
 flagh-line.cc
+fla-qe.com
 flash.ac-th.com
 flash.ae-th.com
 flash.am-th.com
@@ -819,7 +822,10 @@ www.falsh-ff.com
 www.falsh-line.com
 www.fiash.vr-line.com
 www.fiash.zk-line.com
+www.fla-ab.com
+www.fla-af.com
 www.flagh-line.cc
+www.fla-qe.com
 www.flash.ac-th.com
 www.flash.ae-th.com
 www.flash.am-th.com
